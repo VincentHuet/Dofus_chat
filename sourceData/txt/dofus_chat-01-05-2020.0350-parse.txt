@@ -1,0 +1,449 @@
+[19:07:43] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[19:07:43] Précédente connexion sur ce compte : 30/04/2020 à 16:00
+[19:07:43] Annonce de guilde : ~~~ L' Île de Pwâk se prépare au confinement ! Mardi 5 mai , à 8h c'est fini ! ~~~ XP métier doublé le temps d’une journée: Vendredi 1er mai, de 0 h 01 à 23 h 59.
+[19:07:43] Annonce d'alliance : Charade ; Mon premier se trouve dans la gueule d'un félin... Mon second est un liquide... Mon troisième est une lettre de l'alphabet... Mon quatrième est entourée d'eau... Mon tout est un animal ..., qui suis je ?
+[19:07:43] Vous avez 7 contact(s) réciproque(s) connecté(s).
+[19:07:48] Le point de repère [0,-7] a été ajouté sur la carte Pwâk.
+[19:07:48] Le point de repère [-1,-7] a été ajouté sur la carte Pwâk.
+[19:11:21] Vous avez gagné 480 points d'expérience.
+[19:15:28] Vous avez gagné 451 points d'expérience.
+[19:15:32] Action impossible
+[19:20:49] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[19:20:49] Précédente connexion sur ce compte : 30/04/2020 à 19:16
+[19:20:49] Annonce de guilde : ~~~ L' Île de Pwâk se prépare au confinement ! Mardi 5 mai , à 8h c'est fini ! ~~~ XP métier doublé le temps d’une journée: Vendredi 1er mai, de 0 h 01 à 23 h 59.
+[19:20:49] Annonce d'alliance : Charade ; Mon premier se trouve dans la gueule d'un félin... Mon second est un liquide... Mon troisième est une lettre de l'alphabet... Mon quatrième est entourée d'eau... Mon tout est un animal ..., qui suis je ?
+[19:20:50] Vous avez 7 contact(s) réciproque(s) connecté(s).
+[19:20:50] Le point de repère [0,-7] a été ajouté sur la carte Pwâk.
+[19:20:50] Le point de repère [-1,-7] a été ajouté sur la carte Pwâk.
+[19:22:42] Vous avez gagné 517 points d'expérience.
+[19:26:04] à Galiorss : mon message n'est pas parti ^^"
+[19:26:11] à Galiorss : ok pour 320 ^^"
+[19:26:31] de Galiorss : ok
+[19:26:32] Kinex a fait échouer le challenge Intouchable.
+[19:26:36] Vous avez gagné 323 points d'expérience.
+[19:30:15] La zone « [Port de Madrestam] » est vulnérable. Vous pouvez tenter de la conquérir.
+[19:39:12] Un nouvel achat/cadeau est disponible dans l'interface Boutique - Achat/Codes/Cadeaux
+[19:39:25] L'alliance [Sekai] a capturé la zone « [Bois de Litneg] ».
+[19:39:26] Vous avez perdu 440 kamas.
+[19:43:29] Vous avez perdu 60 kamas.
+[19:45:24] Vous avez gagné 402 points d'expérience.
+[19:50:12] Banque : + 15 994 Kamas (vente : 100 [Cendres Éternelles]).
+[19:53:33] Banque : + 15 994 Kamas (vente : 100 [Cendres Éternelles]).
+[19:53:33] Banque : + 15 994 Kamas (vente : 100 [Cendres Éternelles]).
+[19:53:34] Banque : + 15 994 Kamas (vente : 100 [Cendres Éternelles]).
+[19:54:35] Vous avez gagné 808 points d'expérience.
+[20:04:36] frxzombie (Zombiere) est en ligne.
+[20:04:52] à Mariadb : [Minowang] [Ratalda] [Pwâkoiffe]
+[20:13:01] L'alliance [Unite] a capturé la zone « [Port de Madrestam] ».
+[20:18:37] Kinex a fait échouer le challenge Zombie.
+[20:18:39] Vous avez gagné 323 points d'expérience.
+[20:22:41] (Alliance) Kinex : Portail vers la dimension Xélorium [-8,-34]
+[20:23:50] Votre métier [Bûcheron] passe niveau 172.,Vous obtenez 1 pods supplémentaires.
+[20:27:37] Vous avez gagné 402 points d'expérience.
+[20:32:34] Grougalorafaust (Pandubin) est en ligne.
+[20:34:06] Un membre de votre guilde, Noctanbule, est en ligne.
+[20:34:15] Un membre de votre guilde, Tianbao, est en ligne.
+[20:40:08] Un membre de votre guilde, Onzemai, est en ligne.
+[20:42:08] Un membre de votre guilde, Bled-artt, est en ligne.
+[20:47:19] frxzombie (Zombiere) est en ligne.
+[20:47:51] Vous avez gagné 451 points d'expérience.
+[20:52:06] (Alliance) Zombistrot : yop l'alliance, personne aurait la pos duy portail srambad svp ?
+[20:56:11] Vous avez gagné 402 points d'expérience.
+[20:57:58] Action impossible
+[20:58:07] Vous descendez de votre monture.
+[20:58:07] Bworky équipé.
+[21:00:14] La zone « [Île de Kartonpath] » est vulnérable. Vous pouvez tenter de la conquérir.
+[21:02:45] Action impossible
+[21:03:38] Action impossible
+[21:03:45] Action impossible
+[21:05:25] Un membre de votre guilde, Stiles-heart, est en ligne.
+[21:06:29] Handa-cbf (Vrelitao) est en ligne.
+[21:08:51] Action impossible
+[21:10:54] Vous avez gagné 451 points d'expérience.
+[21:11:02] Action impossible
+[21:11:04] Action impossible
+[21:11:04] Impossible d'échanger avec ce joueur.
+[21:11:51] '[Vilain Petit Corbac]' est retiré de votre ensemble Drop light.
+[21:12:00] '[Coiffe du Chêne Mou]' est retiré de votre ensemble Drop light.
+[21:19:56] Un membre de votre guilde, Gunk, est en ligne.
+[21:30:46] Un membre de votre guilde, Nk-Sandara, est en ligne.
+[21:32:40] Vous avez perdu 210 kamas.
+[21:33:08] Un membre de votre guilde, Skull-Alpha, est en ligne.
+[21:38:20] Banque : + 48 998 Kamas (vente : 100 [Viande Tendre]).
+[21:42:14] Banque : + 17 394 Kamas (vente : 100 [Viande Frelatée]).
+[21:42:15] Banque : + 17 394 Kamas (vente : 100 [Viande Frelatée]).
+[21:42:15] Banque : + 17 394 Kamas (vente : 100 [Viande Frelatée]).
+[21:42:16] Banque : + 17 394 Kamas (vente : 100 [Viande Frelatée]).
+[21:42:42] Banque : + 48 998 Kamas (vente : 100 [Viande Tendre]).
+[21:42:43] Banque : + 48 998 Kamas (vente : 100 [Viande Tendre]).
+[21:42:44] Banque : + 48 998 Kamas (vente : 100 [Viande Tendre]).
+[21:42:44] Banque : + 48 998 Kamas (vente : 100 [Viande Tendre]).
+[21:48:01] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[21:48:07] L'alliance [Unite] a capturé la zone « [Île de Kartonpath] ».
+[21:48:45] Vous êtes arrivé à destination !
+[21:49:50] Un membre de votre guilde, Astrixetpril, est en ligne.
+[21:50:12] Banque : + 48 998 Kamas (vente : 100 [Viande Tendre]).
+[21:50:44] Un membre de votre guilde, Koob, est en ligne.
+[21:50:44] Un membre de votre guilde, Kobb-Halte, est en ligne.
+[21:50:46] Un membre de votre guilde, Koobb, est en ligne.
+[21:57:57] Banque : + 44 999 Kamas (vente : 100 [Viande Avariée]).
+[21:59:11] Banque : + 64 884 Kamas (vente : 100 [Viande Rassie]).
+[22:00:36] Vous avez perdu 170 kamas.
+[22:00:51] Banque : + 20 996 Kamas (vente : 100 [Viande Hachée]).
+[22:03:25] Kyokun : [21:55] Vous avez obtenu 2159 '[Rose des sables]'.
+[22:04:49] (Guilde) II-Frero-XeniO-II : reuh ! ^^
+[22:04:56] (Guilde) Nk-Alzerya : reuh
+[22:04:58] (Guilde) Noctanbule : Re
+[22:05:14] (Guilde) II-Frero-XeniO-II : hey GG Nk !
+[22:05:24] (Guilde) Nk-Alzerya : merci merci ;)
+[22:05:26] (Guilde) Nk-Alzerya : 4 tenta mdr
+[22:05:29] (Guilde) II-Frero-XeniO-II : plutot facile la servitude??^^'
+[22:05:35] (Guilde) Nk-Alzerya : ouais claqué au sol mdr
+[22:05:40] (Guilde) Nk-Alzerya : 4 tenta le focus est passé
+[22:05:45] (Guilde) II-Frero-XeniO-II : xD
+[22:06:00] (Guilde) Nk-Alzerya : je m'attendais à mieux.... surtout quand je vous entendais en parler
+[22:06:08] (Guilde) II-Frero-XeniO-II : tranquille !^^
+[22:07:10] (Guilde) II-Frero-XeniO-II : bah c'est une question de compo apres :p
+[22:07:25] Range-ta-chambre (Mariadb) est en ligne.
+[22:08:44] (Guilde) II-Frero-XeniO-II : lol mais j'ai fait une pause dans mes tenta protozo 200
+[22:09:02] (Guilde) Nk-Alzerya : si compliqué que ça le proto 200 ?
+[22:09:06] (Guilde) II-Frero-XeniO-II : ça commence a aller mieux apres un gros reglage d'ini xD
+[22:09:13] (Guilde) Nk-Alzerya : et oui fin surtout le joueur qui fais la diff x)
+[22:09:56] (Guilde) II-Frero-XeniO-II : jveux le faire sans panda x)
+[22:12:15] Kinex a fait échouer le challenge Nomade.
+[22:12:15] Vous avez gagné 323 points d'expérience.
+[22:13:49] Un membre de votre guilde, Cinqgars, est en ligne.
+[22:14:25] Vous êtes arrivé à destination !
+[22:14:27] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[22:16:37] Vous avez perdu 230 kamas.
+[22:17:23] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[22:19:11] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[22:19:12] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[22:21:22] Un membre de votre guilde, Tianbao, est en ligne.
+[22:24:52] Vous avez gagné 480 points d'expérience.
+[22:25:13] Impossible d'empiler d'autres actions.
+[22:26:31] Vous avez gagné 480 points d'expérience.
+[22:28:43] chuky62 (Hollygane) est en ligne.
+[22:30:22] Banque : + 64 884 Kamas (vente : 100 [Viande Rassie]).
+[22:33:34] Banque : + 20 996 Kamas (vente : 100 [Viande Hachée]).
+[22:35:55] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[22:35:56] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[22:35:57] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[22:36:03] Un membre de votre guilde, Astrixetpril, est en ligne.
+[22:38:34] Banque : + 48 997 Kamas (vente : 100 [Viande Tendre]).
+[22:38:36] Banque : + 48 997 Kamas (vente : 100 [Viande Tendre]).
+[22:38:37] Banque : + 48 997 Kamas (vente : 100 [Viande Tendre]).
+[22:38:39] Banque : + 48 997 Kamas (vente : 100 [Viande Tendre]).
+[22:40:37] (Alliance) Zombicrave : 29 uti Portail vers la dimension Enutrosor [-17,-22]
+[22:40:51] (Alliance) Kinex : merki :)
+[22:41:08] (Alliance) Zombinouse : mais il n'y a pas de quoi mon chere :)
+[22:46:10] à Zombinouse : 'en ai pas besoin mais personne ne te remercie
+[22:50:32] Un membre de votre guilde, Bled-artt, est en ligne.
+[22:59:10] Banque : + 3 795 Kamas (vente : 10 [Ginseng]).
+[22:59:11] Banque : + 3 795 Kamas (vente : 10 [Ginseng]).
+[23:00:06] Banque : + 64 884 Kamas (vente : 100 [Viande Rassie]).
+[23:00:13] Banque : + 64 884 Kamas (vente : 100 [Viande Rassie]).
+[23:00:37] de Galiorss : j'ai 1000
+[23:00:54] à Galiorss : on se retrouve ou ?
+[23:01:08] de Galiorss : zaap village
+[23:01:36] à Galiorss : tu pourrais m'en avoir 2-3 000 de plus pour quand ?
+[23:01:53] à Galiorss : j'arrive
+[23:02:03] de Galiorss : peut etre plusieurs jours
+[23:02:44] Vous avez perdu 680 kamas.
+[23:03:17] de Galiorss : tu manques de pods
+[23:03:28] de Galiorss : ah non ^^
+[23:03:36] à Galiorss : pile ^^"
+[23:03:36] de Galiorss : pile poil ^^
+[23:03:49] Échange effectué
+[23:04:14] Imc : big ez
+[23:04:21] à Galiorss : merci :)
+[23:04:32] à Galiorss : dans l'idée il m'en faudrait un max pour mardi
+[23:04:33] Zephylon : meilleur pilto pa de l'hdv à vendre ici, n'hésitez pas à proposer
+[23:05:14] Un membre de votre guilde, Stiles-heart, est en ligne.
+[23:05:30] de Galiorss : d'acc
+[23:06:19] Échange effectué
+[23:08:24] Vous êtes arrivé à destination !
+[23:09:44] Un membre de votre guilde, Nk-Onellhy, est en ligne.
+[23:12:36] (Alliance) Nunu-Vuyton : Bonne soirée
+[23:13:47] F-yonko (My-Kaido) est en ligne.
+[23:17:22] Vous avez obtenu 50 '[Bois d'If]'.
+[23:17:24] Vous avez obtenu 50 '[Bois de Chêne]'.
+[23:17:25] Vous avez obtenu 50 '[Bois de Bombu]'.
+[23:17:27] Vous avez obtenu 50 '[Bois de Noyer]'.
+[23:17:28] Vous avez obtenu 50 '[Bois de Noyer]'.
+[23:17:30] Vous avez obtenu 50 '[Bois de Noyer]'.
+[23:17:32] Vous avez obtenu 50 '[Ortie]'.
+[23:17:36] Vous avez obtenu 300 '[Ortie]'.
+[23:17:38] Vous avez obtenu 50 '[Trèfle à 5 feuilles]'.
+[23:17:39] Vous avez obtenu 50 '[Sauge]'.
+[23:17:40] Vous avez obtenu 50 '[Sauge]'.
+[23:17:42] Vous avez obtenu 50 '[Sauge]'.
+[23:17:43] Vous avez obtenu 50 '[Sauge]'.
+[23:17:44] Vous avez obtenu 50 '[Sauge]'.
+[23:17:46] Vous avez obtenu 50 '[Sauge]'.
+[23:17:48] Vous avez obtenu 50 '[Sauge]'.
+[23:18:02] Vous avez perdu 390 kamas.
+[23:18:14] Stephany : Oh tu sais, le voile vas avec tout ein :p!
+[23:18:20] Kamila : J'avoue ahah :p
+[23:18:43] Stephany : Remet l'autre pour voir :3
+[23:19:09] Stephany : Mmmh
+[23:19:14] Kamila : après regarde
+[23:20:32] Faismoimal-[Hec] : J'ai faim !
+[23:20:45] Nouvelle quête : [Offrande à Franek]
+[23:20:56] walid931500 (Zx-gerrier) est en ligne.
+[23:21:00] Vous avez perdu 20 '[Sauge]'.
+[23:21:00] Quête mise à jour : [Offrande à Franek]
+[23:21:32] Échange effectué
+[23:22:01] Quête mise à jour : [Offrande à Franek]
+[23:22:05] Quête mise à jour : [Offrande à Franek]
+[23:22:21] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:22:21] Quête terminée : [Offrande à Franek]
+[23:22:22] Vous avez gagné 307 kamas.
+[23:22:22] Vous avez gagné 2 887 499 points d'expérience.
+[23:22:22] Objets reçus : 17 x [Almaton]
+[23:23:01] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[23:23:21] Échange annulé
+[23:24:19] Échange effectué
+[23:25:42] Un membre de votre guilde, Stiles-tempo, est en ligne.
+[23:25:58] Banque : + 32 931 Kamas (vente : 100 [Ginseng]).
+[23:25:58] Banque : + 32 931 Kamas (vente : 100 [Ginseng]).
+[23:25:59] Banque : + 32 931 Kamas (vente : 100 [Ginseng]).
+[23:26:04] Banque : + 32 931 Kamas (vente : 100 [Ginseng]).
+[23:30:28] Banque : + 44 999 Kamas (vente : 100 [Viande Avariée]).
+[23:30:29] Banque : + 44 999 Kamas (vente : 100 [Viande Avariée]).
+[23:30:36] Échange effectué
+[23:32:46] Vous avez déjà utilisé la loterie aujourd'hui.
+[23:32:46] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[23:32:49] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[23:33:02] Vous avez perdu 420 kamas.
+[23:34:08] Vous avez perdu 20 kamas.
+[23:35:40] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[23:35:44] Un membre de votre guilde, Nk-Onellhy, est en ligne.
+[23:36:18] ghduejfkd (Nexuzya) est en ligne.
+[23:36:34] Vous avez perdu 20 kamas.
+[23:42:31] Un membre de votre guilde, Nk-Onellhy, est en ligne.
+[23:43:09] Un membre de votre guilde, Bled-artt, est en ligne.
+[23:46:48] (Guilde) Nk-Alzerya : [Menoture] Vous en pensez quoi ?
+[23:47:53] (Guilde) Shan-Do-Stormrage : difficielement vendable mais bon ^^ si t'as pas besoin des retrait...
+[23:48:03] (Guilde) Nk-Alzerya : pas besoin de retrait
+[23:48:10] (Guilde) Nk-Alzerya : c'est pr le perso qui va remplacer mon iop
+[23:51:03] Impossible d'empiler d'autres actions.
+[23:51:23] (Guilde) Shan-Do-Stormrage : hum, juste dommage pour les 18dmg alors, mais jpense pas que tu y voie une veritable difference apres
+[23:51:38] (Guilde) Nk-Onellhy : Ouais je sais mais osef
+[23:51:53] (Guilde) Nk-Onellhy : l'item m'a rien coûter et il va faire le taffe pr ce que je lui demande
+[23:52:36] (Guilde) Shan-Do-Stormrage : bah ça va alors ^^ c'est toujours mieux quand c'est gratuit ! xD
+[23:52:48] (Guilde) Nk-Onellhy : pas dis que c'étais gratuit mdr
+[23:52:53] (Guilde) Nk-Onellhy : mais c'étais vrmt pas chère
+[23:54:16] (Guilde) Nk-Alzerya : mon iop est entrain de changer
+[23:54:46] (Guilde) Shan-Do-Stormrage : tu va en faire un sacri? ^^
+[23:54:59] (Guilde) Nk-Alzerya : pas vrmt mdr
+[23:55:10] Un membre de votre guilde, Nk-Onellhy, est en ligne.
+[23:55:15] (Guilde) Nk-Alzerya : voila voila x)
+[23:55:35] (Guilde) Nk-Onellhy : me voila tout bo
+[23:57:29] (Guilde) Shan-Do-Stormrage : haha
+[23:57:34] (Guilde) Shan-Do-Stormrage : un sram !
+[23:57:39] (Guilde) Nk-Onellhy : Yup !
+[23:58:50] (Guilde) Shan-Do-Stormrage : hé bah GG !
+[23:58:58] (Guilde) Shan-Do-Stormrage : ça va tabasser du mob ça aussi ^^
+[23:59:04] (Guilde) Nk-Alzerya : tjr pr accentuer mon game play autour du roub
+[23:59:08] (Guilde) Nk-Alzerya : bien évidemment
+[23:59:18] (Guilde) Nk-Alzerya : et aussi pr avoir un aspect de placeur/tank/dégats
+[23:59:25] (Guilde) Nk-Alzerya : un bon ptit couteau suisse comme je les aimes
+[00:00:34] Banque : + 32 931 Kamas (vente : 100 [Ginseng]).
+[00:01:00] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:01:01] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:01:01] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:01:12] (Guilde) Nk-Alzerya : plus qu'a attendre que stuff iop se full vende et je pourrais acheter les derniers items du sram
+[00:01:15] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[00:01:52] (Guilde) Noctanbule : Moi qui voulais reroll mon sram en roub :x
+[00:02:05] (Guilde) Nk-Alzerya : xD
+[00:02:06] (Guilde) Nk-Alzerya : pq ?
+[00:02:45] (Guilde) Nk-Alzerya : j'ai reroll mon iop en roub dcp j'ai gardé mon roub hein
+[00:02:45] (Guilde) Noctanbule : J'ai vraiment du mal dans certaint dj avec ma compo Eni/iop/cra/sram
+[00:02:50] (Guilde) Nk-Alzerya : roub meilleur que tout
+[00:02:58] (Guilde) Nk-Alzerya : ah oui
+[00:03:05] (Guilde) Nk-Alzerya : faut choisir distance ou cac aussi xD
+[00:03:07] (Guilde) Nk-Alzerya : pas les deux
+[00:03:12] (Guilde) Noctanbule : Je suis entrain de finir de monté mon panda, et je voulais faire panda/roub/eni /iop
+[00:03:16] Banque : + 3 795 Kamas (vente : 10 [Ginseng]).
+[00:03:16] Banque : + 3 795 Kamas (vente : 10 [Ginseng]).
+[00:03:23] (Guilde) Nk-Alzerya : même compo que moi x)
+[00:03:47] (Guilde) Noctanbule : Oui Mais c'est une compo que j'ai depuis 4-5 ans c'est mes premier 200 et j'ai jamais change apart cra qui etait un éca
+[00:03:49] (Guilde) Nk-Alzerya : fin la même que moi il y a 5min mdr
+[00:04:10] (Guilde) Nk-Alzerya : et dcp la compo panda/roub/eni/iop est vrmt bien
+[00:04:16] (Guilde) Nk-Alzerya : tu pourras vrmt t'amuser tqt
+[00:04:50] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[00:05:07] (Guilde) Noctanbule : Ouais jme suis dit ca, mais le délire c'est que j'ai reroll l'éca en cra au debut du confinement, du coup jme suis dit fait chié les j du reroll pour rien mais je crois quand même que je vais pas le garder le cra x)
+[00:05:57] (Guilde) Noctanbule : Après je veux pas jouer plus de 4 perso c'est aussi ca qui limite
+[00:06:12] (Guilde) Nk-Alzerya : effectivement relou mdr
+[00:06:44] (Guilde) Nk-Alzerya : oui tqt la même
+[00:06:51] (Guilde) Nk-Alzerya : j'ai essayer 5 perso et c'est vrmt pas possible
+[00:07:02] (Guilde) Noctanbule : du coup, tu fait quoi Sram, roub, eni, panda ?
+[00:07:13] (Guilde) Nk-Alzerya : Yep
+[00:07:27] (Guilde) Noctanbule : C'est surtout que le mac a du mal avec 5 compte mdr
+[00:08:07] Banque : + 20 996 Kamas (vente : 100 [Viande Hachée]).
+[00:08:08] (Guilde) Noctanbule : Et pourquoi iop --&gt; sram ?
+[00:08:37] (Guilde) Nk-Alzerya : c'est sur que les problèmes techniques ça restreint pas mal
+[00:08:49] (Guilde) Nk-Alzerya : et parce que ça fais 5 ans je joue iop
+[00:08:55] (Guilde) Nk-Alzerya : et que iop j'en ai un peu marre
+[00:09:02] (Guilde) Nk-Alzerya : et que ok il tape fort
+[00:09:17] (Guilde) Nk-Alzerya : mais il fait pas ce que tu peux appeler de la "gestion de combat"
+[00:09:21] (Guilde) Nk-Alzerya : gérer les placements
+[00:09:24] (Guilde) Nk-Alzerya : par exemples
+[00:09:39] (Guilde) Nk-Alzerya : ce qui est hyper intéressant avec la compo que je suis en train de mettre en palce
+[00:09:41] (Guilde) Nk-Alzerya : place*
+[00:09:55] (Guilde) Kinex : les gars
+[00:10:03] (Guilde) Kinex : le double xp c'est sur les craft ?
+[00:10:09] (Guilde) Nk-Alzerya : sur les métiers
+[00:10:19] (Guilde) Nk-Alzerya : j'sais pas si c'est carft spécifiquement
+[00:10:20] Banque : + 20 996 Kamas (vente : 100 [Viande Hachée]).
+[00:10:25] (Guilde) Athena-skull : re
+[00:10:30] (Guilde) Athena-skull : bon ca part sur un xp baleize
+[00:11:12] (Guilde) Kinex : j'ai l'impression que ça marche pas sur recolte :/
+[00:12:20] (Guilde) Athena-skull : Normal ya pas double xp mdrr
+[00:12:34] (Guilde) Athena-skull : Il est claqué l'almanax
+[00:15:40] Range-ta-chambre (Mariadb) est en ligne.
+[00:15:52] (Guilde) Athena-skull : Bon bah nsm moi qui comptait monter mes mages
+[00:15:54] F-yonko (My-Kaido) est en ligne.
+[00:16:07] (Guilde) Nk-Alzerya : bah j'ai acheter tte les ressources pr le double xp en fait
+[00:16:16] (Guilde) Nk-Alzerya : j'ai carrément le seum si c'est pas ça mdr
+[00:16:24] (Guilde) Nk-Alzerya : bon j'y go thusssss
+[00:16:30] (Guilde) Nk-Alzerya : bisous bisous la guilde
+[00:18:28] Un membre de votre guilde, Athena-skull, est en ligne.
+[00:21:40] Banque : + 20 996 Kamas (vente : 100 [Viande Hachée]).
+[00:22:44] (Guilde) Athena-skull : Ah je pense c'est bon la
+[00:22:49] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:22:56] (Guilde) Athena-skull : Ouai c'est bon il est activé
+[00:28:27] ★[Ekyn] : (All) Le double XP métier vient d'être activé, veuillez nous excuser pour ce retard.
+[00:28:35] (Guilde) II-Frero-XeniO-II : xD
+[00:28:43] (Guilde) II-Frero-XeniO-II : bien vu Athena
+[00:29:06] (Guilde) Athena-skull : Il était deja activé persos
+[00:29:24] (Guilde) Athena-skull : Jvais quand meme deco reco
+[00:29:43] (Guilde) II-Frero-XeniO-II : ouep juste le message du modo qui a du retard
+[00:29:47] (Alliance) Ramy-y : Portail vers la dimension Srambad [-51,21]
+[00:29:48] Un membre de votre guilde, Athena-skull, est en ligne.
+[00:31:46] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:31:46] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:31:47] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:31:48] Banque : + 28 997 Kamas (vente : 100 [Viande Faisandée]).
+[00:32:13] Un membre de votre guilde, Athena-skull, est en ligne.
+[00:32:17] Un membre de votre guilde, Athen-roxx, est en ligne.
+[00:36:23] Vous êtes arrivé à destination !
+[00:44:19] (Guilde) Tianbao : Le double xp metier il marche sur le fm ?
+[00:46:54] (Guilde) II-Frero-XeniO-II : ouep ^^
+[00:52:07] aerdala-akwadala (Gautama) est en ligne.
+[00:52:08] Un membre de votre guilde, Noctanbule, est en ligne.
+[00:52:12] walid931500 (Zx-gerrier) est en ligne.
+[00:52:37] My---Name----Is (Pshiker) est en ligne.
+[00:53:14] aerdala-akwadala (Gokutama) est en ligne.
+[01:00:34] (Guilde) Athena-skull : [Dagues Eulasse]
+[01:00:37] (Guilde) Athena-skull : incroyable
+[01:04:38] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:12:35] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:12:36] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:12:36] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:12:36] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:12:37] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:12:37] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:14:02] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:19:44] Un membre de votre guilde, Athena-skull, est en ligne.
+[01:19:48] Un membre de votre guilde, Athen-roxx, est en ligne.
+[01:28:06] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[01:28:06] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[01:28:14] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[01:30:17] La zone « [Île de Grobe] » est vulnérable. Vous pouvez tenter de la conquérir.
+[01:39:27] (Alliance) Larnaqueur : Bonne nuit tout le mond e
+[01:44:14] Banque : + 33 886 Kamas (vente : 100 [Viande Minérale]).
+[01:48:53] Banque : + 55 575 Kamas (vente : 10 [Corne de XLII]).
+[01:51:24] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:51:24] Banque : + 17 296 Kamas (vente : 100 [Viande Frelatée]).
+[01:55:54] Vous avez perdu 20 kamas.
+[01:59:17] L'alliance [EZPK] a défendu la zone « [Île de Grobe] ».
+[02:00:03] Banque : + 44 449 Kamas (vente : 100 [Pince du Crabe]).
+[02:00:03] Banque : + 44 449 Kamas (vente : 100 [Pince du Crabe]).
+[02:00:03] Banque : + 44 449 Kamas (vente : 100 [Pince du Crabe]).
+[02:00:04] Banque : + 44 449 Kamas (vente : 100 [Pince du Crabe]).
+[02:00:17] Historia-Reiss : ACHETE 10.000 kamatrixù*
+[02:00:27] Historia-Reiss : ACHETE 10.000 kamatrixù**
+[02:01:52] Vous avez payé 631 kamas pour accéder à ce coffre.
+[02:03:54] Rusus : bonsoir, quelqu'un aurait quelques kamas pour aider s'il vous plait ? même juste 1000
+[02:05:02] Historia-Reiss : ACHETE 10.000 kamatrixù**µ
+[02:13:46] Historia-Reiss : ACHETE 10.000 kamatrixù**µ
+[02:19:00] Un membre de votre guilde, Bled-artt, est en ligne.
+[02:31:59] 10 x [Œil de Vigie Pirate] (13 496 kamas)
+[02:32:09] 1 x [Bouée de Fantomalamère] (1 200 kamas)
+[02:32:11] 1 x [Bouée de Fantomalamère] (1 200 kamas)
+[02:32:16] 1 x [Bouée de Fantomalamère] (1 298 kamas)
+[02:32:20] 1 x [Bouée de Fantomalamère] (1 299 kamas)
+[02:33:09] 10 x [Queue de Fantomalamère] (900 kamas)
+[02:33:34] Vous avez perdu 300 kamas.
+[02:34:11] Vous avez gagné 480 points d'expérience.
+[02:34:21] Venez participer au tournoi "OTS Cup" ! Les inscriptions sont ouvertes (cliquez sur le lien).
+[02:35:22] 1 x [Galet rutilant] (100 [Kolizéton])
+[02:38:05] à Kon-Heal : tu les vend combien ?
+[02:38:46] de Kon-Heal : y'a un gars qui les prend à 200 000/u tu fais mieux ?
+[02:39:00] à Kon-Heal : non :) bonne vente :)
+[02:39:56] Kinex : l'un de vous me vendrait 9 galet rutilant ?
+[02:40:17] de Roohh : yep att jarv avec mon feca
+[02:40:33] à Roohh : on a pas encore parlé du prix ^^"
+[02:41:14] à Roohh : en gros le prix standard c'est 20 000 k/u la le prix est explosé en hdv donc ...
+[02:43:54] aerdala-akwadala (Gokutama) est en ligne.
+[02:44:18] à Acide-Citrique : tu les vend combien ?
+[02:44:32] de Acide-Citrique : 200.000
+[02:44:45] à Acide-Citrique : les 3 ? ^^"
+[02:44:47] (Alliance) Hypnors : ça tente quelqu'un dj Ben ?
+[02:44:55] de Acide-Citrique : /u
+[02:45:09] à Acide-Citrique : 570 000 les trois ?
+[02:45:41] (Alliance) Hypnors : ça tente quelqu'un dj Ben ?
+[02:45:45] (Alliance) Hypnors : oups
+[02:46:37] (Alliance) Kinex : quelqu'un aurait des kolizetons a vendre ?
+[02:54:10] Échange effectué
+[02:59:03] Ce canal est restreint pour améliorer sa lisibilité. Vous pourrez envoyer un nouveau message dans 172 secondes. Ceci ne vous autorise cependant pas pour autant à surcharger ce canal.
+[02:59:14] Venez participer au tournoi "OTS Cup" ! Les inscriptions sont ouvertes (cliquez sur le lien).
+[03:00:36] Un membre de votre guilde, Cinqgars, est en ligne.
+[03:01:12] (Guilde) Kinex : l'un de vous aurait des parchemins de koli à me vendrE?
+[03:02:17] Vous avez gagné 402 points d'expérience.
+[03:03:55] Vous avez gagné 517 points d'expérience.
+[03:05:37] Le voyage de monture a été interrompu.
+[03:06:10] Venez participer au tournoi "OTS Cup" ! Les inscriptions sont ouvertes (cliquez sur le lien).
+[03:07:01] à Punk-hasard : tu veux combien ? en normal je lesaurait eu pour 198 00 0 - 200 000
+[03:07:17] de Punk-hasard : 150 000
+[03:07:44] Échange effectué
+[03:09:01] Vous avez perdu 20 kamas.
+[03:09:50] Vous avez créé 1 × [Cape de Cantile] !
+[03:09:50] Votre métier [Tailleur] passe niveau 157.,Vous obtenez 2 pods supplémentaires.
+[03:10:16] Vous avez créé 1 × [Cape de Cantile] !
+[03:10:16] Votre métier [Tailleur] passe niveau 158.,Vous obtenez 1 pods supplémentaires.
+[03:10:40] Vous avez perdu 20 kamas.
+[03:11:12] Échange effectué
+[03:17:37] Échange effectué
+[03:41:51] Vous avez perdu 20 kamas.
+[03:45:12] 100 x [Tibia de Koalak Fossoyeur] (4 800 kamas)
+[03:45:37] 100 x [Écorce d'Abraknyde] (1 295 kamas)
+[03:45:45] 100 x [Roue de Tivelo] (38 998 kamas)
+[03:46:03] 10 x [Os de Pékeualak] (13 995 kamas)
+[03:46:08] 10 x [Os de Pékeualak] (13 997 kamas)
+[03:46:09] 10 x [Os de Pékeualak] (13 997 kamas)
+[03:46:10] 10 x [Os de Pékeualak] (13 997 kamas)
+[03:46:15] 10 x [Os de Pékeualak] (13 998 kamas)
+[03:46:16] 10 x [Os de Pékeualak] (13 998 kamas)
+[03:46:17] 10 x [Os de Pékeualak] (13 998 kamas)
+[03:46:21] 1 x [Os de Pékeualak] (1 195 kamas)
+[03:46:22] 1 x [Os de Pékeualak] (1 195 kamas)
+[03:46:23] 1 x [Os de Pékeualak] (1 195 kamas)
+[03:46:24] 1 x [Os de Pékeualak] (1 195 kamas)
+[03:46:38] 1 x [Os de Pékeualak] (1 195 kamas)
+[03:46:48] 1 x [Os de Pékeualak] (1 196 kamas)
+[03:46:50] 1 x [Os de Pékeualak] (1 196 kamas)
+[03:46:54] 1 x [Os de Pékeualak] (1 197 kamas)
+[03:47:01] 1 x [Os de Pékeualak] (1 198 kamas)
+[03:47:02] 1 x [Os de Pékeualak] (1 198 kamas)
+[03:47:06] 1 x [Os de Pékeualak] (1 199 kamas)
+[03:47:23] Vous avez perdu 20 kamas.
+[03:48:00] Vous avez créé 1 × [Hache du Minotoror] !
+[03:48:00] Votre métier [Forgeron] passe niveau 118.,Vous obtenez 1 pods supplémentaires.
+[03:48:17] Vous avez perdu 20 kamas.
+[03:48:38] 100 x [Bois de Kaliptus] (28 397 kamas)
+[03:48:51] Vous avez perdu 20 kamas.
+[03:49:19] Vous avez créé 1 × [Hache du Minotoror] !
+[03:49:50] Vous avez perdu 20 kamas.

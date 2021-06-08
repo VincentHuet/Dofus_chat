@@ -1,0 +1,25 @@
+[15:36:42] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[15:36:42] Précédente connexion sur ce compte : 13/04/2020 à 12:59
+[15:36:42] Vous avez récupéré 250 points d'énergie.
+[15:36:42] 8 lots vendus. Montant total : 99 412 Kamas
+[15:36:42] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[15:36:54] Grougalorafaust (Pandubin) est en ligne.
+[15:37:35] Banque : + 22 979 Kamas (vente : 10 [Cendres Novices]).
+[15:45:58] Banque : + 49 994 Kamas (vente : 10 [Œil de Krokille]).
+[16:02:00] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[16:05:26] Banque : + 8 190 Kamas (vente : 1 [Kobalite]).
+[16:05:27] Banque : + 8 190 Kamas (vente : 1 [Kobalite]).
+[16:05:28] Banque : + 8 190 Kamas (vente : 1 [Kobalite]).
+[16:06:22] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[16:12:09] Un membre de votre guilde, Ecaflip-flop, est en ligne.
+[16:12:40] Un membre de votre guilde, Black-Snak, est en ligne.
+[16:13:09] Banque : + 8 190 Kamas (vente : 1 [Kobalite]).
+[16:35:48] Cette action est impossible car vous êtes occupé.
+[16:36:04] Vous avez perdu 730 kamas.
+[16:37:46] aerdala-akwadala (Gautama) est en ligne.
+[17:06:11] F-yonko (My-Kaido) est en ligne.
+[17:12:56] 1 x [Bouée de Fantomalamère] (995 kamas)
+[17:13:05] 10 x [Queue de Fantomalamère] (1 000 kamas)
+[17:13:06] 10 x [Queue de Fantomalamère] (1 000 kamas)
+[17:13:10] 10 x [Queue de Fantomalamère] (1 000 kamas)
+[17:13:23] 10 x [Œil de Vigie Pirate] (13 000 kamas)

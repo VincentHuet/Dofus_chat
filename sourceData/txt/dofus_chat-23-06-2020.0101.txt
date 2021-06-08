@@ -1,0 +1,771 @@
+[20:56:31] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[20:56:31] Précédente connexion sur ce compte : 22/06/2020 à 10:28
+[20:56:31] Vous avez récupéré 399 points de vie.
+[20:56:31] Vous avez récupéré 300 points d'énergie.
+[20:56:31] Annonce de guilde : Nouveau Discord de la guilde !!! Venez nous rejoindre , c'est la ou les informations circulerons ! [https://discord.gg/TpZSF7d] ~~~ EVENT: Fête de la Fanfon en [4,6] du mardi 16 juin au mardi 7 juillet -> plus d'info sur le DS ;) 21h quêtes ali brakmar
+[20:56:31] Pour des raisons de maintenances, le serveur va être redémarré dans 12 heures, 3 minutes.
+[20:56:31] Vous avez 5 contact(s) réciproque(s) connecté(s).
+[20:57:03] Un membre de votre guilde, Athen-dwop, est en ligne.
+[20:57:13] Un membre de votre guilde, Athena-palm, est en ligne.
+[20:57:19] Grougalorafaust (Pandubin) est en ligne.
+[20:57:33] Un membre de votre guilde, Athena-ronce, est en ligne.
+[20:58:07] Bouclier Volant équipé.
+[20:58:07] Ensemble POD plus plus activé.
+[20:59:22] Pour des raisons de maintenances, le serveur va être redémarré dans environ 12 heures.
+[20:59:29] 1 seconde ajoutée au prochain tour de jeu.
+[20:59:35] Vous avez gagné 344 points d'expérience.
+[21:00:43] (Guilde) Vavax-Xea : Je termine j'ai été un peu opportuniste :b
+[21:00:59] (Guilde) Vavax-Xea : Ebène Ivoire Vulbis d'ailleurs ;)
+[21:01:04] (Guilde) II-Frero-XeniO-II : tkt, j'afk un peu ;)
+[21:01:10] (Guilde) Vavax-Xea : Tu reviens quand?
+[21:01:18] (Guilde) Kinex : re
+[21:01:50] (Guilde) Vavax-Xea : Re!
+[21:05:10] Kinex a fait échouer le challenge Barbare.
+[21:05:14] Vous avez gagné 277 points d'expérience.
+[21:06:16] Vous avez gagné 344 points d'expérience.
+[21:09:23] Action impossible
+[21:10:19] (Guilde) Vavax-Xea : Kinex / Shan les quêtes ali 22h30 ça vous va sinon?
+[21:10:37] (Guilde) Vavax-Xea : Pour FatouMatou / Kinex?
+[21:11:12] (Guilde) II-Frero-XeniO-II : quand vous voulez , ce soir jsuis libre ;)
+[21:14:30] (Guilde) Vavax-Xea : Je re pour 22h30 du coup!
+[21:14:32] (Guilde) Vavax-Xea : A toute!
+[21:16:04] (Guilde) Kinex : euh yes mais j'ai pas beaucoup de quete genre 4-5
+[21:16:39] Zombiere a déverrouillé le succès [Comte Harebourg (Duo)].
+[21:16:39] Zombiere a déverrouillé le succès [A rebours].
+[21:16:39] Zombiere a déverrouillé le succès [Crise de froid].
+[21:27:07] Un membre de votre guilde, Xeox, est en ligne.
+[21:29:37] Un membre de votre guilde, Dark-Melody, est en ligne.
+[21:31:00] Un membre de votre guilde, Skull-Alpha, est en ligne.
+[21:39:47] aerdala-akwadala (Gautama) est en ligne.
+[21:41:11] Un nouvel achat/cadeau est disponible dans l'interface Boutique - Achat/Codes/Cadeaux
+[21:41:52] Action impossible
+[21:41:54] aerdala-akwadala (Gautama) est en ligne.
+[21:42:03] Votre métier [Bûcheron] passe niveau 195.,Vous obtenez 1 pods supplémentaires.
+[21:42:43] Un membre de votre guilde, Freccia-kheal, est en ligne.
+[21:45:55] Vous avez gagné 344 points d'expérience.
+[21:46:00] Action impossible
+[21:46:12] Vous avez perdu 20 kamas.
+[21:46:52] Vous avez obtenu 10 '[Mesure de Poivre]'.
+[21:46:52] Vous avez obtenu 10 '[Graisse Gélatineuse]'.
+[21:46:53] Vous avez obtenu 10 '[Épices]'.
+[21:46:56] Vous avez obtenu 30 '[Épices]'.
+[21:47:00] Vous avez obtenu 120 '[Mesure de sel]'.
+[21:47:03] Vous avez obtenu 20 '[Citron]'.
+[21:47:08] Vous avez obtenu 80 '[Poudre Temporelle]'.
+[21:47:12] Vous avez obtenu 200 '[Cendres Éternelles]'.
+[21:47:16] Vous avez obtenu 40 '[Sang de Scorbute]'.
+[21:47:17] Vous avez obtenu 10 '[Résine]'.
+[21:47:17] Vous avez obtenu 10 '[Résine]'.
+[21:47:19] Vous avez obtenu 10 '[Résine]'.
+[21:47:20] Vous avez obtenu 10 '[Résine]'.
+[21:47:21] Vous avez obtenu 10 '[Résine]'.
+[21:47:22] Vous avez obtenu 10 '[Feuille de Salace]'.
+[21:47:23] Vous avez obtenu 10 '[Feuille de Salace]'.
+[21:47:27] Vous avez obtenu 20 '[Feuille de Salace]'.
+[21:47:32] Vous avez obtenu 50 '[Fer]'.
+[21:47:34] Vous avez obtenu 50 '[Brochet]'.
+[21:47:34] Vous avez obtenu 50 '[Bois d'Ebène]'.
+[21:47:36] Vous avez obtenu 50 '[Sardine Brillante]'.
+[21:47:36] Vous avez obtenu 50 '[Anguille]'.
+[21:47:37] Vous avez obtenu 50 '[Goujon]'.
+[21:47:38] Vous avez obtenu 50 '[Trèfle à 5 feuilles]'.
+[21:47:39] Vous avez obtenu 50 '[Carpe d'Iem]'.
+[21:47:40] Vous avez obtenu 50 '[Manganèse]'.
+[21:47:42] Vous avez obtenu 50 '[Ortie]'.
+[21:47:43] Vous avez obtenu 50 '[Etain]'.
+[21:47:45] Vous avez obtenu 50 '[Bois de Noyer]'.
+[21:47:46] Vous avez obtenu 50 '[Blé]'.
+[21:47:47] Vous avez obtenu 50 '[Blé]'.
+[21:47:48] Vous avez obtenu 50 '[Chanvre]'.
+[21:47:48] Vous avez obtenu 50 '[Kobalte]'.
+[21:47:49] Vous avez obtenu 50 '[Bois de Châtaignier]'.
+[21:47:50] Vous avez obtenu 50 '[Cuivre]'.
+[21:47:51] Vous avez obtenu 50 '[Cuivre]'.
+[21:47:51] Vous avez obtenu 50 '[Truite]'.
+[21:47:52] Vous avez obtenu 50 '[Bois d'Erable]'.
+[21:47:53] Vous avez obtenu 50 '[Bois d'Erable]'.
+[21:47:54] Vous avez obtenu 50 '[Bois d'Erable]'.
+[21:47:55] Vous avez obtenu 50 '[Truite]'.
+[21:47:56] Vous avez obtenu 50 '[Cuivre]'.
+[21:49:20] Échange annulé
+[21:52:59] (Guilde) II-Frero-XeniO-II : re ^^
+[21:55:45] Échange effectué
+[21:56:50] Un membre de votre guilde, Fatou-Matou, est en ligne.
+[21:57:48] (Guilde) Fatou-Matou : voilou je suis la si jamais ca veut faire des petites quetes :c
+[21:58:31] (Guilde) II-Frero-XeniO-II : :p
+[21:58:46] (Guilde) II-Frero-XeniO-II : mais jusqu'a quand ?^^
+[21:58:59] (Guilde) Fatou-Matou : ah bah jusqu'à minuit pas de soucis pour moi
+[21:59:28] Pour des raisons de maintenances, le serveur va être redémarré dans environ 11 heures.
+[21:59:28] (Guilde) Fatou-Matou : faudrait que je regarde avec mon ougi mais il est pas abo et y a plus de kamas sur le compte du coup c'est compliqué '^'
+[21:59:48] (Guilde) II-Frero-XeniO-II : audiotel :p
+[21:59:54] (Guilde) Fatou-Matou : lul
+[22:00:00] (Guilde) Fatou-Matou : no arnaque j'espère
+[22:00:14] (Guilde) II-Frero-XeniO-II : ah bah non, tu prends ton telephone xµD
+[22:00:38] (Guilde) Fatou-Matou : j'ai cru on pouvait meme plus s'abo comme ca xD
+[22:00:40] (Alliance) Larnaqueur : Bonsoir à tou.te.s !
+[22:00:51] (Alliance) Fatou-Matou : bonsoir
+[22:00:52] (Guilde) II-Frero-XeniO-II : j'en connais plus depuis longtemps des venteurs codes audio :s
+[22:00:54] (Alliance) Morghulis : yo
+[22:01:07] (Guilde) II-Frero-XeniO-II : mais ça avait tellement augmenté (genre 200 - 300 000k /semaine &gt;&lt;)
+[22:01:08] (Alliance) Tobidenstore : yo
+[22:01:59] (Guilde) Fatou-Matou : du coup c'est motivé ou on repose ca à une autre fois ? :o
+[22:02:17] (Guilde) II-Frero-XeniO-II : bah carrement qu'on est chaud ^^
+[22:02:27] (Guilde) II-Frero-XeniO-II : vavax devrait re vers 22h30 ducoup
+[22:02:33] (Guilde) Fatou-Matou : ah ok
+[22:02:41] (Guilde) II-Frero-XeniO-II : mais c'est vrai que sur les quetes BL, il y a pas grand interet
+[22:03:02] (Guilde) II-Frero-XeniO-II : commence sinon, on te raattrape :p
+[22:03:05] (Guilde) Fatou-Matou : bah je sais pas, moi je fais déjà rien sur dofus à part me faire pl '^'
+[22:03:10] Un membre de votre guilde, Interiall, est en ligne.
+[22:03:22] (Guilde) II-Frero-XeniO-II : héhé, c'est deja bien
+[22:03:24] (Guilde) Fatou-Matou : je connais pas les quetes brakmar en plus j'ai jamais fait
+[22:03:38] (Guilde) II-Frero-XeniO-II : puis t'as deja tout fais aussi ...
+[22:03:58] (Guilde) Fatou-Matou : bah juste les dofus quoi :c
+[22:04:07] (Guilde) II-Frero-XeniO-II : 'juste' ^^
+[22:04:22] (Guilde) II-Frero-XeniO-II : bah tu fais ivoire-ebene-vulbis, t'as fini le jeu xd
+[22:04:27] (Guilde) Fatou-Matou : d'ailleur ca gene si j'invite mon sram histoire de pas à alt tab tout le temps xD
+[22:04:47] (Guilde) Interiall : bijour tout le monde !
+[22:04:51] (Guilde) II-Frero-XeniO-II : au contraire ^^ avec plaisir haha
+[22:04:58] (Guilde) II-Frero-XeniO-II : lulut
+[22:05:06] (Guilde) Graou-Matou : bonsoir je suis nouveau :c
+[22:05:26] (Guilde) II-Frero-XeniO-II : oh bienvenu le nouveau !
+[22:05:35] (Guilde) II-Frero-XeniO-II : mais, jte reconnais !
+[22:05:40] (Guilde) Graou-Matou : je viens de débuté mais shan m'a pl ''
+[22:05:55] (Guilde) Interiall : beh moi aussi j'inviterai mes perso du coup :)
+[22:05:57] (Guilde) II-Frero-XeniO-II : (faut preciser que le xp X4... ça aide)
+[22:06:07] (Guilde) Graou-Matou : c'était qu'un x3 :c
+[22:06:17] (Guilde) II-Frero-XeniO-II : autant pour moi !
+[22:06:22] (Guilde) Interiall : d'ailleurs shan je lui ai acheté des volkorne elle se vende meme pas c'est quoi cette arnaque
+[22:06:48] (Guilde) Graou-Matou : mdr
+[22:06:50] (Guilde) Interiall : les gens baissent les prix par 50 000k ces anorexiques !
+[22:06:56] (Guilde) II-Frero-XeniO-II : c'est toi qui machete des vovo? :p
+[22:07:06] (Guilde) Interiall : c'est toi shan ?
+[22:07:07] (Guilde) II-Frero-XeniO-II : merkii
+[22:07:13] (Alliance) Dr-Daniel-Jackson : [Grifforis le Glorieux] :D
+[22:07:27] (Alliance) Interiall : AHHH ça y est elles sont enfin la ?
+[22:07:29] (Guilde) II-Frero-XeniO-II : hé oui... la sresemblence n'est pas frappant mais pourtant
+[22:07:31] (Alliance) Graou-Matou : gg :o, c'est quoi?
+[22:07:37] (Guilde) Interiall : beh ma parole je t'en prend plus !
+[22:07:38] (Alliance) Dr-Daniel-Jackson : Ouaip ^^
+[22:07:46] (Alliance) Dr-Daniel-Jackson : Distribution aujourd'hui de toutes les récompenses
+[22:07:49] (Guilde) Interiall : en plus 0 energie quel arnaque
+[22:07:54] (Alliance) Dr-Daniel-Jackson : C'est une récompense de temporis 4
+[22:08:05] (Alliance) Interiall : go co mon iop pour voir tout ça &lt;3
+[22:08:05] (Guilde) II-Frero-XeniO-II : mais attends, ça coute cher les pepites de nos jours xd
+[22:08:19] (Guilde) II-Frero-XeniO-II : non mais t'as fait quoi avec ces vovo de l'xp lvl 100?
+[22:08:19] (Guilde) Graou-Matou : faut les nourrir au mangeoire :o
+[22:08:29] (Guilde) Interiall : pffff sur temporis j'en avait des millions T_T
+[22:08:31] (Guilde) II-Frero-XeniO-II : j'ai vu ton pseudo par ci - par la^^
+[22:08:58] (Guilde) Interiall : beh oui j'ai acheter et j'ai validé mes succès du ddg pour les monter lvl 100 direct et revendere
+[22:09:24] (Guilde) II-Frero-XeniO-II : bien vu
+[22:09:45] (Guilde) II-Frero-XeniO-II : mais effectivement... c'pas facile a vendre
+[22:10:02] (Guilde) II-Frero-XeniO-II : surtout qu'il y a de plus en plus de lvl 100 en hdv
+[22:10:07] (Guilde) Graou-Matou : je l'aime déjà bien ce bon vieux oto, il est sur la map du zaapi lui :c
+[22:10:21] (Guilde) Interiall : que la emeraude et pourpre qui se revend plutot facilement
+[22:10:23] (Guilde) II-Frero-XeniO-II : mais jte rassure je mets toujours 1kamas de moins moi^^
+[22:11:04] (Guilde) Interiall : nan mais je parle des lvl 100
+[22:11:14] (Guilde) II-Frero-XeniO-II : plus que 7 montures a pex lvl 5 avant la grande orgie !
+[22:11:17] (Alliance) Larnaqueur : Quelqu'un sait si on est à 90% xp guilde quand on prend la potion d'xp temporis, si ça va bien en xp guilde, ou si tout part dans l'xp du perso ?
+[22:11:47] (Alliance) II-Frero-XeniO-II : lulut^^
+[22:11:50] (Alliance) Interiall : aucune idée :s fait un test avec des parcho ivoire ou doré
+[22:11:56] (Alliance) II-Frero-XeniO-II : ça se tente moi je dis ^^
+[22:12:13] (Alliance) Interiall : je sais pas ce que je vais faire avec mon parcho encore :s
+[22:12:15] (Alliance) II-Frero-XeniO-II : et GG pour la monture ! grande classe la :p
+[22:12:26] (Alliance) Larnaqueur : Merci ^^
+[22:13:04] (Alliance) Avatare-Korra : Est-ce que la potion donnera de l'expérience à ma dragodinde ? À ma guilde ?Non, tout est donné au personnage.
+[22:13:04] (Alliance) II-Frero-XeniO-II : et j'ai vu un montilier tout rouge, c'était en lien avec l'alignement?
+[22:13:07] (Alliance) Avatare-Korra : Ah mince x)
+[22:13:14] (Alliance) Avatare-Korra : Il y en avait des colorisables
+[22:13:19] (Alliance) Tobidenstore : nn ^^ cest la mm ms colorivant
+[22:13:30] (Alliance) II-Frero-XeniO-II : ohhh
+[22:13:36] (Alliance) Interiall : fallait venir sur temporis banane !
+[22:13:38] (Alliance) Tobidenstore : cetait les noires elles sont tte colorivante
+[22:13:44] (Alliance) II-Frero-XeniO-II : sympatoche
+[22:13:48] (Alliance) II-Frero-XeniO-II : xD
+[22:14:01] (Alliance) II-Frero-XeniO-II : trop de boulot sur offi sorry :p
+[22:14:01] (Alliance) Fatou-Matou : faut être motivé aussi pour monter un perso temporaire :c
+[22:14:05] (Alliance) Interiall : je vais etre tout beau sur mon griffon &lt;3
+[22:14:18] (Alliance) Interiall : ouai mais perso c'était la meilleurs expérience dofus pour moi
+[22:14:23] (Alliance) Fatou-Matou : j'utilise meme pas de montilier ;-;
+[22:14:29] (Alliance) Tobi-nini : ^^
+[22:14:49] (Alliance) Interiall : pour une fois dans ma vie j'étais riche sur dofus :)
+[22:14:54] (Alliance) II-Frero-XeniO-II : ouep, j'imagine, ça fesait un peu de renouveau
+[22:14:55] (Alliance) Interiall : aujoud'hui je suis pauvre
+[22:15:04] (Alliance) Fatou-Matou : je suis pauvre tous les jours moi tkt
+[22:15:09] (Alliance) II-Frero-XeniO-II : bah pendant le confinement, leconomie a explosé quand meme
+[22:15:16] (Alliance) Fatou-Matou : temps en temps y a une montée mais ca part vite
+[22:15:18] (Alliance) II-Frero-XeniO-II : .... la c'est la crise
+[22:15:31] (Alliance) Interiall : les prix on baissé abusé sur certaines ressources
+[22:15:47] (Alliance) Tobidenstore : ca depend pr quoi ^^
+[22:16:13] (Alliance) Interiall : oeil d'harrogant je suis encore sous le choque en revenant j'en ai vedu pour 130 000k les 10 aujdui elles sont a 3 000k les 10
+[22:16:39] (Alliance) Avatare-Korra : Bon bah je vais la garder de côté un petit peu, jusqu'à qu'il y ait la promo sur le transfert de compte des persos x)
+[22:16:44] (Alliance) II-Frero-XeniO-II : le prix des cornes volkones n'en finira plus de chuter jusqu'a ce qu'il y ai de nouvelle recettes... ou un autre confinement x)
+[22:17:03] (Alliance) Interiall : la mise a jour pandala va pas aidé
+[22:17:15] (Alliance) Interiall : c'est du lvl 110&gt; 140 je suis décu un peu
+[22:17:36] (Alliance) II-Frero-XeniO-II : peut etre l'anné prochaine quand il y aura l'extention de la zone thl
+[22:17:53] (Alliance) Interiall : de l'eliocalipse ouai pt
+[22:17:55] (Alliance) II-Frero-XeniO-II : faut y croire xD
+[22:18:35] (Alliance) Interiall : comment ça s'obtiens les corne de volkorne ?
+[22:18:44] (Alliance) II-Frero-XeniO-II : faites vos quetes de la zone elio, : dofus tacheté pour l'année prochaine ^^
+[22:18:48] (Alliance) Fatou-Matou : faut tuer des volkornes :c
+[22:18:56] (Alliance) II-Frero-XeniO-II : t bon courage...
+[22:19:03] (Alliance) Fatou-Matou : un bébé volkorne donne une corne ;-;
+[22:19:18] (Alliance) Interiall : bébé ?
+[22:19:23] (Alliance) II-Frero-XeniO-II : il y a des quetes en conditions pour pouvoir les echanger *
+[22:19:25] (Alliance) Tobi-nini : un certificat de volkorne
+[22:19:34] (Alliance) Tobi-nini : tu lechange a un pnj
+[22:19:49] (Alliance) Tobidenstore : contre une corne
+[22:20:00] (Alliance) Interiall : mhhhhhh dac j'ai arreté dofus ça existait pas encore ces bêtes dégeulasse
+[22:20:13] (Alliance) II-Frero-XeniO-II : hé hoo
+[22:20:16] (Alliance) Fatou-Matou : xD
+[22:20:20] (Alliance) II-Frero-XeniO-II : c'est deja mieux que les muldos :p
+[22:20:24] (Alliance) Interiall : nan mais il faut dire ce qui est
+[22:20:28] (Alliance) Fatou-Matou : ca traite le poulailler de shan moche :o
+[22:20:45] (Alliance) Interiall : quand tu envoie un sort ont dirait elles vomisse
+[22:20:48] (Alliance) II-Frero-XeniO-II : en toute suptilité, ça passe ^^
+[22:21:18] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[22:21:18] Précédente connexion sur ce compte : 22/06/2020 à 20:56
+[22:21:18] Annonce de guilde : Nouveau Discord de la guilde !!! Venez nous rejoindre , c'est la ou les informations circulerons ! [https://discord.gg/TpZSF7d] ~~~ EVENT: Fête de la Fanfon en [4,6] du mardi 16 juin au mardi 7 juillet -> plus d'info sur le DS ;) 21h quêtes ali brakmar
+[22:21:18] Pour des raisons de maintenances, le serveur va être redémarré dans 10 heures, 38 minutes.
+[22:21:18] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[22:21:45] (Alliance) II-Frero-XeniO-II : quand tu lance un sort, ou quand tu recois des coups?^^
+[22:22:04] (Alliance) Interiall : quand tu lance
+[22:22:16] (Alliance) Interiall : je sais plus ce que ça fait quand on te tape
+[22:22:42] (Alliance) II-Frero-XeniO-II : ah, bah jai desactivé ces animation depuis trop longtemps deja lol
+[22:23:06] Graou-Matou a déverrouillé le succès [Cimetière].
+[22:24:38] (Guilde) Graou-Matou : faut déjà extraire des dents de chafer ca m'a déjà démotivé ;-;
+[22:24:49] (Alliance) II-Frero-XeniO-II : Personne n'a l'intention de commencer les quetes alignements Brak par hazard?
+[22:25:14] (Alliance) Kinex : tada !!! [Grifforis le Nouveau-né]
+[22:25:29] (Alliance) Larnaqueur : gg ^^
+[22:26:57] (Alliance) II-Frero-XeniO-II : héhé ! javais pas vu, c'est bien que se ne soit pas lié au perso ^^
+[22:28:30] Un membre de votre guilde, Xeox, est en ligne.
+[22:30:22] à II-Frero-XeniO-II : j'ai des donjon a faire avant les quetes ali ^^"
+[22:30:28] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[22:30:45] à II-Frero-XeniO-II : mais j'a deja un peu commencé
+[22:30:53] à II-Frero-XeniO-II : comment je vois ou j'en suis ?
+[22:31:45] de II-Frero-XeniO-II : comment ça?^^
+[22:32:04] de II-Frero-XeniO-II : ha, vavax n'as pas commencé les donjons encore
+[22:32:33] de II-Frero-XeniO-II : les quetes alli c'est juste une conditions, autant les faire avant meme de se lancer dans les quetes ivoires ^^
+[22:34:44] Graou-Matou a déverrouillé le succès [Chafer Ronin (Duo)].
+[22:34:44] Graou-Matou a déverrouillé le succès [Chafer Ronin (Nomade)].
+[22:34:44] Graou-Matou a déverrouillé le succès [Chafer Ronin (Premier)].
+[22:34:44] Graou-Matou a déverrouillé le succès [Donjon des Squelettes].
+[22:34:44] Graou-Matou a déverrouillé le succès [Une petite renommée].
+[22:34:44] Graou-Matou a déverrouillé le succès [Ils n'ont pas fait de vieux os].
+[22:35:09] Range-ta-chambre (Mariadb) est en ligne.
+[22:35:12] (Guilde) II-Frero-XeniO-II : Powa! Fatou is Back
+[22:35:41] (Guilde) Graou-Matou : c'est contre mon gré je dois tuer des chafer :c
+[22:35:50] (Guilde) Kinex : x)
+[22:36:54] (Guilde) Interiall : ah mais mtn que j'y pense matou c'est pas toi l'eca grade 10 sur raval ?
+[22:37:01] (Guilde) Graou-Matou : hein
+[22:37:15] (Guilde) II-Frero-XeniO-II : ouep... ça va etre eprouvant ces quetes d'alli
+[22:37:27] (Guilde) Interiall : je me trompe pt
+[22:37:29] (Guilde) Graou-Matou : j'ai jamais joué éca de ma vie du coup je pense pas xD
+[22:37:46] (Guilde) Interiall : ah dac au temps pour moi
+[22:37:49] (Guilde) II-Frero-XeniO-II : bah d'ailleurs, tu viens de quel serveur a la base Fat? ^^
+[22:38:08] (Guilde) Graou-Matou : je sais plus du tout ce que c'était avant ush honnetement
+[22:38:25] (Guilde) Graou-Matou : merkator peut etre?
+[22:38:41] (Guilde) Interiall : ah ouai t'en a rien a foutre toi mdr
+[22:38:41] de Pandubin : yo
+[22:38:44] (Guilde) II-Frero-XeniO-II : may be ^^
+[22:39:03] (Guilde) II-Frero-XeniO-II : ça remonte aussi lol
+[22:39:05] (Guilde) Graou-Matou : bah je jouais avec un pote voilà hop on a pris un serveur et on a monté nos premier persos :o
+[22:39:23] (Guilde) Graou-Matou : #3mois pour passer niveau 200 parce qu'on est motivé et efficace
+[22:39:44] (Guilde) Interiall : ah ouai la determintation
+[22:40:10] (Guilde) Graou-Matou : on était tellement pas motivé pour xp et je le suis toujours pas d'ailleur xD
+[22:40:31] (Guilde) Graou-Matou : je prends mon tgv shando express sinon j'xp pas '^'
+[22:40:42] (Guilde) Interiall : eh mais c'est mortel j'ai tout les griffon ! je suis heureux :):)
+[22:40:53] (Guilde) Graou-Matou : cool :o
+[22:41:02] (Guilde) Graou-Matou : t'as kidnappé toute la famille depuis temporis
+[22:41:05] (Guilde) Interiall : bien plus beau que les volkorne a shan
+[22:41:16] Graou-Matou a déverrouillé le succès [En quête de preuves].
+[22:41:16] (Guilde) II-Frero-XeniO-II : t'as pas connu la vie en monocompte lol quand t'es lvl 70 et que tu tapes des chaffer pour gagner 40 000xp en 10secondes :p
+[22:41:22] (Guilde) Interiall : beh je pensais qu'on pouvais en choisir qu'un seul mais finalkement on les a tous
+[22:41:49] (Guilde) Interiall : a l'epoque les lvl 100 ils m'imprésionnait
+[22:41:52] (Guilde) II-Frero-XeniO-II : pauvre petit feca, il a tout vu &gt;&lt;
+[22:41:54] (Guilde) Graou-Matou : moi je me rappelle qu'on campait les mines astrub pour des craqueboules :o
+[22:42:03] F-yonko (My-Kaido) est en ligne.
+[22:42:18] (Guilde) Interiall : les blop &lt;3 après les kanigrou avec iop aiar épée celeste &lt;3&lt;3
+[22:42:26] (Guilde) II-Frero-XeniO-II : mais nah, il fallait faire le chafer sur la map secrette, ou drop sur l'ours :p
+[22:42:32] (Guilde) Graou-Matou : mdr
+[22:42:39] (Guilde) Kinex : ou les blop en xelor sasa ^^"
+[22:42:41] (Guilde) Graou-Matou : fallait être actif pour cliquer sur le groupe
+[22:42:56] (Guilde) Kinex : la mine dans la foret c'est giga blindé
+[22:42:58] (Guilde) Graou-Matou : regarde ces gens qui parle de la zone abo quoi :o
+[22:43:01] (Guilde) II-Frero-XeniO-II : oulalala, NOSTALGIEEEE
+[22:43:12] (Guilde) II-Frero-XeniO-II : mdrr
+[22:43:36] (Guilde) II-Frero-XeniO-II : fallait dabord faire des kamas pour se payer des codes audio xD
+[22:43:38] (Guilde) Kinex : j'ai mis 3 mois a etre lvl 50 et un ans à pas depasser le 60
+[22:43:49] (Guilde) Kinex : x)
+[22:43:53] (Guilde) Kinex : yes
+[22:44:00] (Guilde) II-Frero-XeniO-II : ah oui, il c'est passé quoi la ^^
+[22:44:09] (Guilde) Kinex : bah je venais de commencer
+[22:44:15] (Guilde) Kinex : je jouais pas beaucoup
+[22:44:19] (Guilde) Kinex : =&gt; internat
+[22:44:27] (Guilde) Kinex : et j'étais pas abo
+[22:44:33] (Guilde) Kinex : dur combo
+[22:44:38] Vous avez déjà utilisé la loterie aujourd'hui.
+[22:45:08] Vous avez perdu 670 kamas.
+[22:45:16] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[22:45:17] Ensemble Terre PVMM activé.
+[22:45:31] (Guilde) Interiall : j'ai une potion de 10 miliard d'xp si vous voulez :)
+[22:45:40] (Guilde) Graou-Matou : waouh :o
+[22:45:47] (Guilde) Graou-Matou : c'est déjà échangeable?
+[22:45:48] (Guilde) II-Frero-XeniO-II : :s
+[22:45:52] (Guilde) II-Frero-XeniO-II : je prends !
+[22:46:00] Vous êtes arrivé à destination !
+[22:46:03] (Guilde) Kinex : moi aussi je veux bien mdr
+[22:46:10] (Guilde) Interiall : non pas echeangable malheureusement
+[22:46:20] (Guilde) II-Frero-XeniO-II : lié au compte? :'((
+[22:46:21] (Guilde) Graou-Matou : t'as réveillé des loups là
+[22:46:26] (Guilde) Interiall : graaaave mdrrr
+[22:46:31] (Guilde) Interiall : détendez vous mdr
+[22:46:37] (Guilde) II-Frero-XeniO-II : on a les crocs :p
+[22:46:45] (Guilde) Kinex : Shando Expres ça xp autant en une week end ^^"
+[22:46:46] (Guilde) Interiall : d'ailleurs tu peux mettre les droits pour invité guilde frero ?
+[22:47:02] (Guilde) II-Frero-XeniO-II : ça peut aider ;)
+[22:47:06] (Guilde) Kinex : mais jétais pas dispo ce week end
+[22:47:12] (Guilde) II-Frero-XeniO-II : c'est un droit sur demande, GG ! ^^
+[22:47:12] (Guilde) Kinex : ça saoule
+[22:47:42] (Guilde) Kinex : mercredi je reçoit ma carte graphique ... jeudi je passe surement à 4 compte ^^"
+[22:47:51] (Guilde) II-Frero-XeniO-II : aie
+[22:48:00] (Guilde) Kinex : ?
+[22:48:00] (Guilde) Valkery-Sos : coucou tout le monde :):)
+[22:48:02] (Guilde) II-Frero-XeniO-II : c'est plus un processeur qu'il faut pour dofus
+[22:48:15] (Guilde) Graou-Matou : yo
+[22:48:18] (Guilde) II-Frero-XeniO-II : Aloha !
+[22:48:29] (Guilde) Kinex : j'ai pris un Ryzen 5 3600X
+[22:48:42] (Guilde) II-Frero-XeniO-II : Bienvenu dans la plus grande des Tavernes ambulante
+[22:48:51] (Guilde) Graou-Matou : bon bah je m'arrête avec le dentier de chafer pour l'ali, je voudrais voir ou en est mon ougi avant de continuer du coup je mets le réveil à 5h du mat :c
+[22:48:53] (Guilde) Valkery-Sos : oula je vais me casser moi
+[22:48:58] (Guilde) II-Frero-XeniO-II : ha mais se sont tes perso Inter?
+[22:49:05] (Guilde) Valkery-Sos : beh oui banane !
+[22:49:37] (Guilde) Valkery-Sos : [Grifforis l'Infantile] pas trop mignon :)
+[22:49:48] (Guilde) Graou-Matou : trop cru '^'
+[22:49:52] (Guilde) Kinex : j'aime mieux le mien
+[22:50:03] (Guilde) Kinex : tada !!! [Grifforis le Nouveau-né]
+[22:50:10] (Guilde) Valkery-Sos : [Grifforis le Juvénile] lui il est vraiment horrible
+[22:50:30] (Guilde) Kinex : détruit le !
+[22:50:30] (Guilde) Valkery-Sos : ont dirait un t-rex avec ces petites pates avant
+[22:50:33] (Guilde) II-Frero-XeniO-II : Nom de Zeus !
+[22:50:40] (Guilde) Kinex : tellement moche
+[22:50:48] (Guilde) II-Frero-XeniO-II : on dirait Biff Tannen quand tu dis banane :p
+[22:51:06] (Guilde) Valkery-Sos : c'est pas dans rasta rocket ça ?
+[22:53:40] (Guilde) II-Frero-XeniO-II : et non ^^ rasta rocket c'est plus
+[22:53:53] (Guilde) II-Frero-XeniO-II : bah jai pas de replique pour ça lol
+[22:54:02] (Guilde) Interiall : bas les pates tete de poule !
+[22:54:12] (Guilde) II-Frero-XeniO-II : Cadance man *
+[22:54:25] (Guilde) II-Frero-XeniO-II : c'est quoi tonproc Kin****
+[22:54:32] (Guilde) II-Frero-XeniO-II : processeur*
+[22:55:30] (Guilde) II-Frero-XeniO-II : d'ailleurs...
+[22:55:47] (Guilde) II-Frero-XeniO-II : on est d'accord le jeu repose sur la base de Flash player....
+[22:56:10] (Guilde) II-Frero-XeniO-II : qui arrive a la fin de leurs vie en date du 31decembre 2020...
+[22:56:36] (Guilde) Kinex : look discord shan
+[22:56:46] (Guilde) Interiall : connais pas frero
+[22:56:47] Un membre de votre guilde, Sawalou, est en ligne.
+[22:56:52] (Guilde) II-Frero-XeniO-II : faut bien qu'il y ai un changement un beau coup, on va devenir obsolete la ^^
+[22:57:35] (Guilde) Kinex : Ryzen 5 3600 X =&gt; 6 coeurs, 3,80 GHz, 32 Mo
+[22:58:18] (Guilde) II-Frero-XeniO-II : jconnais pas les AMD ^^
+[22:58:39] (Guilde) II-Frero-XeniO-II : déçu dans le passé, jsuis passé a Intell, et jai laché laffaire lol
+[22:58:41] Kinex souhaite téléporter tout le groupe devant : Laboratoire de Brumen Tinctorias.
+[22:58:51] Un membre de votre guilde, Leboss-Enfete, est en ligne.
+[22:58:59] (Guilde) II-Frero-XeniO-II : 3.80 Gigowatts !! 3.80 Gigowatts !! Mon dieu !
+[22:59:00] (Guilde) Kinex : du coup, ils sont moins cher pour souvent mieux ^^"
+[22:59:09] (Guilde) Kinex : x)
+[22:59:30] Pour des raisons de maintenances, le serveur va être redémarré dans environ 10 heures.
+[22:59:39] (Guilde) II-Frero-XeniO-II : le MSI*
+[22:59:43] (Guilde) II-Frero-XeniO-II : c'est le boitier?
+[22:59:43] Un membre de votre guilde, Vavax-Xea, est en ligne.
+[23:00:07] (Guilde) Vavax-Xea : Re les chips!
+[23:00:29] (Guilde) Kinex : carte mere
+[23:01:01] (Guilde) Kinex : mais j'ai commandé sur [Amazon.fr] et [Amazon.de] + un site allemand
+[23:01:12] (Guilde) Kinex : materiel ... c'est gentil mais bon
+[23:01:16] (Guilde) Kinex : giga cher
+[23:01:24] (Guilde) II-Frero-XeniO-II : re
+[23:01:30] (Guilde) II-Frero-XeniO-II : ça a lair de tenir la route :p
+[23:01:53] (Guilde) II-Frero-XeniO-II : connais meme pas la carte graph lol mais elle a lair recente
+[23:01:54] (Guilde) Kinex : j'ai failli prendre 32 giga de ram .. .
+[23:02:01] (Guilde) II-Frero-XeniO-II : si c'est pas une GTX connais pas en meme temps
+[23:02:09] (Guilde) Kinex : tu connais la 2060 super ?
+[23:02:09] (Guilde) II-Frero-XeniO-II : c'pas de trop pour dofus xd
+[23:02:36] (Guilde) Kinex : je pourrais jouer à plein de truc et faire de la 3D surtotu ^^"
+[23:02:55] (Guilde) II-Frero-XeniO-II : lol bah de nom, ça a lair sorti tout droit de la nasa ...
+[23:03:23] (Guilde) II-Frero-XeniO-II : GTX 980 jmets deja tout full HD...
+[23:03:35] (Guilde) II-Frero-XeniO-II : bon ok elle a 6ans lol
+[23:05:43] à II-Frero-XeniO-II : [https://gpu.userbenchmark.com/Compare/Nvidia-GTX-980-vs-AMD-RX-5700-XT/2576vs4045]
+[23:07:31] Jannaa a déverrouillé le succès [Roc des Salbatroces].
+[23:07:31] Valkery-Sos a déverrouillé le succès [Roc des Salbatroces].
+[23:07:32] Ireelia a déverrouillé le succès [Roc des Salbatroces].
+[23:07:44] (Alliance) Larnaqueur : Bonne nuit tout le monde !
+[23:07:50] (Guilde) Interiall : comment je peux détaclé le proto avec mon panda tank ?
+[23:07:58] (Guilde) Vavax-Xea : Un allié
+[23:08:13] (Guilde) Vavax-Xea : Avec Frero je lui mettais peur all tours
+[23:08:26] (Guilde) Ireelia : mh mais il faut pas etre loin du panda alors
+[23:08:43] tonton-du-bahu (Heiiden-I) est en ligne.
+[23:08:44] (Guilde) Vavax-Xea : Si le panda le tacle ça pose pas de problèmes
+[23:09:26] (Guilde) Interiall : 179 de tacle plus ceinture dame jesihca ca devrait le faire je pense
+[23:09:43] (Guilde) Vavax-Xea : T'as les moyens dis moi
+[23:10:00] (Guilde) Ireelia : je sors d'un hack de quel moyen me parle tu ?
+[23:10:08] (Guilde) Vavax-Xea : Dame jess x')
+[23:10:32] (Guilde) Jannaa : c'est rien c'est la rue on vend du shit !
+[23:10:40] de II-Frero-XeniO-II : top ^^ mais pour les FPS, il y a pas une histoire avec l'ecran aussi?
+[23:11:00] (Guilde) Vavax-Xea : Bah pour un gars qui vient de la rue avoir une ceinture dame jess tu t'en sors pas trop mal
+[23:11:09] (Guilde) Vavax-Xea : J'ai jamais vu un mendiant avec une rolex
+[23:11:42] (Guilde) Ireelia : beh merci la quete ddg hein :)
+[23:12:00] (Guilde) Vavax-Xea : Ah oui tu t'es mis bien alors
+[23:12:18] (Guilde) Valkery-Sos : oui ça va ça va :)
+[23:12:32] (Guilde) Vavax-Xea : En vrai ça rapporte trop les quêtes / succés
+[23:12:53] (Guilde) Jannaa : il y a que ça de vrai mtn
+[23:13:15] (Guilde) Vavax-Xea : Non là je reconnais
+[23:13:18] (Guilde) Vavax-Xea : Tu me trolls
+[23:18:31] (Guilde) Jannaa : choqué sale une ils ont tué mon panda tank T_T
+[23:18:42] (Guilde) Graou-Matou : dur
+[23:18:52] (Guilde) Graou-Matou : un peu fragile le panpan :c
+[23:18:57] (Guilde) Jannaa : ils tape du -500 sur du 50% T_T
+[23:19:19] (Guilde) Vavax-Xea : Bizarre?
+[23:19:49] (Guilde) Vavax-Xea : ça fait beaucoup 500
+[23:20:00] (Guilde) Interiall : en un coup et il tape 2 fois par tour
+[23:20:07] (Guilde) Vavax-Xea : Ah si
+[23:20:11] (Guilde) Vavax-Xea : Il tape en fonction des pv érodés
+[23:20:14] (Guilde) II-Frero-XeniO-II : faut enlever les idoles*
+[23:20:20] (Guilde) II-Frero-XeniO-II : XD
+[23:20:29] (Guilde) Valkery-Sos : ah beh ça doit etre ça mdr
+[23:20:43] (Guilde) Vavax-Xea : O_o
+[23:20:45] (Guilde) II-Frero-XeniO-II : lol courage, il ets vraiment pas drole ce donjon &gt;&lt;
+[23:21:01] (Guilde) Vavax-Xea : Frero? x'D
+[23:21:04] (Guilde) II-Frero-XeniO-II : enfin, certains, s'en sorte mieux que d'autres xD*
+[23:21:11] (Guilde) Vavax-Xea : On a mis moins de 5 tentas pour Barbare et Statue x'D
+[23:21:11] (Guilde) Jannaa : j'était tout content je me suis dit trop bien jevais pouvoir le faire easy avec mon nouveau panda mdrrr tozz
+[23:21:17] (Guilde) Vavax-Xea : Sans la technique autowin élio x'D
+[23:21:43] (Guilde) II-Frero-XeniO-II : il y a les feca qui peuvent soloter aussi .... mais bon tout une stat a adopter lol
+[23:21:46] (Guilde) Interiall : vous etes trop chaud en pvm moi je débute dans le game
+[23:22:04] (Guilde) Vavax-Xea : T'as pas fais avec la technique de solotage féca pour le score?
+[23:22:17] (Guilde) II-Frero-XeniO-II : et non, jaime faire compliqué moi
+[23:22:30] (Guilde) Vavax-Xea : Bah si c'est passé c'était peut être mieux
+[23:22:36] (Guilde) II-Frero-XeniO-II : je regarde si jai le susu au passage*
+[23:22:43] (Guilde) Vavax-Xea : Oui tu l'as
+[23:22:50] (Guilde) II-Frero-XeniO-II : merci ^^
+[23:23:00] (Guilde) Vavax-Xea : x'D
+[23:23:21] (Guilde) Vavax-Xea : Tkt tu l'as fias juste après barbare / statue
+[23:23:28] (Guilde) Vavax-Xea : Tant que t'étais chaud dessus
+[23:23:32] (Guilde) Vavax-Xea : Et avant les doubles boss
+[23:24:11] (Guilde) II-Frero-XeniO-II : me rappele plus de tout les details mdr
+[23:24:29] (Guilde) Vavax-Xea : Tkt j'suis un agenda
+[23:24:39] (Guilde) Vavax-Xea : (Du tout)
+[23:25:12] Vavax-Xea a déverrouillé le succès [Abraknydiens Sombres].
+[23:25:17] (Guilde) II-Frero-XeniO-II : non, mais c'et bien les screens en fait ^^
+[23:25:29] (Guilde) Vavax-Xea : Pourquoi?
+[23:25:46] (Guilde) II-Frero-XeniO-II : ça fait plus de souvenirs xd
+[23:25:54] (Guilde) Vavax-Xea : Ah oui
+[23:28:26] (Guilde) Interiall : eh comment ça j'ai le rube ???
+[23:28:34] (Guilde) Interiall : je pensais etre vacciné u_u
+[23:28:39] (Guilde) Interiall : pire que le corona cette merde
+[23:28:55] (Guilde) Vavax-Xea : J'te souhaite + le rube que le corona perso
+[23:29:19] (Guilde) Ireelia : ah beh ça c'est clair mais je ocmprend pas ça fait des semaines je l'ai pas eu alors que jai fait tout fri
+[23:29:51] (Guilde) Vavax-Xea : Tu as fais la quete définitive ou temporaire?
+[23:35:31] (Guilde) Vavax-Xea : Sam Sagaz [3,-14]
+[23:35:38] (Guilde) Vavax-Xea : L'avis de cité du jour
+[23:35:41] (Guilde) Vavax-Xea : Quelqu'un?
+[23:36:02] (Guilde) II-Frero-XeniO-II : ha
+[23:36:14] (Guilde) II-Frero-XeniO-II : alignement lvl 0, ça passe?
+[23:36:25] (Guilde) Vavax-Xea : Oui mais y'a des gens qui attendaient sur la map
+[23:36:28] (Guilde) Vavax-Xea : Bon bah on est 8
+[23:36:41] Un membre de votre guilde, Shan-Do-Stormrage, est en ligne.
+[23:36:42] (Guilde) II-Frero-XeniO-II : pgv ;)
+[23:40:35] (Guilde) Vavax-Xea : [23:40] Emme-Samourai : gl hf je suis pvm x'DDD
+[23:42:14] (Guilde) Vavax-Xea : Le PvP avec et sans ivoire ébène c'est plus le même jeu
+[23:44:25] (Guilde) Vavax-Xea : Quel plaisir de pouvoir faire tomber les joueurs 200 sans ivoire ébène x'D
+[23:46:11] (Guilde) II-Frero-XeniO-II : :p
+[23:46:34] (Guilde) Vavax-Xea : Et de 2 x')
+[23:46:41] (Guilde) II-Frero-XeniO-II : c'est trop fort quand meme &gt;&lt;
+[23:46:54] (Guilde) II-Frero-XeniO-II : et l'equilibrage des classes on en parle?^^
+[23:47:04] (Guilde) II-Frero-XeniO-II : les sacri bientot RE nerf xd
+[23:47:05] (Guilde) Vavax-Xea : Tu trouves ça trop fort xel en 1v1? x'D
+[23:47:08] (Guilde) Vavax-Xea : Normal x'D
+[23:47:14] (Guilde) II-Frero-XeniO-II : mdrr
+[23:47:17] (Guilde) II-Frero-XeniO-II : les pauvre
+[23:47:39] (Guilde) II-Frero-XeniO-II : Oh mais :s
+[23:47:50] (Guilde) II-Frero-XeniO-II : le nouveau dofus avec la maj pandala de juillet...
+[23:47:54] (Guilde) II-Frero-XeniO-II : j'y pense
+[23:48:11] (Guilde) Vavax-Xea : Oui?
+[23:48:18] (Guilde) II-Frero-XeniO-II : il y a un bonus a optenir sur les domages occasionné a partir du T5
+[23:48:41] (Guilde) II-Frero-XeniO-II : Si et seulement Si, on evite d'occasionner des dmg jusqu'au T5
+[23:49:12] Vous avez perdu 450 kamas.
+[23:49:14] (Guilde) Vavax-Xea : En PvP j'suis pas convaincu
+[23:49:21] (Guilde) II-Frero-XeniO-II : / tour il y a 3 niveau 1,2, et 3frappe pour reussir a grapillier des dmg finaux (disponible au T5)
+[23:49:26] (Guilde) II-Frero-XeniO-II : non plus...
+[23:49:37] (Guilde) II-Frero-XeniO-II : ça sadresserai plus aux classe invocatrices
+[23:49:52] (Guilde) Vavax-Xea : J'vais perdre :'ccccc
+[23:49:52] (Guilde) II-Frero-XeniO-II : osa, sadi, ...
+[23:50:01] Fekin souhaite téléporter tout le groupe devant : Laboratoire de Brumen Tinctorias.
+[23:50:04] (Guilde) II-Frero-XeniO-II : mais !!! sur un roublard....
+[23:50:24] (Guilde) II-Frero-XeniO-II : tu me diras qu'il en a pas besoin lol
+[23:50:32] (Guilde) Vavax-Xea : En PvM il peut être cool
+[23:50:37] (Guilde) II-Frero-XeniO-II : mais bon, jpense que ça peut etre viable aussi
+[23:50:38] (Guilde) Vavax-Xea : Toutes classes
+[23:50:42] (Guilde) Vavax-Xea : Go spect x')
+[23:50:46] (Guilde) Vavax-Xea : C'est tendu
+[23:50:57] (Guilde) II-Frero-XeniO-II : bah c'est difficile de ne pas rush... jusqu'au T5 c'est long
+[23:51:21] (Guilde) II-Frero-XeniO-II : mais tu vas lavoir c'est sur
+[23:51:22] (Guilde) Vavax-Xea : Merde je parlais et j'ai foiré le seul tour
+[23:51:26] (Guilde) Vavax-Xea : Où tu regardais :'c
+[23:51:27] (Guilde) II-Frero-XeniO-II : hey !
+[23:51:31] (Guilde) Vavax-Xea : Pas sûr
+[23:51:35] (Guilde) II-Frero-XeniO-II : mais tas ivoire/ebene, tricheur xD
+[23:51:37] (Guilde) Vavax-Xea : Là je débuff il perd la vita
+[23:51:39] (Guilde) Vavax-Xea : Oui j'ai x'D
+[23:51:46] (Guilde) Vavax-Xea : Mais j't'ai dis je tombe des 200 qui en ont pas :b
+[23:51:54] (Guilde) Vavax-Xea : Après j'ai 2 600 de vita contre des joueurs à 4400
+[23:52:03] (Guilde) II-Frero-XeniO-II : GG ^^
+[23:52:19] (Guilde) Vavax-Xea : Merci!
+[23:52:24] (Guilde) II-Frero-XeniO-II : tkt, jsais que tu le fais sans soucis lol
+[23:52:37] (Guilde) Vavax-Xea : De?
+[23:52:54] (Guilde) II-Frero-XeniO-II : tomber des 200 sans meme avoir besoin des dofus
+[23:53:00] (Guilde) Vavax-Xea : Sisi x')
+[23:53:12] (Guilde) Vavax-Xea : En vrai les stuffs 200 te rendent super fort aussi
+[23:54:01] (Guilde) II-Frero-XeniO-II : limite les stuff 19X ça rox plus, mais les resists sont limitées^^
+[23:54:21] (Guilde) Vavax-Xea : Pourquoi tu taperais + avec des stuffs 190? ^^'
+[23:55:19] Kinex a fait échouer le challenge Elémentaire.
+[23:55:19] Kinex a fait échouer le challenge Mystique.
+[23:55:21] (Guilde) II-Frero-XeniO-II : hum
+[23:55:29] (Guilde) II-Frero-XeniO-II : c'était ptetre avant en fait lol
+[23:55:31] (Guilde) Vavax-Xea : C'est le contraire, en fait tu gagnes en stats et en vita
+[23:55:32] 6 secondes ajoutées au prochain tour de jeu.
+[23:55:41] Vous avez gagné 36 320 points d'expérience.
+[23:55:47] (Guilde) II-Frero-XeniO-II : a lepoque, dans la voie eau, tu arrivais a avoir plus de chance/dmg qu'au lvl 200
+[23:55:48] (Guilde) Vavax-Xea : Là j'ai des résis de level 200
+[23:55:50] Des monstres attaquent Pandubin (Laboratoire de Brumen Tinctorias - Deuxième salle).
+[23:56:19] (Guilde) II-Frero-XeniO-II : :p
+[23:56:22] Arc du Chalœil équipé.
+[23:56:29] (Guilde) Vavax-Xea : Dragoeuf + Ementaire
+[23:57:03] Fekin a fait échouer le challenge Tueur à gages.
+[23:57:34] 4 secondes ajoutées au prochain tour de jeu.
+[23:57:46] (Guilde) Vavax-Xea : Ah peut être
+[23:57:52] (Guilde) Vavax-Xea : Les items de la pano d'incarnation?
+[23:58:27] (Guilde) II-Frero-XeniO-II : non meme pas , jsais plus :s c'était a base de pano glaciale+ ....
+[23:58:34] (Guilde) II-Frero-XeniO-II : + danator !
+[23:58:43] (Guilde) Vavax-Xea : J'ai pas le niveau ^^'
+[23:58:57] Vous avez gagné 64 736 points d'expérience.
+[23:59:23] Pour des raisons de maintenances, le serveur va être redémarré dans environ 9 heures.
+[00:00:34] Des monstres attaquent Pandubin (Laboratoire de Brumen Tinctorias - Troisième salle).
+[00:01:16] (Guilde) Vavax-Xea : ça date de quelle époque?
+[00:01:48] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[00:01:55] Fekin a fait échouer le challenge Nomade.
+[00:02:12] Terminez votre tour avec le bouton [Fin de tour].
+[00:02:50] (Guilde) II-Frero-XeniO-II : avant la zone abyssale et ilyzaelle sans doute ^^
+[00:03:22] Kinex a fait échouer le challenge Mains propres.
+[00:03:29] (Guilde) II-Frero-XeniO-II : jme perd avec tout ces nouveaux contenus mdrr
+[00:03:34] (Guilde) Vavax-Xea : Pour moi ça a toujours été x'DD
+[00:03:36] (Guilde) II-Frero-XeniO-II : c'est vieux en fait ça ^^
+[00:03:36] 1 seconde ajoutée au prochain tour de jeu.
+[00:04:01] (Guilde) Vavax-Xea : J'me doute
+[00:04:05] (Guilde) Vavax-Xea : Je réalise pas l'âge du jeu
+[00:04:07] (Guilde) Vavax-Xea : Je pense
+[00:04:24] (Guilde) II-Frero-XeniO-II : jpense surtout c'est c'est trop facile d'up 200 d nos jours ^^
+[00:04:38] (Guilde) Vavax-Xea : Et pas besoin de PL!
+[00:04:46] Vous avez gagné 45 154 points d'expérience.
+[00:04:59] (Guilde) II-Frero-XeniO-II : y avait pas les succées avant lol
+[00:05:10] (Guilde) II-Frero-XeniO-II : lol le lvl max c'était lvl 100
+[00:05:10] (Guilde) Vavax-Xea : Les idoles surtout
+[00:05:24] (Guilde) Vavax-Xea : x'D
+[00:05:26] (Guilde) II-Frero-XeniO-II : on y arrivait au bout de 200ans en general
+[00:05:32] (Guilde) II-Frero-XeniO-II : 2ans*
+[00:05:37] (Guilde) II-Frero-XeniO-II : nuance*
+[00:05:40] (Guilde) Vavax-Xea : x'DDDD
+[00:05:53] Vavax-Xea a déverrouillé le succès [Abraknyde Ancestral (Premier)].
+[00:05:53] Vavax-Xea a déverrouillé le succès [Domaine Ancestral].
+[00:05:53] Vavax-Xea a déverrouillé le succès [Abraknyde Ancestral (Duo)].
+[00:05:53] Vavax-Xea a déverrouillé le succès [Abraknyde Ancestral (Score 68)].
+[00:05:53] Vavax-Xea a déverrouillé le succès [Abraknyde Ancestral (Score 200)].
+[00:05:54] Kinex a fait échouer le challenge Mains propres.
+[00:06:06] (Guilde) Vavax-Xea : HEIN
+[00:06:09] (Guilde) Vavax-Xea : J'AI PAS NOMADE
+[00:06:12] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[00:06:22] (Guilde) II-Frero-XeniO-II : mdrrr
+[00:06:32] (Guilde) Vavax-Xea : Fuuuck j'vais devoir le refaire
+[00:06:33] (Guilde) II-Frero-XeniO-II : non, mais t'enerve pas...
+[00:06:37] (Guilde) II-Frero-XeniO-II : GG quand meme :p
+[00:07:21] (Guilde) Vavax-Xea : Tkt c'est un donjon 90 ^^
+[00:07:23] (Guilde) II-Frero-XeniO-II : serieux javance pas dans lelevage, ça me soule de trier
+[00:07:29] (Guilde) Vavax-Xea : :/
+[00:07:39] Vous avez gagné 65 308 points d'expérience.
+[00:07:50] (Guilde) II-Frero-XeniO-II : c'est pour optimiser les revenu, mais bon, si ça se vends pas..
+[00:07:57] (Guilde) Kinex : donne les moi je vais m'en occuper x)
+[00:07:58] (Guilde) Vavax-Xea : Parchos?
+[00:08:03] (Guilde) Vavax-Xea : Cornes de volk?
+[00:08:18] (Guilde) Vavax-Xea : Du coup je suis à 1 point des 4000 '--
+[00:08:19] (Guilde) II-Frero-XeniO-II : vovo* mais jorriante les races vers se qui est le plus convoités
+[00:08:49] (Guilde) II-Frero-XeniO-II : xD on m'as toujorus dit que le moindre kamas est important
+[00:09:00] (Guilde) Vavax-Xea : On t'as bien dit
+[00:09:12] Terminez votre tour avec le bouton [Fin de tour].
+[00:09:18] (Guilde) II-Frero-XeniO-II : jvous PL pour 1kamas si vous voulez
+[00:09:34] (Guilde) Vavax-Xea : Même si tu me donnais 1 million je refuserais :')
+[00:09:50] (Guilde) II-Frero-XeniO-II : meme pas en reve :p
+[00:10:01] (Guilde) Vavax-Xea : x'D
+[00:10:04] (Guilde) II-Frero-XeniO-II : jdonnerai pas 1kamas xD trop precieux
+[00:10:34] (Guilde) Vavax-Xea : Tkt de toute façon je suis pas un stockeur
+[00:10:44] (Guilde) Vavax-Xea : J'ai trop d'items à refaire
+[00:10:56] Terminez votre tour avec le bouton [Fin de tour].
+[00:10:56] (Guilde) II-Frero-XeniO-II : t'as trop d'item :s
+[00:11:04] (Guilde) Vavax-Xea : Bien moins que toi ;)
+[00:11:11] Kinex a fait échouer le challenge Le temps qui court.
+[00:11:41] (Guilde) II-Frero-XeniO-II : pas toujours etait le cas, en plus la je melange les stuffs de tout les persos, c'est un de ces bordels !!
+[00:12:26] (Guilde) Vavax-Xea : Des items craft / fm par moi même j'en ai 111 pile poil, il me manque quelques items do crit / ceinture glacial / al glours PM / arc chaloeil / brisage PA coiffe volk et casque drag à faire
+[00:12:31] (Guilde) Vavax-Xea : Et brisage PA sur ceinture glaciale
+[00:12:35] (Guilde) II-Frero-XeniO-II : genre ça, jmen sert pas, mais ça pourra ptetre servir un jour ! [Écharpe de Servitude]
+[00:12:47] (Guilde) Vavax-Xea : Crois moi que t'es bien assez riche x'D
+[00:12:49] (Guilde) II-Frero-XeniO-II : ha bah tiens, FM par ecudor, javais pas vu... je garde !
+[00:12:58] (Guilde) Vavax-Xea : C'est qui?
+[00:13:24] (Guilde) II-Frero-XeniO-II : un des meneurs de Colossus
+[00:13:39] (Guilde) II-Frero-XeniO-II : ou Colo suce pour les intimes :/
+[00:13:42] (Guilde) Vavax-Xea : ça me dit un truc
+[00:13:44] Pandubin a fait échouer le challenge Ni pioutes ni soumises.
+[00:13:45] Vous avez gagné 99 849 points d'expérience.
+[00:13:45] Quête mise à jour : [Histoire de chiens]
+[00:13:51] Quête mise à jour : [Histoire de chiens]
+[00:13:51] Succès déverrouillé : [Nelween (Anachorète)]
+[00:13:51] Fekin a déverrouillé le succès [Nelween (Anachorète)].
+[00:13:51] Succès déverrouillé : [Entre chien et loup]
+[00:13:51] Fekin a déverrouillé le succès [Entre chien et loup].
+[00:13:51] (Guilde) Vavax-Xea : J'crois que je leur tapais des percos aussi
+[00:13:57] (Guilde) II-Frero-XeniO-II : mdrr
+[00:14:02] (Guilde) Vavax-Xea : Et je valide pas ta blague x'D
+[00:14:17] (Guilde) II-Frero-XeniO-II : t'as bien raison, mais c'est pas ma blague a moi xd
+[00:14:37] (Guilde) Vavax-Xea : Un mec quand j'ai tapé hyperscame m'a dit
+[00:14:41] (Guilde) Vavax-Xea : Alcooliques sans frontières
+[00:14:45] (Guilde) II-Frero-XeniO-II : si tu revends tout ça, t'es bien plus riche que moi :s
+[00:14:48] (Guilde) Vavax-Xea : C'est vieux ça, c'était une guilde sur Raval
+[00:15:06] (Guilde) Vavax-Xea : Non j'crois pas, j'ai estimé mon compte à 950M bas prix
+[00:15:13] (Guilde) Vavax-Xea : 1Mia max
+[00:15:17] (Guilde) II-Frero-XeniO-II : ha ben non en fait, jsais pas de quel serveur ils sortent
+[00:15:26] (Guilde) Vavax-Xea : J'sais pas si c'était raval hein
+[00:15:30] (Guilde) Vavax-Xea : Il m'a donné un serv
+[00:15:32] (Guilde) Vavax-Xea : J'suis pas sûr
+[00:15:59] (Guilde) II-Frero-XeniO-II : jconnais pas tout de raval non plus, il y avait quelques guildes discrete aussi :p
+[00:16:14] (Guilde) Vavax-Xea : Ah?
+[00:16:15] (Guilde) Vavax-Xea : Tu sais que
+[00:16:18] (Guilde) Vavax-Xea : Avec le xélor
+[00:16:29] (Guilde) Vavax-Xea : Je génère 500 000 par jours facile
+[00:16:41] (Guilde) Vavax-Xea : J'étais à 0 quand j'suis venu deçu après mes échecs d'exos
+[00:16:44] (Guilde) Vavax-Xea : Je suis à 5M2
+[00:16:47] (Guilde) Vavax-Xea : Sans vendre
+[00:16:51] (Guilde) II-Frero-XeniO-II : &gt;&lt;
+[00:17:00] (Guilde) Vavax-Xea : Donc sans compter toutes les ressources que je génère en full idoles
+[00:17:05] (Guilde) Vavax-Xea : J'ai drop 5 viandes rares cette semaine
+[00:17:17] (Guilde) II-Frero-XeniO-II : tu parle a un type qui a reussi qu'un seul exo dans sa vie tu sais :p
+[00:17:26] (Guilde) II-Frero-XeniO-II : apres 240tente, determiné !!
+[00:17:29] (Guilde) Vavax-Xea : Oui &gt;&lt;'
+[00:17:36] (Guilde) II-Frero-XeniO-II : mdrr
+[00:17:47] (Guilde) Vavax-Xea : Tu devrais réessayer en vrai x'D
+[00:17:54] (Guilde) Vavax-Xea : Battre mon record :b
+[00:17:56] (Guilde) II-Frero-XeniO-II : jai deja essayé :s
+[00:18:04] (Guilde) Vavax-Xea : Ah, combien d'échecs?
+[00:18:08] (Guilde) II-Frero-XeniO-II : 200tenta, sans resultat... jai laché laffaire lol
+[00:18:29] (Guilde) II-Frero-XeniO-II : a non, mais jai jamais eu de chance en fm
+[00:18:35] (Guilde) II-Frero-XeniO-II : n en rien en fait....
+[00:18:43] (Guilde) II-Frero-XeniO-II : ha si !!
+[00:18:52] (Guilde) Vavax-Xea : Tu vas bien?
+[00:18:54] (Guilde) Vavax-Xea : Respires!
+[00:19:03] (Guilde) II-Frero-XeniO-II : 1er Dark Vlard , feca monocompte lvl 70 ... drop emeraude :p
+[00:19:19] (Guilde) II-Frero-XeniO-II : echangé contre anneau meulou exo PA &lt;3
+[00:19:23] (Guilde) Vavax-Xea : :O
+[00:19:29] (Guilde) Vavax-Xea : Heu
+[00:19:42] (Guilde) Vavax-Xea : Rentable j'imagine x'D
+[00:19:56] (Guilde) Vavax-Xea : Tu sais que ça me désespère...
+[00:20:03] (Guilde) II-Frero-XeniO-II : ça vallait presque deux fois plus que le dofus a lepoque xD pui lemeraude donné que 80pv sans bonus supp
+[00:20:28] (Guilde) II-Frero-XeniO-II : ducoup, jai plus jamais drop d'autre dofus lol
+[00:20:30] (Guilde) Vavax-Xea : Les 400 échecs de la dernière fois avant de réussir, et là j'ai repris en me disant que j'allais avoir de la chance pour compenser, 101 échecs à nouveau, j'veux au moins réussir mon dragoeuf &gt;&lt;'
+[00:20:40] (Guilde) Vavax-Xea : 80 pv
+[00:20:43] (Guilde) Vavax-Xea : Quelle arnaque
+[00:20:51] (Guilde) Vavax-Xea : Bah après fallait le vouloir pour drop non?
+[00:20:52] (Guilde) II-Frero-XeniO-II : rune trans, ty a pensé?^^
+[00:21:05] (Guilde) Vavax-Xea : Bah pour atteindre le 13% all c'est compliqué à la trans :')
+[00:21:13] (Guilde) Vavax-Xea : Surtout qu'elles sont pas passables
+[00:21:21] (Guilde) II-Frero-XeniO-II : ha bah oui, les farm DV, DC, croca en arene, ça ne manquait pas
+[00:21:38] (Guilde) Vavax-Xea : Au total j'ai 4 items (Hors mon stuff do crit fm à moitié) que je dois exo PA... J'vais craquer
+[00:21:49] (Guilde) Vavax-Xea : Tu m'étonnes
+[00:21:56] (Guilde) Vavax-Xea : Et avec le vulbis tu pouvais devenir riche du jour au lendemain
+[00:22:05] (Guilde) Vavax-Xea : C'était débile un peu
+[00:22:07] (Guilde) II-Frero-XeniO-II : oui :s faut calculer le nombre de pv :s
+[00:22:24] (Guilde) Vavax-Xea : pv?
+[00:23:21] (Guilde) II-Frero-XeniO-II : ha non, pas besoin pour passer une Pa Ta vie (75pv je crois)
+[00:23:38] (Guilde) Vavax-Xea : Ahhh
+[00:23:45] (Guilde) II-Frero-XeniO-II : tu peux le mettre 200pv que ça passera
+[00:23:48] (Guilde) Vavax-Xea : Mais en fait l'exo PA tu le fais pour avoir les 13% all
+[00:23:57] (Guilde) Vavax-Xea : Tkt je gère le truc déjà :b
+[00:24:15] (Guilde) II-Frero-XeniO-II : ha, pas possible sinon?
+[00:24:24] (Guilde) II-Frero-XeniO-II : pour le 13% all? en fm normale
+[00:24:32] (Guilde) Vavax-Xea : Sans PA 12% all déjà c'est très bien
+[00:24:41] (Guilde) II-Frero-XeniO-II : ouep jimagine :s
+[00:24:45] (Guilde) Vavax-Xea : Généralement je passe un 11% all / +195 vita et je tente le PA
+[00:24:48] (Guilde) Vavax-Xea : ça s'enchaine assez vite
+[00:24:52] (Guilde) II-Frero-XeniO-II : faut vraiment avoir des critiques la
+[00:25:20] (Guilde) Vavax-Xea : Je t'avoue que c'est pas le truc que je préfère...
+[00:25:29] (Guilde) Vavax-Xea : A l'époque j'avais 1300/1400 GA PA
+[00:25:40] (Guilde) Vavax-Xea : J'dois être à 500 j'ai pas passé 3 items x'D
+[00:25:44] (Guilde) Vavax-Xea : Car les 400 tentas...
+[00:26:18] (Guilde) II-Frero-XeniO-II : Oo
+[00:26:31] (Guilde) II-Frero-XeniO-II : ça oui, c'est pire que tout, faut le dire lol
+[00:26:42] (Guilde) II-Frero-XeniO-II : mais t'as brisé quoi pour avoir tant de runes??
+[00:27:09] Un membre de votre guilde, Sawalou, est en ligne.
+[00:27:19] (Guilde) Vavax-Xea : Si j'ai passé 4 items en fait
+[00:27:22] (Guilde) Vavax-Xea : Ahah x'D
+[00:27:23] (Guilde) Vavax-Xea : De tout
+[00:27:35] (Guilde) Vavax-Xea : Je brise l'intégralité de mes items quand je up mes métiers de craft
+[00:27:43] (Guilde) Vavax-Xea : Alors bijoutier de 1 à 200 ça m'a mis bien
+[00:27:47] (Guilde) Vavax-Xea : Mais ça m'a couté cher
+[00:27:56] (Guilde) Vavax-Xea : 1 poumont et 1 testicule pour être exacte
+[00:29:54] (Guilde) II-Frero-XeniO-II : c'est mon premier metier...
+[00:30:20] (Guilde) II-Frero-XeniO-II : tout le monde faisait paysan, ou boulanger, lol ça ma mis 3ans :o
+[00:30:46] (Guilde) Vavax-Xea : Outch!
+[00:30:57] (Guilde) Vavax-Xea : Mais ça rapportait non?
+[00:31:21] (Guilde) II-Frero-XeniO-II : oué faire des craft c'était bien payé ^^
+[00:32:27] (Guilde) II-Frero-XeniO-II : suffisait de camp a l'atelier pour bien se depanner :p
+[00:32:37] (Guilde) Vavax-Xea : ¨¨
+[00:32:40] (Guilde) Vavax-Xea : ^^*
+[00:32:48] (Guilde) Vavax-Xea : Juste, y'a pas un filet à prendre pour le pollnectar?
+[00:32:51] (Guilde) Vavax-Xea : J'en trouve pas
+[00:33:11] (Guilde) II-Frero-XeniO-II : et oui -&gt; faut lire les info DS ^^
+[00:33:21] (Guilde) II-Frero-XeniO-II : un pnj 4/6 tu le donne
+[00:33:45] (Guilde) Vavax-Xea : Bah
+[00:33:49] (Guilde) Vavax-Xea : J'ai parlé à tout le monde je crois
+[00:34:00] (Guilde) II-Frero-XeniO-II : par contre, t'as pas d'informationd ans le tchat comme quoi tu las bien rcuperer
+[00:34:02] (Guilde) Vavax-Xea : J'fais 1M20 il m'a peut etre pas vu?
+[00:34:07] (Guilde) II-Frero-XeniO-II : donc regarde dans les objets de quete
+[00:34:13] (Guilde) Sawalou : regarde dans tes obj de quetes
+[00:34:24] (Guilde) Sawalou : je l'ai eu sans m'en apercevoir
+[00:34:28] (Guilde) Vavax-Xea : Ah bah je l'ai depuis 6 jours
+[00:34:32] (Guilde) II-Frero-XeniO-II : :p
+[00:34:35] (Guilde) Vavax-Xea : Il était au fond de l'inventaire, merci x')
+[00:34:47] (Guilde) II-Frero-XeniO-II : bah depuis le temps oui lol
+[00:35:03] (Guilde) Vavax-Xea : Mais je coris pas y être allé pourtant
+[00:35:07] (Guilde) Vavax-Xea : crois*
+[00:39:09] (Guilde) Vavax-Xea : Allez c'est parti pour 32 dents de chafer
+[00:39:15] (Guilde) Vavax-Xea : Je les déteste
+[00:39:50] (Guilde) II-Frero-XeniO-II : dur de commencer ce soir pour moi ducoup s
+[00:40:01] (Guilde) II-Frero-XeniO-II : jme suis lancé dans un truk la &gt;&lt; c'est trop long
+[00:40:07] (Guilde) Vavax-Xea : Ah, tu fais quoi?
+[00:41:11] (Guilde) II-Frero-XeniO-II : ma 6em heure sur levevage -____-
+[00:41:14] Un membre de votre guilde, Freccia-kheal, est en ligne.
+[00:41:30] (Guilde) Vavax-Xea : x'))))
+[00:50:13] Vous avez perdu 190 kamas.
+[00:51:32] (Guilde) Vavax-Xea : Dents finis
+[00:52:17] (Guilde) Vavax-Xea : Et quête 5 bidon
+[00:52:20] (Guilde) Vavax-Xea : Voilà
+[00:52:53] (Guilde) Vavax-Xea : 5 quêtes / jours ça semble fine
+[00:53:08] (Guilde) Vavax-Xea : Pas trop long mais on a pas non plus l'impression de faire du sur place
+[00:55:22] (Guilde) Vavax-Xea : J'vais dodo bonne nuit!
+[00:55:52] Un membre de votre guilde, Freccia-kheal, est en ligne.
+[00:57:58] Quête terminée : [Histoire de chiens]
+[00:57:58] Vous avez gagné 15 072 kamas.
+[00:57:58] Vous avez gagné 1 042 389 points d'expérience.
+[00:58:12] Nouvelle quête : [Le roman de Kitsoune]
+[00:58:12] Vous avez obtenu 1 '[Clef du Repaire de Daïgoro]'.
+[00:59:20] Pour des raisons de maintenances, le serveur va être redémarré dans environ 8 heures.
+[01:01:05] 1 x [Poudre explosive de Gourlo] (8 999 kamas)
+[01:01:07] 1 x [Poudre explosive de Gourlo] (8 999 kamas)
+[01:01:07] 1 x [Poudre explosive de Gourlo] (8 999 kamas)
+[01:01:11] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[01:01:11] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[01:01:12] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[01:01:12] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[01:01:13] 1 x [Poudre explosive de Gourlo] (9 000 kamas)

@@ -1,0 +1,313 @@
+[00:11:07] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[00:11:07] Précédente connexion sur ce compte : 14/11/2020 à 13:05
+[00:11:07] Annonce de guilde : Week 14-15 novembre XP metiers X2 !!! ~~~ Week 21-22 novembre XP x2 !!!! ~~~ Week 28-29 Trousseau de clefs ILLIMITE ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[00:11:07] Vous avez 8 contact(s) réciproque(s) connecté(s).
+[00:11:49] Kinex a annulé l'invitation de Miowi-Magus à rejoindre votre groupe.
+[00:14:33] Fekin souhaite téléporter tout le groupe devant : Canopée du Kimbo.
+[00:15:50] Échange effectué
+[00:17:02] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[00:17:02] Ensemble Ensemble 5 activé.
+[00:21:28] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Première salle).
+[00:22:17] Tank-plio a fait échouer le challenge Versatile.
+[00:23:12] 6 secondes ajoutées au prochain tour de jeu.
+[00:23:48] Roxeur-plio a fait échouer le challenge Chacun son monstre.
+[00:25:45] 8 secondes ajoutées au prochain tour de jeu.
+[00:27:51] 16 secondes ajoutées au prochain tour de jeu.
+[00:28:02] Vous avez gagné 4 825 091 points d'expérience.
+[00:28:14] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Deuxième salle).
+[00:29:12] Tank-plio a fait échouer le challenge Versatile.
+[00:30:49] 15 secondes ajoutées au prochain tour de jeu.
+[00:33:25] (Équipe) Roxeur-plio : Cellule 355
+[00:33:30] (Équipe) Roxeur-plio : Cellule 343
+[00:34:00] 12 secondes ajoutées au prochain tour de jeu.
+[00:36:46] 7 secondes ajoutées au prochain tour de jeu.
+[00:36:50] (Équipe) Kinex : Cellule 423
+[00:38:31] 16 secondes ajoutées au prochain tour de jeu.
+[00:39:13] 17 secondes ajoutées au prochain tour de jeu.
+[00:39:19] Vous avez gagné 7 054 602 points d'expérience.
+[00:39:35] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Troisième salle).
+[00:40:45] Fekin a fait échouer le challenge Anachorète.
+[00:43:07] 16 secondes ajoutées au prochain tour de jeu.
+[00:44:24] Pandubin a fait échouer le challenge Cruel.
+[00:46:17] 8 secondes ajoutées au prochain tour de jeu.
+[00:47:22] (Équipe) Roxeur-plio : Cellule 246
+[00:48:37] Vous avez gagné 5 633 348 points d'expérience.
+[00:48:48] Des monstres attaquent Oo-plionor (Canopée du Kimbo - Quatrième salle).
+[00:49:47] Kinex a fait échouer le challenge Intouchable.
+[00:50:12] Fekin a fait échouer le challenge Nomade.
+[00:51:49] 10 secondes ajoutées au prochain tour de jeu.
+[00:54:03] 17 secondes ajoutées au prochain tour de jeu.
+[00:55:30] Vous avez gagné 6 512 200 points d'expérience.
+[00:56:11] Grougalora-Luna(Miowi-Magus) est en ligne.
+[00:57:11] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[00:57:11] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[00:57:11] Remueur équipé.
+[00:57:11] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[00:57:11] Ensemble Terre PVMM activé.
+[00:58:34] Vous descendez de votre monture.
+[00:59:09] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Cinquième salle).
+[01:00:36] (Équipe) Tank-plio : Cellule 437
+[01:00:43] Pandubin a fait échouer le challenge Jardinier.
+[01:00:52] Un membre de votre guilde, Oracledb, est en ligne.
+[01:01:01] Range-ta-chambre(Mariadb) est en ligne.
+[01:01:17] Fekin a fait échouer le challenge Premier.
+[01:01:52] (Équipe) Oo-plionor : Cellule 435
+[01:02:03] (Équipe) Oo-plionor : Cellule 466
+[01:02:06] 12 secondes ajoutées au prochain tour de jeu.
+[01:02:11] (Équipe) Portail-plio : Cellule 243
+[01:02:11] (Équipe) Portail-plio : Cellule 242
+[01:04:22] 16 secondes ajoutées au prochain tour de jeu.
+[01:04:32] (Équipe) Portail-plio : Cellule 460
+[01:06:39] 21 secondes ajoutées au prochain tour de jeu.
+[01:07:39] (Équipe) Tank-plio : Cellule 301
+[01:07:40] (Équipe) Tank-plio : Cellule 300
+[01:08:01] (Équipe) Tank-plio : Cellule 507
+[01:08:03] (Équipe) Tank-plio : Cellule 480
+[01:08:05] (Équipe) Tank-plio : Cellule 491
+[01:08:09] (Équipe) Tank-plio : Cellule 491
+[01:08:17] (Équipe) Tank-plio : Cellule 491
+[01:08:42] (Équipe) Tank-plio : Cellule 468
+[01:09:34] 11 secondes ajoutées au prochain tour de jeu.
+[01:12:32] Nngubfe a déverrouillé le succès [Travailleur].
+[01:13:14] 10 secondes ajoutées au prochain tour de jeu.
+[01:14:03] (Équipe) Tank-plio : Cellule 383
+[01:14:03] (Équipe) Tank-plio : Cellule 370
+[01:14:22] (Équipe) Roxeur-plio : Cellule 491
+[01:14:35] (Équipe) Roxeur-plio : Cellule 491
+[01:14:39] (Équipe) Roxeur-plio : Cellule 491
+[01:15:09] (Équipe) Tank-plio : Cellule 373
+[01:15:11] (Équipe) Tank-plio : Cellule 416
+[01:15:15] (Équipe) Tank-plio : Cellule 416
+[01:15:20] (Équipe) Tank-plio : Cellule 416
+[01:15:49] Vous avez gagné 6 248 675 points d'expérience.
+[01:15:51] Pandubin a déverrouillé le succès [Kimbo (Statue)].
+[01:15:51] Fekin a déverrouillé le succès [Kimbo (Statue)].
+[01:15:51] Succès déverrouillé : [Kimbo (Statue)]
+[01:15:51] Arcalphine a déverrouillé le succès [Kimbo (Statue)].
+[01:16:59] Échange effectué
+[01:17:44] Échange effectué
+[01:18:34] Échange effectué
+[01:18:44] Objet reçu : 1 x [Chaussette du Kimbo]
+[01:18:44] Objets reçus : 10 x [Perruque du Kimbo]
+[01:18:44] Objet reçu : 1 x [Pierre précieuse du Kimbo]
+[01:18:44] Objets reçus : 10 x [Sphénoïde du Kimbo]
+[01:18:44] Vous avez gagné 2 282 028 points d'expérience.
+[01:18:44] Vous avez gagné 28 780 kamas.
+[01:19:18] Échange effectué
+[01:21:58] Vous avez désappris une attitude : Dofus Turquoise
+[01:21:58] Vous avez désappris une attitude : Dofus Pourpre
+[01:21:58] Bouclier Volant équipé.
+[01:21:59] Ensemble POD plus plus activé.
+[01:22:09] Vous avez perdu 20 kamas.
+[01:22:24] 10 x [Sphénoïde du Kimbo] (142 869 kamas)
+[01:22:28] 1 x [Sphénoïde du Kimbo] (14 660 kamas)
+[01:22:45] 10 x [Coco du Bitouf aérien] (76 887 kamas)
+[01:22:56] Vous avez perdu 20 kamas.
+[01:23:35] Vous avez créé 1 × [Arc Ontanporin] !
+[01:23:35] Votre métier [Sculpteur] passe niveau 178.,Vous obtenez 2 pods supplémentaires.
+[01:26:03] Vous avez créé 1 × [Rod Gerse] !
+[01:26:03] Votre métier [Sculpteur] passe niveau 179.,Vous obtenez 1 pods supplémentaires.
+[01:26:06] Vous avez créé 1 × [Baguette Nolog] !
+[01:26:06] Votre métier [Sculpteur] passe niveau 181.,Vous obtenez 2 pods supplémentaires.
+[01:27:03] Vous avez créé 1 × [Baguetterelle] !
+[01:27:03] Votre métier [Sculpteur] passe niveau 183.,Vous obtenez 2 pods supplémentaires.
+[01:27:27] Vous avez créé 1 × [Arc à Lamelles] !
+[01:27:27] Votre métier [Sculpteur] passe niveau 185.,Vous obtenez 2 pods supplémentaires.
+[01:27:37] Vous avez créé 2 × [Arc Hétype] !
+[01:27:37] Votre métier [Sculpteur] passe niveau 188.,Vous obtenez 3 pods supplémentaires.
+[01:28:40] Vous avez créé 1 × [Rhizome du Tynril] !
+[01:28:40] Votre métier [Sculpteur] passe niveau 190.,Vous obtenez 2 pods supplémentaires.
+[01:28:46] Vous avez créé 1 × [Baguette Hernelle] !
+[01:28:46] Votre métier [Sculpteur] passe niveau 191.,Vous obtenez 1 pods supplémentaires.
+[01:28:50] Vous avez créé 1 × [Bâton Brelle] !
+[01:28:50] Votre métier [Sculpteur] passe niveau 193.,Vous obtenez 2 pods supplémentaires.
+[01:28:54] Vous avez créé 1 × [Grésilosceptre] !
+[01:28:54] Votre métier [Sculpteur] passe niveau 194.,Vous obtenez 1 pods supplémentaires.
+[01:29:01] Vous avez créé 2 × [Baguette Hique] !
+[01:29:01] Votre métier [Sculpteur] passe niveau 198.,Vous obtenez 4 pods supplémentaires.
+[01:29:06] Vous avez créé 1 × [Rouleau à Pâtisserie d'Aermyne] !
+[01:29:06] Votre métier [Sculpteur] passe niveau 199.,Vous obtenez 1 pods supplémentaires.
+[01:29:59] Vous êtes désormais référencé dans la liste des artisans en tant que Sculpteur.
+[01:30:01] Vous êtes désormais référencé dans la liste des artisans en tant que Forgemage.
+[01:30:02] Vous n'êtes plus référencé en tant que Forgemage dans la liste des artisans.
+[01:30:03] Vous êtes désormais référencé dans la liste des artisans en tant que Mineur.
+[01:30:04] Vous êtes désormais référencé dans la liste des artisans en tant que Pêcheur.
+[01:31:15] (Guilde) Oracledb : Darma [-51,21]
+[01:32:42] Échange effectué
+[01:40:48] Des monstres attaquent Roxeur-plio ([-10,29]).
+[01:45:35] Des monstres attaquent Roxeur-plio ([-10,29]).
+[01:47:21] de Syber-Rz : slt t dispo pour craft sculpteur
+[01:47:29] de Syber-Rz : bonta
+[01:47:34] à Syber-Rz : Hello j'arrive
+[01:47:43] Vous avez perdu 40 kamas.
+[01:47:52] Vous avez perdu 20 kamas.
+[01:48:21] Vous avez créé 1 × [La Xyothine] pour Syber-Rz !
+[01:48:32] Vous avez créé 1 × [Baguette de Frigostine] pour Syber-Rz !
+[01:48:40] de Syber-Rz : gg 200
+[01:48:42] Vous avez créé 1 × [Bâton des Prophètes] pour Syber-Rz !
+[01:48:42] Votre métier [Sculpteur] passe niveau 200.,Vous obtenez 1 pods supplémentaires.
+[01:48:55] à Syber-Rz : MErci mon cher :)
+[01:48:59] Vous avez créé 1 × [Baguette Nolog] pour Syber-Rz !
+[01:49:07] Vous avez créé 1 × [Rouleau à Pâtisserie d'Aermyne] pour Syber-Rz !
+[01:49:16] de Syber-Rz : merci a toi bg
+[01:51:04] Vous n'êtes plus référencé en tant que Sculpteur dans la liste des artisans.
+[01:53:20] Vous avez perdu 20 kamas.
+[01:55:50] Un membre de votre guilde, Acril-Og, est en ligne.
+[01:55:52] Un membre de votre guilde, Acril-Shield, est en ligne.
+[01:55:52] Un membre de votre guilde, Acril-Heal, est en ligne.
+[01:55:55] Un membre de votre guilde, Acril-Mask, est en ligne.
+[01:55:57] Un membre de votre guilde, Acril-Fleep, est en ligne.
+[01:55:59] Un membre de votre guilde, Acril-Dwop, est en ligne.
+[01:56:02] Un membre de votre guilde, Acril-Heaven, est en ligne.
+[01:56:03] Un membre de votre guilde, Acril-Heli, est en ligne.
+[01:57:05] Échange effectué
+[01:59:10] Un membre de votre guilde, Oo-plionor, est en ligne.
+[01:59:37] '[Baleinabottes]' est retiré de votre ensemble air ougi.
+[01:59:37] '[Amulette du Granduk]' est retiré de votre ensemble air ougi.
+[01:59:37] '[Collier de Tourthon]' est retiré de vos ensembles Terre PVMM, capture pour Miowis.
+[01:59:38] '[Masque de Koutoulou]' est retiré de vos ensembles Terre PVMM, capture pour Miowis.
+[01:59:38] '[Anneau Tique]' est retiré de votre ensemble Ensemble 5.
+[01:59:39] '[Bouclier d'Ilyzaelle]' est retiré de votre ensemble air ougi.
+[01:59:40] '[Ceinture Volkorne]' est retiré de vos ensembles Terre PVMM, capture pour Miowis.
+[01:59:40] '[Amulette Volkorne]' est retiré de votre ensemble Stuff eau.
+[01:59:41] '[Anneau Volkorne]' est retiré de vos ensembles Stuff eau, Terre PVMM, capture pour Miowis.
+[01:59:41] '[Marteau R'ture]' est retiré de vos ensembles Terre PVMM, Ensemble 5.
+[01:59:41] '[Amulette du Strigide]' est retiré de votre ensemble feu.
+[01:59:42] '[Menoture]' est retiré de votre ensemble air ougi.
+[01:59:45] '[Cape Indescriptible]' est retiré de votre ensemble air ougi.
+[01:59:47] '[Alliance Gloursonne]' est retiré de vos ensembles Stuff eau, air ougi.
+[01:59:49] '[Cape au Logis]' est retiré de vos ensembles Terre PVMM, capture pour Miowis.
+[01:59:52] '[Anneau d'Allister]' est retiré de votre ensemble air ougi.
+[01:59:53] '[Sabots Minables]' est retiré de vos ensembles Terre PVMM, capture pour Miowis, Drop light.
+[02:00:15] '[Ceinture de Danathor]' est retiré de votre ensemble Ensemble 5.
+[02:00:18] '[Quatre-feuilles]' est retiré de vos ensembles Terre PVMM, Ensemble 5, capture pour Miowis, Drop light, feu.
+[02:00:23] '[Bottines des sous-bois]' est retiré de votre ensemble Ensemble 5.
+[02:00:31] '[Cadran d'Eau]' est retiré de votre ensemble Stuff eau.
+[02:00:32] '[Dofus Turquoise]' est retiré de vos ensembles Stuff eau, Terre PVMM, air ougi, capture pour Miowis, feu.
+[02:00:35] '[Cape du Minotot]' est retiré de vos ensembles Ensemble 5, Drop light.
+[02:00:36] '[Vigoureux majeur]' est retiré de vos ensembles Stuff eau, Terre PVMM, air ougi, capture pour Miowis, feu.
+[02:00:37] '[Taquin majeur]' est retiré de vos ensembles Stuff eau, Ensemble 5, Drop light.
+[02:00:39] '[Joueur majeur]' est retiré de votre ensemble Ensemble 5.
+[02:00:39] '[Chanceux majeur]' est retiré de vos ensembles Stuff eau, Ensemble 5.
+[02:00:41] '[Bracelet du Minotot]' est retiré de votre ensemble Ensemble 5.
+[02:00:42] '[Anneau Nobstant]' est retiré de votre ensemble Drop light.
+[02:00:55] '[Casque Dragoeuf]' est retiré de votre ensemble air ougi.
+[02:01:00] '[Dofus Pourpre]' est retiré de vos ensembles Stuff eau, Terre PVMM, air ougi, capture pour Miowis, Drop light, feu.
+[02:01:07] '[Dofus Kaliptus]' est retiré de vos ensembles Ensemble 5, Drop light.
+[02:01:09] '[Taquin]' est retiré de vos ensembles Ensemble 5, Drop light.
+[02:01:09] '[Dolmanax]' est retiré de vos ensembles Ensemble 5, air ougi, Drop light.
+[02:01:10] '[Remueur]' est retiré de vos ensembles Terre PVMM, air ougi, capture pour Miowis, feu.
+[02:01:30] '[Filet de capture de Dragodinde]' est retiré de votre ensemble capture pour Miowis.
+[02:01:32] '[Hurledent]' est retiré de votre ensemble Ensemble 5.
+[02:05:28] Un membre de votre guilde, Skull-Alpha, est en ligne.
+[02:18:00] XxX-NeOVodka-XxX(Neo-furiious) est en ligne.
+[02:21:45] Vous avez perdu 20 kamas.
+[02:22:14] Vous avez payé 798 kamas pour accéder à ce coffre.
+[02:24:23] Tarta-lafrez : Mais qu'y a-t-il donc de caché dans la tour de Gisgoul ?
+[02:27:14] XxX-NeOVodka-XxX(Neo-furiious) est en ligne.
+[02:30:11] Vous avez perdu 20 kamas.
+[02:31:18] Miowi-Magus a créé pour vous 59 × [Anguille Rôtie] !
+[02:32:29] Vous avez perdu 20 kamas.
+[02:34:34] Vous avez perdu 20 kamas.
+[02:34:44] 100 x [Dorade Grise] (4 190 kamas)
+[02:34:45] 100 x [Dorade Grise] (4 190 kamas)
+[02:34:49] 100 x [Dorade Grise] (4 198 kamas)
+[02:34:50] 100 x [Dorade Grise] (4 198 kamas)
+[02:34:50] 100 x [Dorade Grise] (4 198 kamas)
+[02:34:52] 100 x [Dorade Grise] (4 199 kamas)
+[02:34:53] 100 x [Dorade Grise] (4 199 kamas)
+[02:34:54] 100 x [Dorade Grise] (4 199 kamas)
+[02:34:55] 100 x [Dorade Grise] (4 199 kamas)
+[02:35:01] Vous avez perdu 20 kamas.
+[02:35:27] Miowi-Magus a créé pour vous 162 × [Dorade au four] !
+[02:36:51] Échange effectué
+[02:37:17] Miowi-Magus a créé pour vous 161 × [Perche Sautée] !
+[02:38:44] Échange effectué
+[02:39:03] Miowi-Magus a créé pour vous 160 × [Aile de Raie] !
+[02:39:51] Miowi-Magus a créé pour vous 54 × [Salace de Lotte] !
+[02:40:13] Vous avez perdu 20 kamas.
+[02:41:07] 100 x [Lotte] (12 990 kamas)
+[02:41:10] 100 x [Lotte] (12 990 kamas)
+[02:41:14] 100 x [Lotte] (12 992 kamas)
+[02:41:15] 100 x [Lotte] (12 992 kamas)
+[02:41:18] 100 x [Lotte] (12 993 kamas)
+[02:41:20] 100 x [Lotte] (12 994 kamas)
+[02:41:21] 100 x [Lotte] (12 994 kamas)
+[02:41:46] 100 x [Requin Marteau-Faucille] (9 730 kamas)
+[02:41:48] 100 x [Requin Marteau-Faucille] (9 737 kamas)
+[02:41:49] 100 x [Requin Marteau-Faucille] (9 737 kamas)
+[02:41:50] 100 x [Requin Marteau-Faucille] (9 738 kamas)
+[02:41:52] 100 x [Requin Marteau-Faucille] (9 739 kamas)
+[02:41:54] 100 x [Requin Marteau-Faucille] (9 740 kamas)
+[02:42:00] Vous avez perdu 20 kamas.
+[02:42:27] Miowi-Magus a créé pour vous 106 × [Salace de Lotte] !
+[02:42:42] Miowi-Magus a créé pour vous 160 × [Aileron de Requin] !
+[02:42:49] Miowi-Magus a déverrouillé le succès [La manufacture].
+[02:46:24] Invitation impossible actuellement.
+[02:46:24] Invitation impossible actuellement.
+[02:46:25] Invitation impossible actuellement.
+[02:46:34] de Miowi-Magus : Chasseur 49 51
+[02:47:42] de Miowi-Magus : Alchi 177 521
+[02:47:58] de Miowi-Magus : Mineur 39 808
+[02:48:17] de Miowi-Magus : Bubu 17 678
+[02:49:26] (Groupe) Kinex : 30 lin
+[02:49:57] (Groupe) Kinex : 120 lin
+[02:51:33] (Groupe) Kinex : 100 chanvre
+[02:55:50] Vous avez perdu 210 kamas.
+[02:56:29] Impossible d'empiler d'autres actions.
+[03:02:24] Vous avez gagné 321 points d'expérience.
+[03:04:36] 11 secondes ajoutées au prochain tour de jeu.
+[03:04:36] Kinex a fait échouer le challenge Barbare.
+[03:04:41] Vous avez gagné 295 points d'expérience.
+[03:08:26] Echange impossible car la cible est occupée.
+[03:08:41] Kinex : ça va les bots$
+[03:09:54] Vous avez obtenu 50 '[Chanvre]'.
+[03:09:55] Vous avez obtenu 50 '[Lin]'.
+[03:10:05] Vous avez obtenu 100 '[Huile à frire]'.
+[03:10:06] Vous avez obtenu 10 '[Poudre de Perlinpainpain]'.
+[03:10:08] Vous avez obtenu 10 '[Poudre de Perlinpainpain]'.
+[03:11:26] Échange effectué
+[03:12:23] Vous avez perdu 20 kamas.
+[03:13:39] Miowi-Magus a créé pour vous 78 × [Parmentier à l'Oignon] !
+[03:13:48] Miowi-Magus a créé pour vous 82 × [Terrine Bontarienne] !
+[03:13:56] Miowi-Magus a créé pour vous 81 × [Pot-au-feu Goûteux] !
+[03:14:03] Miowi-Magus a créé pour vous 82 × [Poêlée Paysanne] !
+[03:14:10] Miowi-Magus a créé pour vous 82 × [Pemmican aux Haricots] !
+[03:14:16] Miowi-Magus a créé pour vous 81 × [Grillade Brâkmarienne] !
+[03:14:24] Miowi-Magus a créé pour vous 82 × [Marinade Sucrée-Salée] !
+[03:14:31] Miowi-Magus a créé pour vous 82 × [Boudin Noir] !
+[03:14:38] Miowi-Magus a créé pour vous 81 × [Daube aux Épices] !
+[03:14:45] Miowi-Magus a créé pour vous 81 × [Mijoté Récréatif] !
+[03:14:53] Miowi-Magus a créé pour vous 79 × [Filet Mignon] !
+[03:15:04] Miowi-Magus a créé pour vous 80 × [Quenelle Tijan] !
+[03:15:16] Miowi-Magus a créé pour vous 65 × [Andouillette de Gibier] !
+[03:18:14] Vous avez perdu 20 kamas.
+[03:18:20] Vous avez payé 847 kamas pour accéder à ce coffre.
+[03:20:43] de Newde : dispo pecheur a brak bg
+[03:20:56] à Newde : Hello oui
+[03:21:02] à Newde : j'arrive
+[03:21:06] de Newde : cim cim
+[03:21:25] Vous avez perdu 20 kamas.
+[03:21:48] Vous avez créé 900 × [Salace de Lotte] pour Newde !
+[03:21:48] Votre métier [Pêcheur] passe niveau 169.,Vous obtenez 25 pods supplémentaires.
+[03:21:56] de Newde : merci chef bon jeu
+[03:22:06] à Newde : merci à toi :)
+[03:25:41] Vous êtes désormais référencé dans la liste des artisans en tant que Façonneur.
+[03:34:50] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[03:40:37] Vous avez perdu 150 kamas.
+[03:53:44] Banque : + 117 973 Kamas (vente : 1 [Aile de Vortex]).
+[03:53:45] Banque : + 117 973 Kamas (vente : 1 [Aile de Vortex]).
+[03:56:22] Banque : + 326 999 Kamas (vente : 10 [Rutile]).
+[03:59:45] Banque : + 12 999 Kamas (vente : 1 [Duvet de Bourdard]).
+[03:59:48] Banque : + 12 999 Kamas (vente : 1 [Duvet de Bourdard]).
+[04:00:28] Banque : + 129 228 Kamas (vente : 10 [Poudre glaciale]).
+[04:02:05] Échange effectué
+[04:04:46] Échange effectué
+[04:04:57] Vous avez perdu 20 kamas.
+[04:09:37] Vous avez perdu 20 kamas.
+[04:09:43] Vous avez payé 860 kamas pour accéder à ce coffre.
+[04:12:00] Vous avez perdu 20 kamas.
+[04:13:13] Banque : + 50 913 Kamas (vente : 1 [Pyrute]).
+[04:17:39] Banque : + 24 942 Kamas (vente : 1 [Coco du Bitouf Sombre]).
+[04:17:40] Banque : + 24 942 Kamas (vente : 1 [Coco du Bitouf Sombre]).
+[04:18:11] Banque : + 8 499 Kamas (vente : 1 [Souche de l'Abrakleur clair]).

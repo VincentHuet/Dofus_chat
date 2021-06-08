@@ -1,0 +1,613 @@
+[16:51:26] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[16:51:26] Précédente connexion sur ce compte : 12/07/2020 à 13:44
+[16:51:26] Annonce de guilde : Vulkania ouverte jusqu'au 1 septembre !! ~~~ Rejoignez donc le Discord alliance ! [https://discord.gg/edbENUD] ~~~ Zaap glandouille de la guilde : Port de Madrestam ~~~ Premiere refonte de Pandala: MAJ mercredi 15 juillet !
+[16:51:26] Annonce d'alliance : NOUVEAU DISCORD [https://discord.gg/edbENUD] Point de rencontre Zaap Pandala [-26,-37] | AVA FAUBOURGS DE PANDALA DIMANCHE 18H
+[16:51:27] Vous avez 3 contact(s) réciproque(s) connecté(s).
+[16:51:29] Le point de repère [-42,-17] a été ajouté sur la carte Labyrinthe du Minotoror.
+[16:51:44] Grougalorafaust (Pandubin) est en ligne.
+[16:51:50] (Guilde) Galaxos : ca me fais tellement capoter, tout les items demande des galets brasi
+[16:51:56] (Guilde) Galaxos : scuser , montée de lait
+[16:52:19] (Guilde) Kinex : Allô ?
+[16:52:21] (Guilde) Kinex : ^^"
+[16:52:24] Un membre de votre guilde, Athena-heaal, est en ligne.
+[16:52:32] Un membre de votre guilde, Athen-sang, est en ligne.
+[16:52:33] Un membre de votre guilde, Athena-cheat, est en ligne.
+[16:52:34] Un membre de votre guilde, Athen-roxx, est en ligne.
+[16:52:37] (Guilde) Galaxos : bon matin :)
+[16:52:40] Un membre de votre guilde, Athen-dwop, est en ligne.
+[16:52:49] Un membre de votre guilde, Athen-pilou, est en ligne.
+[16:52:49] Un membre de votre guilde, Athena-palm, est en ligne.
+[16:53:07] (Guilde) Suaht : bien le mlatin^
+[16:53:12] (Guilde) Kinex : le matin de 16h50 ? x)
+[16:53:20] (Guilde) Galaxos : 10h53 ^^
+[16:53:26] (Guilde) Suaht : 11h53
+[16:53:47] (Guilde) Kinex : Kaliss
+[16:53:52] (Guilde) Galaxos : tabernacle
+[16:54:06] (Guilde) Kinex : zetes tous de l'autre coté de l'atlantique
+[16:54:09] (Guilde) Kinex : ^^^"
+[16:54:29] (Guilde) Kinex : t'es ou toi Suaht ?
+[16:54:33] (Guilde) Kinex : antilles ?
+[16:54:41] (Guilde) Suaht : argentina papa :)
+[16:54:51] (Guilde) Kinex : ah ^^"
+[16:55:21] (Guilde) Suaht : En quarentena !
+[16:55:36] (Guilde) Kinex : ça fait lontemps que vous êtes dans ASF ?
+[16:55:53] (Guilde) Kinex : j'ai l'impression qu'on s'est jamais vu ^^"
+[16:56:12] (Guilde) Suaht : NAN NOUVEAU POUR MA PART^
+[16:56:58] (Guilde) Kinex : et tu joue sur Ush depuis longtemps ?
+[16:57:09] Un membre de votre guilde, Athena-palm, est en ligne.
+[16:57:15] Un membre de votre guilde, Athen-pilou, est en ligne.
+[16:57:16] (Guilde) Suaht : oui mais j ai repris il y a peu
+[16:57:27] (Guilde) Kinex : j'avais cru qu'en Amérique du sud les gens jouai sur 1.29
+[16:57:52] (Guilde) Kinex : ( que c'était réservé aux sud-américains à la base )
+[16:58:02] (Guilde) Suaht : je sais pas, j ai commencé a jouer j étais tjrs en france:)
+[16:58:45] (Guilde) Kinex : mais t'es Argentin ou français ? ^^"
+[16:58:58] (Guilde) Suaht : francais par dit
+[16:59:13] (Guilde) Kinex : je trouvais que tu parlais particulièrmeent bien ^^^"
+[16:59:30] Quête mise à jour : [Taures et détours]
+[16:59:30] (Guilde) Suaht : ca fait 3 ans que je vis ici
+[16:59:42] (Guilde) Cinqgars : que biennn
+[16:59:46] (Guilde) Kinex : et tu fais quoi là bas? :)
+[16:59:59] (Guilde) Galaxos : il fait de la COCAINNNE
+[17:00:04] (Guilde) Suaht : Y si papito^^
+[17:02:15] Quête mise à jour : [Taures et détours]
+[17:02:15] Vous avez obtenu 1 '[Potion d'Apisaphé]'.
+[17:03:31] Quête mise à jour : [Taures et détours]
+[17:12:20] Zoom-surlinvoc a déverrouillé le succès [Calanques d'Astrub].
+[17:14:36] Zoom-surlinvoc a déverrouillé le succès [Pichons].
+[17:17:07] Zoom-surlinvoc a déverrouillé le succès [Mob l'Eponge (Score 15)].
+[17:17:07] Zoom-surlinvoc a déverrouillé le succès [Mob l'Eponge (Score 200)].
+[17:17:07] Zoom-surlinvoc a déverrouillé le succès [Château Ensablé].
+[17:17:07] Zoom-surlinvoc a déverrouillé le succès [Mob l'Eponge (Anachorète)].
+[17:17:07] Zoom-surlinvoc a déverrouillé le succès [Mob l'Eponge (Versatile)].
+[17:17:07] Galaxos a déverrouillé le succès [Mob l'Eponge (Score 15)].
+[17:17:07] Galaxos a déverrouillé le succès [Mob l'Eponge (Score 200)].
+[17:23:21] Zoom-surlinvoc a déverrouillé le succès [Vilinsekts].
+[17:27:45] Zoom-surlinvoc a déverrouillé le succès [Cache de Kankreblath].
+[17:27:46] Zoom-surlinvoc a déverrouillé le succès [Kankreblath (Dernier)].
+[17:27:46] Zoom-surlinvoc a déverrouillé le succès [Kankreblath (Score 30)].
+[17:27:46] Zoom-surlinvoc a déverrouillé le succès [Kankreblath (Score 200)].
+[17:27:46] Zoom-surlinvoc a déverrouillé le succès [Kankreblath (Collant)].
+[17:27:46] Galaxos a déverrouillé le succès [Kankreblath (Score 30)].
+[17:27:46] Galaxos a déverrouillé le succès [Kankreblath (Score 200)].
+[17:30:14] walid931500 (Zx-gerrier) est en ligne.
+[17:44:31] walid931500 (Zx-gerrier) est en ligne.
+[18:00:13] Votre zone « [Faubourgs de Pandala] » est vulnérable. Vous pouvez la défendre.
+[18:07:16] Zombiere a déverrouillé le succès [Grozilla et Grasmera Somnambules (Chrono)].
+[18:07:16] Zombiere a déverrouillé le succès [Grozilla et Grasmera Somnambules (Statue)].
+[18:07:16] Zombiere a déverrouillé le succès [Grozilla et Grasmera Somnambules (Mains propres)].
+[18:07:16] Zombiere a déverrouillé le succès [Cratère Minus Somnambule].
+[18:10:57] (Alliance) Lulox : on est en ava contre EDD [25,-38] pour ceux qui veulent
+[18:11:43] tonton-du-bahu (Heiiden-I) est en ligne.
+[18:12:25] Mariadb a déverrouillé le succès [Dazak Martegel (Score 150)].
+[18:12:25] Mariadb a déverrouillé le succès [Dazak Martegel (Score 200)].
+[18:13:57] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[18:13:57] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[18:13:57] Ensemble Terre PVMM activé.
+[18:14:00] Arc du Chalœil équipé.
+[18:14:36] Fekin a fait échouer le challenge Elémentaire.
+[18:15:13] 2 secondes ajoutées au prochain tour de jeu.
+[18:18:57] 1 seconde ajoutée au prochain tour de jeu.
+[18:19:33] Vous avez gagné 1 827 753 points d'expérience.
+[18:21:32] de Masque de Koutoulou : Tu peux me commander une pizza pour changer ?
+[18:21:36] 6 secondes ajoutées au prochain tour de jeu.
+[18:23:02] Terminez votre tour avec le bouton [Fin de tour].
+[18:24:15] Fekin a fait échouer le challenge Mains propres.
+[18:24:53] Terminez votre tour avec le bouton [Fin de tour].
+[18:25:05] de Masque de Koutoulou : Joli coup, bravo.
+[18:26:36] Vous avez gagné 689 636 points d'expérience.
+[18:29:30] (Alliance) Gjoh : pour ceux qui le veulent Takomako [26,33]
+[18:31:00] Un membre de votre guilde, Vavax-Xea, est en ligne.
+[18:31:12] L'alliance [PTZ] a défendu la zone « [Faubourgs de Pandala] ».
+[18:31:31] (Guilde) Vavax-Xea : Bonsoir
+[18:31:52] (Guilde) Vavax-Xea : COUCOU LES LOULOUS
+[18:36:24] Bouclier Volant équipé.
+[18:36:24] Ensemble POD plus plus activé.
+[18:40:22] (Alliance) Hupper-boubou : j'ai 2 places pour un klime score
+[18:42:14] ghduejfkd (Nexuzya) est en ligne.
+[18:42:39] Vous avez perdu 1 '[Relique du Déminoboule]'.
+[18:42:39] Vous avez perdu 1 '[Relique du Mominotor]'.
+[18:42:39] Quête mise à jour : [Taures et détours]
+[18:43:00] (Alliance) Yersiniapastis : re*
+[18:43:04] (Alliance) Lulox : re
+[18:43:07] (Alliance) Ladylina : re
+[18:43:10] (Alliance) Yersiniapastis : le serveur a crash non?
+[18:43:15] (Alliance) Ladylina : no
+[18:43:17] (Alliance) Lulox : non non
+[18:43:27] (Alliance) Yersiniapastis : chelou
+[18:43:39] (Alliance) Yersiniapastis : ducoup tjh chaud pour le KLIME
+[18:44:24] (Alliance) Hupper-boubou : personne d'autre pour klime score?
+[18:44:35] (Alliance) Lulox : nn merci
+[18:48:36] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[18:48:36] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[18:48:37] Ensemble Terre PVMM activé.
+[18:48:38] (Alliance) Yersiniapastis : hupper re
+[18:48:39] Ensemble Ensemble 5 activé.
+[18:48:49] (Alliance) Hupper-dada : il a quoi ton pc:')
+[18:48:57] Pandubin a fait échouer le challenge Versatile.
+[18:50:02] 2 secondes ajoutées au prochain tour de jeu.
+[18:50:28] (Alliance) Ladylina : y'a une tp merka?
+[18:50:33] de Bouclier du Stalak : J'ai faim, donne-moi à manger ou je dévore les objets de ton inventaire.
+[18:51:10] Fekin a fait échouer le challenge Cruel.
+[18:51:32] Terminez votre tour avec le bouton [Fin de tour].
+[18:51:54] Vous avez perdu 2000 points d'énergie.
+[18:52:58] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[18:52:58] Ensemble Terre PVMM activé.
+[18:53:03] Arc du Chalœil équipé.
+[18:53:33] de Cape au Logis : J'ai faim, donne-moi à manger ou je dévore les objets de ton inventaire.
+[18:56:09] ghduejfkd (Nexuzya) est en ligne.
+[18:57:43] Vous avez obtenu 10 '[Poudre Temporelle]'.
+[18:57:44] Vous avez obtenu 10 '[Poudre Temporelle]'.
+[18:57:45] Vous avez obtenu 10 '[Poudre Temporelle]'.
+[18:57:46] Vous avez obtenu 10 '[Poudre Temporelle]'.
+[18:57:47] Vous avez obtenu 10 '[Poudre Temporelle]'.
+[18:57:48] Vous avez obtenu 50 '[Mandragore]'.
+[18:57:49] Vous avez obtenu 50 '[Orchidée Freyesque]'.
+[18:57:50] Vous avez obtenu 50 '[Orchidée Freyesque]'.
+[18:57:51] Vous avez obtenu 50 '[Orchidée Freyesque]'.
+[18:57:52] Vous avez obtenu 50 '[Kobalte]'.
+[18:57:53] Vous avez obtenu 50 '[Bois d'Oliviolet]'.
+[18:59:17] Vous avez récupéré 50 points de vie.
+[18:59:18] Vous avez récupéré 50 points de vie.
+[18:59:19] Vous avez récupéré 50 points de vie.
+[18:59:21] Vous avez récupéré 50 points de vie.
+[19:00:21] Vous avez récupéré 950 PV.
+[19:00:33] de Bouclier du Stalak : Je crois encore au Minotoboule de Nowel et toi ?
+[19:02:11] Terminez votre tour avec le bouton [Fin de tour].
+[19:02:27] Vous avez perdu 2000 points d'énergie.
+[19:03:06] walid931500 (Zx-gerrier) est en ligne.
+[19:03:11] Ensemble d'idoles n°2 activé.
+[19:03:22] Vous avez récupéré 50 points de vie.
+[19:03:23] Vous avez récupéré 50 points de vie.
+[19:05:04] ghduejfkd (Nexuzya) est en ligne.
+[19:10:33] de Cape au Logis : Tu sais ce qu'il y connaît aux femmes Allister ? Rien.
+[19:13:51] Un membre de votre guilde, Interiall, est en ligne.
+[19:14:44] (Guilde) Interiall : hello les bg
+[19:15:34] Ensemble d'idoles n°2 activé.
+[19:15:39] Vous avez récupéré 1050 PV.
+[19:17:18] Pandubin a fait échouer le challenge Versatile.
+[19:17:50] 5 secondes ajoutées au prochain tour de jeu.
+[19:19:40] Un membre de votre guilde, Zoom-surlinvoc, est en ligne.
+[19:19:41] Un membre de votre guilde, Galaxos, est en ligne.
+[19:23:33] de Bouclier du Stalak : Je crois encore au Minotoboule de Nowel et toi ?
+[19:26:59] 3 secondes ajoutées au prochain tour de jeu.
+[19:26:59] Vous avez gagné 4 344 985 points d'expérience.
+[19:26:59] Quête mise à jour : [Taures et détours]
+[19:27:01] Fekin a déverrouillé le succès [Minotoror (Anachorète)].
+[19:27:01] Fekin a déverrouillé le succès [Minotoror (Mains propres)].
+[19:27:01] Fekin a déverrouillé le succès [Minotoror (Score 90)].
+[19:27:01] Fekin a déverrouillé le succès [Minotoror (Score 200)].
+[19:27:01] Pandubin a déverrouillé le succès [Minotoror (Anachorète)].
+[19:27:01] Pandubin a déverrouillé le succès [Minotoror (Mains propres)].
+[19:27:01] Pandubin a déverrouillé le succès [Minotoror (Score 90)].
+[19:27:01] Pandubin a déverrouillé le succès [Minotoror (Score 200)].
+[19:27:01] Succès déverrouillé : [Centre du Labyrinthe du Minotoror]
+[19:27:01] Succès déverrouillé : [Minotoror (Anachorète)]
+[19:27:01] Succès déverrouillé : [Minotoror (Mains propres)]
+[19:27:01] Succès déverrouillé : [Minotoror (Score 90)]
+[19:27:01] Succès déverrouillé : [Minotoror (Score 200)]
+[19:28:49] frxzombie (Zombiere) est en ligne.
+[19:30:03] Zoom-surlinvoc a déverrouillé le succès [Boostache (Score 30)].
+[19:30:03] Zoom-surlinvoc a déverrouillé le succès [Boostache (Score 200)].
+[19:30:03] Zoom-surlinvoc a déverrouillé le succès [Boostache (Anachorète)].
+[19:30:03] Zoom-surlinvoc a déverrouillé le succès [Boostache (Dernier)].
+[19:30:03] Zoom-surlinvoc a déverrouillé le succès [Maison Fantôme].
+[19:30:03] Galaxos a déverrouillé le succès [Boostache (Score 30)].
+[19:30:03] Galaxos a déverrouillé le succès [Boostache (Score 200)].
+[19:30:18] (Alliance) Jurzah : Un oeil alli 5 dispo please ?
+[19:32:34] de Masque de Koutoulou : C'est pas l'heure de faire tes devoirs par hasard ?
+[19:35:41] Zoom-surlinvoc a déverrouillé le succès [Kwakeres].
+[19:35:41] Zoom-surlinvoc a déverrouillé le succès [Bwaks].
+[19:35:41] Zoom-surlinvoc a déverrouillé le succès [En plein vol].
+[19:38:46] (Alliance) Interiall : Fantôme Tanukouï San [33,-48] c'est rare ça quand meme
+[19:38:58] aerdala-akwadala (Gautama) est en ligne.
+[19:44:26] Un membre de votre guilde, Suaht, est en ligne.
+[19:46:26] (Guilde) Suaht : re^
+[19:46:43] Un membre de votre guilde, Bled-artt, est en ligne.
+[19:47:06] Un membre de votre guilde, Shaktyy, est en ligne.
+[19:47:36] de Bouclier du Stalak : C'est pas l'heure de faire tes devoirs par hasard ?
+[19:48:35] (Alliance) Lucie-Wilde : Yo
+[19:55:38] Zoom-surlinvoc a déverrouillé le succès [Corailleur Magistral (Hardi)].
+[19:55:38] Zoom-surlinvoc a déverrouillé le succès [Corailleur Magistral (Blitzkrieg)].
+[19:55:44] aerdala-akwadala (Gautama) est en ligne.
+[19:56:23] Handa-cbf (Vrelitao) est en ligne.
+[19:58:34] Un membre de votre guilde, Athena-skull, est en ligne.
+[19:58:38] Un membre de votre guilde, Athen-roxx, est en ligne.
+[19:58:43] Un membre de votre guilde, Athen-sang, est en ligne.
+[19:58:52] Un membre de votre guilde, Athena-heaal, est en ligne.
+[19:59:11] walid931500 (Zx-gerrier) est en ligne.
+[19:59:24] Galaxos a déverrouillé le succès [Première édition de donjons].
+[20:00:03] Noxxo (Nokko) est en ligne.
+[20:02:37] de Cape au Logis : J'ai faim !
+[20:03:21] Zoom-surlinvoc a déverrouillé le succès [Première édition de donjons].
+[20:17:29] (Alliance) Supraze : salut, des gens dispo pour un combat de chasse ? quete alli 86 svp ?
+[20:17:37] de Masque de Koutoulou : Certains aventuriers racontent que parler à proximité des zones de pêche fait fuir les poissons...
+[20:22:04] walid931500 (Zx-gerrier) est en ligne.
+[20:28:28] (Alliance) Rokhen : Salut l'alli !
+[20:28:34] (Alliance) Lulox : hello
+[20:28:48] (Alliance) Rokhen : la forme? :)
+[20:28:54] (Alliance) Lulox : cv et toi
+[20:28:59] (Alliance) Rokhen : putain j'ai pris un coup de soleil
+[20:29:00] (Alliance) Rokhen : de dieu
+[20:29:04] (Alliance) Shimuri : mdr
+[20:29:18] (Alliance) Rokhen : carbo comme une vieille chipolata qui a trainé trop longtemps sur le barbec
+[20:29:22] (Alliance) Shimuri : Salut Rokhen
+[20:29:51] (Alliance) Rokhen : demain j'anime un meeting a la caméra, je vais être beau !
+[20:30:17] (Alliance) Oomomo-fecaoO : costume?
+[20:30:26] (Alliance) Rokhen : nan t'shirt
+[20:30:30] Vous entendez un bruit de voile qui se déchire... un personnage apparaît dans la pièce !
+[20:30:30] Quête mise à jour : [Taures et détours]
+[20:30:33] (Alliance) Rokhen : c'est pas avec client
+[20:30:36] (Alliance) Oomomo-fecaoO : degueu x)
+[20:30:36] (Alliance) Rokhen : interne
+[20:30:43] (Alliance) Oomomo-fecaoO : meme xD
+[20:30:54] (Alliance) Rokhen : bah tout le monde fait home office
+[20:31:00] (Alliance) Rokhen : osef des costumes
+[20:31:35] (Alliance) Oomomo-fecaoO : tous a poil !
+[20:31:36] (Alliance) Lulox : c un peu années hasbeen le costume au travail de tte manière dans 80% des cas
+[20:31:48] (Alliance) Rokhen : a poil ! la bite a la main
+[20:31:54] (Alliance) Rokhen : carrément
+[20:31:54] (Alliance) Lulox : -années
+[20:32:16] (Alliance) Rokhen : sauf dans les banques, et encore
+[20:32:28] (Alliance) Lulox : sauf dans certains gros groupes quoi ouais
+[20:32:35] Quête terminée : [Taures et détours]
+[20:32:35] Vous avez gagné 40 272 kamas.
+[20:32:35] Vous avez gagné 3 883 723 points d'expérience.
+[20:32:35] Objets reçus : 5 x [Poils du Minotoror]
+[20:32:35] Objets reçus : 5 x [Carapace de Scaratos]
+[20:32:36] Nouvelle quête : [Le trésor de Totankama]
+[20:32:36] Vous avez obtenu 1 '[Tofu Maudit]'.
+[20:32:36] Le point de repère [-6,-3] a été ajouté sur la carte Monde principal.
+[20:33:00] (Alliance) Rokhen : après c'est français de mettre des costumes
+[20:33:05] (Alliance) Rokhen : les américains s'en balec
+[20:33:12] (Alliance) Rokhen : chemise manches courtes, eux
+[20:33:53] (Alliance) Faally : ben quand tu te promene aux usa ya tout plein de gens en costume '-'
+[20:34:24] (Alliance) Rokhen : si t'as des rdv clients, ouais
+[20:34:46] (Alliance) Rokhen : mais surtout a New York, t'as la bourse
+[20:35:14] (Alliance) Lulox : moi j'ai mes bourses et personne en costume je gomprends po
+[20:35:39] (Alliance) Rokhen : pardon?
+[20:35:45] (Alliance) Rokhen : :p
+[20:35:51] (Alliance) Lulox : :(:(
+[20:37:38] de Masque de Koutoulou : J'ai faim, donne-moi à manger ou je dévore les objets de ton inventaire.
+[20:39:02] Des monstres attaquent Pandubin (Salle du Minotot).
+[20:40:14] Pandubin a fait échouer le challenge Zombie.
+[20:41:31] 2 secondes ajoutées au prochain tour de jeu.
+[20:42:51] de Masque de Koutoulou : Tu pourrais obtenir un coup critique avec "Nourrissement des objets", s'il te plait ?
+[20:43:34] (Alliance) Whis-tler : Bonjour :)
+[20:43:39] (Alliance) Lulox : hello !
+[20:44:23] (Alliance) Rokhen : Saluut
+[20:45:50] Pandubin a fait échouer le challenge Zombie.
+[20:45:51] Vous avez perdu 2000 points d'énergie.
+[20:49:01] (Alliance) Momo-Ledormeur : qui en ai a la quete emeraude?
+[20:49:29] (Guilde) Kinex : re
+[20:49:37] (Guilde) Suaht : yoo
+[20:51:18] (Alliance) Katty-Pery : des gens savent faire de la poterie ?
+[20:51:38] (Alliance) Nekomamuchy : j'ai bien ma ptite idée :)
+[20:51:43] (Alliance) Lulox : je
+[20:51:46] (Alliance) Lulox : non
+[20:51:52] (Alliance) Lulox : mais je peux apprendre pour toi katy
+[20:52:47] (Alliance) Lulox : ça me permettra de te resculpter la gueule
+[20:53:04] (Alliance) Momo-Ledormeur : +1
+[20:53:07] (Alliance) Katty-Pery : je veux qu'on fasse ca ensemble et que nos mains se touchent
+[20:53:12] (Alliance) Lulox : nn
+[20:53:29] (Alliance) Katty-Pery : mhh g le kiki tt dur rien que d'y penser
+[20:53:36] (Alliance) Lulox : je ne mange pas de ce pain là
+[20:53:56] (Alliance) Katty-Pery : erf
+[20:55:22] Le joueur Roxeur-plio est déjà dans votre groupe.
+[20:55:38] de Cape au Logis : Tu sais quoi ? Non, rien.
+[20:56:06] Vous avez perdu 900 kamas.
+[20:56:31] Vous avez perdu 80 kamas.
+[20:57:31] Le voyage de monture a été interrompu.
+[20:57:34] Ceinture Volkorne équipé.
+[20:57:34] Ensemble Terre PVMM activé.
+[20:57:35] Bouclier Volant équipé.
+[20:57:35] Ensemble POD plus plus activé.
+[20:57:40] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[20:57:50] Vous êtes arrivé à destination !
+[20:58:57] Roxeur-plio souhaite téléporter tout le groupe devant : Canopée du Kimbo.
+[21:01:05] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Première salle).
+[21:01:14] Un membre de votre guilde, Stiles-heart, est en ligne.
+[21:01:18] Ensemble d'idoles n°5 activé.
+[21:01:35] (Équipe) Roxeur-plio : Cellule 129
+[21:01:51] Pandubin a fait échouer le challenge Statue.
+[21:02:37] 4 secondes ajoutées au prochain tour de jeu.
+[21:04:15] 2 secondes ajoutées au prochain tour de jeu.
+[21:05:44] Vous avez gagné 690 225 points d'expérience.
+[21:08:22] Un membre de votre guilde, Stiles-tempo, est en ligne.
+[21:09:25] Un membre de votre guilde, Stiles-heart, est en ligne.
+[21:12:10] walid931500 (Zx-gerrier) est en ligne.
+[21:12:18] Un membre de votre guilde, Galaxos, est en ligne.
+[21:12:24] (Alliance) Lulox : [21:10] Yaozai a déverrouillé le succès [Grozilla et Grasmera (Chrono)].
+[21:12:27] (Alliance) Lulox : tiens tiens tiens
+[21:12:29] (Alliance) Lulox : g&amp;g est ouvert
+[21:12:59] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Deuxième salle).
+[21:13:00] (Alliance) Nekomamuchy : y'a des bagarres de partougou
+[21:13:02] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[21:13:02] Ensemble Terre PVMM activé.
+[21:13:25] Un membre de votre guilde, Zoom-surlinvoc, est en ligne.
+[21:13:27] (Alliance) Sehdo : chut
+[21:13:30] Ensemble Ensemble 5 activé.
+[21:13:47] (Alliance) Lulox : nn sehdommage :(
+[21:14:08] (Alliance) Sehdo : on peux faire d'la pub ici ?
+[21:14:22] (Alliance) Nekomamuchy : Faut que je woin woin
+[21:15:12] Terminez votre tour avec le bouton [Fin de tour].
+[21:16:20] Pandubin a fait échouer le challenge Anachorète.
+[21:16:54] Kinex a fait échouer le challenge Sursis.
+[21:17:05] 3 secondes ajoutées au prochain tour de jeu.
+[21:17:39] (Alliance) Yaozai : C'est ouvert depuis une semaine nan ? ^^
+[21:18:10] (Alliance) Yaozai : T'es frustré parce que je t'ai pas carry le donjon ?
+[21:18:40] Vous avez gagné 609 184 points d'expérience.
+[21:18:49] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Troisième salle).
+[21:18:53] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[21:18:53] Ensemble Terre PVMM activé.
+[21:19:02] Arc du Chalœil équipé.
+[21:19:50] Fekin a fait échouer le challenge Barbare.
+[21:21:02] 2 secondes ajoutées au prochain tour de jeu.
+[21:21:19] de Cape au Logis : Un piou n'aurait pas fait mieux.
+[21:21:58] (Équipe) Roxeur-plio : Cellule 191
+[21:23:07] Kinex a fait échouer le challenge Ordonné.
+[21:23:10] 1 seconde ajoutée au prochain tour de jeu.
+[21:23:42] Vous avez gagné 666 046 points d'expérience.
+[21:23:49] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Quatrième salle).
+[21:25:51] Kinex a fait échouer le challenge Ordonné.
+[21:25:57] 4 secondes ajoutées au prochain tour de jeu.
+[21:28:23] Pandubin a fait échouer le challenge Le temps qui court.
+[21:28:55] Vous avez gagné 735 256 points d'expérience.
+[21:30:15] La zone « [Quartier des Forgerons] » est vulnérable. Vous pouvez tenter de la conquérir.
+[21:30:15] La zone « [Forêt de Pandala] » est vulnérable. Vous pouvez tenter de la conquérir.
+[21:30:15] La zone « [Plage de Corail] » est vulnérable. Vous pouvez tenter de la conquérir.
+[21:30:22] (Alliance) Nekomamuchy : GO
+[21:30:37] walid931500 (Zx-crraterre) est en ligne.
+[21:30:48] (Alliance) Lulox : nn mais ça va pas
+[21:30:53] (Alliance) Lulox : on va pas prendre foret de pandala
+[21:30:58] (Alliance) Lulox : ça va 2mn les zones de merde
+[21:31:03] (Alliance) Nekomamuchy : Moi je prends tout
+[21:31:21] (Alliance) Lulox : oui mais non après on se mange des zones inutiles qui bouffent les pepites
+[21:31:33] (Alliance) Nekomamuchy : Ok on va où
+[21:31:47] Des monstres attaquent Roxeur-plio (Canopée du Kimbo - Cinquième salle).
+[21:31:50] Vous avez récupéré 349 PV.
+[21:32:08] (Alliance) Lulox : bah y'a pas d'ava prevue ce soir
+[21:33:10] walid931500 (Zx-gerrier) est en ligne.
+[21:34:12] (Alliance) Elodeurdus : Hello
+[21:34:15] (Alliance) Lulox : cc
+[21:35:09] Fekin a fait échouer le challenge Tueur à gages.
+[21:35:09] Fekin a fait échouer le challenge Ni pioutes ni soumises.
+[21:35:55] de Masque de Koutoulou : Un piou n'aurait pas fait mieux.
+[21:36:28] 3 secondes ajoutées au prochain tour de jeu.
+[21:37:21] (Équipe) Roxeur-plio : Cellule 372
+[21:38:02] (Équipe) Roxeur-plio : Cellule 427
+[21:38:31] Protecte-mon vient de rejoindre le combat en spectateur.
+[21:38:58] (Équipe) Roxeur-plio : Cellule 410
+[21:39:34] (Équipe) Roxeur-plio : Cellule 386
+[21:39:41] Protecte-mon vient de rejoindre le combat en spectateur.
+[21:40:38] (Équipe) Roxeur-plio : Cellule 303
+[21:40:49] (Équipe) Roxeur-plio : Cellule 330
+[21:41:55] (Équipe) Roxeur-plio : Cellule 411
+[21:42:02] (Équipe) Roxeur-plio : Cellule 438
+[21:42:04] (Équipe) Roxeur-plio : Cellule 438
+[21:42:06] (Équipe) Roxeur-plio : Cellule 411
+[21:42:57] (Équipe) Roxeur-plio : Cellule 422
+[21:43:01] 2 secondes ajoutées au prochain tour de jeu.
+[21:43:33] (Équipe) Roxeur-plio : Cellule 465
+[21:43:52] (Équipe) Roxeur-plio : Cellule 423
+[21:43:55] (Équipe) Roxeur-plio : Cellule 451
+[21:44:36] (Équipe) Roxeur-plio : Cellule 381
+[21:44:44] (Équipe) Roxeur-plio : Cellule 395
+[21:44:50] (Équipe) Roxeur-plio : Cellule 410
+[21:44:53] (Équipe) Roxeur-plio : Cellule 408
+[21:44:54] 2 secondes ajoutées au prochain tour de jeu.
+[21:45:07] (Alliance) Lulox : je déco à demain
+[21:45:09] Vous avez gagné 2 481 342 points d'expérience.
+[21:45:09] Quête mise à jour : [Tour de main]
+[21:45:11] Quête mise à jour : [Tour de main]
+[21:45:11] Fekin a déverrouillé le succès [Canopée du Kimbo].
+[21:45:11] Pandubin a déverrouillé le succès [Canopée du Kimbo].
+[21:45:11] Succès déverrouillé : [Canopée du Kimbo]
+[21:45:16] (Alliance) Katty-Pery : aurevoir
+[21:45:19] (Alliance) Momo-Ledormeur : ++
+[21:46:05] Échange annulé
+[21:46:07] Bouclier Volant équipé.
+[21:46:08] Ensemble POD plus plus activé.
+[21:46:24] Échange effectué
+[21:59:34] L'alliance [OSN] a capturé la zone « [Quartier des Forgerons] ».
+[22:00:15] L'alliance [MEMO] a défendu la zone « [Forêt de Pandala] ».
+[22:05:15] L'alliance [MEMO] a défendu la zone « [Plage de Corail] ».
+[22:09:18] (Alliance) Mr-Haboray : re les gens
+[22:14:45] Le percepteur Barve Do'Beron est attaqué en -50,23
+[22:15:11] (Alliance) Rokhen : en koli
+[22:17:01] Le percepteur Barve Do'Beron attaqué en -50,23 n'a pas survécu !
+[22:17:07] (Alliance) Mr-Haboray : Percepteur de LES GROSSES PIOUTES [-8,-41] Percepteur de LES GROSSES PIOUTES [-8,-42] perco de l'alli qui attaque
+[22:18:31] Zoom-surlinvoc a déverrouillé le succès [Plage de la Tortue].
+[22:21:01] Galaxos a déverrouillé le succès [Forêt des Masques].
+[22:21:01] Galaxos a déverrouillé le succès [Sur la plage abandonnée...].
+[22:22:23] Zoom-surlinvoc a déverrouillé le succès [Forêt des Masques].
+[22:23:17] Cette action n'est pas autorisée sur cette carte.
+[22:29:54] Un membre de votre guilde, Galaxos, est en ligne.
+[22:30:15] La zone « [La Bourgade] » est vulnérable. Vous pouvez tenter de la conquérir.
+[22:30:47] Un membre de votre guilde, Zoom-surlinvoc, est en ligne.
+[22:32:57] (Alliance) Elodeurdus : on recrute un 200 pour koli chill :) (Enarde et moi)
+[22:33:15] (Alliance) Mr-Haboray : je viens de lancer une chasse :/
+[22:35:22] Zoom-surlinvoc a déverrouillé le succès [Kannibouls].
+[22:35:22] Galaxos a déverrouillé le succès [Kannibouls].
+[22:35:29] (Alliance) Black-deimonx : salut 2 personne de chaude pour faire comte razof ?
+[22:36:16] (Alliance) Elodeurdus : je l'ai fait y'a pas longtemps désolé
+[22:36:55] (Alliance) Black-deimonx : :/
+[22:37:09] Range-ta-chambre (Mariadb) est en ligne.
+[22:38:59] Zoom-surlinvoc a déverrouillé le succès [Kanniboul Ebil (Score 45)].
+[22:38:59] Zoom-surlinvoc a déverrouillé le succès [Kanniboul Ebil (Score 200)].
+[22:38:59] Zoom-surlinvoc a déverrouillé le succès [Kanniboul Ebil (Zombie)].
+[22:38:59] Zoom-surlinvoc a déverrouillé le succès [Kanniboul Ebil (Premier)].
+[22:38:59] Zoom-surlinvoc a déverrouillé le succès [Village Kanniboul].
+[22:38:59] Galaxos a déverrouillé le succès [Kanniboul Ebil (Score 45)].
+[22:38:59] Galaxos a déverrouillé le succès [Kanniboul Ebil (Score 200)].
+[22:38:59] Galaxos a déverrouillé le succès [Kanniboul Ebil (Zombie)].
+[22:38:59] Galaxos a déverrouillé le succès [Kanniboul Ebil (Premier)].
+[22:38:59] Galaxos a déverrouillé le succès [Village Kanniboul].
+[22:50:37] Vous avez obtenu 10 '[Citron]'.
+[22:50:38] Vous avez obtenu 10 '[Citron]'.
+[22:50:39] Vous avez obtenu 10 '[Huile à frire]'.
+[22:51:42] Vous avez perdu 20 kamas.
+[22:54:10] Zoom-surlinvoc a déverrouillé le succès [Îlot de la Couronne].
+[22:55:40] 1 x [Poudre explosive de Gourlo] (11 997 kamas)
+[22:55:41] 1 x [Poudre explosive de Gourlo] (11 997 kamas)
+[22:55:42] 1 x [Poudre explosive de Gourlo] (11 997 kamas)
+[22:55:44] 1 x [Poudre explosive de Gourlo] (11 998 kamas)
+[22:55:45] 1 x [Poudre explosive de Gourlo] (11 998 kamas)
+[22:55:46] 1 x [Poudre explosive de Gourlo] (11 998 kamas)
+[22:55:47] 1 x [Poudre explosive de Gourlo] (11 998 kamas)
+[22:55:48] 1 x [Poudre explosive de Gourlo] (11 998 kamas)
+[22:55:51] 1 x [Poudre explosive de Gourlo] (11 999 kamas)
+[23:00:15] La zone « [Plaine des Porkass] » est vulnérable. Vous pouvez tenter de la conquérir.
+[23:02:11] Zoom-surlinvoc a déverrouillé le succès [Wa Wabbit (Score 45)].
+[23:02:11] Zoom-surlinvoc a déverrouillé le succès [Wa Wabbit (Score 200)].
+[23:02:11] Zoom-surlinvoc a déverrouillé le succès [Château du Wa Wabbit].
+[23:02:11] Galaxos a déverrouillé le succès [Wa Wabbit (Score 45)].
+[23:02:11] Galaxos a déverrouillé le succès [Wa Wabbit (Score 200)].
+[23:02:11] Galaxos a déverrouillé le succès [Château du Wa Wabbit].
+[23:02:13] Vous avez perdu 20 kamas.
+[23:03:07] Vous avez payé 578 kamas pour accéder à ce coffre.
+[23:05:22] (Alliance) Nest-nehemy : Jérart Dupaindur [29,-41]
+[23:06:51] tonton-du-bahu (Heiiden-I) est en ligne.
+[23:14:15] L'alliance [SHlNE] a défendu la zone « [La Bourgade] ».
+[23:23:42] Vous avez payé 577 kamas pour accéder à ce coffre.
+[23:24:05] Galaxos a déverrouillé le succès [Donjons avancés].
+[23:24:05] Galaxos a déverrouillé le succès [On commence à vous respecter].
+[23:24:06] Zoom-surlinvoc a déverrouillé le succès [Donjons avancés].
+[23:25:32] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[23:26:05] Vous êtes arrivé à destination !
+[23:27:01] Quête terminée : [Tour de main]
+[23:27:01] Vous avez gagné 69 072 kamas.
+[23:27:01] Vous avez gagné 5 476 867 points d'expérience.
+[23:27:04] Nouvelle quête : [Tour de force]
+[23:27:04] Vous avez obtenu 1 '[Clef du Temple du Grand Ougah]'.
+[23:27:40] Échange effectué
+[23:29:11] Zoom-surlinvoc a déverrouillé le succès [Gelées].
+[23:29:16] walid931500 (Zx-gerrier) est en ligne.
+[23:34:54] Impossible d'utiliser ce zaap.
+[23:34:56] Impossible d'utiliser ce zaap.
+[23:36:09] Impossible d'utiliser ce zaap.
+[23:36:19] Vous avez perdu 260 kamas.
+[23:36:41] Nouvelle quête : [Offrande à Pasquéoz]
+[23:37:15] Échange effectué
+[23:37:39] Vous avez perdu 2 '[Laine de Boufmouth]'.
+[23:37:39] Quête mise à jour : [Offrande à Pasquéoz]
+[23:37:59] Quête mise à jour : [Offrande à Pasquéoz]
+[23:38:06] Quête mise à jour : [Offrande à Pasquéoz]
+[23:38:13] popymouxx (II-Frero-XeniO-II) est en ligne.
+[23:38:26] Quête terminée : [Offrande à Pasquéoz]
+[23:38:26] Vous avez gagné 12 886 kamas.
+[23:38:26] Vous avez gagné 2 887 499 points d'expérience.
+[23:38:26] Objets reçus : 17 x [Almaton]
+[23:39:03] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:39:03] Précédente connexion sur ce compte : 12/07/2020 à 16:51
+[23:39:03] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[23:39:03] Le point de repère [2,-2] a été ajouté sur la carte Incarnam.
+[23:39:03] Le point de repère [2,-4] a été ajouté sur la carte Incarnam.
+[23:39:24] Grougalorafaust (Chachaluna) est en ligne.
+[23:39:39] Nouvelle quête : [Offrande à Pasquéoz]
+[23:40:15] Échange effectué
+[23:40:21] Vous avez perdu 2 '[Laine de Boufmouth]'.
+[23:40:21] Quête mise à jour : [Offrande à Pasquéoz]
+[23:40:29] Quête mise à jour : [Offrande à Pasquéoz]
+[23:40:36] Quête mise à jour : [Offrande à Pasquéoz]
+[23:40:52] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:40:52] Quête terminée : [Offrande à Pasquéoz]
+[23:40:52] Vous avez gagné 12 886 kamas.
+[23:40:52] Vous avez gagné 11 549 999 points d'expérience.
+[23:40:52] Objets reçus : 17 x [Almaton]
+[23:41:34] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:41:34] Précédente connexion sur ce compte : 12/07/2020 à 23:39
+[23:41:34] Vous avez 5 contact(s) réciproque(s) connecté(s).
+[23:42:30] Nouvelle quête : [Offrande à Pasquéoz]
+[23:43:10] Échange effectué
+[23:43:43] Vous avez perdu 2 '[Laine de Boufmouth]'.
+[23:43:43] Quête mise à jour : [Offrande à Pasquéoz]
+[23:44:15] Quête mise à jour : [Offrande à Pasquéoz]
+[23:44:33] Quête mise à jour : [Offrande à Pasquéoz]
+[23:44:54] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:44:54] Quête terminée : [Offrande à Pasquéoz]
+[23:44:54] Vous avez gagné 12 886 kamas.
+[23:44:54] Vous avez gagné 8 662 500 points d'expérience.
+[23:44:54] Objets reçus : 17 x [Almaton]
+[23:45:20] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:45:20] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[23:45:31] Grougalorafaust (Zonnubin) est en ligne.
+[23:45:43] Nouvelle quête : [Offrande à Pasquéoz]
+[23:46:24] (Alliance) Super-roox : [-6,-24] besoin du monde pour ava
+[23:46:26] (Alliance) Feu-Kiou : Bouss Baybe [-5,-26]
+[23:46:32] (Alliance) Super-roox : il 1 qu'un seul ennemi
+[23:47:14] (Alliance) Feu-Kiou : enu de mort pas moyen il court le bat
+[23:47:42] Échange effectué
+[23:47:51] Vous avez perdu 2 '[Laine de Boufmouth]'.
+[23:47:51] Quête mise à jour : [Offrande à Pasquéoz]
+[23:48:47] (Alliance) Freez : je croc le nunu en [-5,-24] normalement
+[23:49:21] (Alliance) Super-roox : besoin de resu [-6,-24] svp
+[23:49:28] (Alliance) Feu-Kiou : pls est avec nous ?
+[23:49:39] (Alliance) Super-roox : non
+[23:50:14] (Alliance) Super-roox : pas de resu ?
+[23:50:27] (Alliance) Freez : y'a sram rezu mais pas de popo
+[23:50:28] (Alliance) Freez : mdr
+[23:50:30] Quête mise à jour : [Offrande à Pasquéoz]
+[23:50:37] (Alliance) Deeqlz : jsuis dead avc
+[23:50:37] Quête mise à jour : [Offrande à Pasquéoz]
+[23:50:49] (Alliance) Super-roox : dommage
+[23:50:51] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:50:51] Quête terminée : [Offrande à Pasquéoz]
+[23:50:51] Vous avez gagné 12 886 kamas.
+[23:50:51] Vous avez gagné 5 774 999 points d'expérience.
+[23:50:51] Objets reçus : 17 x [Almaton]
+[23:50:52] (Alliance) Deeqlz : frr on veut taper des sacris opti prytek, ça sert à r
+[23:53:35] Grougalorafaust (Scramubine) est en ligne.
+[23:54:01] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:54:01] Précédente connexion sur ce compte : 12/07/2020 à 23:45
+[23:54:01] Annonce de guilde : Vulkania ouverte jusqu'au 1 septembre !! ~~~ Rejoignez donc le Discord alliance ! [https://discord.gg/edbENUD] ~~~ Zaap glandouille de la guilde : Port de Madrestam ~~~ Premiere refonte de Pandala: MAJ mercredi 15 juillet !
+[23:54:01] Annonce d'alliance : NOUVEAU DISCORD [https://discord.gg/edbENUD] Point de rencontre Zaap Pandala [-26,-37] | AVA FAUBOURGS DE PANDALA DIMANCHE 18H
+[23:54:01] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[23:54:19] (Guilde) II-Frero-XeniO-II : faut esperer que tout soit au point pour une fois, qu'il n'y ait pas de rollback ou de maj interminable xD
+[23:55:26] Grougalorafaust (Pandubin) est en ligne.
+[23:55:38] (Guilde) Kinex : re
+[23:56:09] (Guilde) II-Frero-XeniO-II : lulut :p
+[23:56:17] (Guilde) Kinex : comment ça va ?
+[23:56:18] (Guilde) Suaht : yo
+[23:56:42] (Guilde) II-Frero-XeniO-II : pas loin de deco deja
+[23:56:44] Échange effectué
+[23:57:33] (Guilde) II-Frero-XeniO-II : jviens d eme poser, et les yeux se ferment deja, c'est pas bon signe :p
+[23:57:38] Échange effectué
+[23:58:30] Échange effectué
+[23:59:20] Échange effectué
+[00:01:16] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[00:06:08] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[00:06:56] Un membre de votre guilde, Bled-artt, est en ligne.
+[00:11:03] Zoom-surlinvoc a déverrouillé le succès [Gourlo le Terrible (Premier)].
+[00:11:03] Galaxos a déverrouillé le succès [Gourlo le Terrible (Premier)].
+[00:14:36] (Guilde) II-Frero-XeniO-II : allez je file, bon jeu a vous !!
+[00:14:42] Un membre de votre guilde, Suaht, est en ligne.
+[00:14:44] (Guilde) Bled-artt : bonne nuit
+[00:14:49] (Guilde) II-Frero-XeniO-II : a demain ;)))
+[00:15:00] (Guilde) Suaht : ciao
+[00:15:10] (Guilde) Bled-artt : a demain
+[00:19:12] (Alliance) Mr-Haboray : qqn veux [Hyperscampe] ?
+[00:19:40] (Alliance) Mr-Haboray : ( avis de recherche )
+[00:20:07] (Alliance) Frey-Zdown : ca peut m'interesser !
+[00:32:43] Un membre de votre guilde, Shaktyy, est en ligne.
+[00:37:14] Zoom-surlinvoc a déverrouillé le succès [Sidimonstres].
+[00:37:14] Galaxos a déverrouillé le succès [Sidimonstres].
+[00:40:16] (Alliance) Nest-nehemy : i ?
+[00:40:35] (Alliance) Larnaqueur : j
+[00:46:49] Zoom-surlinvoc a déverrouillé le succès [Laboratoire de Brumen Tinctorias].
+[00:46:49] Zoom-surlinvoc a déverrouillé le succès [Nelween (Score 53)].
+[00:46:49] Zoom-surlinvoc a déverrouillé le succès [Nelween (Score 200)].
+[00:46:49] Zoom-surlinvoc a déverrouillé le succès [Nelween (Dernier)].
+[00:46:49] Galaxos a déverrouillé le succès [Nelween (Score 53)].
+[00:46:49] Galaxos a déverrouillé le succès [Nelween (Score 200)].
+[00:52:19] Nouvelle quête : [Offrande à Klernodie]
+[00:52:56] Vous avez perdu 270 kamas.
+[00:55:47] 10 x [Pierre d'Atomystique] (18 789 kamas)
+[00:56:12] 10 x [Pierre d'Atomystique] (18 790 kamas)
+[00:56:17] 10 x [Pierre d'Atomystique] (18 790 kamas)
+[00:57:58] 1 x [Poudre explosive de Gourlo] (11 999 kamas)
+[00:57:59] 1 x [Poudre explosive de Gourlo] (11 999 kamas)
+[00:58:00] 1 x [Poudre explosive de Gourlo] (11 999 kamas)
+[00:58:01] 1 x [Poudre explosive de Gourlo] (11 999 kamas)
+[00:58:01] 1 x [Poudre explosive de Gourlo] (11 999 kamas)
+[00:58:03] 1 x [Poudre explosive de Gourlo] (11 999 kamas)
+[00:58:06] 1 x [Poudre explosive de Gourlo] (12 000 kamas)
