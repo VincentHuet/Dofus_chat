@@ -1,0 +1,1250 @@
+[19:07:27] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[19:07:27] Précédente connexion sur ce compte : 26/04/2020 à 10:20
+[19:07:27] Vous avez récupéré 164 points de vie.
+[19:07:27] Annonce de guilde : Discord: [https://discord.gg/bSySprn] chill / J'achete vos croquettes / Kolizetons mp Eis / skp le moch
+[19:07:34] Le point de repère [-1,-10] a été ajouté sur la carte Pwâk.
+[19:07:34] Le point de repère [-1,-7] a été ajouté sur la carte Pwâk.
+[19:07:34] Le point de repère [-1,-10] a été ajouté sur la carte Pwâk.
+[19:09:27] Des monstres attaquent Oo-plionor (Antre du Korriandre - Cinquième salle).
+[19:10:35] (Équipe) Oo-plionor : Cellule 234
+[19:10:42] Kinex a fait échouer le challenge Elémentaire.
+[19:11:39] Oo-plionor a fait échouer le challenge Incurable.
+[19:12:10] 4 secondes ajoutées au prochain tour de jeu.
+[19:13:26] (Équipe) Oo-plionor : Cellule 301
+[19:13:27] (Équipe) Oo-plionor : Cellule 170
+[19:14:13] (Équipe) Oo-plionor : Cellule 206
+[19:15:36] 5 secondes ajoutées au prochain tour de jeu.
+[19:17:10] 1 seconde ajoutée au prochain tour de jeu.
+[19:19:42] 6 secondes ajoutées au prochain tour de jeu.
+[19:20:05] Vous avez gagné 1 967 498 points d'expérience.
+[19:20:05] Quête mise à jour : [Sans ma barbe, quelle barbe.]
+[19:20:08] Quête terminée : [Sans ma barbe, quelle barbe.]
+[19:20:08] Vous avez gagné 172 704 kamas.
+[19:20:08] Vous avez gagné 5 849 726 points d'expérience.
+[19:20:09] Kinex a déverrouillé le succès [Antre du Korriandre].
+[19:20:09] Succès déverrouillé : [Antre du Korriandre]
+[19:31:46] Nouvelle quête : [Offrande à Fako]
+[19:31:57] Vous avez perdu 2 '[Bourse Suspecte]'.
+[19:31:57] Quête mise à jour : [Offrande à Fako]
+[19:32:35] Quête mise à jour : [Offrande à Fako]
+[19:32:45] Quête mise à jour : [Offrande à Fako]
+[19:33:06] Vous avez obtenu 1 '[Page de Calendrier]'.
+[19:33:06] Quête terminée : [Offrande à Fako]
+[19:33:06] Vous avez gagné 5 893 kamas.
+[19:33:06] Vous avez gagné 2 887 499 points d'expérience.
+[19:33:06] Objets reçus : 17 x [Almaton]
+[19:35:38] Rara-fistolle vient de passer au niveau 46.
+[19:39:21] Ammarsis vient de passer au niveau 76.
+[19:45:39] Crysse-Ceps vient de passer au niveau 40.
+[19:51:20] (Guilde) Hollygane : Yo
+[19:51:27] (Guilde) Punk-hasard : slt
+[19:52:28] Kinex souhaite téléporter tout le groupe devant : Croquanterie.
+[19:52:40] (Guilde) Fekin : yo :)
+[19:56:13] (Guilde) Mangan-Mage : re ! et whattt holly deja co ? XD
+[20:11:12] (Guilde) Hollygane : Comment ça déjà co?
+[20:11:42] (Guilde) Reactjs : waaa Holly présent a 20h du mat' ?!
+[20:11:51] (Guilde) Mangan-Mage : pour dire que tu t'etais reveillé tot
+[20:11:58] (Guilde) Mangan-Mage : voila XD
+[20:12:15] (Guilde) Hollygane : Bah je me lèves vers 15h en général, sauf que je me rendors instant
+[20:12:26] (Guilde) Mangan-Mage : XD j'vois commet mdrrr
+[20:13:22] (Guilde) Hollygane : Mais je tiens a dire que vers
+[20:13:39] (Guilde) Hollygane : 7h je crois je me suis co pour voir une vente, et punk était déjà la
+[20:13:48] (Guilde) Mangan-Mage : ah ouais mdrr
+[20:15:03] (Guilde) Hollygane : Mais j'attends que ce pilo de mort se vende xD
+[20:27:27] (Guilde) Skp : wesh la street
+[20:27:35] (Guilde) Mangan-Mage : yo !
+[20:30:25] (Guilde) Pandubin : yo max :)
+[20:32:04] (Guilde) Dark-Poliakov : bonsoir
+[20:32:21] (Guilde) Skp : VODKAAAAA
+[20:33:24] (Guilde) Dark-Poliakov : SKPPP
+[20:40:39] (Guilde) Reactjs : Salut Max et Vodka
+[21:01:33] Investy-Artz vient de passer Oméga 48.
+[21:01:51] Kinex souhaite téléporter tout le groupe devant : Donjon des Tofus.
+[21:07:33] Vous avez obtenu 1 '[Épi de blé rare]'.
+[21:07:33] Quête mise à jour : [Et paf, ça fait un shokipik !]
+[21:07:33] Le point de repère [0,-2] a été ajouté sur la carte Pwâk.
+[21:07:59] Fekin souhaite téléporter tout le groupe devant : Croquanterie.
+[21:44:58] Kinex souhaite téléporter tout le groupe devant : Temple du dieu Kao.
+[21:45:05] (Groupe) Dr-Daniel-Jackson : Va falloir scinder, on est déjà 5 dans l'autre groupe ^^
+[21:45:17] (Groupe) Fekin : ah ^^"
+[21:45:25] (Groupe) Dr-Daniel-Jackson : Tu veux faire avec tous tes persos ?
+[21:45:39] (Groupe) Pandubin : Xel
+[21:45:44] (Groupe) Pandubin : panda ce serai cool
+[21:45:46] (Groupe) Dr-Daniel-Jackson : Je dis à Hyso de faire avec ses persos sans nous sinon
+[21:45:51] (Groupe) Pandubin : feca ce serait top ^^"
+[21:45:54] (Groupe) Dr-Daniel-Jackson : xD
+[21:45:56] (Groupe) Dr-Daniel-Jackson : Ok
+[21:46:03] (Groupe) Dr-Daniel-Jackson : Bah on rejoint mon sram et hyso fait sans nous
+[21:46:04] (Groupe) Pandubin : non mais ...
+[21:46:31] (Groupe) Pandubin : je suis pas ouf avec me perso donc au pire
+[21:46:41] (Groupe) Dr-Daniel-Jackson : xD
+[21:46:47] (Groupe) Pandubin : mieux vaut la meilleur compo pour que ça passe :)
+[21:47:03] (Groupe) Pandubin : si tes perso plus moi t'es sur ... go
+[21:47:08] (Groupe) Pandubin : mais sinon ^^"
+[21:47:28] (Groupe) Dr-Daniel-Jackson : Faut voir comment sont tes persos xD
+[21:47:29] (Groupe) Pandubin : c'est toi qui me dit :)
+[21:47:31] (Groupe) Dr-Daniel-Jackson : Allé on commence déjà
+[21:47:34] Des monstres attaquent Dr-Daniel-Jackson (Temple du dieu Kao - Première Salle).
+[21:47:59] Kinex a fait échouer le challenge Intouchable.
+[21:48:00] (Groupe) Dr-Daniel-Jackson : Je pense qu'il vaudra mieux qu'on fasse avec Hyso, et que tu prennes que deux persos ^^"
+[21:48:12] (Groupe) Pandubin : ok ok np
+[21:48:13] (Groupe) Dr-Daniel-Jackson : Merde j'ai les sorts pour le boss x)
+[21:48:18] (Groupe) Pandubin : dit moi qui taper ;)
+[21:48:45] (Groupe) Dr-Daniel-Jackson : Bah profites des résis x)
+[21:49:05] (Groupe) Dr-Daniel-Jackson : Si ton féca est distance, faudrait enlever 1000 pdv à l'éclart
+[21:49:23] (Groupe) Kinex : 1000 ?
+[21:49:33] (Groupe) Dr-Daniel-Jackson : Oui, prochain tour il en perd 2000
+[21:49:37] (Groupe) Dr-Daniel-Jackson : 1000 ça suffira
+[21:49:39] Fekin a fait échouer le challenge Focus.
+[21:49:44] (Groupe) Dr-Daniel-Jackson : Mais si tu peux le one turn shot c'est bien aussi x)
+[21:50:02] (Groupe) Fekin : ça va comme ça ? ^^"
+[21:50:06] (Groupe) Dr-Daniel-Jackson : Les torréfacteurs c'est ceux que j'aime le moins ici
+[21:50:09] (Groupe) Dr-Daniel-Jackson : Oui c'est bon normalement ^^
+[21:50:34] 3 secondes ajoutées au prochain tour de jeu.
+[21:50:47] (Groupe) Pandubin : envole toi ^"
+[21:50:56] (Groupe) Dr-Daniel-Jackson : merde x)
+[21:51:28] (Groupe) Dr-Daniel-Jackson : Rebelote avec le feca sur l'éclat ^^
+[21:51:40] (Groupe) Dr-Daniel-Jackson : Ou tes autres persos peu importe x)
+[21:52:36] 9 secondes ajoutées au prochain tour de jeu.
+[21:52:54] (Groupe) Pandubin : un fois qu'il a plus d'eclat on peut taper le cabo ?
+[21:53:20] (Groupe) Dr-Daniel-Jackson : Tu peux tjs le taper ?
+[21:53:28] (Groupe) Dr-Daniel-Jackson : Il était pas invu là
+[21:53:50] (Groupe) Dr-Daniel-Jackson : En gros celui qui invok l'éclat est invulnérable tant qu'il y a l'éclat
+[21:54:01] (Groupe) Dr-Daniel-Jackson : Et les autres réduisent de moitié les dégats
+[21:54:08] (Groupe) Pandubin : ok ok
+[21:54:42] 12 secondes ajoutées au prochain tour de jeu.
+[21:54:50] (Groupe) Pandubin : mon panda est full tank :/
+[21:54:52] (Groupe) Dr-Daniel-Jackson : Ils invoquent à tour de role
+[21:56:20] 13 secondes ajoutées au prochain tour de jeu.
+[21:56:34] (Groupe) Pandubin : merci :)
+[21:57:54] 8 secondes ajoutées au prochain tour de jeu.
+[21:59:35] 8 secondes ajoutées au prochain tour de jeu.
+[22:00:58] 12 secondes ajoutées au prochain tour de jeu.
+[22:01:35] Vous avez gagné 1 404 859 points d'expérience.
+[22:02:10] (Groupe) Dr-Daniel-Jackson : T'as besoin d'un chall ?
+[22:02:25] (Groupe) Kinex : j'ai pas fais sur ces mobs donc oui ^^"
+[22:02:30] (Groupe) Dr-Daniel-Jackson : Dac
+[22:02:34] (Groupe) Dr-Daniel-Jackson : Go ?
+[22:02:37] (Groupe) Kinex : mais c'est deja cool de ta part de m'aider so ...
+[22:02:57] (Groupe) Pandubin : att je mange du pain ^^"
+[22:03:18] (Groupe) Dr-Daniel-Jackson : Chocoligarque un peu relou, pas mal de la focus si le chall le permet
+[22:03:27] (Groupe) Dr-Daniel-Jackson : Sinon les deux températurges
+[22:03:40] (Groupe) Fekin : ok
+[22:03:47] (Groupe) Fekin : tu lead :) je te fais confiance ^^"
+[22:03:53] (Groupe) Dr-Daniel-Jackson : Je me suis mieux équipé pour aller avec ton panda tank niveau sort x)
+[22:04:08] (Groupe) Dr-Daniel-Jackson : Lance quand tu veux
+[22:04:17] (Groupe) Dr-Daniel-Jackson : Je re
+[22:04:21] Échange effectué
+[22:04:48] (Groupe) Pandubin : ah bah je t'attend du coup tu me dit :)
+[22:04:57] (Groupe) Larnaqueur : J'ai un avis que je recherche depuis toute l'aprem
+[22:04:59] (Groupe) Larnaqueur : qui a pop sur tempo
+[22:05:11] (Groupe) Pandubin : ok ok
+[22:05:18] (Groupe) Pandubin : tu me dira je bouge pas ^^"
+[22:05:23] Vous avez obtenu 10 '[Mesure de Poivre]'.
+[22:05:23] Vous avez obtenu 10 '[Mesure de Poivre]'.
+[22:09:20] (Groupe) Larnaqueur : Yep, combat en cours
+[22:09:31] (Groupe) Pandubin : tkt tkt :)
+[22:11:23] (Groupe) Pandubin : je vais me faire un thé du coup ^"
+[22:12:42] (Groupe) Larnaqueur : Ca marche
+[22:12:45] (Groupe) Larnaqueur : Bientôt ^^
+[22:13:34] (Groupe) Larnaqueur : Je reviens
+[22:15:17] (Groupe) Dr-Daniel-Jackson : go ?
+[22:16:05] (Groupe) Dr-Daniel-Jackson : Désolé mais les avis de recherche c'est vraiment la guerre sur tempo x)
+[22:16:47] (Groupe) Pandubin : tkt tkt je me doute :)
+[22:16:56] (Groupe) Pandubin : combien de pt de succès ?
+[22:17:04] (Groupe) Pandubin : ou de tempotons ?
+[22:17:11] (Groupe) Pandubin : et oui on peut go :)
+[22:17:14] (Groupe) Larnaqueur : 1544 tempos
+[22:17:30] (Groupe) Pandubin : encore 500 et c'est le poulet colo ?
+[22:17:37] (Groupe) Dr-Daniel-Jackson : Ahg non 1454
+[22:17:38] (Groupe) Pandubin : enfin le grifon colo ?
+[22:17:48] Vous avez récupéré 90 points de vie.
+[22:17:50] (Groupe) Dr-Daniel-Jackson : Ouais quelque chose comme ça
+[22:17:57] (Groupe) Pandubin : ^^"
+[22:18:03] (Groupe) Pandubin : go quand tu veux :)
+[22:18:10] Des monstres attaquent Dr-Daniel-Jackson (Temple du dieu Kao - Deuxième Salle).
+[22:18:18] Vous avez récupéré 1955 PV.
+[22:18:23] (Groupe) Larnaqueur : Idoles
+[22:18:37] (Groupe) Dr-Daniel-Jackson : Faut que t'enleves tes idoles sur le xel
+[22:18:43] (Groupe) Dr-Daniel-Jackson : Pcq c'est devenu le chef de groupe
+[22:19:02] (Groupe) Kinex : je passe ton elio ou sram chef ?
+[22:19:03] (Groupe) Dr-Daniel-Jackson : Chall 1 xD
+[22:19:09] (Groupe) Dr-Daniel-Jackson : Sram stb
+[22:19:11] (Groupe) Dr-Daniel-Jackson : stv*
+[22:19:23] Dr-Daniel-Jackson a fait échouer le challenge Versatile.
+[22:20:43] (Groupe) Kinex : j'envoie le panda au contact ?
+[22:21:00] (Équipe) Larnaqueur : Cellule 161
+[22:21:00] (Équipe) Larnaqueur : Cellule 161
+[22:21:05] (Groupe) Larnaqueur : Plutôt sur lui
+[22:21:21] (Groupe) Larnaqueur : Roh paci x)
+[22:22:08] (Groupe) Pandubin : je blalance ?
+[22:22:17] (Groupe) Dr-Daniel-Jackson : Garde le loin pour l'instant
+[22:22:23] (Groupe) Dr-Daniel-Jackson : ^^
+[22:22:35] 1 seconde ajoutée au prochain tour de jeu.
+[22:22:41] (Groupe) Pandubin : ^^é
+[22:23:21] (Groupe) Dr-Daniel-Jackson : xD
+[22:24:01] (Groupe) Kinex : c'est quoi cette m****
+[22:24:03] (Groupe) Kinex : ^^"
+[22:24:51] (Groupe) Larnaqueur : T'as retour spont dans le portail 1 qui était pas encore utilisé donc t'es revenu à la même place xD
+[22:25:22] (Groupe) Fekin : je comprend toujours pas elio x)
+[22:25:26] (Groupe) Larnaqueur : xD
+[22:25:28] Terminez votre tour avec le bouton [Fin de tour].
+[22:25:59] (Groupe) Pandubin : ça te va ce moove ?
+[22:26:01] (Groupe) Pandubin : ^^
+[22:26:29] (Groupe) Dr-Daniel-Jackson : Ouaip x)
+[22:26:41] (Groupe) Dr-Daniel-Jackson : T'es paci
+[22:27:28] (Groupe) Kinex : pourquoi j'ai pas pu tp sur mon cadran ,
+[22:27:30] (Groupe) Kinex : ?
+[22:27:41] (Groupe) Larnaqueur : Ca je saurais pas te dire ^^"
+[22:27:45] (Groupe) Larnaqueur : Je joue pas xel xP
+[22:27:55] (Groupe) Fekin : je tape lequel ?
+[22:27:57] (Groupe) Larnaqueur : Il était pas pesanteur dans le glyphe ?
+[22:28:01] (Équipe) Larnaqueur : Cellule 229
+[22:28:01] (Équipe) Larnaqueur : Cellule 229
+[22:28:28] (Groupe) Larnaqueur : Ton complice
+[22:28:36] (Groupe) Pandubin : may be :/
+[22:28:43] Terminez votre tour avec le bouton [Fin de tour].
+[22:28:45] 1 seconde ajoutée au prochain tour de jeu.
+[22:29:46] (Groupe) Dr-Daniel-Jackson : Tu pas pas taper portail
+[22:30:35] (Groupe) Pandubin : tu voulais dire que j'aurai aucune fenetre ?
+[22:30:53] (Groupe) Larnaqueur : Oui, y avait aucun move possible en tapant à travers portail
+[22:30:59] (Groupe) Larnaqueur : La disposition le permettait pas
+[22:31:28] (Groupe) Fekin : t'arrive a voir si vite ? ^^"
+[22:31:32] Terminez votre tour avec le bouton [Fin de tour].
+[22:31:36] (Groupe) Larnaqueur : Oui xD
+[22:31:44] (Groupe) Larnaqueur : Surtout dans des configs comme ça x)
+[22:31:45] 2 secondes ajoutées au prochain tour de jeu.
+[22:31:59] (Groupe) Pandubin : c'est ce qui me manque avec mon elio
+[22:32:12] (Groupe) Pandubin : du coup, il reste comme perso annexe x)
+[22:32:21] (Groupe) Pandubin : et en meme temps ... il est sur mon panda ^^"
+[22:32:25] (Groupe) Dr-Daniel-Jackson : Merde
+[22:32:28] (Groupe) Dr-Daniel-Jackson : Pas eu le temps de te soin
+[22:32:39] (Groupe) Dr-Daniel-Jackson : xD
+[22:33:17] (Groupe) Fekin : tant qu'on gagne et que je te gene pas osef hein ^^"
+[22:33:41] (Groupe) Kinex : je me vexerai pas pour ca x)
+[22:33:52] (Groupe) Larnaqueur : xD
+[22:35:06] (Groupe) Pandubin : bien sur que j'ai prevu ce sauvetage
+[22:35:11] (Groupe) Pandubin : x)
+[22:35:20] (Groupe) Dr-Daniel-Jackson : ^^
+[22:35:29] (Groupe) Dr-Daniel-Jackson : Dommage pas assez de dégats x)
+[22:35:55] (Groupe) Dr-Daniel-Jackson : Possible d'isoler un de deux mobs restant ?
+[22:36:29] (Groupe) Fekin : comment ça
+[22:36:40] (Groupe) Larnaqueur : Faire venir un des températurge
+[22:36:42] Oo-plionor vient de rejoindre le combat en spectateur.
+[22:36:47] (Groupe) Larnaqueur : Mais ça devrait aller
+[22:37:10] (Groupe) Fekin : j'en ramène un ?
+[22:37:16] (Groupe) Larnaqueur : Ouais
+[22:37:16] Terminez votre tour avec le bouton [Fin de tour].
+[22:40:27] (Groupe) Dr-Daniel-Jackson : Après combat je mets les draps à mon lit ^^
+[22:40:38] (Groupe) Fekin : x)
+[22:40:40] (Groupe) Fekin : ok ok ^^"
+[22:44:24] (Groupe) Dr-Daniel-Jackson : gg xD
+[22:44:28] (Groupe) Fekin : ?
+[22:45:29] Vous avez gagné 2 677 822 points d'expérience.
+[22:45:38] (Groupe) Larnaqueur : Afk une minute
+[22:46:04] (Groupe) Pandubin : ok ok
+[22:47:37] (Groupe) Larnaqueur : e
+[22:47:41] (Groupe) Larnaqueur : go ?
+[22:47:46] (Groupe) Pandubin : re
+[22:48:18] (Groupe) Larnaqueur : Go ?
+[22:48:23] (Groupe) Fekin : me manque succès sur torre et prali
+[22:48:30] (Groupe) Larnaqueur : Ils sont hors du dj ^^
+[22:48:30] (Groupe) Fekin : y en a dehors,
+[22:48:46] (Groupe) Larnaqueur : Oui y a que les chocoligarques exclus dj
+[22:48:47] (Groupe) Fekin : parfait on fera ça après alors stuveux ^^"
+[22:48:52] (Groupe) Larnaqueur : xD
+[22:49:02] (Groupe) Fekin : si j'abuse de ton aide :P
+[22:49:11] (Groupe) Larnaqueur : Hyso est à la salle du boss, faut pas qu'on traine trop
+[22:49:36] Vous avez récupéré 1170 points de vie.
+[22:49:57] (Groupe) Kinex : go :)
+[22:49:58] Des monstres attaquent Larnaqueur (Temple du dieu Kao - Troisième Salle).
+[22:50:04] Vous avez récupéré 542 PV.
+[22:50:25] (Groupe) Dr-Daniel-Jackson : Focus torréfacteurs
+[22:50:33] (Groupe) Pandubin : ok ok
+[22:50:38] ---Hysoka--- vient de rejoindre le combat en spectateur.
+[22:50:53] (Groupe) Pandubin : je le ramène avec le xel ?
+[22:51:26] (Groupe) Dr-Daniel-Jackson : Ils sont pesanteurs
+[22:51:32] (Groupe) Dr-Daniel-Jackson : Tu peux pas les ramener
+[22:51:54] (Groupe) Dr-Daniel-Jackson : Feca paci
+[22:51:55] (Groupe) Kinex : mais quel naze ...
+[22:52:04] (Groupe) Pandubin : je shield ?
+[22:52:16] Larnaqueur a fait échouer le challenge Focus.
+[22:52:38] Roxeur-plio vient de rejoindre le combat en spectateur.
+[22:52:39] (Groupe) Larnaqueur : A moins que t'as autre chose à faire en paci ^^
+[22:53:11] (Groupe) Kinex : ^^
+[22:53:31] Terminez votre tour avec le bouton [Fin de tour].
+[22:53:57] (Groupe) Larnaqueur : Pas en ligne avec les températurges ^^
+[22:54:01] (Groupe) Larnaqueur : S'ils sont taclés
+[22:54:12] (Groupe) Kinex : arf :/
+[22:54:31] Dr-Daniel-Jackson a fait échouer le challenge Fossoyeur.
+[22:54:58] (Groupe) Dr-Daniel-Jackson : Ce qui serait bien c'est que le panda nous mette à disposition les éclats ^^
+[22:55:17] (Groupe) Kinex : ok ok je m'occupe de ça
+[22:55:36] (Groupe) Fekin : osef de paci le panda il est juste tank ^^"
+[22:55:52] (Groupe) Larnaqueur : Oui x)
+[22:57:41] (Groupe) Dr-Daniel-Jackson : Raté, dommage x)
+[22:58:08] (Groupe) Dr-Daniel-Jackson : Dommage les trous sur la mapx )
+[22:58:46] (Groupe) Larnaqueur : Prends la place du double avec le panda ^^
+[22:59:03] (Groupe) Larnaqueur : Ah si tu peux détacle xD
+[22:59:20] (Groupe) Fekin : avec panda?
+[22:59:23] (Groupe) Larnaqueur : Oui
+[22:59:36] (Groupe) Larnaqueur : C'est pas le tacleur ^^
+[22:59:40] La cible ne peut pas être portée.
+[22:59:56] (Groupe) Pandubin : lourd je peux pas le prendre
+[23:00:24] (Groupe) Dr-Daniel-Jackson : ouip
+[23:01:36] (Équipe) Dr-Daniel-Jackson : Cellule 327
+[23:01:36] (Équipe) Dr-Daniel-Jackson : Cellule 327
+[23:01:42] (Équipe) Dr-Daniel-Jackson : Cellule 314
+[23:01:42] (Équipe) Dr-Daniel-Jackson : Cellule 314
+[23:01:47] (Groupe) Dr-Daniel-Jackson : Tu peux le pousser là après
+[23:01:56] (Équipe) Dr-Daniel-Jackson : Cellule 299
+[23:01:56] (Équipe) Dr-Daniel-Jackson : Cellule 299
+[23:01:56] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:01:56] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:02:02] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:02:02] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:02:02] (Équipe) Dr-Daniel-Jackson : Cellule 287
+[23:02:02] (Équipe) Dr-Daniel-Jackson : Cellule 287
+[23:02:09] (Groupe) Fekin : pour le pousser ?
+[23:02:13] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:02:13] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:02:14] (Équipe) Dr-Daniel-Jackson : Cellule 287
+[23:02:14] (Équipe) Dr-Daniel-Jackson : Cellule 287
+[23:02:15] (Équipe) Dr-Daniel-Jackson : Cellule 299
+[23:02:15] (Équipe) Dr-Daniel-Jackson : Cellule 299
+[23:02:15] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:02:15] (Équipe) Dr-Daniel-Jackson : Cellule 286
+[23:02:26] (Groupe) Dr-Daniel-Jackson : Pour bloquer tempé
+[23:02:27] (Équipe) Dr-Daniel-Jackson : Cellule 287
+[23:02:27] (Équipe) Dr-Daniel-Jackson : Cellule 287
+[23:02:41] (Groupe) Dr-Daniel-Jackson : Ok tant pis xà
+[23:02:43] (Groupe) Pandubin : je detacle pas
+[23:03:12] Mangan-Mage a déverrouillé le succès [Capitaine Meno (Duo)].
+[23:03:12] Mangan-Mage a déverrouillé le succès [Capitaine Meno (Pusillanime)].
+[23:03:19] (Guilde) Roxeur-plio : gg
+[23:04:13] (Guilde) Mangan-Mage : merci :p
+[23:04:20] ---Hysoka--- vient de rejoindre le combat en spectateur.
+[23:04:37] (Groupe) Dr-Daniel-Jackson : Si tu peux les décaler d'une case vers le portail avec ton panda
+[23:04:41] (Groupe) Dr-Daniel-Jackson : Je peux te soin avec l'elio
+[23:05:22] (Groupe) Pandubin : comme ça ?
+[23:05:59] Kinex : coucou Hyso ^^"
+[23:06:07] (Groupe) Dr-Daniel-Jackson : Oui c'est parfait kinex
+[23:06:11] (Groupe) ---Hysoka--- : Salut =)
+[23:06:19] (Groupe) ---Hysoka--- : Ok
+[23:06:40] (Groupe) Fekin : ^^"
+[23:06:48] (Groupe) Fekin : je suis tellement rincé x)
+[23:06:56] (Groupe) Fekin : en tout j'ai l'impression de faire que de la merde
+[23:07:04] (Groupe) Larnaqueur : xD
+[23:07:21] (Équipe) Larnaqueur : Cellule 286
+[23:07:21] (Équipe) Larnaqueur : Cellule 286
+[23:07:29] (Groupe) Larnaqueur : ^^
+[23:07:47] (Équipe) Larnaqueur : Cellule 286
+[23:07:47] (Équipe) Larnaqueur : Cellule 286
+[23:07:47] (Équipe) Larnaqueur : Cellule 287
+[23:07:47] (Équipe) Larnaqueur : Cellule 287
+[23:07:52] (Équipe) Larnaqueur : Cellule 314
+[23:07:53] (Équipe) Larnaqueur : Cellule 314
+[23:07:53] (Équipe) Larnaqueur : Cellule 314
+[23:07:53] (Équipe) Larnaqueur : Cellule 314
+[23:07:53] (Équipe) Larnaqueur : Cellule 314
+[23:07:53] (Équipe) Larnaqueur : Cellule 314
+[23:07:57] 2 secondes ajoutées au prochain tour de jeu.
+[23:07:58] (Groupe) Larnaqueur : ^^
+[23:08:03] (Groupe) Pandubin : ^^"
+[23:08:33] (Groupe) Dr-Daniel-Jackson : Faut clean l'éclat
+[23:08:58] (Groupe) Kinex : comme ça ?
+[23:09:01] (Groupe) Kinex : :P
+[23:09:07] Vous avez gagné 1 913 006 points d'expérience.
+[23:09:18] (Groupe) Larnaqueur : Presque x)
+[23:09:40] (Groupe) Larnaqueur : Je te drop des ressources Hyso ^^^
+[23:09:41] (Groupe) Fekin : ?
+[23:09:45] (Groupe) Fekin : x)
+[23:09:47] (Groupe) ---Hysoka--- : Cool =)
+[23:10:05] (Groupe) Larnaqueur : Prêt ?
+[23:10:07] (Groupe) ---Hysoka--- : J'ai pas réussi à drop d'oeuf par contre ^^
+[23:10:08] Vous avez récupéré 70 points de vie.
+[23:10:10] Vous avez récupéré 70 points de vie.
+[23:10:12] (Groupe) Dr-Daniel-Jackson : oeuf ?
+[23:10:28] (Groupe) Larnaqueur : J'en ai pas non plus
+[23:10:28] (Groupe) ---Hysoka--- : Pour la quête
+[23:10:35] (Groupe) Larnaqueur : Ah x)
+[23:10:40] (Groupe) ---Hysoka--- : J'pense faut vraiment aller taper des mobs 200
+[23:10:46] Vous avez récupéré 70 points de vie.
+[23:10:47] Vous avez récupéré 70 points de vie.
+[23:10:48] Vous avez récupéré 70 points de vie.
+[23:10:49] Vous avez récupéré 70 points de vie.
+[23:10:50] Vous avez récupéré 70 points de vie.
+[23:10:50] Vous avez récupéré 70 points de vie.
+[23:10:53] (Groupe) ---Hysoka--- : j'étais en zone 150 full idole hier
+[23:11:05] (Groupe) ---Hysoka--- : et rien, sur aucun persos
+[23:11:06] (Groupe) Larnaqueur : Ah, faut taper des oeufs de pwaks qui repopent avec les groupes
+[23:11:11] Vous avez récupéré 70 points de vie.
+[23:11:11] Vous avez récupéré 70 points de vie.
+[23:11:12] Vous avez récupéré 70 points de vie.
+[23:11:13] Vous avez récupéré 70 points de vie.
+[23:11:14] Vous avez récupéré 70 points de vie.
+[23:11:15] Vous avez récupéré 70 points de vie.
+[23:11:16] Vous avez récupéré 70 points de vie.
+[23:11:17] Vous avez récupéré 70 points de vie.
+[23:11:18] (Groupe) ---Hysoka--- : Oui
+[23:11:22] (Groupe) Larnaqueur : Et oui, te faut des oeufs 200 pour drop à ton lvl ^^
+[23:11:23] Vous avez récupéré 70 points de vie.
+[23:11:23] (Groupe) Larnaqueur : Go kinex ?
+[23:11:23] Vous avez récupéré 70 points de vie.
+[23:11:38] (Groupe) Pandubin : yep je regenais ^^"
+[23:11:47] (Groupe) Larnaqueur : P-e 190 ou 180 tu peux aussi drop
+[23:11:55] (Groupe) Larnaqueur : Mais surtout 200 x)
+[23:11:58] Vous avez récupéré 70 points de vie.
+[23:12:01] Vous avez récupéré 70 points de vie.
+[23:12:02] Vous avez récupéré 70 points de vie.
+[23:12:03] Vous avez récupéré 70 points de vie.
+[23:12:07] (Groupe) ---Hysoka--- : Ok, ben je tenterai demain on verra bien ^^
+[23:12:08] Vous avez récupéré 70 points de vie.
+[23:12:13] (Groupe) Larnaqueur : ^^
+[23:12:18] (Groupe) Larnaqueur : Go ?
+[23:12:31] (Groupe) Kinex : go :)
+[23:12:34] Des monstres attaquent Larnaqueur (Temple du dieu Kao - Quatrième Salle).
+[23:12:47] Vous avez récupéré 429 PV.
+[23:13:15] (Groupe) Dr-Daniel-Jackson : Tu chopes l'éclat avec ton feca ?
+[23:13:17] ---Hysoka--- vient de rejoindre le combat en spectateur.
+[23:13:23] (Groupe) Fekin : panda ?
+[23:13:29] (Groupe) Fekin : ou a la po ?
+[23:13:44] (Groupe) Fekin : nope
+[23:13:48] (Groupe) Fekin : sauf si je tp
+[23:14:15] (Groupe) Dr-Daniel-Jackson : Comme tu le sens ^^
+[23:14:22] Kinex a fait échouer le challenge Focus.
+[23:15:00] (Groupe) Fekin : je le taperau un peu sans tp
+[23:16:06] (Groupe) Fekin : je renvois
+[23:16:12] Terminez votre tour avec le bouton [Fin de tour].
+[23:17:31] (Groupe) Dr-Daniel-Jackson : Pesanteur ton comploteur avec le glyphe
+[23:17:52] Kinex a fait échouer le challenge Anachorète.
+[23:18:26] (Groupe) Pandubin : je vais tacler les temper ?
+[23:18:46] (Groupe) Larnaqueur : Ouaip
+[23:19:34] 8 secondes ajoutées au prochain tour de jeu.
+[23:20:28] (Groupe) Kinex : je tape qui ?
+[23:20:30] (Équipe) Dr-Daniel-Jackson : Cellule 215
+[23:20:30] (Équipe) Dr-Daniel-Jackson : Cellule 215
+[23:21:31] (Équipe) Dr-Daniel-Jackson : Cellule 202
+[23:21:31] (Équipe) Dr-Daniel-Jackson : Cellule 202
+[23:21:49] (Équipe) Dr-Daniel-Jackson : Cellule 215
+[23:21:49] (Équipe) Dr-Daniel-Jackson : Cellule 215
+[23:22:05] (Groupe) Pandubin : je vulné ?
+[23:22:08] (Groupe) Dr-Daniel-Jackson : Oui
+[23:22:29] 6 secondes ajoutées au prochain tour de jeu.
+[23:22:37] (Groupe) Pandubin : shit
+[23:22:50] (Groupe) Pandubin : je te pousse ,
+[23:22:57] (Groupe) Larnaqueur : Non je détacle
+[23:23:02] (Équipe) Larnaqueur : Cellule 215
+[23:23:02] (Équipe) Larnaqueur : Cellule 215
+[23:23:56] (Groupe) Pandubin : ?
+[23:24:01] (Équipe) Larnaqueur : Cellule 175
+[23:24:01] (Équipe) Larnaqueur : Cellule 175
+[23:24:03] Terminez votre tour avec le bouton [Fin de tour].
+[23:24:17] 4 secondes ajoutées au prochain tour de jeu.
+[23:24:19] (Groupe) Larnaqueur : Xel paci
+[23:25:37] Roxeur-plio vient de rejoindre le combat en spectateur.
+[23:25:46] (Groupe) Larnaqueur : Bon pour aller plus vite on recommence ?
+[23:25:53] (Groupe) Pandubin : yes
+[23:26:03] Terminez votre tour avec le bouton [Fin de tour].
+[23:26:08] Vous avez perdu 2000 points d'énergie.
+[23:26:36] (Groupe) Dr-Daniel-Jackson : Prends tout de suite plus feca ?
+[23:26:43] (Groupe) Dr-Daniel-Jackson : A 4 ca devrait être plus simple
+[23:26:47] (Groupe) Kinex : ok ok
+[23:27:39] Vous avez récupéré 700 points de vie.
+[23:27:44] Vous avez récupéré 840 points de vie.
+[23:27:46] (Groupe) Dr-Daniel-Jackson : Pret
+[23:28:00] Vous avez récupéré 90 points de vie.
+[23:28:10] (Groupe) Pandubin : presque
+[23:28:10] (Guilde) Roxeur-plio : Padgref Demoël [-14,-55] cadeau
+[23:28:37] Vous avez récupéré 110 points de vie.
+[23:28:47] (Groupe) Kinex : ready
+[23:28:52] Des monstres attaquent Dr-Daniel-Jackson (Temple du dieu Kao - Quatrième Salle).
+[23:28:56] (Groupe) Kinex : c'est ou que ça a merdé ?
+[23:29:12] Vous avez récupéré 305 PV.
+[23:29:12] (Groupe) Larnaqueur : Je sais pas x)
+[23:29:30] (Groupe) Dr-Daniel-Jackson : Faut vraiment qu'on arrive à tuer les feves
+[23:29:39] (Groupe) Fekin : yes
+[23:29:48] (Groupe) Pandubin : et le meme tape toujours l'eclat
+[23:31:08] (Groupe) Kinex : des potes me dise que de s'en foutre des eclat on irait plus vite
+[23:31:16] (Groupe) Kinex : sauf si l'ecalt est a portée
+[23:31:24] Larnaqueur a fait échouer le challenge Nomade.
+[23:31:52] (Groupe) Pandubin : t'a des piege ?
+[23:32:03] (Groupe) Dr-Daniel-Jackson : J'en ai pas mis
+[23:32:07] (Groupe) Dr-Daniel-Jackson : C'est les cabosseurs je crois
+[23:32:21] (Groupe) ---Hysoka--- : Oui c'est eux
+[23:34:48] 2 secondes ajoutées au prochain tour de jeu.
+[23:37:18] 1 seconde ajoutée au prochain tour de jeu.
+[23:37:19] (Groupe) Dr-Daniel-Jackson : ^^
+[23:37:22] (Groupe) Pandubin : ?
+[23:37:27] (Groupe) Pandubin : tu aimes ce moove ? ^^"
+[23:37:49] (Groupe) Dr-Daniel-Jackson : Ouais xD
+[23:37:59] (Groupe) Dr-Daniel-Jackson : Xel paci
+[23:38:08] Roxeur-plio vient de rejoindre le combat en spectateur.
+[23:38:32] (Groupe) Dr-Daniel-Jackson : t'aurais dû garder des pm à la fin de ton tour pour pas te faire trouver sous brume
+[23:38:41] (Groupe) Kinex : ?
+[23:38:44] (Groupe) Kinex : comment ça
+[23:38:52] (Groupe) Larnaqueur : Ah tu sais pas comment marche la brume xD
+[23:38:55] Kinex a fait échouer le challenge Survivant.
+[23:39:13] (Groupe) Larnaqueur : Dans la brume, plus t'utilises de pm sans faire d'action ensuite, moins les mobs ont de chances de te retrouver
+[23:39:16] Terminez votre tour avec le bouton [Fin de tour].
+[23:39:29] ---Hysoka--- vient de rejoindre le combat en spectateur.
+[23:40:37] (Groupe) Pandubin : ah ok
+[23:41:23] 1 seconde ajoutée au prochain tour de jeu.
+[23:42:47] (Groupe) Pandubin : je porte et nous soin ?
+[23:42:57] (Groupe) Larnaqueur : Si possible
+[23:43:23] 2 secondes ajoutées au prochain tour de jeu.
+[23:43:29] (Groupe) Pandubin : plus de pm :/
+[23:44:39] (Groupe) Larnaqueur : Penses aux PM dans la brume
+[23:45:04] 2 secondes ajoutées au prochain tour de jeu.
+[23:45:09] (Groupe) Pandubin : comme ça ?
+[23:45:24] Fekin vient de rejoindre le combat en spectateur.
+[23:46:15] (Groupe) Larnaqueur : Oui ct parfait
+[23:46:36] 2 secondes ajoutées au prochain tour de jeu.
+[23:47:41] (Groupe) Pandubin : je continu de plutot soin le sram ?
+[23:47:43] (Groupe) Larnaqueur : Wouh perfect bail x)
+[23:47:46] (Groupe) Larnaqueur : Ouaip
+[23:48:11] Wizidi vient de rejoindre le combat en spectateur.
+[23:48:33] (Groupe) Pandubin : falait pas que je te moove :s
+[23:48:36] (Groupe) Pandubin : ?
+[23:49:32] (Groupe) Larnaqueur : Vulné
+[23:51:16] 3 secondes ajoutées au prochain tour de jeu.
+[23:51:37] Vous avez gagné 1 423 040 points d'expérience.
+[23:51:51] (Groupe) Dr-Daniel-Jackson : A y est hyso
+[23:51:54] (Groupe) ---Hysoka--- : =)
+[23:51:58] Nouvelle capture d'écran : /Users/vincenthuet/Documents Hors iCloud/capture dofus/FromClient/dofus-2020-04-26_23-51-58-Pandubin.png
+[23:52:35] (Groupe) Wizidi : Prêt
+[23:52:39] (Groupe) Kinex : so ^^
+[23:52:44] (Groupe) Kinex : on fait B8 ?
+[23:52:49] (Groupe) Larnaqueur : Bah pas le choix xD
+[23:52:54] (Groupe) Kinex : ok ok ^^"
+[23:53:02] (Groupe) Larnaqueur : Faut plus tuer les fèves mtn
+[23:53:11] (Groupe) Larnaqueur : Car sinon tu boostes à mort la puissance de la prêtresse
+[23:53:25] (Groupe) ---Hysoka--- : go ?
+[23:53:27] (Groupe) Larnaqueur : On focus d'abord le torré
+[23:53:32] (Groupe) Larnaqueur : Puis chocoligarque
+[23:53:35] (Groupe) Pandubin : att
+[23:53:46] (Groupe) Larnaqueur : Tu t'es mis comment sur le feca hyso ?
+[23:53:50] Échange effectué
+[23:54:00] (Groupe) ---Hysoka--- : Full eau
+[23:54:01] Vous avez récupéré 990 points de vie.
+[23:54:03] Vous avez récupéré 110 points de vie.
+[23:54:04] Vous avez récupéré 110 points de vie.
+[23:54:05] Vous avez récupéré 110 points de vie.
+[23:54:06] Vous avez récupéré 110 points de vie.
+[23:54:07] Vous avez récupéré 110 points de vie.
+[23:54:08] Vous avez récupéré 110 points de vie.
+[23:54:08] (Groupe) Larnaqueur : Ca marche
+[23:54:09] Vous avez récupéré 90 points de vie.
+[23:54:20] (Groupe) Larnaqueur : Je suis prêt
+[23:54:30] (Groupe) Kinex : pret
+[23:54:36] Des monstres attaquent ---Hysoka--- (Temple du dieu Kao - Cinquième Salle).
+[23:54:49] Vous avez récupéré 305 PV.
+[23:54:55] (Groupe) Larnaqueur : Remis l'elio en full soin avec ses sorts x)
+[23:55:39] (Groupe) Dr-Daniel-Jackson : Faudrait que ton panda prenne 2-3 cabosseur en tacle
+[23:55:40] Wizidi a fait échouer le challenge Zombie.
+[23:56:26] (Groupe) Kinex : ok
+[23:56:46] (Groupe) Kinex : je l'envois des maintenant ?
+[23:56:49] (Équipe) Dr-Daniel-Jackson : Cellule 520
+[23:56:49] (Équipe) Dr-Daniel-Jackson : Cellule 520
+[23:56:50] (Équipe) Dr-Daniel-Jackson : Cellule 453
+[23:56:50] (Équipe) Dr-Daniel-Jackson : Cellule 453
+[23:56:51] (Équipe) Dr-Daniel-Jackson : Cellule 345
+[23:56:51] (Équipe) Dr-Daniel-Jackson : Cellule 345
+[23:56:51] (Équipe) Dr-Daniel-Jackson : Cellule 277
+[23:56:51] (Équipe) Dr-Daniel-Jackson : Cellule 277
+[23:57:30] (Groupe) Dr-Daniel-Jackson : Ouais vers ceux de gauche
+[23:57:34] (Groupe) Dr-Daniel-Jackson : Qu'on n'ait pas à s'en occuper
+[23:57:40] (Groupe) Pandubin : ok ok
+[23:58:28] (Groupe) Dr-Daniel-Jackson : ^^
+[23:58:36] (Groupe) Kinex : beau moove ?
+[23:58:39] (Groupe) Kinex : ^^"
+[23:58:47] (Groupe) ---Hysoka--- : oui, mais faudra pas en tacler que 1 x)
+[23:59:32] (Groupe) Larnaqueur : Pour le moment ça se passe bien ^^
+[23:59:43] (Groupe) Larnaqueur : Tiens, c'est pas en ligne droite ce sort ?
+[23:59:57] (Équipe) Larnaqueur : Cellule 339
+[23:59:57] (Équipe) Larnaqueur : Cellule 339
+[23:59:57] (Équipe) Larnaqueur : Cellule 325
+[23:59:57] (Équipe) Larnaqueur : Cellule 325
+[00:00:06] (Groupe) Larnaqueur : Pour plus qu'elle te pousse
+[00:00:08] (Équipe) Larnaqueur : Cellule 325
+[00:00:08] (Équipe) Larnaqueur : Cellule 325
+[00:00:13] (Groupe) Larnaqueur : Et tu te mets entre
+[00:00:24] (Groupe) Larnaqueur : Tu peux la vulné
+[00:00:28] (Groupe) Larnaqueur : Ca sera la prochaine cible
+[00:01:03] (Groupe) Pandubin : je voulais choper aussi la prali ^^"
+[00:01:13] (Groupe) Dr-Daniel-Jackson : Elle va venir je pense ^^
+[00:01:29] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[00:01:51] (Groupe) Dr-Daniel-Jackson : Fuck save x)
+[00:01:57] (Groupe) Dr-Daniel-Jackson : Pas eu le temps de finir tour
+[00:02:15] (Groupe) Kinex : je tape qui avec xel ?
+[00:02:30] (Groupe) Dr-Daniel-Jackson : Chocoligarque si tu peux
+[00:02:37] (Groupe) Dr-Daniel-Jackson : On finit le torré avec hyso
+[00:02:50] (Groupe) Kinex : oki
+[00:03:39] (Groupe) Larnaqueur : Voilà x)
+[00:03:48] Larnaqueur a fait échouer le challenge Désigné volontaire.
+[00:03:58] (Groupe) Pandubin : hum
+[00:04:32] (Groupe) Pandubin : l'IA prend en compte que si hyso me rend invul en mélée, mieux vaut taper un autre perso ?
+[00:04:44] (Groupe) Larnaqueur : Oui mais tu tacles
+[00:04:56] (Groupe) Larnaqueur : Ah ca va etre compliqué de le chercher x)
+[00:05:03] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[00:05:05] (Groupe) Larnaqueur : On fait le cabosseur en vue des portails ?
+[00:05:13] (Groupe) ---Hysoka--- : Yep
+[00:05:13] 4 secondes ajoutées au prochain tour de jeu.
+[00:06:40] Roxeur-plio vient de rejoindre le combat en spectateur.
+[00:07:50] (Groupe) Larnaqueur : Je le finis
+[00:07:55] (Groupe) Larnaqueur : Si tu veux passer sur un autre
+[00:09:44] (Groupe) Brutoto : le jour ou les sadi pourront controler leurs invocs ...
+[00:09:53] 7 secondes ajoutées au prochain tour de jeu.
+[00:09:57] (Groupe) Larnaqueur : xD
+[00:10:05] (Groupe) Larnaqueur : Peut-être après temporis
+[00:10:12] (Groupe) Pandubin : x)
+[00:11:17] (Groupe) Dr-Daniel-Jackson : Arf
+[00:12:03] (Groupe) Kinex : ?
+[00:12:11] (Groupe) Larnaqueur : Pas eu le temps de finir mon tour
+[00:12:22] (Groupe) Larnaqueur : Tu devrais venir vers l'elio pour que je te soin x)
+[00:13:17] (Groupe) Larnaqueur : Pretresse fais ses cloches ce tour ?
+[00:13:32] (Groupe) Larnaqueur : Arf pas vu :/
+[00:13:42] (Groupe) Brutoto : t'as un trop gros chapeau
+[00:13:50] (Groupe) Larnaqueur : Oui :/
+[00:14:31] (Groupe) Dr-Daniel-Jackson : Tu peux reprendre ta place ? x)
+[00:14:51] (Groupe) Dr-Daniel-Jackson : Parfait ^^
+[00:15:13] (Groupe) Pandubin : je me sent utile j'aime ça ^^"
+[00:15:28] (Groupe) Dr-Daniel-Jackson : Go chocoligarque, le sram finira le cabosseur commencé
+[00:17:29] (Groupe) Larnaqueur : xD
+[00:18:16] (Groupe) Larnaqueur : Il a mon ébène
+[00:18:36] (Groupe) Pandubin : ?
+[00:18:37] (Groupe) Pandubin : qui ?
+[00:18:38] (Équipe) Larnaqueur : Cellule 325
+[00:18:38] (Équipe) Larnaqueur : Cellule 325
+[00:18:45] (Groupe) Larnaqueur : Il meurt au début de son tour
+[00:18:49] (Groupe) Larnaqueur : A moins qu'il soit soin x)
+[00:19:31] (Équipe) Larnaqueur : Cellule 352
+[00:19:31] (Équipe) Larnaqueur : Cellule 352
+[00:19:51] 3 secondes ajoutées au prochain tour de jeu.
+[00:20:19] (Groupe) Kinex : je ramène le cabo ?
+[00:20:34] (Groupe) Larnaqueur : Non je pense ça ira
+[00:21:22] (Équipe) Dr-Daniel-Jackson : Cellule 465
+[00:21:22] (Équipe) Dr-Daniel-Jackson : Cellule 465
+[00:21:22] (Équipe) Dr-Daniel-Jackson : Cellule 423
+[00:21:22] (Équipe) Dr-Daniel-Jackson : Cellule 423
+[00:21:23] (Équipe) Dr-Daniel-Jackson : Cellule 350
+[00:21:23] (Équipe) Dr-Daniel-Jackson : Cellule 350
+[00:21:23] (Équipe) Dr-Daniel-Jackson : Cellule 308
+[00:21:23] (Équipe) Dr-Daniel-Jackson : Cellule 308
+[00:21:29] (Groupe) Dr-Daniel-Jackson : Connais pas les PO mini des cras :/
+[00:21:36] (Groupe) Kinex : rho je l'avais vu avant le ping
+[00:21:40] (Groupe) Hysoka : je l'avais vu :p
+[00:21:42] (Groupe) Dr-Daniel-Jackson : ^^
+[00:21:52] (Groupe) Kinex : un donjon avec Larna je suis devenu un craq
+[00:21:52] (Groupe) Hysoka : en meme temps à 2 portails ...
+[00:21:53] (Groupe) Dr-Daniel-Jackson : Avec vous je sais jamais alors je fais pour m'assurer :P
+[00:22:09] (Groupe) Kinex : ^^"
+[00:22:48] (Groupe) Dr-Daniel-Jackson : Je l'aimais bien là
+[00:23:09] (Groupe) Kinex : ?
+[00:23:45] (Groupe) Kinex : je l'emène pour vulné le cabo ,
+[00:23:47] (Groupe) Kinex : ?
+[00:23:48] (Groupe) Larnaqueur : C'est bon ^^
+[00:23:56] (Groupe) Larnaqueur : Ouais x)
+[00:24:39] (Groupe) Dr-Daniel-Jackson : Déso, je la joue facile portail avec l'elio sur ce cbt car je préfère éviter que les mobs prennent les portails x)
+[00:24:46] (Groupe) Dr-Daniel-Jackson : Ah merde j'ai oublié l'offrande sur tempo :/
+[00:24:57] (Groupe) Pandubin : rrrr
+[00:26:41] (Groupe) Dr-Daniel-Jackson : Tu pourras inverser prali et cabosseur stp ?
+[00:27:37] (Groupe) Kinex : encore ,
+[00:27:41] (Groupe) Larnaqueur : Oui
+[00:27:42] (Groupe) ---Hysoka--- : nan
+[00:27:46] (Groupe) Larnaqueur : Sisi
+[00:27:54] (Groupe) Larnaqueur : Sinon elle mettait épidémie sur l'eclat
+[00:28:25] (Groupe) ---Hysoka--- : oui mais là ldv est pas ouf ^^
+[00:29:08] (Groupe) Brutoto : et ça faisati quoi qu'il mette épidémie ^^
+[00:29:21] Terminez votre tour avec le bouton [Fin de tour].
+[00:29:23] (Groupe) Larnaqueur : Tu sais que plus il y a de gens qui tape l'éclat et ont l'état de chocolat, plus elle tape fort la pretresse ? x)
+[00:29:37] (Groupe) Brutoto : Ouais
+[00:29:41] (Groupe) Larnaqueur : Pour ça que seul un perso tape l'éclat normalement
+[00:32:04] (Groupe) Kinex : on fait quoi la ?
+[00:32:09] (Groupe) Larnaqueur : Faut attendre
+[00:32:14] (Groupe) ---Hysoka--- : on attend que l'éclat revienne
+[00:32:14] (Groupe) Larnaqueur : Qu'elle invoque des éclats
+[00:32:17] (Groupe) ---Hysoka--- : fuit
+[00:32:17] (Groupe) Larnaqueur : Et que le cra les tue xD
+[00:32:29] (Groupe) Kinex : ok ok
+[00:32:36] (Groupe) ---Hysoka--- : non mais on va mettre 2 persos
+[00:32:44] (Groupe) ---Hysoka--- : ca va etre trop long si non
+[00:33:04] (Groupe) Larnaqueur : Dac
+[00:33:11] Oo-plionor vient de rejoindre le combat en spectateur.
+[00:33:13] (Groupe) Larnaqueur : Qui et qui du coup ?
+[00:33:32] (Groupe) Kinex : le panda deja ^^"
+[00:33:40] (Groupe) Brutoto : ^^
+[00:33:45] (Groupe) Larnaqueur : Non le panda tapera pas les éclats x)
+[00:33:57] Terminez votre tour avec le bouton [Fin de tour].
+[00:33:57] (Groupe) Brutoto : elle a faiblesse terre
+[00:34:02] (Groupe) Pandubin : j'invioque mon pandawa
+[00:34:02] (Groupe) Pandubin : ?
+[00:34:22] En attente du joueur Dr-Daniel-Jackson...
+[00:34:27] (Groupe) Brutoto : alors on garde xel et sadi
+[00:34:30] (Groupe) Dr-Daniel-Jackson : Hum
+[00:34:42] (Groupe) Pandubin : xel et sadi pour ?
+[00:35:20] (Groupe) Wizidi : xel et sadi taperont la madame, féca cra sur l'éclat ?
+[00:35:55] (Groupe) Dr-Daniel-Jackson : Dac
+[00:36:04] (Groupe) Dr-Daniel-Jackson : Tu peux taper dans portail hyso
+[00:36:09] (Équipe) Dr-Daniel-Jackson : Cellule 436
+[00:36:09] (Équipe) Dr-Daniel-Jackson : Cellule 436
+[00:36:09] (Équipe) Dr-Daniel-Jackson : Cellule 451
+[00:36:09] (Équipe) Dr-Daniel-Jackson : Cellule 451
+[00:36:27] (Groupe) Kinex : tu coup ?
+[00:36:47] (Groupe) Dr-Daniel-Jackson : Dac pas portail ^^
+[00:36:48] (Groupe) Kinex : faut attendre encore ?
+[00:36:52] (Groupe) Dr-Daniel-Jackson : Oui encore un tour
+[00:36:58] (Groupe) Dr-Daniel-Jackson : A tuer l'éclat
+[00:37:00] (Groupe) ---Hysoka--- : [Tension Niv.1] [Bulle Niv.3] [Attaque Nuageuse Niv.3] [Coup de poing Niv.1]
+[00:37:15] (Groupe) Dr-Daniel-Jackson : Pfff on peut rien faire avec tes persos xD
+[00:37:17] (Groupe) ---Hysoka--- : j'peux pas taper au cac
+[00:37:29] (Groupe) ---Hysoka--- : c'pour ça qu'elio et cra c'est pas une bonne synergie
+[00:37:35] (Groupe) ---Hysoka--- : féca eau c'pareil qu'un cra ^^
+[00:37:56] (Groupe) Kinex : ^^"
+[00:37:57] (Groupe) ---Hysoka--- : elle pousse la madame je sais plus ?
+[00:38:04] (Groupe) Larnaqueur : xD
+[00:38:09] (Groupe) Larnaqueur : Me semble pas
+[00:38:14] (Groupe) Kinex : faudra que tu m'envois ton db Hyso
+[00:38:21] (Groupe) Larnaqueur : Tu peux débuff sadi ?
+[00:38:21] (Groupe) Kinex : que je compare avec mon stuff
+[00:38:45] (Groupe) Brutoto : ha oui mais trop tard, j'avais pas pensé
+[00:38:47] (Groupe) Larnaqueur : Ok pas débuff sadi
+[00:38:49] (Groupe) Larnaqueur : x)
+[00:38:56] (Groupe) Pandubin : debuff qui ,
+[00:39:03] (Groupe) Larnaqueur : Ct le sadi mais tant pis
+[00:39:04] (Groupe) Brutoto : nan rien trop tard
+[00:39:13] (Groupe) Larnaqueur : Ca ira ^^
+[00:39:14] (Groupe) Brutoto : ca va, elle a pas fait bobo
+[00:39:22] (Groupe) Larnaqueur : Ouaip, prochain tour ^^
+[00:39:28] (Groupe) Larnaqueur : Par contre, pas d'éclat ? :/
+[00:40:31] (Groupe) Dr-Daniel-Jackson : Roh j'ai chié
+[00:40:35] (Groupe) Dr-Daniel-Jackson : Oublié conflag sur panda
+[00:40:49] (Groupe) Dr-Daniel-Jackson : Et mis portail trop loin pour le faire à la fin du tour x)
+[00:41:50] (Groupe) Larnaqueur : Prochain tour tu devrais pouvoir envoyer la sauce
+[00:42:08] (Groupe) ---Hysoka--- : et puis y'a les ébènes qui râlent là
+[00:43:53] (Groupe) Larnaqueur : Ah bah plus de toxines x)
+[00:43:57] (Groupe) Pandubin : ?
+[00:44:19] (Groupe) Brutoto : hum
+[00:44:21] (Groupe) Larnaqueur : Je charge toxines depuis 3 tours
+[00:44:27] (Groupe) Pandubin : :/
+[00:44:43] (Groupe) Pandubin : j'avais pas vu c'etait pour qu'elle tape moins fort à l'invok
+[00:45:13] (Groupe) Wizidi : Pquoi le sram à le buff ?
+[00:45:26] (Groupe) Dr-Daniel-Jackson : L'invok est apparue sur son piège
+[00:45:36] (Groupe) Dr-Daniel-Jackson : Je pensais que ça ferait en biais
+[00:46:18] (Groupe) Larnaqueur : Tape pas kinex du coup
+[00:46:34] (Groupe) ---Hysoka--- : je débuff sram ?
+[00:46:44] (Groupe) Larnaqueur : Ouais
+[00:46:48] (Groupe) Larnaqueur : Mais j'en profite pour finir éclat
+[00:47:26] (Groupe) Larnaqueur : Arf marche pas
+[00:47:28] (Groupe) Larnaqueur : Dommage
+[00:47:41] (Groupe) Kinex : ça se debuff pas :s
+[00:47:47] (Groupe) Larnaqueur : Visiblement :/
+[00:47:51] (Groupe) Brutoto : du coup ca va etre très compliqué ^^ ?
+[00:47:51] (Groupe) Kinex : un pote viens de me dire :/
+[00:47:56] (Groupe) Larnaqueur : xD
+[00:47:57] Terminez votre tour avec le bouton [Fin de tour].
+[00:47:58] (Groupe) Larnaqueur : Jsp
+[00:48:02] (Groupe) Larnaqueur : Ce tour-ci pas d'éclat
+[00:48:13] (Groupe) Larnaqueur : Pas de cloches
+[00:48:32] (Groupe) Brutoto : full grosses patates rox de ouf :p
+[00:48:42] (Groupe) Brutoto : j'invu kinex à distance prochain tour
+[00:48:43] (Groupe) Kinex : si vous le bougé pas
+[00:48:51] (Groupe) Kinex : je le tabasse pas mal normalement
+[00:49:19] (Groupe) Dr-Daniel-Jackson : Plutôt invu cac ?
+[00:49:24] Roxeur-plio vient de rejoindre le combat en spectateur.
+[00:49:31] (Groupe) Kinex : possible de metre une invok
+[00:49:34] (Équipe) Kinex : Cellule 480
+[00:49:55] (Groupe) ---Hysoka--- : déso
+[00:50:00] (Groupe) ---Hysoka--- : et nop
+[00:50:05] (Groupe) ---Hysoka--- : reste loin d'elle à le fin
+[00:50:22] (Groupe) ---Hysoka--- : ou que ton panda viennet sauver ton xel pour le mettre à distance
+[00:50:40] (Groupe) Larnaqueur : Tu peux prendre prtails avec panda
+[00:50:50] (Groupe) Pandubin : yes
+[00:50:53] (Groupe) ---Hysoka--- : il détacle de 2 je crois
+[00:51:58] (Groupe) Kinex : :P
+[00:52:00] (Groupe) Kinex : :O
+[00:52:00] (Groupe) Larnaqueur : Arh quel dommage
+[00:52:11] (Groupe) Hysoka : ça m'arrive jamais mais j'ai envie de rage quit
+[00:52:13] (Groupe) Larnaqueur : Tu peux pas jouer hyso ?
+[00:52:18] (Groupe) Larnaqueur : Tape eclat
+[00:52:27] (Groupe) Larnaqueur : Tape éclat aussi
+[00:52:42] (Groupe) Larnaqueur : Faut tuer éclat puis la pretresse
+[00:52:55] Roxeur-plio vient de rejoindre le combat en spectateur.
+[00:52:56] (Groupe) Larnaqueur : :/
+[00:53:05] (Groupe) Larnaqueur : Si vous aviez fait vos tours ^^"
+[00:53:06] (Groupe) Pandubin : rrrrrrr
+[00:53:09] Terminez votre tour avec le bouton [Fin de tour].
+[00:53:13] (Groupe) Larnaqueur : Panda aurait pu tacle la pretresse
+[00:53:22] (Groupe) Larnaqueur : Vous auriez pu la tuer tour d'après
+[00:53:33] Mariadb vient de rejoindre le combat en spectateur.
+[00:53:47] (Groupe) Larnaqueur : Donne tout ce que t'as
+[00:54:21] (Groupe) Larnaqueur : Il va t'avoir avec les cloches :/
+[00:55:05] Mobbras vient de rejoindre le combat en spectateur.
+[00:55:08] (Groupe) Larnaqueur : Faut enlever 1000 à l'éclat
+[00:55:13] (Groupe) Larnaqueur : Et partir loin
+[00:55:17] (Groupe) Kinex : rrrrrrrrrrr
+[00:55:17] (Groupe) Kinex : r
+[00:55:18] (Groupe) Kinex : rrrrr
+[00:55:18] (Groupe) Kinex : rr
+[00:55:19] (Groupe) Kinex : r
+[00:55:24] Vous avez gagné 116 675 points d'expérience.
+[00:55:28] Vous avez perdu 2000 points d'énergie.
+[00:55:50] Harbard-sct : Bonsoir, 193 recherche grp pour le donjon
+[00:55:51] (Groupe) Dr-Daniel-Jackson : Dommage, ça aurait pu passer ^^"
+[00:56:21] (Groupe) Kinex : on retente demain ,
+[00:56:23] (Groupe) Kinex : ,
+[00:56:25] (Groupe) Kinex : ?
+[00:56:28] (Groupe) Dr-Daniel-Jackson : Plus le dj rusher demain
+[00:56:44] (Groupe) Kinex : il est 0h50
+[00:56:48] (Groupe) Kinex : ça marche toujours?
+[00:56:49] (Groupe) ---Hysoka--- : Oui pour ma part
+[00:56:57] (Groupe) Dr-Daniel-Jackson : Jusque demain 9h
+[00:57:07] Kahpuce : Cherche passeur Pretresse Kao (3 personnage) No Succes je Paye mp moi
+[00:57:43] (Groupe) Kinex : oui quoi Hyso ?
+[00:57:54] (Groupe) Dr-Daniel-Jackson : Tu es pas assez opti pour qu'on le fasse sans hyso Kinex
+[00:57:57] (Groupe) Hysoka : retenter demain
+[00:58:03] (Groupe) Dr-Daniel-Jackson : Et moi j'ai pas d'intérêt à faire le dj sans le dj rusher
+[00:58:07] (Groupe) Kinex : ok ok
+[00:58:53] (Groupe) Hysoka : Après panda tank, sram, elio et xelo ça se tente
+[00:58:59] (Groupe) Larnaqueur : Nan
+[00:59:01] (Groupe) Larnaqueur : Avec les cloches
+[00:59:03] (Groupe) Larnaqueur : On meurt
+[00:59:03] (Groupe) Kinex : x)
+[00:59:08] (Groupe) Larnaqueur : Surtout kinex meurt
+[00:59:13] Harbard-sct : Cherche passeur, no succès, mp prix
+[00:59:16] (Groupe) Larnaqueur : Même sans les cloches pendant le dj il mourrait
+[00:59:32] (Groupe) Kinex : ^^"
+[00:59:50] (Groupe) Hysoka : meme si tu soins ?
+[01:00:21] (Groupe) Larnaqueur : Elio qui tape pas, panda qui tape pas, qui tape les éclats ? x)
+[01:00:26] (Groupe) Larnaqueur : Puis la prêtresse
+[01:02:13] (Groupe) Kinex : ^^"
+[01:02:41] (Groupe) Larnaqueur : Bon vous faites tous les deux demain, et j'essaie de me faire recruter par une équipe, voire je fais pas le dj rusher ?
+[01:02:50] (Groupe) Hysoka : Ben le xel
+[01:03:10] (Groupe) Hysoka : avec télégraphe il roxx les 2
+[01:03:13] (Groupe) Hysoka : bon bref
+[01:03:19] (Groupe) Larnaqueur : Si tu veux tenter kinex, mais j'y crois pas trop
+[01:03:22] (Groupe) Hysoka : désolé mais moi ce soir trop tard, j'ai mal au crâne
+[01:03:33] (Groupe) Kinex : tkt :/
+[01:03:41] (Groupe) Hysoka : bonne nuit à vous
+[01:03:47] (Groupe) Larnaqueur : Bonne nuit hyso
+[01:03:47] (Groupe) Kinex : bah on pourait mais effectivement ce serait un peu chaud
+[01:03:55] (Groupe) Kinex : bonne nuit hyso @demain
+[01:04:14] (Groupe) Hysoka : Moi j'ai confiance, personne n'est mort jusqu'au boss à 8 =)
+[01:04:23] (Groupe) Hysoka : vous me direz si vous tentez ^^
+[01:04:26] (Groupe) Hysoka : ++
+[01:04:32] (Groupe) Larnaqueur : Ouais, avec l'enu qui rall pm xD
+[01:04:42] (Groupe) Kinex : ^^
+[01:04:44] (Groupe) Larnaqueur : ++
+[01:04:45] (Groupe) ---Hysoka--- : =°
+[01:04:47] (Groupe) Kinex : so ?
+[01:04:51] (Groupe) Larnaqueur : Bah viens
+[01:04:56] (Groupe) Larnaqueur : Je suis plus à ça près
+[01:05:02] (Groupe) Larnaqueur : Ma copine voulait que je me couche y a une heure
+[01:05:13] (Groupe) Larnaqueur : Une ou deux heures de plus ça changera ren
+[01:05:21] (Groupe) Kinex : ouai un peu pareil ^^"
+[01:05:26] (Groupe) Larnaqueur : Allé go
+[01:05:34] Vous avez récupéré 110 points de vie.
+[01:05:35] Vous avez récupéré 110 points de vie.
+[01:05:35] Vous avez récupéré 110 points de vie.
+[01:05:49] Vous avez récupéré 70 points de vie.
+[01:05:53] Des monstres attaquent Larnaqueur (Temple du dieu Kao - Cinquième Salle).
+[01:05:59] Vous avez récupéré 70 points de vie.
+[01:06:06] Vous avez récupéré 1277 PV.
+[01:06:26] Kazuma-Sato vient de rejoindre le combat en spectateur.
+[01:06:48] (Groupe) Kinex : je la repousse avec retour spont ?
+[01:06:48] Dr-Daniel-Jackson a fait échouer le challenge Zombie.
+[01:07:43] (Groupe) Larnaqueur : ...
+[01:07:51] (Groupe) Larnaqueur : pas en ligne avec tooré
+[01:08:13] (Groupe) Pandubin : ah je croyais c'etais l'autre qui en ligne metais paci
+[01:08:25] (Groupe) Larnaqueur : Torré se rapproche en ligne
+[01:08:34] (Groupe) Pandubin : jele tacle?
+[01:08:36] (Groupe) Larnaqueur : Et comme il est pesanteur on peut pas le remettre
+[01:08:39] (Groupe) Larnaqueur : Oui stp
+[01:08:41] Terminez votre tour avec le bouton [Fin de tour].
+[01:10:17] (Groupe) Larnaqueur : J'arrive pas à comprendre pk vous avez pas joué vos tour quand les autres sont morts
+[01:10:32] (Groupe) Pandubin : moi mon interface à lagguer
+[01:10:47] (Groupe) Pandubin : j'ai miss click un bouton ça a ouvert un interface
+[01:10:52] (Groupe) Larnaqueur : Ah
+[01:11:08] La cible ne peut pas être portée.
+[01:11:18] 3 secondes ajoutées au prochain tour de jeu.
+[01:11:29] (Groupe) Kinex : je suis bine sooulé :/
+[01:12:12] (Groupe) Kinex : je tape qui parce que j'ai plus trop de pdv :/
+[01:12:21] (Groupe) Dr-Daniel-Jackson : oligarque
+[01:12:26] (Groupe) Dr-Daniel-Jackson : Non ok x)
+[01:13:02] (Groupe) Kinex : je balance la pretresse ;
+[01:13:37] (Groupe) Larnaqueur : Tu tacles pas dans la bvrume
+[01:13:47] (Groupe) Larnaqueur : porte ton xel
+[01:13:51] (Groupe) Larnaqueur : Pour le sauver
+[01:14:07] (Groupe) Pandubin : j'avais deja bougé
+[01:14:09] (Groupe) Pandubin : :/
+[01:14:11] (Groupe) Dr-Daniel-Jackson : Ouip
+[01:14:22] (Groupe) Dr-Daniel-Jackson : On peut abandonner tout d esuite
+[01:14:34] (Groupe) Dr-Daniel-Jackson : On a plus de damage dealer
+[01:14:50] (Groupe) Pandubin : meme avec ton duo , ;
+[01:14:51] (Groupe) Pandubin : ?
+[01:14:53] Il n'est plus possible de capturer ce gardien de donjon : trop de personnages ont déserté le combat.
+[01:15:01] (Groupe) Larnaqueur : Non je duo pas le dj x)
+[01:15:04] Vous avez perdu 2000 points d'énergie.
+[01:15:48] (Groupe) Kinex : bon ben ;.
+[01:15:49] (Groupe) Kinex : :/
+[01:16:07] (Groupe) Kinex : on revoit demain
+[01:16:15] (Groupe) Dr-Daniel-Jackson : Non je te dis demain je fais pas
+[01:16:16] (Groupe) Kinex : ou tu veux retry ,
+[01:16:20] (Groupe) Kinex : ok ok
+[01:16:22] (Groupe) Dr-Daniel-Jackson : On peut retenter
+[01:16:25] (Groupe) Kinex : bah avec Hyso
+[01:16:31] (Groupe) Dr-Daniel-Jackson : Me sert à rien
+[01:16:34] (Groupe) Dr-Daniel-Jackson : Il veut faire pour sa quête
+[01:16:37] (Groupe) Dr-Daniel-Jackson : Je voulais dj rusher
+[01:16:45] (Groupe) Dr-Daniel-Jackson : Ca finit à 9h je dormirais encore
+[01:16:49] (Groupe) Dr-Daniel-Jackson : Surement que lui aussi
+[01:16:58] (Groupe) Kinex : ok je regen
+[01:17:02] (Groupe) Kinex : et on retente
+[01:17:07] (Groupe) Dr-Daniel-Jackson : Dac
+[01:17:20] (Groupe) Dr-Daniel-Jackson : Pas en ligne avec le taurreau
+[01:18:05] Échange effectué
+[01:18:51] Vous avez récupéré 270 points d'énergie.
+[01:18:56] Vous avez récupéré 4050 points d'énergie.
+[01:18:58] Vous avez récupéré 270 points d'énergie.
+[01:18:59] Vous avez récupéré 270 points d'énergie.
+[01:19:01] Vous avez récupéré 270 points d'énergie.
+[01:19:06] Vous avez récupéré 700 points de vie.
+[01:19:12] Vous avez récupéré 700 points de vie.
+[01:19:15] Vous avez récupéré 70 points de vie.
+[01:19:19] Vous avez récupéré 61 points de vie.
+[01:19:26] (Groupe) Larnaqueur : Go ?
+[01:19:34] (Groupe) Pandubin : go
+[01:20:37] (Groupe) Kinex : go :)
+[01:22:07] Des monstres attaquent Larnaqueur (Temple du dieu Kao - Cinquième Salle).
+[01:22:15] Vous avez récupéré 514 PV.
+[01:22:38] Dr-Daniel-Jackson a fait échouer le challenge Zombie.
+[01:23:10] (Groupe) Dr-Daniel-Jackson : Roh
+[01:23:16] (Groupe) Dr-Daniel-Jackson : Bon au moins y a plus la ligne du torr
+[01:23:53] (Groupe) Pandubin : je go bloquer ,
+[01:23:54] (Groupe) Pandubin : ?
+[01:24:04] (Groupe) Larnaqueur : Tu peux envoyer loin la pretresse ?
+[01:24:16] (Groupe) Pandubin : je pens
+[01:24:39] (Équipe) Larnaqueur : Cellule 291
+[01:24:39] (Équipe) Larnaqueur : Cellule 291
+[01:24:50] (Groupe) Larnaqueur : Jsp si ça passe à travers les mobs
+[01:24:51] (Groupe) Larnaqueur : Dac
+[01:25:11] (Groupe) Pandubin : nope
+[01:25:46] (Groupe) Dr-Daniel-Jackson : Merde je croyais j'avais un tour
+[01:26:34] (Groupe) Kinex : un tour pour ?
+[01:26:46] (Groupe) Kinex : je la rebalance ?
+[01:26:53] (Groupe) Larnaqueur : Ouais
+[01:26:58] (Groupe) Larnaqueur : Plus loin encore
+[01:27:23] (Groupe) Larnaqueur : Tu pouvais te mettre hors de portée x)
+[01:27:47] (Groupe) Kinex : comment ça ?
+[01:27:50] (Équipe) Dr-Daniel-Jackson : Cellule 315
+[01:27:50] (Équipe) Dr-Daniel-Jackson : Cellule 315
+[01:27:51] (Équipe) Dr-Daniel-Jackson : Cellule 228
+[01:27:51] (Équipe) Dr-Daniel-Jackson : Cellule 228
+[01:27:52] (Équipe) Dr-Daniel-Jackson : Cellule 356
+[01:27:52] (Équipe) Dr-Daniel-Jackson : Cellule 356
+[01:28:06] (Groupe) Kinex : la je tape qui ?
+[01:28:17] (Groupe) Dr-Daniel-Jackson : Torr si tu peux
+[01:28:19] (Groupe) Dr-Daniel-Jackson : Ou la rose
+[01:28:32] (Groupe) Dr-Daniel-Jackson : Merde du coup déjà un éclat de mort
+[01:28:38] (Groupe) Dr-Daniel-Jackson : On va prendre grave des dégats...
+[01:28:58] (Groupe) Pandubin : :/
+[01:29:23] (Équipe) Pandubin : Cellule 315
+[01:29:28] (Groupe) Pandubin : avec le torré ?
+[01:29:32] (Groupe) Larnaqueur : Envoie la
+[01:29:34] (Groupe) Larnaqueur : Loin
+[01:29:42] (Groupe) Larnaqueur : Tuy peux pas porter torré
+[01:29:42] La cible ne peut pas être portée.
+[01:29:56] (Groupe) Larnaqueur : vulné torr
+[01:30:45] (Groupe) Kinex : "je tape ?
+[01:30:47] (Groupe) Kinex : qui
+[01:30:51] (Groupe) Dr-Daniel-Jackson : Choco
+[01:31:17] Roxeur-plio a déverrouillé le succès [Chassouilleurs].
+[01:31:17] Oo-plionor a déverrouillé le succès [Chassouilleurs].
+[01:32:14] 1 seconde ajoutée au prochain tour de jeu.
+[01:32:53] (Équipe) Dr-Daniel-Jackson : Cellule 484
+[01:32:53] (Équipe) Dr-Daniel-Jackson : Cellule 484
+[01:33:32] (Groupe) Larnaqueur : u peux choper pretre ?
+[01:33:44] Larnaqueur a fait échouer le challenge Désigné volontaire.
+[01:33:50] (Groupe) Larnaqueur : ??
+[01:33:52] (Groupe) Pandubin : oui
+[01:34:14] (Groupe) Larnaqueur : Faut la rejeter loin
+[01:35:03] (Groupe) Kinex : torré ou choco ?
+[01:35:33] (Groupe) Dr-Daniel-Jackson : Torr
+[01:35:42] (Groupe) Dr-Daniel-Jackson : Puis prends portail
+[01:35:59] (Groupe) Kinex : rrr
+[01:36:11] (Groupe) Dr-Daniel-Jackson : Ttes façons il est pesanteur
+[01:36:14] (Groupe) Kinex : tes message je les reçoit après
+[01:36:18] (Groupe) Larnaqueur : xD
+[01:36:25] (Groupe) Kinex : je sais pas si je lag ou uquoio :/
+[01:36:47] (Groupe) Pandubin : je la balance ?
+[01:36:48] (Groupe) Larnaqueur : Faut la lancer loin
+[01:36:52] (Groupe) Larnaqueur : Et reviens
+[01:37:21] (Groupe) Pandubin : ???,
+[01:39:51] Roxeur-plio vient de rejoindre le combat en spectateur.
+[01:46:44] Killarcx vient de rejoindre le combat en spectateur.
+[01:46:55] (Groupe) Larnaqueur : C'est t'es potes les spect ?
+[01:47:02] (Groupe) Pandubin : pas la
+[01:47:07] (Groupe) Pandubin : plio juste
+[01:47:13] (Groupe) Pandubin : mais il es plus la
+[01:47:18] (Groupe) Pandubin : pourquoi ?
+[01:47:36] Kazuma-Sato vient de rejoindre le combat en spectateur.
+[01:47:43] (Groupe) Pandubin : ferme si tu veux
+[01:48:03] (Groupe) Larnaqueur : Non ça ira
+[01:48:40] Mariadb vient de rejoindre le combat en spectateur.
+[01:48:42] Roxeur-plio vient de rejoindre le combat en spectateur.
+[01:49:57] (Guilde) Mariadb : [01:49] Banque : + 6 999 999 Kamas (vente : 1 [Anneau Volkorne]).
+[01:51:41] (Groupe) Killarcx : hello
+[01:51:52] (Groupe) Pandubin : Hello
+[01:51:53] (Groupe) Larnaqueur : Je tue pas avec elio si ?
+[01:51:56] (Groupe) Killarcx : objectif foutre etat 3
+[01:52:00] (Groupe) Killarcx : non avec sram
+[01:52:18] (Groupe) Killarcx : comme ça evite de foutre vous deux en etat cacao
+[01:52:29] Roxeur-plio vient de rejoindre le combat en spectateur.
+[01:52:30] (Groupe) Killarcx : Cellule 510
+[01:52:56] (Groupe) Killarcx : debuf la
+[01:53:00] (Groupe) Killarcx : defonce la
+[01:53:11] (Groupe) Killarcx : mais tous les 2 tours elle invoque eclat
+[01:53:27] (Groupe) Killarcx : defonce la
+[01:53:42] (Groupe) Killarcx : puis go tacler avec double
+[01:54:03] (Groupe) Larnaqueur : Elle est intaclable ::
+[01:54:08] (Groupe) Larnaqueur : Oo Ah non
+[01:54:09] (Groupe) Larnaqueur : xD
+[01:54:35] (Groupe) Killarcx : essaye de soins
+[01:54:38] (Groupe) Killarcx : genre le sram
+[01:54:54] (Groupe) Killarcx : lui il tue eclat
+[01:55:56] (Groupe) Killarcx : good
+[01:56:26] (Groupe) Killarcx : tu soisn tempo et sram tape juste 1000 sur eclat
+[01:57:00] (Groupe) Killarcx : voila
+[01:57:04] (Groupe) Killarcx : piege et poisson
+[01:58:53] (Groupe) Killarcx : quand tu as l'etat cacao elle te tape super fort
+[01:58:57] Vous avez gagné 80 455 points d'expérience.
+[01:58:58] Vous avez perdu 2000 points d'énergie.
+[01:59:03] (Groupe) Larnaqueur : Ouais je sais :/
+[01:59:05] (Groupe) Pandubin : :/
+[01:59:15] (Groupe) Larnaqueur : Désolé Kinex, je vais devoir trouver quelqu'un pour le faire avec moi
+[01:59:16] (Groupe) Pandubin : bon ben on aura essayé ::/
+[01:59:22] (Groupe) Pandubin : tkt je go dodo
+[01:59:24] (Groupe) Killarcx : pourtant tes panda tank
+[01:59:27] (Groupe) Larnaqueur : Bonne nuit
+[01:59:29] (Groupe) Killarcx : c'est izi
+[01:59:37] (Groupe) Killarcx : genre vrm en 15 min cfait
+[01:59:41] (Groupe) Larnaqueur : xD
+[01:59:46] (Groupe) Larnaqueur : Bah on n'a pas la tactique :X
+[02:00:00] (Groupe) Larnaqueur : On fait ensemble du coup kill, ou je me trouve quelqu'un d'autre ? x)
+[02:00:04] (Groupe) Killarcx : j'aurais du vous montrer des le debut
+[02:00:13] (Groupe) Killarcx : moi je fais passage :)
+[02:00:22] (Groupe) Killarcx : apres jai mon panda save boss
+[02:00:40] (Groupe) Killarcx : ahah :)
+[02:00:42] (Groupe) Dr-Daniel-Jackson : Passage généralement, c'est payant x)
+[02:00:54] (Groupe) Pandubin : ^^"
+[02:00:58] (Groupe) Killarcx : oui, jai du faire 10 fois le dj aujourd'hui x)
+[02:01:03] (Groupe) Pandubin : x)
+[02:01:12] (Groupe) Killarcx : au pire refais vite fais
+[02:01:17] (Groupe) Killarcx : jte te montre avec ton panda
+[02:01:36] (Groupe) Dr-Daniel-Jackson : Comme tu veux kinex
+[02:01:39] (Groupe) Pandubin : t'es chaud ?
+[02:01:43] (Groupe) Pandubin : :p on peux tenter
+[02:01:46] (Groupe) Dr-Daniel-Jackson : Avec ses conseils on y arrivera surement
+[02:01:56] Vous avez récupéré 1100 points de vie.
+[02:01:58] (Groupe) Dr-Daniel-Jackson : S'il dit que c'est facile x)
+[02:02:01] (Guilde) Mariadb : Si j'avais pas acheter l'exo
+[02:02:04] (Groupe) Pandubin : ^^"
+[02:02:06] (Guilde) Mariadb : J'aurais été a 100m
+[02:02:09] (Groupe) Killarcx : juste un de vous doit se mettre avec un stuff full degat
+[02:02:11] Vous avez récupéré 70 points de vie.
+[02:02:15] (Groupe) Killarcx : avec ebene
+[02:02:15] Vous avez récupéré 70 points de vie.
+[02:02:16] Vous avez récupéré 70 points de vie.
+[02:02:17] Vous avez récupéré 70 points de vie.
+[02:02:23] (Groupe) Dr-Daniel-Jackson : Bah c'est Kinex mais il a pas de résis donc meurt vite
+[02:02:28] (Groupe) Pandubin : j'ai pas d'ebene sur le xel ^^"
+[02:02:28] (Guilde) Mariadb : Mais bon du coup objectif 100m post eco tjr possible !!
+[02:02:35] (Guilde) Mariadb : Bonne nuit tlm
+[02:02:36] (Groupe) Dr-Daniel-Jackson : L'elio peut full dégat
+[02:02:44] (Groupe) Killarcx : il faut rox au cac
+[02:02:58] (Groupe) Killarcx : genre si tu as boubu cac
+[02:03:00] (Groupe) Larnaqueur : Je suis stalak et 4 feuilles sur mes persos xD
+[02:03:03] (Groupe) Killarcx : + gros rox
+[02:03:09] (Groupe) Larnaqueur : Ca change quoi le CaC ?
+[02:03:22] (Groupe) Killarcx : panda mets la prohib
+[02:03:27] (Groupe) Killarcx : + dokoko
+[02:03:36] (Groupe) Killarcx : meraude et trophée tacle
+[02:03:47] (Groupe) Killarcx : au pire tu veux je prenne mon cra ?
+[02:04:01] (Groupe) Larnaqueur : On va pas te faire refaire le dj
+[02:04:06] (Groupe) Killarcx : il est au boss
+[02:04:10] (Groupe) Larnaqueur : Bah oui
+[02:04:15] (Groupe) Larnaqueur : Mais si tu veux revenir faire passage xD
+[02:04:23] (Groupe) Killarcx : oklm je suicide avant :)
+[02:04:29] (Groupe) Larnaqueur : Ah
+[02:04:36] (Groupe) Larnaqueur : Et tu veux quoi ? ^^
+[02:04:44] (Groupe) Killzoux : on peut me tp ?
+[02:04:46] (Groupe) Pandubin : ^^"
+[02:04:51] (Groupe) Pandubin : moi oui
+[02:04:55] (Groupe) Pandubin : je peux te tp
+[02:04:56] (Groupe) Killarcx : rien je vous aide
+[02:05:09] (Groupe) Pandubin : prohibition plutot que vulné?
+[02:05:11] (Groupe) Killarcx : panda 400 ini ?
+[02:05:14] (Groupe) Killarcx : yes :)
+[02:05:20] (Groupe) Killarcx : tu as cb de tacle ?
+[02:05:30] (Groupe) Pandubin : 147
+[02:05:31] (Groupe) Larnaqueur : [Obstructeur majeur] Je peux te passer ça si t'as pas
+[02:05:41] (Groupe) Killarcx : hm ça va
+[02:05:44] (Groupe) Pandubin : si j'ai mais me manque mon givrefoux ^^"
+[02:05:45] (Groupe) Killarcx : qq peut tp ?
+[02:05:52] Pandubin souhaite téléporter tout le groupe devant : Temple du dieu Kao.
+[02:05:53] (Groupe) Killarcx : ça serait mieux givre
+[02:06:12] (Groupe) Pandubin : beh ouai mais pas encore pu me le delock ^^"
+[02:06:15] (Groupe) Larnaqueur : J'en ai pas à te passer x)
+[02:06:34] (Groupe) Pandubin : je change de monture sur le xel
+[02:06:53] (Groupe) Larnaqueur : Tu vas faire avec ta iop ou ta cra du coup ?
+[02:07:42] (Groupe) Killarcx : ok pret ?
+[02:07:48] (Groupe) Larnaqueur : Il est pas encore là
+[02:07:50] (Groupe) Kinex : att
+[02:08:04] Impossible d'utiliser un point de rencontre pendant 3 minute(s).
+[02:08:04] (Groupe) Larnaqueur : Ah t'es full pods
+[02:08:13] (Groupe) Killarcx : PAS Besoin :)
+[02:08:13] (Groupe) Larnaqueur : Bah si t'abandonnes
+[02:08:17] (Groupe) Larnaqueur : Te faut de l'énergie
+[02:08:24] (Groupe) Killarcx : oh tqt pas grave
+[02:08:29] (Groupe) Killarcx : c'est gentil
+[02:08:46] (Groupe) Killarcx : manque qui ?
+[02:08:54] (Groupe) Larnaqueur : C'est toi qu'est gentil à nous aider ^^
+[02:08:55] (Groupe) Kinex : le xel arrive
+[02:09:05] (Groupe) Kinex : grave ^^"
+[02:09:27] (Groupe) Larnaqueur : Tu veux qu'on joue comment du coup ?
+[02:09:37] (Groupe) Killarcx : MOI je joue cac
+[02:09:47] (Groupe) Killarcx : panda me porte et je le gere
+[02:09:55] (Groupe) Larnaqueur : xD
+[02:09:57] (Groupe) Killarcx : vous vous occupez de l'eclat
+[02:10:00] (Groupe) Larnaqueur : Tu veux foncer sur la prêtresse ?
+[02:10:04] (Groupe) Killarcx : non
+[02:10:06] (Groupe) Killarcx : tqt
+[02:10:16] (Groupe) Killarcx : vous tuez eclat
+[02:10:24] (Groupe) Larnaqueur : Dès T1 ?
+[02:10:38] (Groupe) Killarcx : T2
+[02:10:42] (Groupe) Killarcx : booster vous
+[02:10:52] (Groupe) Killarcx : panda tu joues bombamce ou l'aitre ?
+[02:10:55] (Groupe) Dr-Daniel-Jackson : Je prends pas conflagration alors ?
+[02:11:08] (Groupe) Pandubin : comme tu veux
+[02:11:08] (Groupe) Killarcx : JSP tu rox juste oklm
+[02:11:13] (Groupe) Pandubin : en général bombance
+[02:11:14] (Groupe) Dr-Daniel-Jackson : Lol dac xD
+[02:11:17] (Groupe) Killarcx : joue l'autre comment ça s'appele ?
+[02:11:21] (Groupe) Pandubin : picole
+[02:11:24] (Groupe) Killarcx : ok go
+[02:11:25] (Groupe) Pandubin : pour tank encore
+[02:11:31] Des monstres attaquent Killarcx (Temple du dieu Kao - Cinquième Salle).
+[02:11:36] Vous avez récupéré 665 PV.
+[02:12:03] (Groupe) Pandubin : T1 on se boost ?
+[02:12:12] (Groupe) Pandubin : et j te porte avec panda ?
+[02:12:22] (Groupe) Killarcx : yes tqt je te guide
+[02:12:28] (Groupe) Pandubin : top
+[02:12:29] Killarcx a fait échouer le challenge Zombie.
+[02:12:30] (Groupe) Pandubin : merci :)
+[02:12:50] (Groupe) Killarcx : booster moi sinon
+[02:13:03] (Groupe) Kinex : si je te rall la
+[02:13:08] (Groupe) Kinex : tu aura 2 pa prochain tour
+[02:13:18] (Groupe) Killarcx : parfait
+[02:13:23] (Groupe) Dr-Daniel-Jackson : Ouais mais ce tour il en perd 2 xD
+[02:13:27] (Groupe) Kinex : oui
+[02:13:28] (Groupe) Killarcx : tqt
+[02:13:29] (Groupe) Kinex : du coup ?
+[02:13:33] (Groupe) Dr-Daniel-Jackson : Vas y
+[02:14:12] (Groupe) Pandubin : la du coup ?
+[02:14:14] (Groupe) Pandubin : avec le panda ?
+[02:14:20] (Groupe) Killarcx : pico
+[02:14:22] (Groupe) Killarcx : boubou toi
+[02:14:26] (Groupe) Killarcx : porte moi
+[02:14:31] (Équipe) Killarcx : Cellule 400
+[02:14:31] (Équipe) Killarcx : Cellule 400
+[02:14:32] (Groupe) Killarcx : colle toi
+[02:14:41] 5 secondes ajoutées au prochain tour de jeu.
+[02:14:48] (Groupe) Pandubin : comem ça ?
+[02:14:49] (Groupe) Pandubin : ^^
+[02:15:13] (Équipe) Killarcx : Cellule 258
+[02:15:14] (Équipe) Killarcx : Cellule 258
+[02:15:21] (Groupe) Killarcx : faut tuer eclat
+[02:15:56] (Groupe) Kinex : je tue avec xel ?
+[02:16:02] (Groupe) Kinex : l'eclat?
+[02:16:02] (Groupe) Killarcx : oui sit u peux
+[02:16:10] (Groupe) Kinex : trop loin
+[02:16:36] (Équipe) Killarcx : Cellule 385
+[02:16:36] (Équipe) Killarcx : Cellule 385
+[02:16:53] (Groupe) Pandubin : je te reporte ?
+[02:17:04] (Équipe) Killarcx : Cellule 413
+[02:17:04] (Équipe) Killarcx : Cellule 413
+[02:17:09] (Équipe) Killarcx : Cellule 399
+[02:17:09] (Équipe) Killarcx : Cellule 399
+[02:17:10] (Équipe) Killarcx : Cellule 384
+[02:17:10] (Équipe) Killarcx : Cellule 384
+[02:17:18] (Équipe) Killarcx : Cellule 384
+[02:17:18] (Équipe) Killarcx : Cellule 384
+[02:17:22] (Groupe) Killarcx : prohib
+[02:17:28] (Groupe) Killarcx : et porte moi
+[02:17:36] (Équipe) Killarcx : Cellule 399
+[02:17:36] (Équipe) Killarcx : Cellule 399
+[02:17:45] (Groupe) Killarcx : mais prohib toi x)
+[02:17:59] (Groupe) Kinex : ah ^^"
+[02:18:00] Killarcx a fait échouer le challenge Désigné volontaire.
+[02:18:04] (Groupe) Larnaqueur : xD
+[02:18:25] (Groupe) Killarcx : defonce en un
+[02:18:30] Oo-plionor vient de rejoindre le combat en spectateur.
+[02:19:02] (Groupe) Dr-Daniel-Jackson : Mince je pensais ce serait cra boostée
+[02:19:07] (Équipe) Killarcx : Cellule 356
+[02:19:07] (Équipe) Killarcx : Cellule 356
+[02:19:08] (Équipe) Killarcx : Cellule 356
+[02:19:08] (Équipe) Killarcx : Cellule 356
+[02:19:09] (Équipe) Killarcx : Cellule 303
+[02:19:09] (Équipe) Killarcx : Cellule 303
+[02:19:21] (Groupe) Killarcx : tape un max tes mort prochain
+[02:19:36] (Groupe) Dr-Daniel-Jackson : xD
+[02:19:40] (Groupe) Kinex : j'avais pas de po
+[02:19:42] (Groupe) Larnaqueur : Eclat ?
+[02:20:15] (Groupe) Pandubin : ?
+[02:20:19] (Groupe) Killarcx : pose
+[02:20:21] (Groupe) Killarcx : pboubou
+[02:20:26] (Groupe) Killarcx : reporte moi
+[02:20:38] (Équipe) Killarcx : Cellule 483
+[02:20:38] (Équipe) Killarcx : Cellule 483
+[02:21:58] (Groupe) Killarcx : dommage le panda tank pas assez :c
+[02:22:05] (Groupe) Killarcx : a deux on gere trq
+[02:22:22] 5 secondes ajoutées au prochain tour de jeu.
+[02:22:29] (Groupe) Larnaqueur : Avec prohib sur lui -même ? x)
+[02:22:35] (Groupe) Killarcx : bha oui
+[02:22:43] (Groupe) Killarcx : au moins les mob rox pas ^^"
+[02:22:58] (Groupe) Pandubin : guide moi ^^
+[02:23:12] (Groupe) Killarcx : bha la on a perud
+[02:23:16] (Groupe) Pandubin : x)
+[02:23:30] Vous avez gagné 3 060 points d'expérience.
+[02:23:33] Vous avez perdu 2000 points d'énergie.
+[02:23:36] (Groupe) Killarcx : au pire demain je vous le passe si vous voulez
+[02:23:44] (Groupe) Larnaqueur : Demain y a plus de dj rusher
+[02:23:48] (Groupe) Larnaqueur : Moi je fais ce soir
+[02:23:52] (Groupe) Larnaqueur : Kinex partait
+[02:23:55] Dark-liner : cherche grp pour le dj
+[02:24:00] (Groupe) Killarcx : fin demain je parle dans l'aprem
+[02:24:18] (Groupe) Dr-Daniel-Jackson : Je suis venu le faire uniquement pour dj rusher
+[02:24:22] (Groupe) Killarcx : je prends par groupe de deux
+[02:24:29] (Groupe) Dr-Daniel-Jackson : Ca me sert p lus à rien de faire demain aprem ^^"
+[02:24:46] (Groupe) Killarcx : bha si ça termine mardi
+[02:24:47] (Groupe) Pandubin : mais tu coup tu ferai ça par pure gentilesse ? ^^"
+[02:24:58] (Groupe) Pandubin : c'est ce que des pote m'ont dit pour rusher
+[02:25:06] (Groupe) Killarcx : ah jsp
+[02:25:10] (Groupe) Killarcx : je pense mardi
+[02:25:12] (Groupe) Pandubin : que c'est mardi et pas demain
+[02:25:23] (Groupe) Killarcx : je fais 1M au lieu de 2M :)
+[02:25:26] (Groupe) Killarcx : jss sympas ahah
+[02:25:48] (Groupe) Dr-Daniel-Jackson : Ah oui, demain possible aussi
+[02:26:00] (Groupe) Killzoux : donc stv demain
+[02:26:08] (Groupe) Pandubin : je t'ai add avec panda :)
+[02:26:13] (Groupe) Killzoux : tu as discord ?
+[02:26:21] Dark-liner : iop 199 cherche grp kao
+[02:26:25] (Groupe) Dr-Daniel-Jackson : Je tenterai avec Hyso demain du coup
+[02:26:36] (Groupe) Pandubin : yes on a ^^"
+[02:26:45] (Groupe) Pandubin : on revoit ça ensemble demain :)
+[02:26:51] (Groupe) Killzoux : add Killzoux#2648
+[02:26:55] (Groupe) Killzoux : je vous mp demain
+[02:27:00] (Groupe) Pandubin : :p je commande à 8h30 je vais pas assumer x)
+[02:27:02] (Groupe) Killzoux : je fais passage a 1M simple
+[02:27:13] (Groupe) Larnaqueur : Ca marche
+[02:27:17] (Groupe) Killzoux : au lieux de 2M
+[02:27:19] (Groupe) Larnaqueur : Bonne soirée, bonne nuit

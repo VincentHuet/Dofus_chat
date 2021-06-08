@@ -1,0 +1,527 @@
+[09:51:48] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[09:51:48] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[09:51:48] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[09:51:49] Précédente connexion sur ce compte : 24/11/2020 à 21:40
+[09:51:49] Vous avez récupéré 700 points d'énergie.
+[09:51:49] Annonce de guilde : Week 21-22 novembre XP x2 !!!! ~~~ Week 28-29 Trousseau de clefs ILLIMITE ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[09:51:55] Grougalora-Luna(Miowi-Magus) est en ligne.
+[09:53:19] Vous êtes arrivé à destination !
+[09:53:30] Vous avez payé 887 kamas pour accéder à ce coffre.
+[09:57:15] Vous avez désappris une attitude : Dofus Turquoise
+[09:57:15] Vous avez désappris une attitude : Dofus Pourpre
+[09:57:15] Ensemble POD plus plus activé.
+[10:10:08] lele25800(Nngubfe) est en ligne.
+[10:19:16] Un membre de votre guilde, Oracledb, est en ligne.
+[10:19:22] Range-ta-chambre(Mariadb) est en ligne.
+[10:44:15] Vous avez perdu 150 kamas.
+[10:44:43] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:44] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:44] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:45] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:46] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:46] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:46] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:47] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:48] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:49] 100 x [Bois de Châtaignier] (477 kamas)
+[10:44:49] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:50] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:50] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:50] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:51] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:51] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:51] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:52] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:52] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:52] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:52] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:53] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:53] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:53] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:53] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:54] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:54] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:54] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:55] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:55] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:55] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:55] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:56] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:56] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:56] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:57] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:57] 100 x [Bois de Châtaignier] (478 kamas)
+[10:44:57] 100 x [Bois de Châtaignier] (479 kamas)
+[10:44:58] 100 x [Bois de Châtaignier] (479 kamas)
+[10:44:58] 100 x [Bois de Châtaignier] (479 kamas)
+[10:44:59] 100 x [Bois de Châtaignier] (479 kamas)
+[10:44:59] 100 x [Bois de Châtaignier] (479 kamas)
+[10:44:59] 100 x [Bois de Châtaignier] (479 kamas)
+[10:44:59] 100 x [Bois de Châtaignier] (479 kamas)
+[10:45:00] 100 x [Bois de Châtaignier] (479 kamas)
+[10:45:00] 100 x [Bois de Châtaignier] (479 kamas)
+[10:45:00] Action annulée pour cause de surcharge...
+[10:45:01] Action annulée pour cause de surcharge...
+[10:45:01] Action annulée pour cause de surcharge...
+[10:49:58] Vous avez perdu 150 kamas.
+[10:50:20] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:20] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:20] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:21] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:21] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:21] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:21] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:22] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:22] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:22] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:23] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:23] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:23] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:23] 100 x [Bois de Châtaignier] (476 kamas)
+[10:50:24] 100 x [Bois de Châtaignier] (477 kamas)
+[10:50:24] 100 x [Bois de Châtaignier] (477 kamas)
+[10:50:24] 100 x [Bois de Châtaignier] (477 kamas)
+[10:50:25] 100 x [Bois de Châtaignier] (478 kamas)
+[10:50:25] 100 x [Bois de Châtaignier] (478 kamas)
+[10:50:26] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:26] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:26] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:26] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:26] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:27] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:27] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:27] 100 x [Bois de Châtaignier] (479 kamas)
+[10:50:27] 100 x [Bois de Châtaignier] (480 kamas)
+[10:50:28] 100 x [Bois de Châtaignier] (480 kamas)
+[10:50:29] 100 x [Bois de Châtaignier] (481 kamas)
+[10:50:29] 100 x [Bois de Châtaignier] (488 kamas)
+[10:50:29] 100 x [Bois de Châtaignier] (488 kamas)
+[10:50:37] 100 x [Bois de Châtaignier] (503 kamas)
+[10:50:37] 100 x [Bois de Châtaignier] (503 kamas)
+[10:50:38] 100 x [Bois de Châtaignier] (503 kamas)
+[10:50:38] 100 x [Bois de Châtaignier] (503 kamas)
+[10:50:39] 100 x [Bois de Châtaignier] (503 kamas)
+[10:50:39] 100 x [Bois de Châtaignier] (503 kamas)
+[10:50:39] 100 x [Bois de Châtaignier] (552 kamas)
+[10:50:39] 100 x [Bois de Châtaignier] (552 kamas)
+[10:50:41] 100 x [Bois de Châtaignier] (552 kamas)
+[10:50:41] 100 x [Bois de Châtaignier] (552 kamas)
+[10:50:41] 100 x [Bois de Châtaignier] (580 kamas)
+[10:50:43] 100 x [Bois de Châtaignier] (588 kamas)
+[10:50:43] 100 x [Bois de Châtaignier] (588 kamas)
+[10:50:49] ghduejfkd(Nexuzya) est en ligne.
+[10:50:51] 100 x [Bois de Noyer] (1 812 kamas)
+[10:50:52] 100 x [Bois de Noyer] (1 812 kamas)
+[10:50:52] 100 x [Bois de Noyer] (1 812 kamas)
+[10:50:52] 100 x [Bois de Noyer] (1 812 kamas)
+[10:50:53] Action annulée pour cause de surcharge...
+[10:51:43] Vous avez perdu 150 kamas.
+[10:53:39] Un membre de votre guilde, Suaht, est en ligne.
+[10:54:18] (Guilde) Suaht : salut
+[11:00:51] Elhynia : wtf
+[11:00:59] Touchparack : vui ?
+[11:01:01] Touchparack : (-:
+[11:01:09] Elhynia : [11:01] Vous avez obtenu 10 '[Dose de jus goûtu]'.
+[11:01:13] Touchparack : :eyes:
+[11:01:13] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[11:07:14] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[11:26:12] tonton-du-bahu(Heiiden-I) est en ligne.
+[11:30:57] 100 x [Bois de Frêne] (1 577 kamas)
+[11:30:58] 100 x [Bois de Frêne] (1 577 kamas)
+[11:30:59] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:00] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:00] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:01] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:02] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:02] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:02] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:02] 100 x [Bois de Frêne] (1 577 kamas)
+[11:31:04] 100 x [Bois de Frêne] (1 578 kamas)
+[11:31:05] 100 x [Bois de Frêne] (1 578 kamas)
+[11:31:05] 100 x [Bois de Frêne] (1 579 kamas)
+[11:31:06] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:06] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:06] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:06] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:07] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:07] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:07] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:07] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:08] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:08] 100 x [Bois de Frêne] (1 580 kamas)
+[11:31:08] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:08] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:09] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:09] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:09] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:09] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:10] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:10] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:11] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:11] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:11] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:11] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:12] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:12] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:12] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:12] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:12] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:13] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:13] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:13] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:14] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:14] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:14] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:15] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:15] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:15] 100 x [Bois de Frêne] (1 581 kamas)
+[11:31:15] Action annulée pour cause de surcharge...
+[11:31:15] Action annulée pour cause de surcharge...
+[11:31:16] Action annulée pour cause de surcharge...
+[11:31:27] Vous avez perdu 210 kamas.
+[11:35:17] Impossible d'échanger avec ce joueur.
+[11:38:00] '[Cadran d'Eau]' est de nouveau lié à votre ensemble Stuff eau.
+[11:38:01] Échange effectué
+[11:38:10] Vous avez perdu 150 kamas.
+[11:44:43] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:45] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:45] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:45] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:46] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:46] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:47] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:47] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:47] 100 x [Bois de Noyer] (1 786 kamas)
+[11:44:48] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:48] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:49] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:49] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:50] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:50] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:50] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:51] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:51] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:52] 100 x [Bois de Noyer] (1 787 kamas)
+[11:44:52] 100 x [Bois de Noyer] (1 788 kamas)
+[11:44:53] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:54] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:55] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:55] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:56] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:56] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:56] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:57] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:57] 100 x [Bois de Noyer] (1 789 kamas)
+[11:44:58] 100 x [Bois de Noyer] (1 794 kamas)
+[11:44:58] 100 x [Bois de Noyer] (1 814 kamas)
+[11:44:59] 100 x [Bois de Noyer] (1 816 kamas)
+[11:45:00] 100 x [Bois de Noyer] (1 830 kamas)
+[11:45:01] 100 x [Bois de Noyer] (1 833 kamas)
+[11:45:02] 100 x [Bois de Noyer] (1 833 kamas)
+[11:45:04] 100 x [Bois de Noyer] (1 845 kamas)
+[11:51:40] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[11:52:55] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[11:57:06] Cette action est impossible car vous êtes occupé.
+[11:57:34] Échange effectué
+[11:57:43] Vous avez perdu 150 kamas.
+[12:19:10] frxzombie(Zombiere) est en ligne.
+[12:21:02] ghduejfkd(Nexuzya) est en ligne.
+[12:32:45] 100 x [Ortie] (1 598 kamas)
+[12:34:17] Cette action est impossible car vous êtes occupé.
+[12:35:46] Vous avez perdu 20 kamas.
+[12:36:19] 1 x [Masque de Noké] (23 992 kamas)
+[12:37:14] Noxxo(Krox) est en ligne.
+[12:40:30] 1 x [Masque de Noké] (23 993 kamas)
+[12:40:36] Noxxo(Nokko) est en ligne.
+[12:41:03] Vous avez perdu 20 kamas.
+[12:41:13] 100 x [Ortie] (1 598 kamas)
+[12:41:14] 100 x [Ortie] (1 598 kamas)
+[12:41:15] 100 x [Ortie] (1 599 kamas)
+[12:41:15] 100 x [Ortie] (1 599 kamas)
+[12:41:16] 100 x [Ortie] (1 599 kamas)
+[12:41:16] 100 x [Ortie] (1 599 kamas)
+[12:41:17] 100 x [Ortie] (1 599 kamas)
+[12:41:17] 100 x [Ortie] (1 599 kamas)
+[12:41:17] 100 x [Ortie] (1 599 kamas)
+[12:41:18] 100 x [Ortie] (1 599 kamas)
+[12:41:18] 100 x [Ortie] (1 599 kamas)
+[12:41:19] 100 x [Ortie] (1 599 kamas)
+[12:41:19] 100 x [Ortie] (1 599 kamas)
+[12:41:20] 100 x [Ortie] (1 599 kamas)
+[12:41:20] 100 x [Ortie] (1 599 kamas)
+[12:41:21] 100 x [Ortie] (1 599 kamas)
+[12:41:21] 100 x [Ortie] (1 599 kamas)
+[12:41:22] 100 x [Ortie] (1 599 kamas)
+[12:41:22] 100 x [Ortie] (1 599 kamas)
+[12:41:23] 100 x [Ortie] (1 600 kamas)
+[12:41:23] 100 x [Ortie] (1 600 kamas)
+[12:41:24] 100 x [Ortie] (1 684 kamas)
+[12:42:29] Noxxo(Krox) est en ligne.
+[12:49:54] Échange effectué
+[12:50:00] Eis souhaite téléporter tout le groupe devant : Antre du Korriandre.
+[12:50:12] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[12:50:12] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[12:50:12] Remueur équipé.
+[12:50:12] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[12:50:12] Ensemble Terre PVMM activé.
+[12:50:15] Arc du Chalœil équipé.
+[12:50:23] Des monstres attaquent Eis (Antre du Korriandre - Première salle).
+[12:51:12] 1 seconde ajoutée au prochain tour de jeu.
+[12:52:22] Kinex a fait échouer le challenge Pusillanime.
+[12:52:29] (Groupe) Kinex : c'est chiant ça ?
+[12:52:40] (Groupe) Kinex : je pensais que ça fait le rs que a moi
+[12:52:41] (Groupe) Kinex : :s
+[12:53:53] Eis a fait échouer le challenge Mystique.
+[12:55:05] (Groupe) Kinex : je te ramène ?
+[12:55:10] (Groupe) Eis : tue le
+[12:55:13] Vous avez gagné 374 988 points d'expérience.
+[12:55:18] Des monstres attaquent Eis (Antre du Korriandre - Deuxième salle).
+[12:55:32] Vous avez récupéré 170 points de vie.
+[12:55:33] Vous avez récupéré 170 points de vie.
+[12:55:33] Vous avez récupéré 170 points de vie.
+[12:55:34] Vous avez récupéré 170 points de vie.
+[12:55:35] Vous avez récupéré 170 points de vie.
+[12:55:35] Vous avez récupéré 170 points de vie.
+[12:55:56] Terminez votre tour avec le bouton [Fin de tour].
+[12:56:13] 1 seconde ajoutée au prochain tour de jeu.
+[12:56:13] Kinex a fait échouer le challenge Barbare.
+[12:57:17] 2 secondes ajoutées au prochain tour de jeu.
+[12:57:55] Terminez votre tour avec le bouton [Fin de tour].
+[12:58:15] Vous avez gagné 792 560 points d'expérience.
+[12:58:20] Des monstres attaquent Eis (Antre du Korriandre - Troisième salle).
+[12:58:22] Vous avez récupéré 12 PV.
+[12:58:54] Kinex a fait échouer le challenge Imprévisible.
+[12:59:11] 1 seconde ajoutée au prochain tour de jeu.
+[13:00:06] 2 secondes ajoutées au prochain tour de jeu.
+[13:00:14] Eis a fait échouer le challenge Chacun son monstre.
+[13:00:41] (Groupe) Eis : me rollback pas
+[13:00:48] (Équipe) Eis : Cellule 260
+[13:00:54] (Groupe) Eis : tape pas la meru
+[13:01:05] 6 secondes ajoutées au prochain tour de jeu.
+[13:01:41] Vous avez gagné 375 194 points d'expérience.
+[13:01:47] Des monstres attaquent Eis (Antre du Korriandre - Quatrième salle).
+[13:02:08] Vous avez récupéré 1190 points de vie.
+[13:02:30] 10 secondes ajoutées au prochain tour de jeu.
+[13:02:57] (Groupe) Kinex : elle font quoi les mottes ?
+[13:03:03] (Groupe) Eis : elle tacle
+[13:03:07] (Groupe) Eis : et si tu les tapes elle te defonce
+[13:03:59] (Groupe) Kinex : aha
+[13:05:18] Eis a fait échouer le challenge Pétulant.
+[13:05:45] 4 secondes ajoutées au prochain tour de jeu.
+[13:06:05] (Groupe) Kinex : c'est mieux de te le poser au cac ou pas ?
+[13:06:15] Vous avez gagné 827 509 points d'expérience.
+[13:06:35] (Groupe) Eis : J'ai pas d'abyssal alors ca sert a rien
+[13:06:41] Vous avez récupéré 170 points de vie.
+[13:06:41] Vous avez récupéré 170 points de vie.
+[13:06:42] Vous avez récupéré 170 points de vie.
+[13:06:42] Vous avez récupéré 170 points de vie.
+[13:06:46] (Groupe) Eis : bon tu connais le korri
+[13:06:49] Vous avez récupéré 170 points de vie.
+[13:06:50] Vous avez récupéré 21 points de vie.
+[13:06:50] Vos points de vie sont déjà au maximum.
+[13:06:50] Vos points de vie sont déjà au maximum.
+[13:06:50] Vos points de vie sont déjà au maximum.
+[13:06:51] Vos points de vie sont déjà au maximum.
+[13:06:54] Des monstres attaquent Eis (Antre du Korriandre - Cinquième salle).
+[13:06:56] Vous avez récupéré 68 PV.
+[13:07:01] (Groupe) Eis : On focus le boss
+[13:07:08] (Groupe) Kinex : ok
+[13:07:13] (Équipe) Eis : Cellule 296
+[13:07:16] (Groupe) Kinex : je le ramène ?
+[13:07:21] (Groupe) Eis : il va venir
+[13:07:37] (Groupe) Eis : Si tu peux le mettre dans cette lign
+[13:07:38] (Équipe) Eis : Cellule 327
+[13:07:39] (Équipe) Eis : Cellule 314
+[13:07:41] Terminez votre tour avec le bouton [Fin de tour].
+[13:07:44] Kinex a fait échouer le challenge Zombie.
+[13:08:02] (Groupe) Eis : vasy on fait mystique aussi
+[13:08:07] (Groupe) Kinex : rrr
+[13:08:10] (Groupe) Eis : si tu te mets dans la ligne aussi mdr
+[13:08:21] (Groupe) Kinex : le dernier rs est pas passé
+[13:09:44] Eis a fait échouer le challenge Ni pioutes ni soumises.
+[13:09:55] (Groupe) Kinex : je fait le drama
+[13:10:10] (Groupe) Eis : tape pas la meru
+[13:10:12] (Groupe) Eis : dead sinon
+[13:11:35] 3 secondes ajoutées au prochain tour de jeu.
+[13:12:14] (Groupe) Kinex : je vais sur l'autre?
+[13:12:28] (Groupe) Eis : joue
+[13:12:30] (Groupe) Eis : oui
+[13:13:46] 2 secondes ajoutées au prochain tour de jeu.
+[13:13:54] Vous avez gagné 1 124 004 points d'expérience.
+[13:13:55] Succès déverrouillé : [Korriandre (Duo)]
+[13:14:23] (Groupe) Kinex : et gg
+[13:14:27] (Groupe) Eis : ez
+[13:15:08] (Groupe) Kinex : on fait le suivant du coup ?
+[13:15:14] (Groupe) Eis : nan
+[13:15:16] (Groupe) Eis : ce soir
+[13:15:20] (Groupe) Kinex : ok ok
+[13:15:26] (Groupe) Kinex : je t'ai vu fuir comme un voleur
+[13:15:30] (Groupe) Kinex : de gouter
+[13:15:37] (Groupe) Eis : jfais l'acces martegel
+[13:15:37] (Groupe) Kinex : rend moi mes kamas
+[13:15:39] (Groupe) Eis : et jvais bosser
+[13:15:55] Des monstres attaquent Eis ([-70,-69]).
+[13:19:25] de Ryukyou : yo tu f la quete tutu ?
+[13:19:40] à Ryukyou : nope je viens de faire duo avec un pote ^^"
+[13:19:54] Nouvelle capture d'écran : D:\OneDrive\Documents\Dofus\screenshots\dofus-2020-11-25_13-19-54-Kinex.png
+[13:20:00] de Ryukyou : ah d'acc tant pis ! bon jeu :)
+[13:20:50] à Ryukyou : de meme
+[13:31:20] tonton-du-bahu(Heiiden-I) est en ligne.
+[13:51:49] Krox a déverrouillé le succès [Gloursons].
+[13:51:49] Krox a déverrouillé le succès [Porte, monstre, trésor].
+[13:58:13] KEKElecHO(Arcalphine) est en ligne.
+[13:58:13] Grougalorafaust(Pandubin) est en ligne.
+[14:00:21] (Groupe) Eis : Groupe tes persos
+[14:00:25] (Groupe) Eis : Avant qu'on se le fasse voler
+[14:02:46] (Groupe) Eis : zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[14:03:00] Nouvelle quête : [On recherche le Docteur Eggob]
+[14:03:09] (Groupe) Eis : appuie sur f9 jte tp et go
+[14:03:28] Le groupe est déjà plein, impossible d'y inviter Miowi-Luss.
+[14:03:44] (Groupe) Eis : Docteur Eggob [-51,-44]
+[14:03:50] Eis souhaite téléporter tout le groupe devant : Donjon de la mine de Sakaï.
+[14:04:46] (Groupe) Mariadb : t'as bien la quete ?
+[14:05:14] (Groupe) Pandubin : oui
+[14:05:21] (Groupe) Pandubin : je faisais un last check
+[14:05:22] Des monstres attaquent Mariadb ([-51,-44]).
+[14:06:41] (Équipe) Oracledb : Cellule 389
+[14:07:39] (Groupe) Arcalphine : on le tape direct ? j'ai pas la strrat
+[14:07:43] Terminez votre tour avec le bouton [Fin de tour].
+[14:07:44] (Groupe) Eis : tape les mob deja
+[14:07:57] (Groupe) Eis : il faut s'eloigner de l'oeuf de la mort
+[14:08:00] (Groupe) Eis : 5po au+
+[14:08:03] (Groupe) Eis : ou +
+[14:08:22] (Groupe) Eis : et pas etre en ligne avec l'oeuf
+[14:08:38] (Groupe) Mariadb : complice
+[14:09:03] (Groupe) Arcalphine : bien vu :/
+[14:09:58] Oracledb : panda mort
+[14:10:00] Oracledb : le govus
+[14:10:04] Oracledb : aie aie aie
+[14:10:16] Oracledb : tue le gobus avec le feca en vrai
+[14:11:04] Oracledb : si tu peux ramener un peu eggob
+[14:11:23] Oracledb : rip
+[14:11:35] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[14:11:38] (Groupe) Kinex : on peut pas le pousser non plus
+[14:11:47] Oracledb : joue stp
+[14:12:52] Fekin a fait échouer le challenge Dernier.
+[14:14:03] 5 secondes ajoutées au prochain tour de jeu.
+[14:14:28] (Équipe) Arcalphine : Je ne peux pas utiliser [Flèche Massacrante Niv.1] sur Docteur Eggob : la cible est hors de portée.
+[14:15:02] (Groupe) Pandubin : je pouvais juste tuer le gobus -_-
+[14:15:07] (Groupe) Pandubin : je suis trop con quand je m'y met
+[14:16:25] Vous avez gagné 1 080 269 points d'expérience.
+[14:16:39] (Groupe) Eis : fuuuuuck
+[14:16:43] (Groupe) Eis : j'avais pas la quete sur l'hupper
+[14:16:51] (Groupe) Kinex : :s
+[14:16:57] (Groupe) Kinex : il est caché ce con
+[14:17:00] (Groupe) Eis : J'ai du prendre tout les autres mais pas ce con
+[14:17:00] (Groupe) Eis : Oue
+[14:17:04] (Groupe) Eis : J'ai eu l'leio c'est xdeja ca
+[14:17:09] (Groupe) Kinex : j'ai tout les autre mais vu qu'il est dans le coin de merde
+[14:17:21] (Groupe) Kinex : il est parcho partout l'huppeR ?
+[14:17:47] (Groupe) Oracledb : yep
+[14:18:00] (Groupe) Kinex : s'tu veux apres le boulot je parcho Pauline et je vois si j'ai des parcho force/intel en rab
+[14:18:07] (Groupe) Kinex : enfin en consomable tu m'a compris
+[14:18:15] Vous avez perdu 270 kamas.
+[14:19:21] Vous avez perdu 1 '[Docteur Eggob]'.
+[14:19:21] Quête terminée : [On recherche le Docteur Eggob]
+[14:19:21] Objets reçus : 4 x [Kama de glace]
+[14:19:21] Objets reçus : 1860 x [Doplon]
+[14:19:21] Quête mise à jour : [Ennemis d'état.]
+[14:21:56] lele25800(Nngubfe) est en ligne.
+[14:23:58] (Groupe) Arcalphine : [Hache du Chalœil] je me tatais sur la trans à mettre
+[14:24:57] Nouvelle capture d'écran : D:\OneDrive\Documents\Dofus\screenshots\dofus-2020-11-25_14-24-57-Kinex.png
+[14:25:12] Vous êtes arrivé à destination !
+[14:31:34] (Groupe) Mariadb : T'as facomage nv5?
+[14:36:20] (Groupe) Kinex : oui
+[14:36:33] (Groupe) Kinex : dm discord quand tu veux un truc
+[14:38:34] 100 x [Ortie] (1 589 kamas)
+[14:38:35] 100 x [Ortie] (1 589 kamas)
+[14:38:36] 100 x [Ortie] (1 590 kamas)
+[14:38:37] 100 x [Ortie] (1 590 kamas)
+[14:38:38] 100 x [Ortie] (1 590 kamas)
+[14:38:40] 100 x [Ortie] (1 591 kamas)
+[14:38:41] 100 x [Ortie] (1 589 kamas)
+[14:38:42] 100 x [Ortie] (1 591 kamas)
+[14:38:43] 100 x [Ortie] (1 589 kamas)
+[14:38:44] 100 x [Ortie] (1 591 kamas)
+[14:38:44] 100 x [Ortie] (1 591 kamas)
+[14:38:45] 100 x [Ortie] (1 591 kamas)
+[14:38:45] 100 x [Ortie] (1 591 kamas)
+[14:38:46] 100 x [Ortie] (1 593 kamas)
+[14:38:46] 100 x [Ortie] (1 593 kamas)
+[14:38:47] 100 x [Ortie] (1 593 kamas)
+[14:38:47] 100 x [Ortie] (1 593 kamas)
+[14:38:47] 100 x [Ortie] (1 593 kamas)
+[14:38:48] 100 x [Ortie] (1 593 kamas)
+[14:38:48] 100 x [Ortie] (1 594 kamas)
+[14:38:49] 100 x [Ortie] (1 597 kamas)
+[14:38:51] 100 x [Ortie] (1 684 kamas)
+[14:39:11] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:12] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:12] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:12] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:13] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:14] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:14] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:14] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:15] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:15] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:15] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:16] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:16] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:17] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:17] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:17] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:18] 100 x [Bois de Frêne] (1 746 kamas)
+[14:39:27] 100 x [Ortie] (1 683 kamas)
+[14:39:35] 100 x [Ortie] (1 683 kamas)
+[14:39:36] 100 x [Ortie] (1 683 kamas)
+[14:39:37] 100 x [Ortie] (1 683 kamas)
+[14:39:37] 100 x [Ortie] (1 683 kamas)
+[14:39:38] 100 x [Ortie] (1 683 kamas)
+[14:39:48] chuky62(Hollygane) est en ligne.
+[14:58:56] Banque : + 78 885 Kamas (vente : 10 [Jaune d'Œuf de Krokille]).
+[14:59:17] Banque : + 78 885 Kamas (vente : 10 [Jaune d'Œuf de Krokille]).
+[15:02:25] Un membre de votre guilde, Blokuz, est en ligne.
+[15:03:35] Un membre de votre guilde, Skull-Alpha, est en ligne.
+[15:10:08] Vous êtes arrivé à destination !
+[15:11:38] Vous avez désappris une attitude : Dofus Turquoise
+[15:11:38] Vous avez désappris une attitude : Dofus Pourpre
+[15:11:39] Ensemble POD plus plus activé.
+[15:11:42] '[Dora Bora]' est retiré de votre ensemble POD plus plus.
+[15:11:42] '[Dora Bora]' est de nouveau lié à votre ensemble POD plus plus.
+[15:11:42] Association réussie pour l'objet Dora Bora.
+[15:11:45] '[Bouclier Volant]' est retiré de votre ensemble POD plus plus.
+[15:11:45] '[Bouclier Volant]' est de nouveau lié à votre ensemble POD plus plus.
+[15:11:45] Association réussie pour l'objet Bouclier Volant.
+[15:13:52] '[Sac du Staca Noviste]' est retiré de votre ensemble POD plus plus.
+[15:13:52] '[Sac du Staca Noviste]' est de nouveau lié à votre ensemble POD plus plus.
+[15:13:52] Association réussie pour l'objet Sac du Staca Noviste.
+[15:13:57] '[Bworky]' est retiré de votre ensemble POD plus plus.
+[15:13:57] '[Bworky]' est de nouveau lié à votre ensemble POD plus plus.
+[15:13:57] Association réussie pour l'objet Bworky.
+[15:21:19] Blokuz a déverrouillé le succès [Nileza (Score 150)].
+[15:21:19] Blokuz a déverrouillé le succès [Nileza (Score 200)].
+[15:26:59] 100 x [Ortie] (1 592 kamas)
+[15:27:01] 100 x [Ortie] (1 593 kamas)
+[15:27:03] 100 x [Ortie] (1 594 kamas)
+[15:27:04] 100 x [Ortie] (1 594 kamas)
+[15:44:09] Un membre de votre guilde, Athena-skull, est en ligne.
+[15:44:23] Un membre de votre guilde, Athen-sang, est en ligne.
+[15:44:30] Un membre de votre guilde, Athen-dwop, est en ligne.
+[15:49:36] Un membre de votre guilde, Blokuz, est en ligne.
+[15:52:26] (Guilde) Athena-skull : yo
+[15:52:45] (Guilde) Blokuz : yo
+[15:54:48] XxX-NeOVodka-XxX(Neo-furiious) est en ligne.
+[16:01:14] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[16:06:40] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[16:10:04] Banque : + 6 789 Kamas (vente : 1 [Touffe rousse du Flib]).
+[16:17:09] Un membre de votre guilde, Blokuz, est en ligne.
+[16:18:07] Un membre de votre guilde, Blokuz, est en ligne.
+[16:21:37] Un membre de votre guilde, Oo-plionor, est en ligne.
+[16:25:30] Un membre de votre guilde, Lisokal, est en ligne.
+[16:25:31] Un membre de votre guilde, Aase, est en ligne.
+[16:25:33] Un membre de votre guilde, Alounis, est en ligne.
+[16:25:35] Un membre de votre guilde, Steki-runng, est en ligne.
+[16:27:11] Statut Absent activé.
+[16:46:49] Statut Disponible activé.
+[16:55:18] tonton-du-bahu(Heiiden-I) est en ligne.

@@ -1,0 +1,453 @@
+[17:16:14] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[17:16:14] Précédente connexion sur ce compte : 27/09/2020 à 15:53
+[17:16:14] Annonce de guilde : WEEK END double xp jusqu'a lundi 9h !!! MAJ 2.57: Visibilité des succès de donjon en combat ! Extention Pandala : [https://www.dofus.com/fr/forum/1081-dofus/2340664-devblog-reveil-pandala-2] ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[17:16:14] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[17:16:59] Votre métier [Forgemage] passe niveau 98.,Vous obtenez 1 pods supplémentaires.
+[17:17:04] (Guilde) II-Frero-XeniO-II : c'est tropp cheaté les elio de toute façon ^^
+[17:17:14] (Guilde) The-Mikado : Oui, et si j'le joue mal j'me fais soulevé
+[17:17:14] Votre métier [Forgemage] passe niveau 99.,Vous obtenez 1 pods supplémentaires.
+[17:17:16] Cette caractéristique ne peut pas être davantage améliorée sur cet objet actuellement.
+[17:17:16] Cette recette ne donne rien !
+[17:17:19] (Guilde) The-Mikado : faut que je joue mieux que ça
+[17:17:59] Vous avez créé 50 × [Rune Pa Pui] !
+[17:18:29] à Mariadb : [Hache de Lookabeer]
+[17:18:38] Un membre de votre guilde, Furie-master, est en ligne.
+[17:18:41] (Guilde) II-Frero-XeniO-II : en meme temps, sur ces genres de map pvp, c'est un sacré bordel&gt;&lt;
+[17:18:55] (Guilde) The-Mikado : non non, j'ai juste fait perdre le cbt
+[17:19:13] Votre métier [Forgemage] passe niveau 100.,Vous obtenez 1 pods supplémentaires.
+[17:20:04] (Guilde) II-Frero-XeniO-II : comme quoi, ça peut se jouer a 1PA :p
+[17:20:14] Votre métier [Forgemage] passe niveau 101.,Vous obtenez 1 pods supplémentaires.
+[17:20:22] (Guilde) The-Mikado : oui, fin j'aurais dû mettre un sort de moins
+[17:20:24] (Guilde) II-Frero-XeniO-II : jcomprends que le pass tour a 13PA ça te plaise pas mdrr
+[17:21:27] Votre métier [Forgemage] passe niveau 102.,Vous obtenez 1 pods supplémentaires.
+[17:21:29] Cette recette ne donne rien !
+[17:22:42] Votre métier [Forgemage] passe niveau 103.,Vous obtenez 1 pods supplémentaires.
+[17:23:19] Votre métier [Forgemage] passe niveau 104.,Vous obtenez 1 pods supplémentaires.
+[17:23:59] Votre métier [Forgemage] passe niveau 105.,Vous obtenez 1 pods supplémentaires.
+[17:24:14] Votre métier [Forgemage] passe niveau 106.,Vous obtenez 1 pods supplémentaires.
+[17:25:10] Votre métier [Forgemage] passe niveau 107.,Vous obtenez 1 pods supplémentaires.
+[17:25:16] Cette recette ne donne rien !
+[17:25:19] Cette recette ne donne rien !
+[17:25:25] Cette recette ne donne rien !
+[17:25:28] Cette recette ne donne rien !
+[17:26:17] Cette recette ne donne rien !
+[17:26:36] à Roxeur-plio : [Marteau Ronto]
+[17:26:55] à Mariadb : [Marteau Ronto]
+[17:27:58] Cette caractéristique ne peut pas être davantage améliorée sur cet objet actuellement.
+[17:27:58] Cette recette ne donne rien !
+[17:28:32] Votre métier [Forgemage] passe niveau 108.,Vous obtenez 1 pods supplémentaires.
+[17:29:11] Cette recette ne donne rien !
+[17:29:33] Votre métier [Forgemage] passe niveau 109.,Vous obtenez 1 pods supplémentaires.
+[17:29:47] Votre métier [Forgemage] passe niveau 110.,Vous obtenez 1 pods supplémentaires.
+[17:30:56] Votre métier [Forgemage] passe niveau 111.,Vous obtenez 1 pods supplémentaires.
+[17:32:46] Votre métier [Forgemage] passe niveau 112.,Vous obtenez 1 pods supplémentaires.
+[17:36:23] Vous avez perdu 320 kamas.
+[17:36:40] Vous avez payé 613 kamas pour accéder à ce coffre.
+[17:39:21] à Mariadb : [Essence de Founoroshi] [Substrat de Forêt] [Galet brasillant] [Essence de Moon] [Galet brasillant] [Canine de Mergranlou]
+[17:40:00] Un membre de votre guilde, Sowie, est en ligne.
+[17:40:25] à Mariadb : [Essence de Founoroshi] [Substrat de Forêt] [Galet brasillant] [Essence de Moon] [Galet brasillant] [Canine de Mergranlou] [Pépite]
+[17:40:33] (Guilde) Sowie : Hello
+[17:42:46] (Guilde) Kinex : yo
+[17:43:44] (Guilde) Sowie : La forme ? :)
+[17:44:11] à Fekin : [Griffe de Grizmine] [Marteau Nairedeubrest] [Marteau Ridhe]
+[17:44:19] (Guilde) Kinex : ça va
+[17:49:16] Un membre de votre guilde, Nk-Artifice, est en ligne.
+[17:49:18] Un membre de votre guilde, Nk-Atastrophe, est en ligne.
+[17:49:18] Un membre de votre guilde, Nk-Aramel, est en ligne.
+[17:49:18] Un membre de votre guilde, Nk-Artichaud, est en ligne.
+[17:49:18] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[17:50:07] (Guilde) Nk-Artichaud : yo/r
+[17:50:10] (Guilde) Nk-Artichaud : re*
+[17:50:25] (Guilde) Sowie : Salut :)
+[17:51:24] Mariadb a déverrouillé le succès [Caniablanca].
+[17:54:35] Objet non-échangeable.
+[17:56:42] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[17:58:09] (Guilde) Kinex : on est en Vocal NK
+[17:59:02] Un membre de votre guilde, Sowie, est en ligne.
+[17:59:14] (Guilde) Kinex : [Bâton de Marie Aigue]
+[17:59:51] Échange effectué
+[18:04:17] Échange effectué
+[18:05:44] KEKElecHO(Sangubin) est en ligne.
+[18:08:32] Vous avez perdu 20 kamas.
+[18:09:24] 1 x [Pyrute] (18 999 kamas)
+[18:09:25] 1 x [Pyrute] (18 999 kamas)
+[18:09:26] 1 x [Pyrute] (18 999 kamas)
+[18:09:27] 1 x [Pyrute] (18 999 kamas)
+[18:09:27] 1 x [Pyrute] (18 999 kamas)
+[18:09:28] 1 x [Pyrute] (18 999 kamas)
+[18:09:31] 1 x [Pyrute] (18 999 kamas)
+[18:09:32] 1 x [Pyrute] (18 999 kamas)
+[18:09:34] Cet objet n'est plus disponible à ce prix. Quelqu'un a été plus rapide...
+[18:09:38] 1 x [Pyrute] (18 999 kamas)
+[18:09:40] 1 x [Pyrute] (18 999 kamas)
+[18:09:42] 1 x [Pyrute] (18 999 kamas)
+[18:10:19] Le-archers : La fête du slip tu connais ? C'est l'occasion d'en changer. Mais tu as le droit de le faire plus souvent.
+[18:11:29] 1 x [Rutile] (19 995 kamas)
+[18:11:32] 1 x [Rutile] (19 995 kamas)
+[18:11:33] 1 x [Rutile] (19 995 kamas)
+[18:11:35] 1 x [Rutile] (19 999 kamas)
+[18:11:35] 1 x [Rutile] (19 999 kamas)
+[18:11:36] 1 x [Rutile] (19 999 kamas)
+[18:11:37] 1 x [Rutile] (19 999 kamas)
+[18:11:37] 1 x [Rutile] (19 999 kamas)
+[18:11:38] 1 x [Rutile] (19 999 kamas)
+[18:11:39] 1 x [Rutile] (19 999 kamas)
+[18:11:44] 1 x [Rutile] (19 999 kamas)
+[18:11:47] 1 x [Rutile] (19 999 kamas)
+[18:11:50] 1 x [Rutile] (22 989 kamas)
+[18:11:53] 1 x [Rutile] (22 989 kamas)
+[18:14:32] Vous avez créé 1 × [Dagues de l'Apprenti Tueur de Bouftons] !
+[18:15:45] Vous avez créé 8 × [Topaze] !
+[18:15:50] Vous avez créé 5 × [Agathe] !
+[18:15:50] Votre métier [Mineur] passe niveau 162.,Vous obtenez 1 pods supplémentaires.
+[18:19:24] Vous avez créé 1 × [Masse du Corailleur Magistral] !
+[18:19:24] Votre métier [Forgeron] passe niveau 149.,Vous obtenez 1 pods supplémentaires.
+[18:23:39] Un membre de votre guilde, Casse-noisette, est en ligne.
+[18:28:26] Vous avez perdu 20 kamas.
+[18:28:46] à Hannerbin : [Griffe de Grizmine]
+[18:29:35] 10 x [Étoffe de Croc Gland] (3 199 kamas)
+[18:29:41] 1 x [Dent Pointue] (187 kamas)
+[18:29:42] 1 x [Dent Pointue] (187 kamas)
+[18:29:45] 1 x [Dent Pointue] (190 kamas)
+[18:30:00] 1 x [Pyrute] (18 990 kamas)
+[18:30:02] 1 x [Pyrute] (18 990 kamas)
+[18:30:04] 1 x [Pyrute] (18 990 kamas)
+[18:30:05] 1 x [Pyrute] (18 990 kamas)
+[18:30:07] 1 x [Pyrute] (18 998 kamas)
+[18:30:12] 1 x [Pyrute] (18 998 kamas)
+[18:30:13] 1 x [Pyrute] (18 998 kamas)
+[18:30:14] 1 x [Pyrute] (18 998 kamas)
+[18:30:17] 1 x [Pyrute] (18 999 kamas)
+[18:30:17] 1 x [Pyrute] (18 999 kamas)
+[18:30:18] 1 x [Pyrute] (18 999 kamas)
+[18:30:22] 1 x [Pyrute] (18 999 kamas)
+[18:30:46] 10 x [Coquille de Dragoss Argile] (5 998 kamas)
+[18:34:52] 1 x [Épingle à Cheveux de Saphira] (75 kamas)
+[18:35:02] 1 x [Épingle à Cheveux de Saphira] (75 kamas)
+[18:35:06] 1 x [Épingle à Cheveux de Saphira] (76 kamas)
+[18:35:08] 1 x [Épingle à Cheveux de Saphira] (76 kamas)
+[18:35:14] 1 x [Épingle à Cheveux de Saphira] (77 kamas)
+[18:35:17] 1 x [Épingle à Cheveux de Saphira] (77 kamas)
+[18:35:22] 1 x [Épingle à Cheveux de Saphira] (78 kamas)
+[18:35:23] 1 x [Épingle à Cheveux de Saphira] (78 kamas)
+[18:35:24] 1 x [Épingle à Cheveux de Saphira] (78 kamas)
+[18:35:25] 1 x [Épingle à Cheveux de Saphira] (78 kamas)
+[18:35:25] 1 x [Épingle à Cheveux de Saphira] (78 kamas)
+[18:35:26] 1 x [Épingle à Cheveux de Saphira] (78 kamas)
+[18:35:28] 1 x [Épingle à Cheveux de Saphira] (79 kamas)
+[18:35:29] 1 x [Épingle à Cheveux de Saphira] (79 kamas)
+[18:35:32] 1 x [Épingle à Cheveux de Saphira] (84 kamas)
+[18:35:32] 1 x [Épingle à Cheveux de Saphira] (84 kamas)
+[18:35:34] 1 x [Épingle à Cheveux de Saphira] (84 kamas)
+[18:35:34] 1 x [Épingle à Cheveux de Saphira] (84 kamas)
+[18:35:51] 1 x [Cubitus de Rat Noir] (648 kamas)
+[18:35:55] 1 x [Peau de Skeunk] (64 989 kamas)
+[18:36:42] Vous avez perdu 590 kamas.
+[18:38:17] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[18:38:43] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[18:41:29] Vous avez créé 2 × [Planche de Gravure] !
+[18:41:35] Vous avez créé 1 × [Substrat de Forêt] !
+[18:44:41] Vous avez créé 1 × [Griffe de Grizmine] !
+[18:44:51] Vous avez créé 1 × [Pelle Rhon] !
+[18:44:51] Votre métier [Forgeron] passe niveau 150.,Vous obtenez 1 pods supplémentaires.
+[18:46:32] Hannerbin a déverrouillé le succès [Vétéran].
+[18:46:32] Sangubin a déverrouillé le succès [Poussin].
+[18:46:32] Sangubin a déverrouillé le succès [Benjamin].
+[18:46:32] Sangubin a déverrouillé le succès [Minime].
+[18:46:32] Mariadb a déverrouillé le succès [Reine des Voleurs (Score 150)].
+[18:46:32] Mariadb a déverrouillé le succès [Reine des Voleurs (Score 200)].
+[18:51:16] Un membre de votre guilde, Oo-plionor, est en ligne.
+[18:53:10] Grougalorafaust(Scramubine) est en ligne.
+[18:54:04] Xelliito a déverrouillé le succès [Junior].
+[18:59:52] Un membre de votre guilde, Oracledb, est en ligne.
+[18:59:55] Range-ta-chambre(Mariadb) est en ligne.
+[18:59:55] Un membre de votre guilde, Oo-plionor, est en ligne.
+[19:02:46] Scramubine a déverrouillé le succès [Rivage sufokien].
+[19:02:49] Scramubine a déverrouillé le succès [Sufokia].
+[19:14:19] (Guilde) II-Frero-XeniO-II : re
+[19:14:45] (Guilde) Nk-Aramel : re
+[19:14:45] (Guilde) II-Frero-XeniO-II : quete d'ali?
+[19:14:53] (Guilde) II-Frero-XeniO-II : :p
+[19:15:00] (Guilde) II-Frero-XeniO-II : alors ça lag toujours autant?
+[19:15:48] tonton-du-bahu(Vitamines-A) est en ligne.
+[19:15:59] (Guilde) Nk-Artichaud : nn moins ^^
+[19:16:12] tonton-du-bahu(Heiiden-I) est en ligne.
+[19:16:47] Scramubine a déverrouillé le succès [Ile des naufragés].
+[19:17:43] Scramubine a déverrouillé le succès [La grande kradoc].
+[19:17:43] Scramubine a déverrouillé le succès [Village côtier].
+[19:18:35] Votre métier [Forgemage] passe niveau 113.,Vous obtenez 1 pods supplémentaires.
+[19:19:55] Un membre de votre guilde, Furie-master, est en ligne.
+[19:20:19] Vous avez créé 50 × [Rune Pa Vi] !
+[19:21:15] Scramubine a déverrouillé le succès [Plaines herbeuses].
+[19:21:20] Scramubine a déverrouillé le succès [Plage de Corail].
+[19:21:52] Scramubine a déverrouillé le succès [Village des éleveurs].
+[19:23:35] Votre métier [Forgemage] passe niveau 114.,Vous obtenez 1 pods supplémentaires.
+[19:24:06] Votre métier [Forgemage] passe niveau 115.,Vous obtenez 1 pods supplémentaires.
+[19:24:45] (Guilde) II-Frero-XeniO-II : pos sram connu? ^^
+[19:24:56] (Guilde) Nk-Aramel : nn déso :/
+[19:24:59] (Guilde) II-Frero-XeniO-II : me manque un dernier combat
+[19:25:03] (Guilde) Kinex : si
+[19:25:04] (Guilde) Kinex : x)
+[19:25:21] (Guilde) Kinex : -60, 3
+[19:25:28] (Guilde) Kinex : mais portail secret ;)
+[19:26:10] (Guilde) Kinex : 111 utilisations
+[19:26:42] (Guilde) II-Frero-XeniO-II : oula, c'est bien loin ça ^^
+[19:26:57] (Guilde) Kinex : prisme cotier otomai
+[19:28:44] (Guilde) II-Frero-XeniO-II : 2 places ducoup ^^
+[19:29:12] Scramubine a déverrouillé le succès [Hauts Ténébreux].
+[19:29:12] Scramubine a déverrouillé le succès [La cité des voleurs].
+[19:29:15] Sangubin a déverrouillé le succès [Cadet].
+[19:43:31] Handa-cbf(Xelliito) est en ligne.
+[20:22:01] Xelliito a déverrouillé le succès [Espoir].
+[20:22:01] Xelliito a déverrouillé le succès [Galerie du Phossile].
+[20:22:01] Xelliito a déverrouillé le succès [Phossile (Score 113)].
+[20:22:01] Xelliito a déverrouillé le succès [Phossile (Score 200)].
+[20:22:01] Xelliito a déverrouillé le succès [Phorreurs].
+[20:22:01] Xelliito a déverrouillé le succès [Promenade sans thé].
+[20:30:12] Un membre de votre guilde, Nk-Onellhy, est en ligne.
+[20:31:10] Un membre de votre guilde, Nk-Ahyra, est en ligne.
+[20:31:10] Un membre de votre guilde, Nk-Sandara, est en ligne.
+[20:34:20] (Guilde) Nk-Alzerya : je go faire obsi quelqu'un veut ?
+[20:35:11] (Guilde) II-Frero-XeniO-II : je passe mon tour ;)
+[20:36:26] Un membre de votre guilde, Skull-Alpha, est en ligne.
+[20:41:13] (Guilde) Kinex : re
+[20:43:17] Grougalorafaust(Chachaluna) est en ligne.
+[20:46:23] Votre métier [Forgemage] passe niveau 116.,Vous obtenez 1 pods supplémentaires.
+[20:46:39] Votre métier [Forgemage] passe niveau 117.,Vous obtenez 1 pods supplémentaires.
+[20:47:25] Votre métier [Forgemage] passe niveau 118.,Vous obtenez 1 pods supplémentaires.
+[20:48:40] Cette recette ne donne rien !
+[20:48:49] Votre métier [Forgemage] passe niveau 119.,Vous obtenez 1 pods supplémentaires.
+[20:49:04] Cette recette ne donne rien !
+[20:49:38] Votre métier [Forgemage] passe niveau 120.,Vous obtenez 1 pods supplémentaires.
+[20:49:55] Cette recette ne donne rien !
+[20:50:34] Votre métier [Forgemage] passe niveau 121.,Vous obtenez 1 pods supplémentaires.
+[20:52:53] de Nk-Alzerya : [-60,3]
+[20:53:01] Un membre de votre guilde, Oo-plionor, est en ligne.
+[20:53:25] Un membre de votre guilde, Nk-Sandara, est en ligne.
+[20:53:59] Un membre de votre guilde, Nk-Artifice, est en ligne.
+[20:54:00] Un membre de votre guilde, Nk-Artichaud, est en ligne.
+[20:54:00] Un membre de votre guilde, Nk-Aramel, est en ligne.
+[20:54:21] Un membre de votre guilde, Nk-Atastrophe, est en ligne.
+[20:58:20] Xelliito a déverrouillé le succès [Senior].
+[21:04:20] Vous avez perdu 20 kamas.
+[21:05:06] (Guilde) Nk-Artichaud : j'ai deux places rdv si quelqu'un veut ^^
+[21:05:41] 10 x [Galet rutilant] (29 698 kamas)
+[21:05:44] 10 x [Galet rutilant] (29 698 kamas)
+[21:05:56] 10 x [Galet rutilant] (29 698 kamas)
+[21:05:58] 10 x [Galet rutilant] (29 698 kamas)
+[21:05:58] Cet objet n'est plus disponible à ce prix. Quelqu'un a été plus rapide...
+[21:10:32] Vous avez perdu 20 kamas.
+[21:12:46] Gold-sanji : achète toute vos ressource a 30%valeur et les rune 50% du prix estimé mp moi pour vider vos banque (25.000 pods dispo!
+[21:14:12] Vous avez payé 612 kamas pour accéder à ce coffre.
+[21:16:40] Un membre de votre guilde, Bled-artt, est en ligne.
+[21:17:41] Techat : .W Spitfire-yt yo bg
+[21:22:50] Vous avez perdu 20 kamas.
+[21:23:32] popymouxx(II-Frero-XeniO-II) est en ligne.
+[21:23:34] Un membre de votre guilde, Shan-Do-Stormrage, est en ligne.
+[21:25:54] Vous avez créé 1 × [Les Dagues du Bouwin] !
+[21:25:54] Votre métier [Forgeron] passe niveau 151.,Vous obtenez 1 pods supplémentaires.
+[21:25:59] Vous avez créé 1 × [Dagues Réceuses] !
+[21:25:59] Votre métier [Forgeron] passe niveau 152.,Vous obtenez 1 pods supplémentaires.
+[21:28:59] Vous avez perdu 20 kamas.
+[21:29:10] Vous avez payé 612 kamas pour accéder à ce coffre.
+[21:29:25] Saiborg : Hey :)Tu veux des kamas ? Vide ta banque ! Je rachete vos ressources avec 30% et les runes avec 50%
+[21:30:10] Saiborg : Hey :)Tu veux des kamas ? Vide ta banque ! Je rachete vos ressources avec 30% et les runes avec 50%
+[21:31:07] Gold-sanji : achète toute vos ressource a 30%valeur et les rune 50% du prix estimé mp moi pour vider vos banque (25.000 pods dispo!
+[21:32:11] Vous avez perdu 20 kamas.
+[21:33:14] Vous avez perdu 20 kamas.
+[21:34:11] 10 x [Pixel de Fraktale] (45 947 kamas)
+[21:35:26] Vous avez perdu 20 kamas.
+[21:35:43] Vous avez créé 1 × [Sabre de Ben le Ripate] !
+[21:35:43] Votre métier [Forgeron] passe niveau 154.,Vous obtenez 2 pods supplémentaires.
+[21:36:58] Vous avez perdu 20 kamas.
+[21:38:08] Arnouldinho : achète 1100 Tanches mp moi vite svppp
+[21:39:14] 1 x [Roue de Tivelo] (1 496 kamas)
+[21:39:15] 1 x [Roue de Tivelo] (1 496 kamas)
+[21:40:32] 10 x [Souche de l'Abrakleur clair] (48 999 kamas)
+[21:41:07] 10 x [Souche de l'Abrakleur clair] (48 999 kamas)
+[21:41:07] 10 x [Souche de l'Abrakleur clair] (48 999 kamas)
+[21:41:10] 10 x [Souche de l'Abrakleur clair] (48 999 kamas)
+[21:41:31] 10 x [Trompe de la Tromperelle] (22 700 kamas)
+[21:41:33] 10 x [Trompe de la Tromperelle] (22 800 kamas)
+[21:41:40] 100 x [Champignon Luidegît] (14 786 kamas)
+[21:43:49] Vous avez perdu 20 kamas.
+[21:44:18] 1 x [Le Troma] (18 900 kamas)
+[21:44:43] Vous avez perdu 20 kamas.
+[21:45:01] 10 x [Daube aux Épices] (5 899 kamas)
+[21:45:30] de Syees : c'est moi j'arrive pas a me co t'as rien changé ?
+[21:46:10] à Syees : comment ça ?
+[21:46:25] de Syees : bha je peux pas me co j'essaye depuis tout a l'heure tu t'es co sans soucis dessus ?
+[21:46:40] à Syees : oui oui
+[21:46:50] Vous avez perdu 20 kamas.
+[21:46:57] de Syees : c'est bizarre essaye déco reco voir si ça vient de moi stp
+[21:47:09] à Syees : c'est good
+[21:47:19] Sangubin a déverrouillé le succès [Junior].
+[21:47:19] Sangubin a déverrouillé le succès [Espoir].
+[21:47:21] de Syees : t'as pas déco reco ?
+[21:47:35] à Syees : si si regarde
+[21:47:51] de Syees : bha nan j'ai pas vu x)
+[21:48:17] bhdhdsoqfs (Syees) n'est pas connecté.
+[21:48:17] 27 Septange 650 - 21:48
+[21:49:19] de II-Frero-XeniO-II : re*
+[21:49:29] de II-Frero-XeniO-II : 2 places si jamais ;)
+[21:49:30] à II-Frero-XeniO-II : re
+[21:49:54] à II-Frero-XeniO-II : hum tu me tente mais la ... j'ai plus de perso x)
+[21:50:41] de II-Frero-XeniO-II : héhéhé
+[21:50:51] de II-Frero-XeniO-II : pgv sinon c'était pour un dernier cbt*
+[21:51:30] à II-Frero-XeniO-II : ça prend combien de temps :P
+[21:51:42] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[21:51:43] de II-Frero-XeniO-II : 30min je pense
+[21:51:56] de II-Frero-XeniO-II : avec les lag xD
+[21:52:03] à II-Frero-XeniO-II : j'amène mon sadi aller je le up avec toi :P
+[21:52:39] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[21:52:39] Précédente connexion sur ce compte : 27/09/2020 à 17:16
+[21:52:39] Vous avez récupéré 250 points d'énergie.
+[21:52:39] Annonce de guilde : Discord: [https://discord.gg/bSySprn] // Achète 2 Galets brasillant. Plio
+[21:52:39] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[21:52:39] Le point de repère [-4,-24] a été ajouté sur la carte Monde principal.
+[21:52:39] Le point de repère [4,-19] a été ajouté sur la carte Monde principal.
+[21:52:39] Le point de repère [-1,-4] a été ajouté sur la carte Incarnam.
+[21:52:39] Le point de repère [0,-1] a été ajouté sur la carte Incarnam.
+[21:52:39] Le point de repère [-2,-2] a été ajouté sur la carte Incarnam.
+[21:52:39] Le point de repère [2,-5] a été ajouté sur la carte Incarnam.
+[21:52:39] Le point de repère [0,-3] a été ajouté sur la carte Incarnam.
+[21:52:39] Le point de repère [0,-4] a été ajouté sur la carte Incarnam.
+[21:52:40] Modificateur de combat actuel : Larcin
+[21:53:02] à II-Frero-XeniO-II : j'arrive
+[21:54:14] à II-Frero-XeniO-II : tu me groupe ?
+[21:55:24] (Guilde) Voleur-de-Gouter : [21:55] Obsidiantre lance Scie licate.[21:55] Oo-plionor : -1 PV.
+[21:55:43] Zy-archer : 1 place
+[21:57:29] II-Frero-XeniO-II suit votre déplacement.
+[21:57:33] Wildayrip a annulé l'invitation de Shan-Do-Stormrage à rejoindre votre groupe.
+[21:57:41] Zy-archer : 1 place
+[21:58:57] Wildayrip : 1place
+[21:59:22] Zy-archer : 1 place
+[22:00:29] Un membre de votre guilde, Mangan-Mage, est en ligne.
+[22:01:22] (Groupe) Wildayrip : tes pret? ^^
+[22:01:37] Un membre de votre guilde, Mangan-Donnelapatte, est en ligne.
+[22:01:37] Voleur-de-Gouter a déverrouillé le succès [Hypogée de l'Obsidiantre].
+[22:01:37] Portail-plio a déverrouillé le succès [Hypogée de l'Obsidiantre].
+[22:02:10] Zy-archer : 1 place vite
+[22:02:45] Pvp-Is-Pvm : oui gros quand t'as deco ca allait super vite
+[22:03:59] Neb-Night : go ou pas
+[22:04:01] Nouveau modificateur de combat : Liaison longue portée
+[22:04:13] de Marsyasc : pret?
+[22:04:23] à Marsyasc : pret
+[22:04:26] Des monstres attaquent Marsyasc (Cave du Toxoliath - Salle des pontes).
+[22:05:27] -Little-Fairy- : &gt;&lt;
+[22:05:33] -Little-Fairy- : pourri ces chall
+[22:05:39] Papy-Pastis a fait échouer le challenge Circulez !.
+[22:05:41] Papy-Pastis a fait échouer le challenge Zombie.
+[22:06:38] Armany a fait échouer le challenge Anachorète.
+[22:07:58] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[22:08:13] Terminez votre tour avec le bouton [Fin de tour].
+[22:08:16] Kann-Ybale : je fais un truc ?
+[22:08:21] Agressiff vient de rejoindre le combat en spectateur.
+[22:08:24] (Groupe) Wildayrip : no^^
+[22:08:30] (Groupe) Kann-Ybale : ah ^^^"
+[22:08:35] (Groupe) Wildayrip : mais ça lag encore quand meme :s
+[22:08:48] Papy-Pastis a fait échouer le challenge Les petits d'abord.
+[22:08:49] Un membre de votre guilde, Mangan-Portail, est en ligne.
+[22:08:55] (Groupe) Kann-Ybale : par contre je pouvais pas t'envoyer de message en
+[22:09:15] II-Frero-XeniO-II : ça me gave deja :p
+[22:09:35] Un membre de votre guilde, Mangan-Donnelapatte, est en ligne.
+[22:09:41] Vous avez gagné 483 856 points d'expérience.
+[22:09:44] Vous avez perdu 3820 points d'énergie.
+[22:09:45] Nouveau modificateur de combat : Évasion
+[22:12:21] (Groupe) Kann-Ybale : ah ^^^"
+[22:13:39] (Groupe) Shan-Do-Stormrage : faut esperer que les challs changent avec le iop
+[22:13:47] (Groupe) Kann-Ybale : ^^"
+[22:13:52] de Shan-Do-Stormrage : rdy?
+[22:13:54] Des monstres attaquent Papy-Pastis (Cave du Toxoliath - Salle des pontes).
+[22:13:55] (Groupe) Kann-Ybale : et battre le reccord de Nk ^^"
+[22:14:44] (Groupe) Marsyasc : xD de base la rdv xp deux fois plus ^^
+[22:14:52] Papy-Pastis a fait échouer le challenge Circulez !.
+[22:14:56] Papy-Pastis a fait échouer le challenge Zombie.
+[22:15:40] Armany a fait échouer le challenge Anachorète.
+[22:17:00] Papy-Pastis a fait échouer le challenge Les petits d'abord.
+[22:17:58] Sangubin a déverrouillé le succès [Senior].
+[22:18:05] Sangubin a déverrouillé le succès [Cimetière d'Astrub].
+[22:18:11] Grougalorafaust(Pandubin) est en ligne.
+[22:21:24] Range-ta-chambre(Mariadb) est en ligne.
+[22:22:34] (Groupe) Kann-Ybale : de base ^^"
+[22:23:50] Handa-cbf(Xelliito) est en ligne.
+[22:25:06] Un membre de votre guilde, Reactjs, est en ligne.
+[22:25:38] Grougalorafaust(Scramubine) est en ligne.
+[22:25:50] Un membre de votre guilde, Mangan-Donnelapatte, est en ligne.
+[22:29:04] Sangubin a déverrouillé le succès [Sufokia].
+[22:30:52] Sangubin a déverrouillé le succès [Ile des naufragés].
+[22:30:58] Sangubin a déverrouillé le succès [La grande kradoc].
+[22:31:04] Sangubin a déverrouillé le succès [Village côtier].
+[22:31:31] Reactjs vient de rejoindre le combat en spectateur.
+[22:31:44] Nk-Alzerya vient de rejoindre le combat en spectateur.
+[22:31:54] Sangubin a déverrouillé le succès [Plage de Corail].
+[22:32:22] Sangubin a déverrouillé le succès [Plaines herbeuses].
+[22:32:55] Sangubin a déverrouillé le succès [Village des éleveurs].
+[22:35:57] (Guilde) Mariadb : Salut MANGAN
+[22:36:02] (Guilde) Mariadb : Alors t'as decuv?
+[22:37:25] Vous avez gagné 1 047 762 304 points d'expérience.
+[22:37:29] Nouveau modificateur de combat : Disparitions détonantes
+[22:37:29] Succès déverrouillé : [Cave du Toxoliath]
+[22:37:29] Succès déverrouillé : [Toxoliath (Score 135)]
+[22:37:29] Succès déverrouillé : [Toxoliath (Score 200)]
+[22:37:42] KEKElecHO(Arcalphine) est en ligne.
+[22:38:18] (Groupe) Marsyasc : enfin ! ^^
+[22:38:19] (Guilde) Mangan-Donnelapatte : yo ! et pas totalement XD si, mais avec les lags j'avais pas envie de jouer ::/ et l'ougi en stuff corrup c'est trop fort
+[22:38:23] (Groupe) Kann-Ybale : ^^"
+[22:38:26] (Groupe) Kann-Ybale : enfin quoi ?
+[22:38:28] (Guilde) Mariadb : ahah
+[22:38:38] (Guilde) Mariadb : En ougi ca vaut ptet le coup de mettre un casque dragoeuf
+[22:38:47] (Guilde) Mariadb : Vu que t'as une regen de maboule
+[22:38:58] (Groupe) Marsyasc : UP ^^
+[22:39:07] (Groupe) Marsyasc : c'était de justesse :s
+[22:39:10] (Guilde) Mangan-Donnelapatte : yes j'y pensais, puis la sans etre parcho je met des humerus a 1400 en forme bestiale
+[22:39:16] (Guilde) Mariadb : m d r
+[22:39:40] (Groupe) Kann-Ybale : ^^^"
+[22:39:52] (Groupe) Kann-Ybale : merci mon p'tit shan :)
+[22:40:00] (Groupe) Kann-Ybale : j'ai cru a un up 200 :P
+[22:40:09] (Guilde) Mangan-Donnelapatte : donc sacrifié quelque stats pour les res c'est fort possible XD
+[22:40:13] (Groupe) Kann-Ybale : je repasse sur Kinex
+[22:40:22] (Groupe) II-Frero-XeniO-II : oui bah c'est ça, zozo 200
+[22:40:36] à II-Frero-XeniO-II : on parle en mp ou /g
+[22:40:44] Nouveau modificateur de combat : Jeu dangereux
+[22:40:50] (Groupe) Kann-Ybale : GG pour le zozo en tout cas :)
+[22:40:51] (Guilde) Mangan-Donnelapatte : look j'suis sur un poutch stv ;)
+[22:41:26] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[22:41:26] Précédente connexion sur ce compte : 27/09/2020 à 21:52
+[22:41:26] Annonce de guilde : WEEK END double xp jusqu'a lundi 9h !!! MAJ 2.57: Visibilité des succès de donjon en combat ! Extention Pandala : [https://www.dofus.com/fr/forum/1081-dofus/2340664-devblog-reveil-pandala-2] ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[22:41:26] Vous avez 6 contact(s) réciproque(s) connecté(s).
+[22:51:06] Grougalorafaust(Pandubin) est en ligne.
+[22:52:02] Vous êtes désormais référencé dans toutes les listes d'artisans
+[22:52:03] Vous n'êtes plus référencé en tant que Costumage dans la liste des artisans.
+[22:52:07] Vous n'êtes plus référencé en tant que Forgemage dans la liste des artisans.
+[22:52:09] Vous êtes désormais référencé dans la liste des artisans en tant que Forgemage.
+[22:52:09] Vous n'êtes plus référencé en tant que Forgemage dans la liste des artisans.
+[22:52:11] Vous n'êtes plus référencé en tant que Façomage dans la liste des artisans.
+[22:52:12] Vous n'êtes plus référencé en tant que Sculptemage dans la liste des artisans.
+[22:53:37] 1 x [Dagues Ruik] (49 000 kamas)
+[22:56:28] 1 x [Poolache] (159 994 kamas)
+[22:59:00] Vous avez perdu 20 kamas.
+[23:01:50] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[23:02:01] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[23:03:17] Vous avez perdu 20 kamas.
+[23:03:44] Vous avez perdu 20 kamas.
+[23:04:17] Vous avez perdu 130 kamas.
+[23:04:48] Vous avez créé 2 × [Planche de Gravure] !
+[23:04:51] Vous avez créé 1 × [Substrat de Forêt] !
+[23:05:52] Vous avez perdu 40 kamas.
+[23:05:58] Vous avez perdu 320 kamas.
+[23:07:22] 10 x [Écorce d'Abraknyde Ancestral] (2 599 kamas)
+[23:07:24] 10 x [Écorce d'Abraknyde Ancestral] (2 599 kamas)
+[23:08:20] Vous êtes déjà dans cette maison.
+[23:08:50] Vous avez créé 1 × [Dagues R'Hoh] !
+[23:12:09] Vous avez perdu 320 kamas.
+[23:13:21] 10 x [Duvet du Maître Corbac] (11 996 kamas)
+[23:13:37] 10 x [Poil de Ben le Ripate] (23 953 kamas)
+[23:13:52] Un membre de votre guilde, Suaht, est en ligne.
+[23:14:53] à Mariadb : [Écaille de Harpirate]
+[23:15:42] Vous avez payé 612 kamas pour accéder à ce coffre.
+[23:18:23] de Quicky-T-Tigrou : slt t est dispo fm botte
+[23:18:33] à Quicky-T-Tigrou : Hello non desolé
+[23:18:44] Vous n'êtes plus référencé en tant que Joaillomage dans la liste des artisans.
+[23:18:46] Vous n'êtes plus référencé en tant que Cordomage dans la liste des artisans.
+[23:21:07] 100 x [Croupion du Bitouf aérien] (40 900 kamas)

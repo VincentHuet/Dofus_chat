@@ -1,0 +1,451 @@
+[23:38:15] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[23:38:15] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:38:15] Précédente connexion sur ce compte : 28/10/2020 à 21:27
+[23:38:15] Annonce de guilde : ALMANAX: 3 novembre: 15% d'economie sur les crafts dans la zone du Village d'Amakna ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[23:38:15] Annonce d'alliance : DISCORD D'ALLI [https://discord.gg/7Gq4QrC] Point de rencontre Zaap Pandala [20,-29] ! / AVA PEPITES MERCREDI 20H30 DUNE DES OSSEMENTS
+[23:38:15] Vous avez 5 contact(s) réciproque(s) connecté(s).
+[23:38:17] Le point de repère [-61,-74] a été ajouté sur la carte Château du Comte Harebourg.
+[23:38:24] KEKElecHO(Arcalphine) est en ligne.
+[23:38:36] Vous avez perdu 20 kamas.
+[23:41:53] (Alliance) Orimage : Je déco moi, bisous les copains :)
+[23:42:03] (Alliance) Kamishogun : nenuit à toi
+[23:43:12] L'alliance [Over] a défendu la zone « [Cirque de Cania] ».
+[23:45:40] Un membre de votre guilde, Oracledb, est en ligne.
+[23:48:23] Vous avez perdu 300 kamas.
+[23:48:31] Jowarcher : vend cawotte
+[23:48:35] Oni-iop : ok
+[23:48:40] Simox-arkura : nice
+[23:48:43] Oni-iop : cool
+[23:48:53] Jowarcher : vend cawotte
+[23:48:55] Infiniteaz : wp
+[23:49:00] Vous avez perdu 150 kamas.
+[23:49:37] (Alliance) Namylia : Portail vers la dimension Xélorium [-12,-2]
+[23:50:13] Vous êtes arrivé à destination !
+[23:51:44] Des monstres attaquent Eis ([-8,8]).
+[23:53:24] Des monstres attaquent Oracledb ([-8,8]).
+[23:54:12] Punk-hasard a fait échouer le challenge Zombie.
+[23:54:12] Vous avez gagné 15 502 points d'expérience.
+[23:55:02] Vous avez perdu 100 kamas.
+[23:56:16] Quête mise à jour : [Formation des neuvième année]
+[23:56:16] Vous avez obtenu 1 '[Feuille de formation]'.
+[23:56:47] Quête terminée : [On recherche Gadoo]
+[23:56:47] Objets reçus : 360 x [Doplon]
+[23:56:47] Vous avez perdu 1 '[Gadoo]'.
+[23:57:05] Vous ne pouvez pas démarrer une quête déjà terminée.
+[23:57:05] Seuls les téméraires triomphant d'une quête précise sont bienvenus.
+[23:57:14] Vous ne pouvez pas démarrer une quête déjà en cours.
+[23:59:12] L'alliance [EZPK] a défendu la zone « [Forêt pétrifiée] ».
+[23:59:24] L'alliance [ALE] a capturé la zone « [Champs de Cania] ».
+[00:00:05] Nouvelle quête : [Compagnonnage]
+[00:00:05] Quête terminée : [Compagnonnage]
+[00:00:05] Vous avez obtenu 1 '[Signe éthéré de Lumino]'.
+[00:00:12] La zone « [Marches Magmatiques] » est vulnérable. Vous pouvez tenter de la conquérir.
+[00:00:12] La zone « [Millifutaie] » est vulnérable. Vous pouvez tenter de la conquérir.
+[00:01:12] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[00:04:18] Impossible d'activer ou désactiver le mode AvA dans une zone où se déroule un combat d'alliance.
+[00:05:24] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[00:06:27] (Alliance) Kinex : on capture Milifutaie
+[00:06:30] (Alliance) Kinex : ?
+[00:08:05] Vous avez perdu 200 kamas.
+[00:08:07] Michel-Polaref : vieux chien arrête de me provoquer
+[00:10:36] Un percepteur de la guilde Histoire est attaqué dans Rivage sufokien en [5,27].
+[00:10:43] 1 x [Aile de Sinistrofu] (4 500 kamas)
+[00:10:46] 1 x [Aile de Sinistrofu] (4 598 kamas)
+[00:10:47] 1 x [Aile de Sinistrofu] (4 598 kamas)
+[00:10:48] 1 x [Aile de Sinistrofu] (4 598 kamas)
+[00:10:50] 1 x [Aile de Sinistrofu] (4 598 kamas)
+[00:10:50] 1 x [Aile de Sinistrofu] (4 598 kamas)
+[00:10:50] 1 x [Aile de Sinistrofu] (4 598 kamas)
+[00:10:51] 1 x [Aile de Sinistrofu] (4 598 kamas)
+[00:10:52] 1 x [Aile de Sinistrofu] (4 599 kamas)
+[00:10:54] 1 x [Aile de Sinistrofu] (4 655 kamas)
+[00:10:55] 1 x [Aile de Sinistrofu] (4 658 kamas)
+[00:10:56] 1 x [Aile de Sinistrofu] (4 658 kamas)
+[00:10:57] 1 x [Aile de Sinistrofu] (4 658 kamas)
+[00:11:00] 1 x [Aile de Sinistrofu] (4 659 kamas)
+[00:11:01] 1 x [Aile de Sinistrofu] (4 659 kamas)
+[00:11:03] 1 x [Aile de Sinistrofu] (4 660 kamas)
+[00:11:04] 1 x [Aile de Sinistrofu] (4 660 kamas)
+[00:11:11] 10 x [Aile de Sinistrofu] (46 997 kamas)
+[00:11:13] (Alliance) Ipaa : :(
+[00:11:14] 10 x [Aile de Sinistrofu] (46 998 kamas)
+[00:11:16] 10 x [Aile de Sinistrofu] (46 998 kamas)
+[00:11:16] (Alliance) And-U-Try : qu'il repose en paix
+[00:11:17] 10 x [Aile de Sinistrofu] (46 999 kamas)
+[00:12:35] 10 x [Aile de Sinistrofu] (47 000 kamas)
+[00:12:50] 10 x [Aile de Sinistrofu] (48 990 kamas)
+[00:13:08] 100 x [Champignon] (4 200 kamas)
+[00:13:10] 100 x [Champignon] (4 200 kamas)
+[00:13:10] 100 x [Champignon] (4 200 kamas)
+[00:13:11] 100 x [Champignon] (4 200 kamas)
+[00:13:11] 100 x [Champignon] (4 200 kamas)
+[00:13:12] 100 x [Champignon] (4 200 kamas)
+[00:13:13] 100 x [Champignon] (4 200 kamas)
+[00:13:18] 100 x [Champignon] (4 200 kamas)
+[00:13:19] 100 x [Champignon] (4 200 kamas)
+[00:13:19] 100 x [Champignon] (4 200 kamas)
+[00:13:21] 100 x [Champignon] (4 200 kamas)
+[00:13:22] 100 x [Champignon] (4 200 kamas)
+[00:13:23] 100 x [Champignon] (4 200 kamas)
+[00:13:23] 100 x [Champignon] (4 200 kamas)
+[00:13:24] 100 x [Champignon] (4 200 kamas)
+[00:13:24] 100 x [Champignon] (4 200 kamas)
+[00:13:25] 100 x [Champignon] (4 200 kamas)
+[00:13:28] 100 x [Champignon] (4 200 kamas)
+[00:13:29] Le percepteur de la guilde Histoire attaqué en [5,27] n'a pas survécu !
+[00:13:31] 100 x [Champignon] (4 200 kamas)
+[00:13:31] 100 x [Champignon] (4 200 kamas)
+[00:13:33] 100 x [Champignon] (4 200 kamas)
+[00:13:34] 100 x [Champignon] (4 200 kamas)
+[00:13:35] 100 x [Champignon] (4 200 kamas)
+[00:13:36] 100 x [Champignon] (4 200 kamas)
+[00:13:37] 100 x [Champignon] (4 200 kamas)
+[00:13:38] 100 x [Champignon] (4 200 kamas)
+[00:13:38] 100 x [Champignon] (4 200 kamas)
+[00:14:03] Échange effectué
+[00:15:01] Un membre de votre guilde, Fatou-Matou, est en ligne.
+[00:16:26] (Alliance) Berry-sword : une question les gars, ça coute combien un vulbis environ ?
+[00:16:35] Un membre de votre guilde, Graou-Matou, est en ligne.
+[00:16:41] (Alliance) Ygg-Drasil : 44 je crois
+[00:16:44] (Alliance) Ygg-Drasil : dans ces eaux là
+[00:16:53] (Alliance) Ipaa : jdirais plus 41M
+[00:17:08] (Alliance) Ygg-Drasil : [00:16] (Commerce) Loukav : Kamas Dispo Pour Toutes Vos Offres en Or Item/Exos/Familler/Troph (Vulbis 40m - Ivoir 36m - Ebène 19m - Ocre 38m - scintillant 30m - Abyssal 8.8m - Nébu 8m7 - DDG 5.5m - Dolmanax 5.5m - Pourpre 2m5 - Tutu 1m5 - Emeraude 1m2 -
+[00:17:17] (Alliance) Ygg-Drasil : Tu prend ce genre de message et tu rajoutes 1 a 3M par dofus x)
+[00:17:23] (Alliance) Ygg-Drasil : pour avoir le "prix actuel"
+[00:17:49] (Alliance) Berry-sword : ah d'accord mdrr
+[00:18:19] (Alliance) Berry-sword : J'suis en train de budgetisé mon stuff, mama j'suis sortie d'la merde mdr
+[00:18:37] Miowi-Magus a déverrouillé le succès [Caniablanca].
+[00:18:37] (Alliance) Ygg-Drasil : attends le 3/11 et go tout craft / fm
+[00:18:41] (Alliance) Ygg-Drasil : tu vas eco pas mal ^^
+[00:18:41] (Alliance) Berry-sword : vas falloir faire la tchoin a astrub
+[00:19:06] (Alliance) Berry-sword : Justement j'suis en train de voir la diff entre buy les ressources, et acheter les items aha
+[00:19:13] (Alliance) Berry-sword : j'étudie le truc lol
+[00:19:41] (Alliance) Berry-sword : mais l'idée du craft pendant le jour d'éco c'est surement que vais faire
+[00:19:53] (Alliance) Ygg-Drasil : J'pose ça la au cas ou je vends un peut - cher qu'en hdv : [Cape de Crânonier] [Dorabysses] [Collier du Valet Veinard] [Pelle de la Cour Sombre]
+[00:20:10] (Alliance) Ygg-Drasil : Bah après sa depend si t'as un stock de rune dispo en banque ou pas
+[00:20:39] (Alliance) Ygg-Drasil : mais si t'as des "gros" item ou genre y'a des ressource a 1M + ça peut etre sympa d'attendre l'alma eco craft et revendre les ressource derrière si t'arrives a eco dessus clairement x)
+[00:21:14] (Alliance) Berry-sword : Pas trop, justement c'est mes premiers persos donc
+[00:21:35] (Alliance) Berry-sword : j'ai un peu d'économie, mais jai pas trop de stock de grosse ressources donc
+[00:21:42] Un percepteur de la guilde Constellation est attaqué dans Rivière Kawaii en [8,0].
+[00:23:49] 10 x [Oreille de Soryo Givrefoux] (13 490 kamas)
+[00:23:54] 10 x [Oreille de Soryo Givrefoux] (13 490 kamas)
+[00:24:01] 10 x [Oreille de Soryo Givrefoux] (13 494 kamas)
+[00:24:05] 10 x [Oreille de Soryo Givrefoux] (13 494 kamas)
+[00:24:12] Le percepteur de la guilde Constellation attaqué en [8,0] n'a pas survécu !
+[00:24:51] Un percepteur de la guilde Constellation est attaqué dans Rivière Kawaii en [9,1].
+[00:26:21] (Alliance) Ygg-Drasil : [00:26] (Commerce) ([Koum]) : Legends-iop a été expulsé du jeu pour avoir insulté un membre de la communauté.
+[00:26:21] de Tank-plio : t'es OQP !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+[00:26:27] (Alliance) Ygg-Drasil : faites gaffe a pas mettre nimp en /r /b x)
+[00:26:58] Le percepteur de la guilde Constellation attaqué en [9,1] n'a pas survécu !
+[00:27:11] Un percepteur de la guilde Constellation est attaqué dans Rivière Kawaii en [10,1].
+[00:27:19] (Alliance) Ipaa : erf koli :(
+[00:27:28] Échange effectué
+[00:28:31] Vous avez payé 748 kamas pour accéder à ce coffre.
+[00:29:19] Le percepteur de la guilde Constellation attaqué en [10,1] n'a pas survécu !
+[00:29:26] Vous avez perdu 290 kamas.
+[00:29:50] Un percepteur de la guilde Constellation est attaqué dans Port de Madrestam en [9,0].
+[00:30:04] (Alliance) Ipaa : 500k xD
+[00:30:13] (Alliance) Majestueur : ^^
+[00:30:15] (Alliance) Zero-De-Qi : c'est fdp
+[00:30:19] (Alliance) Zero-De-Qi : des*
+[00:30:25] (Alliance) Zero-De-Qi : je suis entrain de tous les recolter du coup
+[00:30:29] Échange effectué
+[00:30:58] (Alliance) Ipaa : il vont fort 500k a 5 xD
+[00:31:12] (Alliance) Ygg-Drasil : Ils ffarm tout tant que y'a pas de def je pense
+[00:31:19] (Alliance) Ygg-Drasil : 5000k x20 perco a force sa chiffre mdr
+[00:31:28] Échange effectué
+[00:31:42] (Alliance) Kamishogun : c'est pour les peaux de larve dans la zone
+[00:31:46] (Alliance) Ygg-Drasil : Yep
+[00:31:59] (Alliance) Arcalphine : quelqu'un pour un prisme à la milifutaie ?
+[00:32:01] (Alliance) Ipaa : 500 x 20 10.000 divisé par 5 xD
+[00:32:01] (Alliance) Ygg-Drasil : et vu que y'en pour pour quete halouine , la zone est dans les prio de farm j'pense en c'moment x)
+[00:32:15] Le percepteur de la guilde Constellation attaqué en [9,0] n'a pas survécu !
+[00:32:33] Échange effectué
+[00:33:42] Un percepteur de la guilde Constellation est attaqué dans Rivière Kawaii en [6,-1].
+[00:33:59] Nouvelle quête : [Offrande à Tchokun]
+[00:36:00] Le percepteur de la guilde Constellation attaqué en [6,-1] n'a pas survécu !
+[00:36:48] (Alliance) Ygg-Drasil : quelqu'un a une idée du prix que me couterais une commande [Cadran d'Air] exo invo par hasard ?
+[00:37:12] Un membre de votre guilde, Oo-plionor, est en ligne.
+[00:37:47] (Alliance) Gozilla : pas du tout, desolé
+[00:38:19] Échange effectué
+[00:38:43] Échange effectué
+[00:39:00] Un membre de votre guilde, Greus-Fatou, est en ligne.
+[00:39:05] Échange effectué
+[00:39:17] (Alliance) Aaynox : Prix de l'item, avec une majoration un peu je dirais.. Enfin, quand j'ai voulus faire des commande précise, c'etait + cher que les exo en hdv vu que c'est + précis et y'a la ''main d'oeuvre''
+[00:39:19] Vous avez perdu 2 '[Oreille de Soryo Givrefoux]'.
+[00:39:19] Quête mise à jour : [Offrande à Tchokun]
+[00:39:51] Quête mise à jour : [Offrande à Tchokun]
+[00:39:54] (Alliance) Can-ar : Salut un alchi 155 mini de dispo svp ?
+[00:40:01] (Alliance) Ygg-Drasil : la y'en a aucun hdv j'ai aucune idée du prix de ce truc x)
+[00:40:02] Quête mise à jour : [Offrande à Tchokun]
+[00:40:11] (Alliance) Gozilla : yes dispo
+[00:40:11] (Alliance) Ygg-Drasil : 3.5M sa parais raisonnable ?
+[00:40:18] (Alliance) Gozilla : bonta ?
+[00:40:22] (Alliance) Can-ar : A bonta stp
+[00:40:30] Quête terminée : [Offrande à Tchokun]
+[00:40:30] Vous avez gagné 38 306 kamas.
+[00:40:30] Vous avez gagné 2 887 499 points d'expérience.
+[00:40:30] Objets reçus : 17 x [Almaton]
+[00:41:21] (Alliance) Gozilla : garde les sous'^^^
+[00:42:26] KEKElecHO(Sangubin) est en ligne.
+[00:42:29] Grougalorafaust(Scramubine) est en ligne.
+[00:43:02] (Alliance) Ygg-Drasil : awi ils sont ouf les forgemagme é_è
+[00:43:14] (Alliance) Ygg-Drasil : 10M la commande exo invo sur un boucleir , le mec s'il le passse en quelque tenta il fait tellement de benef
+[00:44:16] (Alliance) Gozilla : c'est n'imp les exos invoc
+[00:44:20] Un percepteur de la guilde Constellation est attaqué dans Côte d'Asse en [12,3].
+[00:44:40] (Alliance) Ipaa : bon cetait le dernier a 900k xD
+[00:45:00] (Alliance) Gozilla : a un moment les voiles d'encre invo étaient à 6M j'avais pas les sous maintenant ils sont à 14-15M
+[00:46:09] (Alliance) Ygg-Drasil : y'a pas de cape au logis invo non plus :(
+[00:46:35] Le percepteur de la guilde Constellation attaqué en [12,3] n'a pas survécu !
+[00:47:01] Vous avez perdu 560 kamas.
+[00:47:15] Un percepteur de la guilde Pelush est attaqué dans Champ des Ingalsse en [11,4].
+[00:47:41] Vous êtes arrivé à destination !
+[00:48:14] (Alliance) Ygg-Drasil : [Arc du Chalœil]
+[00:48:21] (Alliance) Ygg-Drasil : [Arc du Chalœil] 2M9
+[00:48:27] Échange effectué
+[00:48:38] (Alliance) One-two-truite : personne a du mais en rab je lechange contre des pepite ^^
+[00:48:40] (Alliance) Ygg-Drasil : les do sont pas ouf mais sinon cava pour ce prix , non?
+[00:48:59] Échange effectué
+[00:49:22] Échange effectué
+[00:49:38] (Alliance) Gozilla : je suis pas un expert mais pour 2M9 il est plutot beau je trouve
+[00:49:44] Le percepteur de la guilde Pelush attaqué en [11,4] n'a pas survécu !
+[00:49:48] Vous avez perdu 10 '[Fer]'.
+[00:51:21] (Alliance) Gozilla : tu cherches toujours du mais ? j'ai
+[00:51:29] Kinex a fait échouer le challenge Elémentaire.
+[00:51:30] Kinex a fait échouer le challenge Nomade.
+[00:51:30] Vous avez gagné 5 493 points d'expérience.
+[00:51:39] (Alliance) One-two-truite : oui
+[00:51:50] Kinex a fait échouer le challenge Elitiste.
+[00:51:55] Vous avez gagné 18 534 points d'expérience.
+[00:52:54] Un membre de votre guilde, Fatou-Matou, est en ligne.
+[00:53:03] (Alliance) Ygg-Drasil : en vrai y'a un buisness a prendre sur les exo invo je crois
+[00:53:12] (Alliance) Ygg-Drasil : en hdv je trouve que des jets foireux ou des pris surabusé
+[00:53:23] 3 secondes ajoutées au prochain tour de jeu.
+[00:53:38] Vous avez gagné 39 900 points d'expérience.
+[00:58:42] Le prisme de la zone 'Dunes des ossements (Saharach)' est attaqué en 19,-61 !
+[00:58:42] Le prisme de la zone 'Village côtier (Île d'Otomaï)' est attaqué en -48,22 !
+[00:59:09] (Alliance) Kamishogun : venez def c'est du prisme
+[00:59:12] Miowi-Magus a déverrouillé le succès [Champis].
+[00:59:20] (Alliance) Rs-Ocean : ils sont que 3 sur le premier
+[00:59:52] (Alliance) Kamishogun : allez même pas opti
+[00:59:59] (Alliance) Kamishogun : sont 3
+[01:00:34] (Alliance) Kamishogun : On attend du renfort def prisme
+[01:01:00] (Alliance) Kamishogun : allez encore 2 svp
+[01:01:04] (Alliance) Kamishogun : même PvM
+[01:01:10] (Alliance) Kamishogun : Cra bienvenue
+[01:01:11] (Alliance) Rs-Ocean : un ou deux derner et c'est win ^^
+[01:03:42] Le prisme de la zone 'Village côtier (Île d'Otomaï)', en -48,22, a été affaibli !
+[01:04:16] Kinex a fait échouer le challenge Premier.
+[01:04:34] 3 secondes ajoutées au prochain tour de jeu.
+[01:04:34] Kinex a fait échouer le challenge Statue.
+[01:05:14] Vous avez gagné 88 183 points d'expérience.
+[01:05:15] Vous avez obtenu 1 '[Autorisation d'extraction]'.
+[01:05:34] Vous avez perdu 1 '[Autorisation d'extraction]'.
+[01:05:34] Vous avez obtenu 1 '[Autorisation d'extraction]'.
+[01:05:38] Cette action est impossible car vous êtes occupé.
+[01:05:40] (Alliance) Gozilla : je me suis fait deco desole, je suis hdv bonta pour le mais et j'ai pas vu si tu m'as repondu ou pas
+[01:05:48] Vous avez perdu 130 kamas.
+[01:06:39] Un percepteur de la guilde Colossus est attaqué dans Jardins d'Hiver en [-60,-75].
+[01:07:00] Échange effectué
+[01:07:12] Échange effectué
+[01:07:23] Échange effectué
+[01:11:06] Le percepteur de la guilde Colossus attaqué en [-60,-75] a survécu !
+[01:11:17] Grougalorafaust(Pandubin) est en ligne.
+[01:11:18] KEKElecHO(Arcalphine) est en ligne.
+[01:16:52] Un membre de votre guilde, Acril-Og, est en ligne.
+[01:19:08] (Alliance) Aaynox : Tout le monde ne se couche pas a 2H KAmi
+[01:19:42] (Alliance) Kamishogun : 48 co
+[01:19:59] Miowi-Magus a déverrouillé le succès [Plantala].
+[01:20:08] (Alliance) Aaynox : J'me souviens pourquoi je defends jamais les percos maintenant :)
+[01:20:18] (Alliance) Aaynox : Perco / Pismes*
+[01:20:24] (Alliance) Kamishogun : c'est sympa d'être rentré def
+[01:20:28] (Alliance) Rs-Ocean : yep sans esq c'est un enfer :/
+[01:20:35] Échange effectué
+[01:20:45] Vous avez perdu 270 kamas.
+[01:20:56] (Alliance) Aaynox : C'est un gameplay que je ne comprends pas.. Comment on peut prendre du plaisir sur un mode de jeu aussi cancer, long, et ininteressant... x)
+[01:21:51] (Alliance) Namylia : Quelqu'un aurait une idole "pénitent" à me prêter le temps d'un kanigroula ? je peux filer une caution
+[01:22:15] 10 x [Clef du Temple de Koutoulou] (166 653 kamas)
+[01:22:56] (Alliance) Gozilla : j'ai mais je suis pas dispo tout de suite, combat un peu long
+[01:23:06] (Alliance) Namylia : pas de soucis je peux attendre haha
+[01:23:48] (Alliance) Gozilla : d'acc je te mp quand je suis pret
+[01:24:00] (Alliance) Namylia : No soucis amigo te presse pas !
+[01:24:18] Le prisme de la zone 'Dunes des ossements (Saharach)', en 19,-61, a été affaibli !
+[01:26:05] 1 x [Ambre gris] (15 666 kamas)
+[01:26:52] 1 x [Ambre gris] (15 666 kamas)
+[01:26:53] 1 x [Ambre gris] (15 666 kamas)
+[01:26:53] 1 x [Ambre gris] (15 666 kamas)
+[01:26:55] 1 x [Ambre gris] (15 666 kamas)
+[01:26:55] 1 x [Ambre gris] (15 666 kamas)
+[01:28:53] 10 x [Étoffe du Fauchalak] (16 989 kamas)
+[01:30:43] (Alliance) Kamishogun : Almanax du jour 2 '[Oreille de Soryo Givrefoux]' --&gt; Vous avez gagné 38 306 kamas.
+[01:31:39] (Alliance) Jte-Soulage : Bien vu
+[01:31:51] Action impossible
+[01:33:11] Vous avez payé 747 kamas pour accéder à ce coffre.
+[01:35:10] (Alliance) Unabomba : Bsr y'a un brico 100 dispo ?
+[01:36:17] 10 x [Noyau de Protozorreur] (999 000 kamas)
+[01:36:34] (Alliance) Deportation : SI y a pas oui j'suis brico 200
+[01:37:43] (Alliance) Unabomba : Je ne trouve pas qlq d'autres
+[01:38:15] Vous avez perdu 20 kamas.
+[01:39:47] (Alliance) Deportation : D'acc j'arrive avec mon feca go brak
+[01:39:56] (Alliance) Unabomba : att 1 min
+[01:40:00] (Alliance) Unabomba : peut etre y'a qlqn
+[01:40:26] (Alliance) Deportation : Tu me dis si il se décide pas tu vas pas attendre 15 ans il est 1h40 quand même faut de la réactive
+[01:40:30] (Alliance) Deportation : réactivité*
+[01:41:31] (Alliance) Unabomba : enft il fait un donjon go brakmar
+[01:43:18] 10 x [Moyenne pierre d'âme parfaite] (149 000 kamas)
+[01:43:18] (Alliance) Atenki-For : C'est bon ?
+[01:44:10] Vous avez perdu 320 kamas.
+[01:44:59] Le prisme de la zone 'Village des Dragoeufs (Amakna)' est attaqué en -4,24 !
+[01:45:01] Le prisme de la zone 'Massif de Cania (Plaines de Cania)' est attaqué en -11,-36 !
+[01:45:21] (Alliance) Kamishogun : des mecs pour def ?
+[01:45:29] (Alliance) Kamishogun : ou des filles ça marche aussi
+[01:45:33] (Alliance) --Nain-Jaune-- : je suis pas opti mais je peux essayer
+[01:45:46] Vous êtes arrivé à destination !
+[01:46:22] (Alliance) Kamishogun : 1 de plus et essayez d'avoir de l'esq PA et de pas rester groupés
+[01:46:29] (Alliance) Kamishogun : ça va le faire ^^
+[01:46:38] (Alliance) Atenki-For : J'ai pas mes trophées ret pa j'crois
+[01:46:45] (Alliance) Atenki-For : Si quelqu'un veut ma place il est le bien venu
+[01:46:56] (Alliance) Kamishogun : ya 1 autre prisme à def
+[01:46:58] (Alliance) Rs-Ocean : [Rauleur] mon melleur ami ^^
+[01:47:30] (Alliance) Atenki-For : Ils sont pas drôle les autres c'est du full ret pa pm
+[01:47:38] (Alliance) Kamishogun : rerentre
+[01:47:42] (Alliance) --Nain-Jaune-- : je bug
+[01:47:43] (Alliance) --Nain-Jaune-- : je peux pas
+[01:47:44] (Alliance) Kamishogun : 5eme
+[01:47:53] (Alliance) Kamishogun : vite 5eme svp
+[01:47:54] (Alliance) --Nain-Jaune-- : je me disais que ca bugais et que j'aurai deja du etre dans le combat
+[01:47:56] (Alliance) --Nain-Jaune-- : -_-
+[01:48:04] (Alliance) --Nain-Jaune-- : désolé
+[01:48:09] (Alliance) --Nain-Jaune-- : ca vous est déjà arrivé ?
+[01:48:26] (Alliance) Kamishogun : tkt
+[01:48:42] Kinex souhaite téléporter tout le groupe devant : Maison Fantôme.
+[01:49:39] Le prisme de la zone 'Village des Dragoeufs (Amakna)', en -4,24, a été affaibli !
+[01:49:41] Kinex a fait échouer le challenge Imprévisible.
+[01:49:41] Kinex a fait échouer le challenge Les petits d'abord.
+[01:49:48] 12 secondes ajoutées au prochain tour de jeu.
+[01:49:56] (Équipe) Kinex : Cellule 425
+[01:50:11] Vous avez gagné 20 017 points d'expérience.
+[01:50:45] Kinex a fait échouer le challenge Les petits d'abord.
+[01:50:56] 12 secondes ajoutées au prochain tour de jeu.
+[01:51:44] Kinex a fait échouer le challenge Duel.
+[01:51:45] Vous avez gagné 24 595 points d'expérience.
+[01:52:21] Kinex a fait échouer le challenge Zombie.
+[01:52:40] Vous avez gagné 43 343 points d'expérience.
+[01:53:47] Le prisme de la zone 'Lacs enchantés (Montagne des Koalaks)' est attaqué en -18,-10 !
+[01:54:13] Kinex a fait échouer le challenge Elitiste.
+[01:54:23] 4 secondes ajoutées au prochain tour de jeu.
+[01:54:27] (Alliance) Ipaa : 3 pgm dispo ? :)
+[01:54:31] (Alliance) Gozilla : si on peut etre un de plus je suis pas opti¨
+[01:54:34] Miowi-Magus a fait échouer le challenge Chacun son monstre.
+[01:54:38] (Équipe) Kinex : Cellule 467
+[01:54:42] (Alliance) And-U-Lie : en combat sorry
+[01:54:50] (Alliance) Kamishogun : allez y 1 max même pas opti
+[01:54:54] Vous avez gagné 35 973 points d'expérience.
+[01:54:56] (Alliance) Ygg-Drasil : mais ils sortent d'ou eux "LOK" ?
+[01:55:03] (Alliance) Ygg-Drasil : ils ont l'air pas content a farm x')
+[01:55:08] (Alliance) Gozilla : allez viendez svp
+[01:55:12] Petite pierre d'âme parfaite équipé.
+[01:55:23] (Alliance) Portalisation : [01:55] Vous ne pouvez pas rejoindre ce combat avec plus d'un compte.
+[01:55:38] (Alliance) Portalisation : Peut pas rejoindre deux cbt d'alli séparément a prirori
+[01:55:41] (Alliance) Portalisation : prior*
+[01:55:48] Terminez votre tour avec le bouton [Fin de tour].
+[01:56:00] Kinex a fait échouer le challenge Économe.
+[01:56:01] Kinex a fait échouer le challenge Deux pour le prix d'un.
+[01:56:10] (Alliance) Kamishogun : nn on peut pas
+[01:56:18] (Alliance) Atenki-For : Jsp mais ils ont interet d'être reveillé à 7 h du matin
+[01:56:22] (Alliance) Atenki-For : J'savais pas
+[01:56:52] Vous avez gagné 52 912 points d'expérience.
+[01:57:19] Échange effectué
+[01:57:21] Vous avez obtenu 10 '[Poudre de Perlinpainpain]'.
+[01:57:22] Vous avez obtenu 10 '[Feuille de Salace]'.
+[01:57:23] Vous avez obtenu 10 '[Poudre Temporelle]'.
+[01:57:23] Vous avez obtenu 10 '[Citron]'.
+[01:57:24] Vous avez obtenu 10 '[Dose de jus goûtu]'.
+[01:57:25] Vous avez obtenu 10 '[Dose de jus goûtu]'.
+[01:57:25] Vous avez obtenu 10 '[Dose de jus goûtu]'.
+[01:57:59] Échange effectué
+[01:58:25] Le prisme de la zone 'Lacs enchantés (Montagne des Koalaks)', en -18,-10, a été affaibli !
+[02:00:08] Le prisme de la zone 'Port de givre (Île de Frigost)' est attaqué en -84,-40 !
+[02:00:14] (Alliance) Atenki-For : Wesh
+[02:00:27] (Alliance) And-U-Try : Go def?
+[02:00:29] Arcalphine souhaite téléporter tout le groupe devant : Épreuve de Draegnerys.
+[02:00:41] (Alliance) Gozilla : en combat deso
+[02:00:43] (Alliance) Arcalphine : donjon
+[02:00:56] Des monstres attaquent Arcalphine (Épreuve de Draegnerys - Première salle).
+[02:01:47] Un membre de votre guilde, Greus-Fatou, est en ligne.
+[02:02:05] Un membre de votre guilde, Graou-Matou, est en ligne.
+[02:02:16] Des monstres attaquent Arcalphine (Épreuve de Draegnerys - Deuxième salle).
+[02:03:49] Des monstres attaquent Arcalphine (Épreuve de Draegnerys - Troisième salle).
+[02:04:12] Le prisme de la zone 'Port de givre (Île de Frigost)', en -84,-40, a été affaibli !
+[02:05:35] (Alliance) And-U-Try : quelqu'un a fait le dj haloween pour l'boubou?
+[02:05:44] (Alliance) And-U-Try : si il peut me link que j'vois si il est affreux ou si ça vaut la peine
+[02:05:45] (Alliance) Ygg-Drasil : quel boubou?
+[02:05:49] (Alliance) And-U-Try : ya un dj rusher
+[02:05:51] (Alliance) And-U-Try : il a pas commencé?
+[02:05:58] (Alliance) Ygg-Drasil : Aucune idée je go google x)
+[02:06:04] (Alliance) And-U-Try : Téma launcher
+[02:06:05] (Alliance) And-U-Try : +rapide
+[02:06:08] (Alliance) And-U-Try : première news
+[02:06:19] (Alliance) Ygg-Drasil : Du vendredi 30 octobre à partir de 16h au lundi 2 novembre à 10h,
+[02:06:25] (Alliance) And-U-Try : ha yes
+[02:06:33] (Alliance) And-U-Try : x)
+[02:07:05] (Alliance) Ygg-Drasil : le boubou a l'air potable mais sans plus
+[02:08:12] Le prisme de la zone 'Massif de Cania (Plaines de Cania)', en -11,-36, n'a pas été vaincu !
+[02:08:23] (Alliance) Gozilla : gg
+[02:08:30] Arcalphine a déverrouillé le succès [Dragoeufs Immatures].
+[02:08:36] Miowi-Magus a déverrouillé le succès [Dragoeufs Immatures].
+[02:08:36] Des monstres attaquent Arcalphine (Épreuve de Draegnerys - Quatrième salle).
+[02:08:42] (Alliance) Kamishogun : merci à la def
+[02:09:36] (Alliance) Atenki-For : Dr on en aura au moins sauvé un
+[02:11:01] Des monstres attaquent Arcalphine (Épreuve de Draegnerys - Cinquième salle).
+[02:12:48] (Alliance) Trainwrack : j'ai un trou
+[02:13:01] (Alliance) Trainwrack : dantinéa les coquillages si tu les kill pas ça tue l'allié associé au numéro du coquillage?
+[02:13:04] (Alliance) Ygg-Drasil : j'pose ça la au cas ou , j'ai ça qui traine a vendre : [Willy le Relou] [Blérodoudou] [Chacha Angora] [Koalak Sanguin] valeur hdv entre 5M et 5.5M , j'en demande 3M si ça interesse quelqu'un , par contre je garantie pas que sa se revende "vite" x)
+[02:13:07] (Alliance) Trainwrack : ou juste ça retire les pm
+[02:13:15] (Alliance) Ygg-Drasil : oui train
+[02:13:19] (Alliance) Trainwrack : ca kill?
+[02:13:20] Miowi-Magus a déverrouillé le succès [Draegnerys (Duo)].
+[02:13:20] Miowi-Magus a déverrouillé le succès [Draegnerys (Focus)].
+[02:13:20] Miowi-Magus a déverrouillé le succès [Épreuve de Draegnerys].
+[02:13:20] Arcalphine a déverrouillé le succès [Draegnerys (Duo)].
+[02:13:20] Arcalphine a déverrouillé le succès [Draegnerys (Focus)].
+[02:13:20] Arcalphine a déverrouillé le succès [Épreuve de Draegnerys].
+[02:13:20] (Alliance) Ygg-Drasil : ça tue je crois
+[02:13:24] (Alliance) Trainwrack : mmh
+[02:13:28] (Alliance) Rs-Ocean : ça os toute la team je crois
+[02:13:30] (Alliance) Ygg-Drasil : au bout du t4 ou 5
+[02:13:35] (Alliance) Trainwrack : ha oé carrément ptdr
+[02:13:39] Le prisme de la zone 'Sufokia (Baie de Sufokia)' est attaqué en 23,24 !
+[02:13:42] (Alliance) Trainwrack : j'go taper solar en songes alors plus simple
+[02:14:13] (Alliance) Kamishogun : notre copain le cra
+[02:14:29] (Alliance) Ygg-Drasil : t'as une redicton de do /2 si tu tue pas les kokillage je crois les 5 premier tours et quand sa explose t4 ou 5 sa tue tes perso du meme numero (a verifier) mais en gros c'un truc dans l'genre
+[02:14:31] (Alliance) Kamishogun : 1-2 de +
+[02:14:47] (Alliance) Trainwrice : j'viens joué le panda tank
+[02:14:51] (Alliance) Kamishogun : merci. 1 pti dernier ?
+[02:14:53] (Alliance) Trainwrice : aka le relou
+[02:14:55] (Alliance) Trainwrice : tkt x)
+[02:14:57] (Alliance) Trainwrice : passe large la
+[02:15:11] (Alliance) Kamishogun : ça full retrait pa en face
+[02:15:35] (Alliance) Kamishogun : merci
+[02:16:06] Vous avez perdu 100 kamas.
+[02:16:40] Vous êtes arrivé à destination !
+[02:16:50] Kinex souhaite téléporter tout le groupe devant : Clos des Blops.
+[02:17:15] Arcalphine a déverrouillé le succès [Landes de Cania].
+[02:17:15] Arcalphine a déverrouillé le succès [Des cailloux partout].
+[02:17:33] Vous avez désappris une attitude : Dofus Turquoise
+[02:17:33] Vous avez désappris une attitude : Dofus Pourpre
+[02:17:33] Brighellanière équipé.
+[02:17:33] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[02:17:34] Ensemble Drop light activé.
+[02:17:34] Objet Chanceux mineur introuvable ou critères invalides.
+[02:19:42] 4 secondes ajoutées au prochain tour de jeu.
+[02:21:47] Terminez votre tour avec le bouton [Fin de tour].
+[02:22:03] Kinex a fait échouer le challenge Deux pour le prix d'un.
+[02:22:43] Vous avez gagné 337 937 points d'expérience.
+[02:23:22] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[02:23:25] Échange annulé
+[02:23:26] Vous avez désappris une attitude : Dofus Pourpre
+[02:23:26] Ensemble POD plus plus activé.
+[02:23:43] Échange effectué
+[02:24:06] Échange effectué
+[02:24:41] Échange effectué

@@ -1,0 +1,301 @@
+[09:52:01] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[09:52:01] Précédente connexion sur ce compte : 13/08/2020 à 22:42
+[09:52:01] Vous avez récupéré 450 points d'énergie.
+[09:52:01] Annonce de guilde : L'île de Vulkania est ouverte jusqu'au 1 septembre !! La quête "Les bons Comptes font les bons Amis." Rapporte 200 000k/ semaine ~~~ Rejoignez donc les Discords -> infos dans le buletin guilde
+[09:52:01] Vous avez 1 contact(s) réciproque(s) connecté(s).
+[09:52:04] Le point de repère [-42,-17] a été ajouté sur la carte Labyrinthe du Minotoror.
+[09:57:05] de Masque de Koutoulou : L'intendant Danathor sent le roquefort. C'est sûrement pour ça qu'il n'a pas d'ami.
+[10:03:05] de Cape au Logis : Tu sais ce qu'il y connaît aux femmes Allister ? Rien.
+[10:08:01] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[10:09:03] tonton-du-bahu (Heiiden-I) est en ligne.
+[10:14:24] Vous avez obtenu 50 '[Maïs]'.
+[10:14:28] Vous avez obtenu 70 '[Épices]'.
+[10:14:31] Vous avez obtenu 70 '[Feuille de Salace]'.
+[10:14:35] Vous avez obtenu 60 '[Dose de jus goûtu]'.
+[10:16:08] Vous avez perdu 20 kamas.
+[10:16:25] 1 x [Poudre explosive de Gourlo] (8 500 kamas)
+[10:16:26] 1 x [Poudre explosive de Gourlo] (8 500 kamas)
+[10:16:28] 1 x [Poudre explosive de Gourlo] (8 500 kamas)
+[10:16:28] 1 x [Poudre explosive de Gourlo] (8 500 kamas)
+[10:16:29] 1 x [Poudre explosive de Gourlo] (8 500 kamas)
+[10:16:30] 1 x [Poudre explosive de Gourlo] (8 999 kamas)
+[10:16:30] 1 x [Poudre explosive de Gourlo] (8 999 kamas)
+[10:16:31] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:16:32] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:16:32] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:16:32] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:16:33] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:16:33] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:16:34] 1 x [Poudre explosive de Gourlo] (9 990 kamas)
+[10:16:35] 1 x [Poudre explosive de Gourlo] (9 990 kamas)
+[10:16:36] 1 x [Poudre explosive de Gourlo] (9 990 kamas)
+[10:16:37] 1 x [Poudre explosive de Gourlo] (9 990 kamas)
+[10:16:39] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:39] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:40] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:40] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:40] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:40] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:41] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:41] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:41] 1 x [Poudre explosive de Gourlo] (9 994 kamas)
+[10:16:42] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:43] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:44] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:44] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:44] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:44] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:45] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:45] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:45] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:46] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[10:16:47] 1 x [Poudre explosive de Gourlo] (9 996 kamas)
+[10:16:53] 1 x [Poudre explosive de Gourlo] (9 996 kamas)
+[10:16:54] 1 x [Poudre explosive de Gourlo] (9 996 kamas)
+[10:16:55] 1 x [Poudre explosive de Gourlo] (9 996 kamas)
+[10:16:56] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:57] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:57] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:57] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:58] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:58] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:58] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:59] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:16:59] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[10:17:00] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[10:17:01] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[10:17:01] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[10:17:01] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[10:17:01] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[10:17:02] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[10:17:03] 1 x [Poudre explosive de Gourlo] (9 999 kamas)
+[10:17:04] 1 x [Poudre explosive de Gourlo] (9 999 kamas)
+[10:17:04] 1 x [Poudre explosive de Gourlo] (9 999 kamas)
+[10:17:05] 1 x [Poudre explosive de Gourlo] (9 999 kamas)
+[10:17:06] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[10:17:06] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[10:17:19] Vous avez perdu 950 kamas.
+[10:17:25] Vous avez perdu 20 kamas.
+[10:18:11] à Oo-plionor : tu m'envoies sur didi ce que tu veux monter ?
+[10:18:15] Échange effectué
+[10:18:47] Vous avez perdu 20 kamas.
+[10:25:56] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[10:25:56] Précédente connexion sur ce compte : 14/08/2020 à 09:51
+[10:25:56] Annonce de guilde : Discord: [https://discord.gg/bSySprn]
+[10:25:56] Vous avez 4 contact(s) réciproque(s) connecté(s).
+[10:26:22] Vous avez perdu 420 kamas.
+[10:26:42] (Guilde) Fekin : je vais tenter de faire des runes moi meme pour que ce soit moins chere :)
+[10:45:41] (Guilde) Marthi-MakFlaye : t'es ou Plio ?
+[10:47:04] Vous avez perdu 20 kamas.
+[10:47:47] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[10:47:47] Précédente connexion sur ce compte : 14/08/2020 à 10:25
+[10:47:47] Annonce de guilde : L'île de Vulkania est ouverte jusqu'au 1 septembre !! La quête "Les bons Comptes font les bons Amis." Rapporte 200 000k/ semaine ~~~ Rejoignez donc les Discords -> infos dans le buletin guilde
+[10:47:47] Vous avez 4 contact(s) réciproque(s) connecté(s).
+[10:47:47] Le point de repère [-42,-17] a été ajouté sur la carte Labyrinthe du Minotoror.
+[10:51:47] de Cape au Logis : Certains aventuriers racontent que parler à proximité des zones de pêche fait fuir les poissons...
+[10:54:47] de Cape au Logis : La fête du slip tu connais ? C'est l'occasion d'en changer. Mais tu as le droit de le faire plus souvent.
+[10:56:50] Vous avez perdu 20 kamas.
+[10:57:34] 1 x [Sac du Koulosse] (9 500 kamas)
+[10:57:40] Vous avez perdu 20 kamas.
+[10:58:30] Échange effectué
+[10:58:38] Grougalorafaust (Pandubin) est en ligne.
+[11:01:37] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[11:05:49] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[11:08:48] de Cape au Logis : Un jour j'irai à Bonta avec toi, toutes les nuits déconner.
+[11:16:48] de Masque de Koutoulou : Je crois qu'on t'appelle pour manger.
+[11:18:30] Échange effectué
+[11:19:48] de Cape au Logis : Tu sais ce qu'il y connaît aux femmes Allister ? Rien.
+[11:27:16] Vous avez perdu 20 kamas.
+[11:28:13] Vous avez payé 639 kamas pour accéder à ce coffre.
+[11:32:34] Transfert incomplet : l'inventaire de destination ne peut pas accueillir tous ces objets.
+[11:40:48] de Masque de Koutoulou : Il paraît que les invocations volent les ressources gagnées en fin de combat. C'est faux, en général c'est moi qui les vole.
+[11:41:21] Vous avez perdu 20 kamas.
+[11:43:44] 100 x [Rose des sables] (11 475 kamas)
+[11:43:51] 1 x [Étoffe de Choudini] (4 193 kamas)
+[11:43:58] Vous avez perdu 20 kamas.
+[11:50:09] Échange effectué
+[11:50:18] Vous avez créé 1 × [Baguette Velue] !
+[11:50:19] Votre métier [Sculpteur] passe niveau 98.,Vous obtenez 1 pods supplémentaires.
+[11:50:26] Vous avez créé 1 × [Arc du Roi des Borins] !
+[11:50:42] Vous avez créé 9 × [Bâton du Wobot] !
+[11:50:42] Votre métier [Sculpteur] passe niveau 99.,Vous obtenez 1 pods supplémentaires.
+[11:50:47] Vous avez créé 2 × [Le Tison Fûté] !
+[11:52:22] (Groupe) Pandubin : [Branche de l'Abrakleur sombre]
+[11:52:45] Vous avez perdu 20 kamas.
+[11:53:10] Vous avez payé 641 kamas pour accéder à ce coffre.
+[11:53:37] frxzombie (Zombiere) est en ligne.
+[11:57:16] Vous avez perdu 20 kamas.
+[11:58:06] 1 x [Bractée de Chiendent] (687 kamas)
+[11:58:20] Vous avez créé 1 × [Branche de l'Abrakleur sombre] !
+[11:58:20] Votre métier [Sculpteur] passe niveau 100.,Vous obtenez 1 pods supplémentaires.
+[12:02:30] Un membre de votre guilde, Oracledb, est en ligne.
+[12:02:33] Range-ta-chambre (Mariadb) est en ligne.
+[12:02:56] (Guilde) Oo-plionor : je go pl quelqu'un vavax ;)
+[12:03:49] de Cape au Logis : Quand est-ce qu'on mange ?
+[12:04:38] (Guilde) Vavax-Xea : Re tkt pas de soucis
+[12:05:23] (Guilde) Vavax-Xea : Une personne motivée pour sphincter cell hardi score?
+[12:06:07] (Guilde) Oo-plionor : après mon pl si tu veux
+[12:06:58] Vous avez perdu 20 kamas.
+[12:07:15] Vous êtes arrivé à destination !
+[12:07:16] (Guilde) Vavax-Xea : Je tente seul et sinon j'te dirais ;)
+[12:07:37] (Guilde) Oo-plionor : dac
+[12:08:00] Le second joueur impliqué dans l'échange ne peut pas porter autant d'objets.
+[12:08:35] Échange effectué
+[12:13:05] The-Real-Scofield : qq eut 9m5 de runes pr 5M? y a de tt surtout des crit
+[12:16:15] Vous avez perdu 20 kamas.
+[12:16:39] frxzombie (Zombiff) est en ligne.
+[12:29:12] Vous avez perdu 20 kamas.
+[12:29:26] (Guilde) Oo-plionor : tu t'en sors vavax ?
+[12:29:39] (Guilde) Vavax-Xea : Bah il reste que le boss et j'ai 2800 hp
+[12:29:44] (Guilde) Vavax-Xea : Je viens de kill les autres
+[12:29:51] Échange effectué
+[12:29:55] (Guilde) Oo-plionor : aie^^
+[12:30:27] (Guilde) Vavax-Xea : ça va passer j'pense
+[12:30:44] (Guilde) Vavax-Xea : Je sais comment le délock solo sans mobs, voilà il vient de perdre 400% ré terre
+[12:30:59] (Guilde) Oo-plionor : comment tu fais ? :o
+[12:31:18] (Guilde) Vavax-Xea : Tu tues toutes les invocs alliées pour commencer
+[12:31:44] (Guilde) Vavax-Xea : Voilà 1500 hp encore
+[12:31:46] (Guilde) Vavax-Xea : En gros
+[12:31:57] (Guilde) Vavax-Xea : Si il a personne à aller taper à part toi
+[12:32:02] (Guilde) Vavax-Xea : Il te tape au cac et passe son tour
+[12:32:14] (Guilde) Vavax-Xea : Et il utilise toutes ses tps autour de toi
+[12:32:25] (Guilde) Vavax-Xea : Le but c'est de te placer à 2 PO des tortues qui t'intéresses
+[12:32:45] (Guilde) Vavax-Xea : Et de les placer de sorte à ce qu'il soit à côté après ses tp en sens horaire
+[12:32:56] (Guilde) Oo-plionor : dac
+[12:33:00] (Guilde) Vavax-Xea : En bref si t'as pas d'obstacles à côté c'est sur la case à te droite
+[12:33:21] de Masque de Koutoulou : C'est le début de la richesse, continue comme ça.
+[12:33:23] (Guilde) Vavax-Xea : Là j'me suis planté il a juste perdu 200% ré terre donc il était à 0% m'a fallu 2 tours mais voilà)
+[12:33:26] (Guilde) Vavax-Xea : voilà*
+[12:33:44] (Guilde) Vavax-Xea : J'ai eu la flemme de faire hardi et score avec l'idole butor il me faisait mal au cac
+[12:34:13] (Guilde) Oo-plionor : mdrrr
+[12:34:55] (Guilde) Vavax-Xea : Niquel la quête tour du monde suivant c'est kimbo j'en ai besoin aussi pour tutu :S
+[12:35:09] (Guilde) Vavax-Xea : Je re j'dois aller craft sur sram
+[12:35:11] (Guilde) Oo-plionor : coup de chance
+[12:35:12] à Oo-plionor : [Croture]
+[12:35:27] (Guilde) Vavax-Xea : Coup de maître* Je fais tout de manière organisée monsieur! :D
+[12:37:20] à Oo-plionor : [Croture]
+[12:38:50] de Cape au Logis : J'ai faim, donne-moi à manger ou je dévore les objets de ton inventaire.
+[12:38:59] (Groupe) Kinex : [Croture]
+[12:40:42] Un membre de votre guilde, Vavax-Xea, est en ligne.
+[12:40:50] de Masque de Koutoulou : Un jour j'ai rencontré un animal étrange appelé paresseux. Il m'a tout de suite fait penser à un Sadida.
+[12:44:03] (Guilde) Vavax-Xea : Re!
+[12:44:09] (Guilde) Oo-plionor : re
+[12:44:11] (Guilde) Vavax-Xea : Kimbo avec le bro Vaalouu ça intéresse quelqu'un?
+[12:44:50] (Guilde) Oo-plionor : je refais un pl de dj foux et après ouais
+[12:45:09] (Guilde) Vavax-Xea : Si t'es occupé je trace x'D
+[12:45:55] (Guilde) Oo-plionor : comme tu le sens^^
+[12:46:28] (Guilde) Vavax-Xea : En vrai je speedrun le jeu x'D
+[12:46:39] (Guilde) Oo-plionor : j'ai remarqué
+[12:48:50] de Cape au Logis : L'intendant Danathor sent le roquefort. C'est sûrement pour ça qu'il n'a pas d'ami.
+[12:55:41] Vavax-Xea a déverrouillé le succès [Arbre Hakam].
+[12:57:50] de Cape au Logis : Donne-moi à manger rapidement, sinon je dévore tes kamas.
+[13:03:54] Un membre de votre guilde, Skull-Alpha, est en ligne.
+[13:05:50] de Cape au Logis : C'est pas l'heure de faire tes devoirs par hasard ?
+[13:11:03] frxzombie (Zombiere) est en ligne.
+[13:14:53] Un membre de votre guilde, Vavax-Xea, est en ligne.
+[13:16:50] de Masque de Koutoulou : Je crois encore au Minotoboule de Nowel et toi ?
+[13:24:37] Kepler-drink a déverrouillé le succès [Silence on coule].
+[13:24:51] de Masque de Koutoulou : Je crois qu'on t'appelle pour manger.
+[13:33:51] de Masque de Koutoulou : L'intendant Danathor sent le roquefort. C'est sûrement pour ça qu'il n'a pas d'ami.
+[13:45:51] de Cape au Logis : C'est pas l'heure de faire tes devoirs par hasard ?
+[13:48:03] Un membre de votre guilde, Suaht, est en ligne.
+[13:48:56] à Roxeur-plio : désolé de pas avoir pu faire mieux pour le moment :/
+[13:49:02] Échange effectué
+[13:49:10] de Roxeur-plio : tkt pas mdrrrrr, je suis pas pressé
+[13:49:40] (Guilde) Suaht : salut^
+[13:49:45] à Roxeur-plio : aller je continue mon rangement
+[13:59:51] de Cape au Logis : Je crois qu'on t'appelle pour manger.
+[14:04:24] Un membre de votre guilde, Shaktyy, est en ligne.
+[14:05:39] Playyz : .ping
+[14:05:43] Playyz : ping
+[14:33:25] tonton-du-bahu (Heiiden-I) est en ligne.
+[14:33:57] de Idaax : yo
+[14:34:51] de Masque de Koutoulou : Quand est-ce qu'on mange ?
+[14:41:51] de Masque de Koutoulou : J'ai faim, donne-moi à manger ou je dévore les objets de ton inventaire.
+[14:46:45] Un membre de votre guilde, Interiall, est en ligne.
+[14:48:52] de Cape au Logis : J'ai faim !
+[14:50:41] If-Iop : Bon, je vais chercher quelqu'un de compétent pour faire ton objet.
+[14:51:43] Un membre de votre guilde, Vavax-Xea, est en ligne.
+[14:52:05] (Guilde) Vavax-Xea : Re
+[14:52:16] (Guilde) Vavax-Xea : Tu veux songes Oracle?
+[14:52:32] (Guilde) Interiall : saloute :)
+[14:56:49] tonton-du-bahu (Vitamines-A) est en ligne.
+[14:59:39] Banque : + 189 982 Kamas (vente : 10 [Rutile]).
+[15:06:52] de Cape au Logis : La fête du slip tu connais ? C'est l'occasion d'en changer. Mais tu as le droit de le faire plus souvent.
+[15:10:12] Kepler-drink a déverrouillé le succès [Tréfonds des Trithons].
+[15:10:13] Un membre de votre guilde, Oracledb, est en ligne.
+[15:10:23] Range-ta-chambre (Mariadb) est en ligne.
+[15:11:05] Vavax-Xea a déverrouillé le succès [Kimbo (Score 120)].
+[15:11:05] Vavax-Xea a déverrouillé le succès [Kimbo (Score 200)].
+[15:11:05] Vavax-Xea a déverrouillé le succès [Kimbo (Premier)].
+[15:11:05] Vavax-Xea a déverrouillé le succès [Canopée du Kimbo].
+[15:14:52] de Cape au Logis : Tu connais la différence entre un Sadida et Choubaka ?
+[15:17:37] Un membre de votre guilde, Angel-Hique, est en ligne.
+[15:17:38] Un membre de votre guilde, Angel-Atinee, est en ligne.
+[15:17:39] Un membre de votre guilde, Angel-Inajolie, est en ligne.
+[15:17:39] Un membre de votre guilde, Angel-Avieillit, est en ligne.
+[15:17:40] Un membre de votre guilde, Angel-Aba, est en ligne.
+[15:40:52] de Masque de Koutoulou : L'intendant Danathor sent le roquefort. C'est sûrement pour ça qu'il n'a pas d'ami.
+[15:49:52] de Cape au Logis : C'est pas l'heure de faire tes devoirs par hasard ?
+[15:55:43] Banque : + 189 982 Kamas (vente : 10 [Rutile]).
+[16:01:38] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[16:02:55] de Cape au Logis : Arrête, tu te fais du mal pour rien.
+[16:03:45] de Cape au Logis : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:05:25] de Cape au Logis : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:05:35] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[16:05:58] Un membre de votre guilde, Oo-plionor, est en ligne.
+[16:06:41] de Masque de Koutoulou : Comme c'est beau... Ca a l'air très appétissant.
+[16:07:08] (Guilde) Oo-plionor : re
+[16:07:12] (Guilde) Kinex : re
+[16:07:17] (Guilde) Vavax-Xea : Re
+[16:07:19] (Guilde) Kinex : je m'accorde une pause fm
+[16:07:31] de Cape au Logis : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:08:10] de Cape au Logis : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:08:47] de Cape au Logis : Arrête, tu te fais du mal pour rien.
+[16:10:09] de Masque de Koutoulou : C'est le début de la richesse, continue comme ça.
+[16:10:45] de Cape au Logis : Comme c'est beau... Ca a l'air très appétissant.
+[16:11:00] (Guilde) Oo-plionor : mdrrr
+[16:11:26] Vous avez créé 30 × [Rune Pa Prospe] !
+[16:11:35] à Oo-plionor : [Grésilanneau]
+[16:12:29] de Cape au Logis : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:12:45] Un membre de votre guilde, Skull-Alpha, est en ligne.
+[16:13:01] à Oo-plionor : [Bracelet du Piloztère]
+[16:13:16] de Oo-plionor : c'est ce que tu as fm ?
+[16:13:21] à Oo-plionor : oui
+[16:13:36] à Oo-plionor : pour mon cra
+[16:13:46] à Oo-plionor : [Grésilanneau] [Amulette du Strigide] [Bracelet du Piloztère]
+[16:14:02] à Oo-plionor : [Bottes Honyme]
+[16:14:12] de Cape au Logis : Heureusement que ce n'est pas toi qui m'as fabriqué.
+[16:14:23] à Oo-plionor : bon ...
+[16:14:30] à Oo-plionor : Bottes Honyme-1 Portée, +reliquat
+[16:22:53] de Cape au Logis : Un jour j'irai à Bonta avec toi, toutes les nuits déconner.
+[16:25:24] (Guilde) Oracledb : fm mes items
+[16:26:04] (Guilde) Kinex : x)
+[16:27:39] de Cape au Logis : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:28:37] de Masque de Koutoulou : C'est le début de la richesse, continue comme ça.
+[16:29:37] de Cape au Logis : Arrête, tu te fais du mal pour rien.
+[16:30:38] de Masque de Koutoulou : Arrête, tu te fais du mal pour rien.
+[16:31:20] Akame-Ga-Killx : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:32:42] de Masque de Koutoulou : C'est le début de la richesse, continue comme ça.
+[16:32:56] à Oracledb : 50 Vitalité, -reliquat-383 Vitalité, -2 Force, -1% Critique, 1 PM, -reliquat
+[16:33:19] de Oracledb : Succes neutre ?
+[16:33:27] à Oracledb : yes
+[16:33:28] Un membre de votre guilde, Consequence-haze, est en ligne.
+[16:33:38] de Oracledb : tu fm quoi
+[16:33:54] à Oracledb : -1 Dommages Terre, -reliquat / -2 Dommages Terre / -1 PA, +reliquat
+[16:34:02] à Oracledb : 3 ruen crit ....
+[16:34:09] à Oracledb : [Bottes Honyme]
+[16:34:24] de Oracledb : propre la vita
+[16:34:30] à Oracledb : x)
+[16:35:45] de Cape au Logis : Wouah, tu peux en faire un pour moi, dis ? S'il-te-plaît.
+[16:36:11] à Oracledb : [Bottes Honyme] 55 de puit
+[16:36:28] de Oracledb : Nice
+[16:36:36] de Oracledb : Tu peux choisir quoi mettre dessus :)
+[16:36:46] à Oracledb : je tente quoi ? 3 % do di ?
+[16:36:52] de Oracledb : stuv oue
+[16:37:05] à Oracledb : ou tu vois mieux ?
+[16:38:23] de Oracledb : Pour le rox c'est le mieu
+[16:40:49] de Obastin : salut tu veux pas vendre ta fiole metavir ? j'en prend a 2m8/u
+[16:41:06] à Obastin : lance echange ;)
+[16:44:38] 10 x [Rune Do Per Di] (189 732 kamas)
+[16:45:53] de Masque de Koutoulou : N'aie pas peur de le reconnaître, je suis l'amour de ta vie.

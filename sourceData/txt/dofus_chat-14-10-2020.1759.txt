@@ -1,0 +1,883 @@
+[10:15:33] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[10:15:34] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[10:15:34] Précédente connexion sur ce compte : 14/10/2020 à 03:05
+[10:15:34] Vous avez récupéré 400 points d'énergie.
+[10:15:34] Annonce de guilde : ALMANAX : 17 Octobre: 15% d'economie sur les crafts chasseurs/bucherons dans la zone des Pins Perdus ~~~ 3novembre: 15% d'economie sur les crafts dans la zone du Village d'Amakna ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[10:15:34] Annonce d'alliance : DISCORD D'ALLI [https://discord.gg/7Gq4QrC] Point de rencontre Zaap Pandala [20,-29] !
+[10:15:51] Range-ta-chambre(Mariadb) est en ligne.
+[10:16:32] Vous avez perdu 130 kamas.
+[10:16:33] Un membre de votre guilde, Sawalou, est en ligne.
+[10:16:41] à Mariadb : tiens triens tiens
+[10:16:50] de Mariadb : kikou
+[10:16:55] de Mariadb : :3
+[10:16:58] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:00] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:00] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:01] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:02] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:02] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:03] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:03] 1 x [Poudre explosive de Gourlo] (8 988 kamas)
+[10:17:04] 1 x [Poudre explosive de Gourlo] (8 989 kamas)
+[10:17:04] 1 x [Poudre explosive de Gourlo] (8 989 kamas)
+[10:17:05] 1 x [Poudre explosive de Gourlo] (8 989 kamas)
+[10:17:05] 1 x [Poudre explosive de Gourlo] (8 989 kamas)
+[10:17:05] 1 x [Poudre explosive de Gourlo] (8 989 kamas)
+[10:17:05] 1 x [Poudre explosive de Gourlo] (8 989 kamas)
+[10:17:06] 1 x [Poudre explosive de Gourlo] (8 990 kamas)
+[10:17:07] 1 x [Poudre explosive de Gourlo] (8 990 kamas)
+[10:17:08] 1 x [Poudre explosive de Gourlo] (8 990 kamas)
+[10:17:09] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:17:09] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:17:10] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:17:10] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:17:11] 1 x [Poudre explosive de Gourlo] (9 000 kamas)
+[10:17:13] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[10:17:14] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[10:17:15] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[10:17:16] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[10:18:14] (Alliance) Pistaachee : Zatoïshwan [18,-36]
+[10:18:34] El-Fatou a déverrouillé le succès [Fabrique de foux d'artifice].
+[10:18:34] El-Fatou a déverrouillé le succès [Founoroshi (Pusillanime)].
+[10:18:34] El-Fatou a déverrouillé le succès [Founoroshi (Collant)].
+[10:18:34] El-Fatou a déverrouillé le succès [Founoroshi (Score 105)].
+[10:18:34] El-Fatou a déverrouillé le succès [Founoroshi (Score 200)].
+[10:18:34] Fatou-Matou a déverrouillé le succès [Founoroshi (Pusillanime)].
+[10:18:34] Fatou-Matou a déverrouillé le succès [Founoroshi (Collant)].
+[10:18:34] Fatou-Matou a déverrouillé le succès [Founoroshi (Score 105)].
+[10:18:34] Fatou-Matou a déverrouillé le succès [Founoroshi (Score 200)].
+[10:18:34] Leboss-Enfete a déverrouillé le succès [Founoroshi (Pusillanime)].
+[10:18:34] Leboss-Enfete a déverrouillé le succès [Founoroshi (Collant)].
+[10:18:34] Leboss-Enfete a déverrouillé le succès [Founoroshi (Score 105)].
+[10:18:34] Leboss-Enfete a déverrouillé le succès [Founoroshi (Score 200)].
+[10:18:34] Fatou-Matou a déverrouillé le succès [Plus on est de foux, plus on rit].
+[10:18:34] Leboss-Enfete a déverrouillé le succès [Plus on est de foux, plus on rit].
+[10:18:34] Leboss-Enfete a déverrouillé le succès [Le prestige].
+[10:21:55] Cette action est impossible car vous êtes occupé.
+[10:22:02] Vous avez perdu 210 kamas.
+[10:23:00] Grougalorafaust(Chachaluna) est en ligne.
+[10:23:23] à Mariadb : ptin debout depuis 9h30 ...
+[10:23:37] à Mariadb : 0 motiv et je me suis peter la gueule du lit -_-
+[10:23:45] de Mariadb : mdr
+[10:24:51] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[10:25:04] 12 secondes ajoutées au prochain tour de jeu.
+[10:25:24] Vous avez gagné 489 points d'expérience.
+[10:25:26] Action impossible
+[10:25:29] Action impossible
+[10:25:30] Action impossible
+[10:25:34] Action impossible
+[10:25:35] Action impossible
+[10:25:36] Action impossible
+[10:27:14] Un membre de votre guilde, Athena-skull, est en ligne.
+[10:27:19] Un membre de votre guilde, Athena-heaal, est en ligne.
+[10:27:24] Un membre de votre guilde, Athen-roxx, est en ligne.
+[10:27:29] Un membre de votre guilde, Athen-sang, est en ligne.
+[10:27:37] Un membre de votre guilde, Athena-cheat, est en ligne.
+[10:27:37] Un membre de votre guilde, Athen-dwop, est en ligne.
+[10:27:41] Un membre de votre guilde, Athena-palm, est en ligne.
+[10:27:47] Un membre de votre guilde, Athen-pilou, est en ligne.
+[10:28:09] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[10:28:16] Vous avez désappris une attitude : Dofus Turquoise
+[10:28:16] Vous avez désappris une attitude : Dofus Pourpre
+[10:28:16] Ensemble POD plus plus activé.
+[10:35:51] Cette action est impossible car vous êtes occupé.
+[10:47:03] Vous êtes désormais référencé dans toutes les listes d'artisans
+[10:47:04] Vous n'êtes plus référencé en tant que Joaillomage dans la liste des artisans.
+[10:47:06] Vous n'êtes plus référencé en tant que Cordomage dans la liste des artisans.
+[10:47:07] Vous n'êtes plus référencé en tant que Costumage dans la liste des artisans.
+[10:47:08] Vous n'êtes plus référencé en tant que Forgemage dans la liste des artisans.
+[10:47:45] Vous avez créé 1 × [Alliance des Forestiers] pour Mariadb !
+[10:47:56] à Mariadb : tu vas faire quoi avec ça ?
+[10:48:05] de Mariadb : le fm et le vendre x)
+[10:48:12] de Mariadb : C'est le meilleur anneau feu de ce lvl
+[10:48:18] à Mariadb : ( je viens de penser que ça pourrais rapporter un peux d'activer mes metier ....
+[10:48:39] de Mariadb : ptdr, regarde le ejt de craft [Alliance des Forestiers]
+[10:48:59] à Mariadb : j'ai vu ^^"
+[10:49:08] à Mariadb : mais concretement c'est pour qui ?
+[10:49:29] de Mariadb : un perso feu lvl 100-110
+[10:49:45] à Mariadb : que tu compte faire ou c'est juste rentable à vendre ?
+[10:50:06] de Mariadb : Jvais le fm et le vendre jte dis ^^
+[10:51:31] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[10:51:40] à Mariadb : je le fais pas assez :/
+[10:51:45] de Mariadb : En l'etat jpeux le vendre 450.000
+[10:51:56] de Mariadb : Jvais peut etre faire ca en fait
+[10:52:15] à Mariadb : tu rachette le sceau
+[10:52:24] à Mariadb : recraft et fm
+[10:52:35] de Mariadb : bof
+[10:52:51] Vous avez perdu 510 kamas.
+[10:55:02] (Alliance) Pistaachee : Jérart Dupaindur [25,-22]
+[10:55:27] 15 secondes ajoutées au prochain tour de jeu.
+[10:55:49] 11 secondes ajoutées au prochain tour de jeu.
+[10:57:13] de Mariadb : Tu peux me recraft des trucs ? x)
+[10:57:44] Terminez votre tour avec le bouton [Fin de tour].
+[10:57:45] à Mariadb : x) genbre beaucoup ?
+[10:57:50] Vous avez gagné 541 points d'expérience.
+[10:58:10] à Mariadb : je suis dans la foret tu rassemble tout et on se rejoins à bonta ?
+[10:58:12] de Mariadb : 2-3 items
+[10:58:18] de Mariadb : j'ai deja
+[10:58:21] de Mariadb : Viens tailleurs
+[10:58:40] Action impossible
+[10:58:44] Vous avez perdu 190 kamas.
+[10:58:52] Vous avez perdu 20 kamas.
+[10:59:11] Vous avez créé 1 × [Casque du Berserkoffre] pour Mariadb !
+[10:59:24] de Mariadb : Et bijou stp
+[10:59:32] (Groupe) Kinex : then ?
+[10:59:37] (Groupe) Mariadb : bijou
+[10:59:39] Vous avez perdu 20 kamas.
+[11:00:20] (Groupe) Mariadb : J'avais des trucs cordo mais je suis level 170
+[11:00:26] (Groupe) Mariadb : avec toutes les ceintures
+[11:00:39] (Groupe) Kinex : ça up jusque là ?
+[11:00:44] Vous avez créé 2 × [Amulette de Moon] pour Mariadb !
+[11:00:49] (Groupe) Mariadb : Bah jcrois
+[11:00:54] (Groupe) Mariadb : J'ai rien fais de plus
+[11:01:00] (Groupe) Mariadb : Merci
+[11:01:00] (Groupe) Kinex : tu prepare un stuff feu 105 ^^"
+[11:01:09] (Groupe) Mariadb : [Amulette de Moon] [Amulette de Moon] [Casque du Berserkoffre] [Pagne du Muloubar] [Bottes du Berserkoffre] [Pagne du Muloubar] [Alliance des Forestiers]
+[11:01:10] (Guilde) Kinex : je t'en prie
+[11:01:14] (Groupe) Kinex : je t'en prie
+[11:01:32] (Groupe) Mariadb : Non non je craft avec les ressources en bank
+[11:01:39] (Groupe) Mariadb : il se trouve que les stuffs sont bien
+[11:01:43] (Groupe) Mariadb : Y'a moyen que ca fasse qq kamas
+[11:01:51] (Groupe) Kinex : x)
+[11:01:56] (Groupe) Kinex : faudra que je vois ça
+[11:02:04] Vous avez perdu 220 kamas.
+[11:02:10] (Groupe) Mariadb : [Pagne du Muloubar]
+[11:02:12] (Groupe) Mariadb : Regarde le craft
+[11:02:14] (Groupe) Mariadb : et le prix moy
+[11:02:33] (Groupe) Kinex : je t'avoue qu'en essayant de bosser en paralèle, le farm est plus indiqué ^^"
+[11:03:45] (Groupe) Kinex : 70K =&gt; 310k ?
+[11:04:11] (Groupe) Kinex : mais il dois y avoir de la fm de taré dessus, non ?.
+[11:04:21] (Groupe) Mariadb : bof
+[11:05:59] Grougalora-Luna(Miowi-Magus) est en ligne.
+[11:06:04] Vous avez gagné 452 points d'expérience.
+[11:09:00] de Ginawizard : yo, dispo craft ceinture 200 bonta ?
+[11:13:59] de Mariadb : [Amulette de Moon]
+[11:14:07] à Ginawizard : HEllo
+[11:14:11] de Mariadb : En 2min
+[11:14:20] à Ginawizard : je viens de voir ton message -_- toujours besoin ?
+[11:14:46] à Mariadb : puit PA ?
+[11:14:58] de Mariadb : Ouais
+[11:15:02] de Mariadb : Ca vaut 1m mdr
+[11:15:07] de Mariadb : Plutot rentable
+[11:15:11] de Mariadb : FM a 50.000k
+[11:15:13] de Ginawizard : nn merci c'est bon
+[11:15:15] à Mariadb : KOUA
+[11:16:01] à Mariadb : mais comment tu sais tout les items utiliser à tel ou tel level ?
+[11:16:01] de Mariadb : Exactement le même jet que moi a 1m en hdv
+[11:16:27] de Mariadb : Mais qu'ai-je fait pour être si erudiiiiiiiiiiiiiiiiit
+[11:16:34] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[11:16:44] à Mariadb : puis surtout, comment savoir si un item 150 est toujours joué
+[11:17:32] de Mariadb : tjr joue c'est chaud, car les BL sont pauvres et imprévisible
+[11:17:55] à Mariadb : bah ouai
+[11:18:03] à Mariadb : genre ton amu à 1M
+[11:18:15] à Mariadb : ok mais va t elle se vendre
+[11:18:24] à Mariadb : pour ça que je vend rien :/
+[11:18:43] de Mariadb : Oui ça va se vendre
+[11:19:09] de Mariadb : Si ca vend pas je ferais un elio feu 110 completement fumé
+[11:19:13] à Mariadb : comme tu sais
+[11:19:22] à Mariadb : c'est que lvl 100
+[11:19:58] de Mariadb : Comme je te disais sur cette tranche de level, l'element feu est fumé, a cause de la limbe
+[11:20:17] de Mariadb : Et il se trouve que le meilleur stuff feu 110 c'est moon bersekoffre forestier
+[11:20:48] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[11:20:54] à Mariadb : je comprend
+[11:21:06] à Mariadb : mais qui joue à ce lvl sur Ush
+[11:21:18] à Mariadb : les fana de pvp lvl 110 ?
+[11:21:19] de Mariadb : farm koli bl
+[11:21:25] à Mariadb : ok ok
+[11:22:01] à Mariadb : un bon polan que je craft et FM des limbes?
+[11:22:08] Impossible d'empiler d'autres actions.
+[11:25:19] de Mariadb : Oui pq pas
+[11:25:25] de Mariadb : Attention au nombre de tenta
+[11:25:32] de Mariadb : Le prix des runes bouffe le benef viter
+[11:25:46] à Mariadb : ouai :/
+[11:28:25] de Mariadb : Mdr, le stuff 105 avec 2700 vita, plus de 800 intel
+[11:28:39] de Ange-Bomb : yo dispo forge?
+[11:28:53] de Mariadb : Avec les exo/over vita
+[11:29:14] à Ange-Bomb : Hello
+[11:29:22] à Ange-Bomb : Oui, rdfv bonta ?
+[11:29:26] (Groupe) Ange-Bomb : vien brak
+[11:29:30] (Groupe) Ange-Bomb : (quete)
+[11:29:38] (Groupe) Ange-Bomb : [-21,34]
+[11:29:58] Vous avez perdu 830 kamas.
+[11:30:05] Vous avez perdu 20 kamas.
+[11:30:16] (Groupe) Ange-Bomb : ici
+[11:30:17] Echange impossible car la cible est occupée.
+[11:30:21] Ange-Bomb : entre
+[11:30:34] Ange-Bomb : ici
+[11:30:51] Ange-rox : lance^^
+[11:31:20] de Mariadb : [https://d-bk.net/fr/d/bRut]
+[11:31:29] Ange-Bomb : merde
+[11:31:32] (Groupe) Kinex : pas compris sur qui ^^" , mets le paiement pour tous en une fois ;)
+[11:31:34] Ange-Bomb : faut sculp d'abord
+[11:31:38] Ange-Bomb : oui
+[11:31:42] (Groupe) Kinex : lvl combien ?
+[11:31:42] Ange-Bomb : 1s
+[11:31:50] Ange-Bomb : 155+
+[11:32:10] (Groupe) Kinex : je suis que 105 :/
+[11:32:16] (Groupe) Ange-Bomb : jrecrteu
+[11:32:57] à Mariadb : may be j'aurai le dolmanax de délié
+[11:33:12] de Mariadb : le dolmanax enfin opti pour un stuff
+[11:33:57] à Mariadb : x)
+[11:34:04] à Mariadb : et l'émeraude x)
+[11:34:07] Grougalora-Luna(Miowi-Magus) est en ligne.
+[11:36:23] (Groupe) Ange-Tanky : merde
+[11:36:29] (Groupe) Ange-Tanky : personne.
+[11:37:03] Ange-Ral a annulé l'invitation de Tomberryy à rejoindre votre groupe.
+[11:38:06] (Groupe) Kinex : chez mythe y a pas un seul sculteur 155+ ?
+[11:38:33] (Groupe) Ange-Ral : [-21,34]
+[11:38:36] (Groupe) Ange-Ral : brak
+[11:39:05] (Groupe) Rx-Authentyks : je fini koli
+[11:39:10] (Groupe) Ange-Bomb : ah ok
+[11:43:37] de Ange-Bomb : déso fr pour le dérangement
+[11:44:02] à Ange-Bomb : j'attends tkt
+[11:44:12] de Ange-Bomb : ty
+[11:44:25] à Ange-Bomb : tant que j'ai un petit paiement et que j'ai pas fait le déplacement pour rien ^^"
+[11:44:31] à Ange-Bomb : je bosse en paralèle ;)
+[11:44:42] de Ange-Bomb : xd
+[11:45:11] Ange-rox a refusé l'échange.
+[11:45:31] Ange-rox a refusé l'échange.
+[11:48:53] Miowi-Magus a déverrouillé le succès [D'Incarnam à Astrub].
+[11:49:52] à Ange-Bomb : tu me mp quand t'es pret ^^^"^
+[11:50:03] de Ange-Bomb : k
+[11:50:09] à Ange-Bomb : clavier trop sensible ^^"
+[11:50:10] de Ange-Bomb : l'iop est a koli..
+[11:50:23] à Ange-Bomb : yep j'ai vu :/
+[11:50:36] de Ange-Bomb : y'a juste ce mec
+[11:50:47] de Ange-Bomb : 0 sculp
+[11:50:52] à Ange-Bomb : arf
+[11:51:26] (Alliance) Kinex : j'ai un "client" qui cherche un sculteur 155+ à Brak
+[11:51:32] (Alliance) Kinex : si jamais
+[11:51:51] (Alliance) Jump-Sstyle-Sw : J'arrive a brak
+[11:52:15] à Ange-Bomb : Jump-Sstyle-Sw : J'arrive a brak
+[11:52:22] à Ange-Bomb : de mon alliance
+[11:52:24] de Ange-Bomb : sculp?
+[11:52:28] (Alliance) Jump-Sstyle-Sw : arf j'suis 153
+[11:52:40] à Ange-Bomb : oui bon ce con est 153 x)
+[11:52:46] (Alliance) Kinex : bravo x)
+[11:52:47] de Ange-Bomb : xddddd
+[11:52:57] de Ange-Bomb : faut 155+ ahahaha
+[11:53:00] (Alliance) Kinex : je lui ai filer ton contact
+[11:53:33] (Alliance) Kinex : mais bon c'est pour une quète ... il a recruté le seul 155+ du livre mais il met 1 000 ans a finir son koli
+[11:54:34] (Groupe) Rx-Authentyks : je suis là
+[11:55:30] Rx-Authentyks : j'ai els trois metiers
+[11:55:40] Rx-Authentyks : sculpteur brico et forgeron
+[11:55:41] Kinex : y a deja un forgeron ;)
+[11:56:10] Ange-Bomb : c'est pas ça wtf
+[11:56:13] à Ange-Bomb : le iop tant attendu est là :P
+[11:56:21] Ange-Bomb : [https://www.dofuspourlesnoobs.com/une-faille-dans-sa-carapace.html]
+[11:56:26] Ange-Bomb : pq le ressource
+[11:56:35] Rx-Authentyks : la tailladeuse
+[11:56:45] Rx-Authentyks : ou je sais plus quel item il faut que j'equipe
+[11:57:11] Ange-Bomb : nice
+[11:57:55] à Ange-Bomb : tu as le "Marteau du Forgeur du Grattoir."
+[11:58:05] à Ange-Bomb : ?
+[11:58:14] Ange-rox : 1s
+[11:58:30] Ange-rox : ty
+[11:58:50] Ange-Bomb : cbon j'ai les autres
+[11:58:54] Échange effectué
+[11:58:55] Rx-Authentyks : ah ok ok
+[11:58:57] Ange-rox : equipe ça
+[11:59:03] Echange impossible car la cible est occupée.
+[11:59:16] Rx-Authentyks : ah ok okje te rend tes truc ou pas ?
+[11:59:17] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[11:59:20] Ange-Bomb : tqt
+[11:59:25] L'artisan est trop loin de l'atelier.
+[11:59:26] Rx-Authentyks : bon jeu à tous
+[11:59:37] Echange impossible car le personnage est en surcharge.
+[11:59:45] de Ange-Bomb : equipe toi le marteau
+[11:59:58] Téléportation vers un Havre-Sac impossible depuis cette carte.
+[12:00:15] à Ange-Bomb : surcharge -_-
+[12:00:22] Ange-Ral : xddd
+[12:00:35] Ange-Ral : donne moi des ressource et jte donne après
+[12:00:44] Ange-Ral : pour le pod
+[12:00:49] Banque : + 158 999 Kamas (vente : 1 [Essence de Merkator]).
+[12:01:22] Échange effectué
+[12:01:42] Ange-Bomb : ta met le marteau.
+[12:01:44] Ange-Bomb : ?
+[12:02:09] Ange-Bomb : Forgez l'Extrémité du Grattoir à l'aide du métier Forgeur niveau 155 minimum et de l'outil Marteau du Forgeur du Grattoir.
+[12:02:14] Ange-Bomb : jn'arrive pas a craft
+[12:02:41] à Ange-Bomb : tu comprend pourquoi ?
+[12:02:47] Ange-Bomb : ta equipe le marteau?
+[12:03:08] Ange-Ral : [Recette : Marteau de Forgeur de Grattoir]
+[12:03:11] à Ange-Bomb : oui oui
+[12:03:12] Ange-Bomb : ça
+[12:03:54] Ange-Bomb : quete de merde
+[12:03:56] Ange-Bomb : ...
+[12:04:01] à Ange-Bomb : [Marteau de Forgeur de Grattoir]
+[12:04:08] Ange-Bomb : oui
+[12:04:14] à Ange-Bomb : M
+[12:04:15] Ange-Bomb : cbon
+[12:04:16] à Ange-Bomb : D
+[12:04:18] à Ange-Bomb : R
+[12:04:36] Vous avez créé 1 × [Extrémité du Grattoir] pour Ange-Bomb !
+[12:04:49] Vous avez créé 1 × [Extrémité du Grattoir] pour Ange-Tanky !
+[12:05:12] à Ange-Bomb : sur le site ça dit le deuxieme choix ... c'est le premier en fait ...
+[12:05:14] Vous avez créé 1 × [Extrémité du Grattoir] pour Ange-Ral !
+[12:05:29] Vous avez créé 1 × [Extrémité du Grattoir] pour Ange-rox !
+[12:05:44] Vous avez créé 1 × [Extrémité du Grattoir] pour Ange-immortal !
+[12:05:51] (Alliance) Lulox : inch inch
+[12:05:53] (Alliance) Lulox : je repars
+[12:06:02] de Ange-rox : ty!
+[12:06:10] Échange effectué
+[12:06:15] Kinex : je deséquipe :)
+[12:06:25] Kinex : a qui je rend les truc et recup mon bois x)
+[12:06:35] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[12:06:37] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[12:06:39] Ange-Ral : ahh
+[12:06:40] Échange annulé
+[12:07:09] Échange effectué
+[12:07:17] Kinex : tu reveux pas les outil ?
+[12:07:26] Ange-Ral : j'ai brico
+[12:07:50] Kinex : bon beh si jamais tu sais qui mp j'ai les outil now ^^^"^
+[12:08:29] Vous avez obtenu 50 '[Bois de Châtaignier]'.
+[12:08:31] Vous avez obtenu 50 '[Bois de Frêne]'.
+[12:08:32] Vous avez obtenu 50 '[Bois de Frêne]'.
+[12:08:33] Vous avez obtenu 50 '[Bois de Chêne]'.
+[12:08:38] Cette action n'est pas autorisée sur cette carte.
+[12:17:47] Échange effectué
+[12:18:38] Vous avez perdu 260 kamas.
+[12:18:55] Vous avez payé 640 kamas pour accéder à ce coffre.
+[12:20:33] de Athena-skull : dispo forgeron bg ?
+[12:20:46] à Athena-skull : yep stu veux rdv brak ?
+[12:20:49] Cette action est impossible car vous êtes occupé.
+[12:20:50] de Athena-skull : azy
+[12:20:54] Vous avez perdu 410 kamas.
+[12:21:00] Vous avez perdu 20 kamas.
+[12:21:22] Vous avez créé 1 × [Outil de gravure] pour Athena-skull !
+[12:21:25] de Athena-skull : cimer
+[12:21:31] à Athena-skull : ca sent les quete pandala
+[12:21:37] de Athena-skull : x)
+[12:24:52] de Acf : Yo dispo craft des botte a brak ?
+[12:25:36] de Acf : Trouvé te déplace pas bg :)
+[12:27:00] de Smylezs : yo dispo craft forgeron ?
+[12:27:20] Vous avez créé 1 × [Pelle Ripe] pour Smylezs !
+[12:27:29] Vous avez créé 1 × [Blessdags] pour Smylezs !
+[12:27:33] de Smylezs : BON JEU
+[12:30:16] à Acf : top Bon jeux :)
+[12:31:24] Vous avez perdu 200 kamas.
+[12:50:02] Un membre de votre guilde, Sawalou, est en ligne.
+[12:51:21] (Alliance) Math-Ecca : salut
+[12:52:28] Un membre de votre guilde, Leboss-Enfete, est en ligne.
+[12:53:02] Un membre de votre guilde, El-Fatou, est en ligne.
+[13:00:15] tonton-du-bahu(Heiiden-I) est en ligne.
+[13:04:14] Un membre de votre guilde, Acril-Mask, est en ligne.
+[13:04:15] Un membre de votre guilde, Acril-Og, est en ligne.
+[13:04:18] Un membre de votre guilde, Acril-Fleep, est en ligne.
+[13:04:19] Un membre de votre guilde, Acril-Dwop, est en ligne.
+[13:11:50] Athena-skull a déverrouillé le succès [Le gardien de l'immaculé].
+[13:12:40] Vous avez gagné 549 points d'expérience.
+[13:13:10] Kinex a fait échouer le challenge Nomade.
+[13:13:10] Vous avez gagné 368 points d'expérience.
+[13:14:26] Athen-sang a déverrouillé le succès [Le gardien de l'immaculé].
+[13:14:56] Athena-cheat a déverrouillé le succès [Le gardien de l'immaculé].
+[13:15:18] Athen-pilou a déverrouillé le succès [Le gardien de l'immaculé].
+[13:15:33] Athena-palm a déverrouillé le succès [Le gardien de l'immaculé].
+[13:15:53] Athen-dwop a déverrouillé le succès [Le gardien de l'immaculé].
+[13:16:07] Athen-roxx a déverrouillé le succès [Le gardien de l'immaculé].
+[13:16:21] Athena-heaal a déverrouillé le succès [Le gardien de l'immaculé].
+[13:21:31] ghduejfkd(Nexuzya) est en ligne.
+[13:23:38] (Alliance) One-two-truite : salut personne a besoins dune popo auto piloté ?
+[13:24:15] (Alliance) Devile-acee : nop bg
+[13:24:21] (Alliance) One-two-truite : dacc ^^
+[13:24:34] (Alliance) One-two-truite : je demande parceque jen nes plien a vendre donc bon ^^
+[13:25:17] (Alliance) Devile-acee : au plaisir^^
+[13:34:31] (Alliance) Gozilla : Un amour pour nous donner la pos enutrosor ?
+[13:34:42] Un membre de votre guilde, Fatou-Matou, est en ligne.
+[13:36:02] (Alliance) Sans-Arbitre : Portail vers la dimension Enutrosor [1,-3]
+[13:36:13] (Alliance) Sans-Arbitre : Devile-acee qui les a trouvé ^^
+[13:36:17] (Alliance) Gozilla : merci beaucoup &lt;3
+[13:36:23] (Alliance) Sans-Arbitre : dr :)
+[13:42:54] Le prisme de la zone 'Village des Dragoeufs (Amakna)' est attaqué en -4,24 !
+[13:43:48] (Alliance) Sans-Arbitre : besoin d'aide ? x)
+[13:43:59] (Alliance) Yop-seeb : non tkt
+[13:44:06] (Alliance) Yop-seeb : on est déja 3
+[13:44:06] (Alliance) And-U-Die : tu peux faire l'arbitre si tu veux
+[13:44:20] (Alliance) Yop-seeb : ^^
+[13:44:32] (Alliance) Sans-Arbitre : on gagne quoi si on win ?
+[13:44:51] (Alliance) And-U-Die : un sifflet dédicacé par ma personne
+[13:45:04] (Alliance) Crra-seeb : on perd pas le prisme déja xd
+[13:45:08] (Alliance) And-U-Die : mdr
+[13:48:23] (Alliance) Sans-Arbitre : j'aurais du venir alors
+[13:50:49] (Alliance) Ac-cumulable : quelqu'un a une idée de compo idole pour panda,enu,iop,elio ?
+[13:51:17] (Alliance) Hesadis : Si tu one tour les mobs les yoches
+[13:51:18] Le prisme de la zone 'Village des Dragoeufs (Amakna)', en -4,24, n'a pas été vaincu !
+[13:51:22] (Alliance) Cotisation : 3x yoche + hulhu vert et dorée j'sais plus le nom magistral et autre et un nekineko
+[13:51:26] (Alliance) Cotisation : C'est ce que j'utilise
+[13:51:43] (Alliance) Ac-cumulable : ok merci
+[13:55:05] de Peach-Nette : salut, dispo pour craft tailleur please ? je suis a bonta
+[13:55:16] à Peach-Nette : Hello
+[13:55:22] à Peach-Nette : yes j'arrive
+[13:55:26] Cette action est impossible car vous êtes occupé.
+[13:55:27] de Peach-Nette : merci =)
+[13:55:36] Vous avez perdu 180 kamas.
+[13:55:44] Vous avez perdu 20 kamas.
+[13:56:06] Le prisme de la zone 'Village des Dragoeufs (Amakna)' est attaqué en -4,24 !
+[13:56:11] Vous avez créé 1 × [Masque à Zag] pour Peach-Nette !
+[13:56:18] à Peach-Nette : Merci :)
+[13:56:19] de Peach-Nette : merci beaucoup ! bon jeu =)
+[13:56:34] à Peach-Nette : hesité pas à m'ajouter j'ai pas mal de métier ^^^"^
+[13:56:43] de Peach-Nette : ça marche ! merci =)
+[13:56:54] Vous avez perdu 150 kamas.
+[13:57:36] (Alliance) Hesadis : Encore un peu de monde ? je suis pas opti je suis pvm
+[13:57:51] (Alliance) Yop-seeb : je peut pas venir ..
+[13:57:55] (Alliance) Yop-seeb : j'y arrive pas
+[13:58:07] (Alliance) Blanc-lhp : one more plz
+[13:58:10] (Alliance) Blanc-lhp : thx
+[13:58:19] (Alliance) Hesadis : C'est bon ça devrait le faire :p
+[14:03:33] Le prisme de la zone 'Village des Dragoeufs (Amakna)', en -4,24, n'a pas été vaincu !
+[14:04:02] (Alliance) Blanc-lhp : g² for this def, nice teammate
+[14:13:27] Un membre de votre guilde, Fatou-Matou, est en ligne.
+[14:16:40] (Alliance) Jay-K-O : Chaton de 6 mois à vendre mp moi très peu kilométré
+[14:17:42] Un membre de votre guilde, Leboss-Enfete, est en ligne.
+[14:19:51] Un membre de votre guilde, El-Fatou, est en ligne.
+[14:26:28] (Alliance) Reinalya : Larvonika l'Instrument [13,4]
+[14:27:30] (Alliance) Portalisation : Si personne prend je veux bien
+[14:28:27] (Alliance) Deportation : J'ai pris du coup
+[14:29:10] (Alliance) Deportation : Merci
+[14:33:57] ghduejfkd(Nexuzya) est en ligne.
+[14:36:36] Nexuzya a déverrouillé le succès [Coffre des Forgerons (Score 38)].
+[14:37:38] Athena-skull a déverrouillé le succès [Nature spirituelle].
+[14:37:38] Athena-skull a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:37:53] Athena-cheat a déverrouillé le succès [Nature spirituelle].
+[14:37:53] Athena-cheat a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:38:01] Athen-dwop a déverrouillé le succès [Nature spirituelle].
+[14:38:01] Athen-dwop a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:38:07] Athen-sang a déverrouillé le succès [Nature spirituelle].
+[14:38:08] Athen-sang a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:38:13] Athen-roxx a déverrouillé le succès [Nature spirituelle].
+[14:38:13] Athen-roxx a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:38:19] Athena-heaal a déverrouillé le succès [Nature spirituelle].
+[14:38:19] Athena-heaal a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:38:25] Athen-pilou a déverrouillé le succès [Nature spirituelle].
+[14:38:25] Athen-pilou a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:38:30] Athena-palm a déverrouillé le succès [Nature spirituelle].
+[14:38:30] Athena-palm a déverrouillé le succès [Quand les éléments s'emmêlent].
+[14:46:27] (Alliance) Splash-Brother : un facomage 200 dispo 2 sec pour une rune trans svp ?
+[14:46:36] (Alliance) Kisa-X-Dixie : rdv brak ? J'y suis
+[14:46:42] (Alliance) Splash-Brother : thx j arrive
+[14:48:49] Range-ta-chambre(Mariadb) est en ligne.
+[14:53:28] Kinex a fait échouer le challenge Zombie.
+[14:53:28] Vous avez gagné 368 points d'expérience.
+[14:59:02] (Alliance) Reinalya : Homard Medali [24,32] ça tente du monde ?
+[14:59:16] Impossible d'empiler d'autres actions.
+[15:00:43] (Alliance) Hesadis : Non merci je l'ai fait hier
+[15:04:43] Un membre de votre guilde, El-Fatou, est en ligne.
+[15:05:27] Un membre de votre guilde, Sawalou, est en ligne.
+[15:19:30] Un membre de votre guilde, Oo-plionor, est en ligne.
+[15:25:33] (Alliance) Wildfire : Du monde &gt; Ali 100 parmis vous ? :)
+[15:25:36] tonton-du-bahu(Heiiden-I) est en ligne.
+[15:36:18] de Kaze-Feng : salut dispo sculteur bonta ?
+[15:36:26] à Kaze-Feng : Hello
+[15:36:32] à Kaze-Feng : Oui j'arrive
+[15:36:35] Cette action est impossible car vous êtes occupé.
+[15:36:40] Vous avez perdu 190 kamas.
+[15:36:49] Vous avez perdu 20 kamas.
+[15:37:07] Vous avez créé 2 × [La Baguette des Limbes] pour Kaze-Feng !
+[15:37:08] Votre métier [Sculpteur] passe niveau 109.,Vous obtenez 1 pods supplémentaires.
+[15:37:11] de Kaze-Feng : merci bon jeu
+[15:37:22] à Kaze-Feng : de meme :)
+[15:40:04] Vous avez perdu 170 kamas.
+[15:48:25] Miowi-Magus a déverrouillé le succès [Lancer de Wabbit].
+[15:48:40] (Alliance) Whis-tler : Bonjour
+[15:48:49] (Alliance) Everdale : Coucou Whis
+[15:48:57] KEKElecHO(Arcalphine) est en ligne.
+[15:56:44] Un percepteur de la guilde Paradigme est attaqué dans Bordure de Brâkmar en [-18,37].
+[15:57:57] Un membre de votre guilde, Athena-skull, est en ligne.
+[15:58:10] Un membre de votre guilde, Athen-sang, est en ligne.
+[15:58:12] Un membre de votre guilde, Athena-heaal, est en ligne.
+[15:58:13] Un membre de votre guilde, Athena-cheat, est en ligne.
+[15:58:13] Un membre de votre guilde, Athen-roxx, est en ligne.
+[15:58:21] Un membre de votre guilde, Athena-palm, est en ligne.
+[15:58:22] Un membre de votre guilde, Athen-dwop, est en ligne.
+[15:58:27] Un membre de votre guilde, Athen-pilou, est en ligne.
+[15:59:05] Le percepteur de la guilde Paradigme attaqué en [-18,37] n'a pas survécu !
+[16:01:50] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[16:02:52] Arcalphine a déverrouillé le succès [Îlot de Waldo].
+[16:03:11] Un percepteur de la guilde Paradigme est attaqué dans Bordure de Brâkmar en [-27,30].
+[16:05:58] Le percepteur de la guilde Paradigme attaqué en [-27,30] n'a pas survécu !
+[16:06:38] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[16:07:41] Vous avez gagné 549 points d'expérience.
+[16:15:45] (Alliance) Ikeru-Densetsu : Salut ya un passeur proto ici ? je paye s'il le faut
+[16:18:04] (Alliance) Psycopat : meme pour 2m je le fais pas celui la xD
+[16:18:26] (Alliance) Everdale : et un bethel full succes ? :D
+[16:18:27] Arcalphine a déverrouillé le succès [Îlot des Tombeaux].
+[16:18:53] (Alliance) Psycopat : la seul fois ou j'ai fait un bethel c'etait etage 6xx xD
+[16:19:31] (Alliance) Everdale : bon bah en classique tu le fais les doigts dans le nez
+[16:19:40] (Alliance) Psycopat : je pense xD
+[16:21:06] Terminez votre tour avec le bouton [Fin de tour].
+[16:21:35] (Alliance) Whis-sky : Ambi Guman [11,6] qui need ?
+[16:21:40] (Alliance) Everdale : sur le ds alliance j'irais poster mon annonce de recrutement pour un bethel score 200 mystique
+[16:21:46] Vous avez gagné 458 points d'expérience.
+[16:22:02] (Alliance) Psycopat : je taff se soir je bouge dans 30-45 min dans chaud de te le faire xD
+[16:22:27] (Alliance) Psycopat : si macron instaure un couvre feu je vais pouvoir rentrer plus tot xD
+[16:22:39] (Alliance) Popiopopio : il est question d'un couvre feu? :o
+[16:22:54] (Alliance) Psycopat : zone a risque c'possible
+[16:23:06] (Alliance) Psycopat : et comme en alsace on remonte en fleche
+[16:23:45] (Alliance) Reinalya : a rouen ça monte en fleche aussi
+[16:24:01] (Alliance) Psycopat : :3
+[16:24:05] (Alliance) Whis-sky : l oise :'(
+[16:24:07] (Alliance) Everdale : ouais vive corona
+[16:24:32] (Alliance) Psycopat : moi couvre feu a 21h ça me va ça m'evite de fermer a 23 et finir a 00:00 xD
+[16:28:19] de Neo-X-Efka : dispo craft ceinture brak?
+[16:28:28] à Neo-X-Efka : Hello
+[16:28:34] à Neo-X-Efka : oui j'arrive
+[16:28:38] de Neo-X-Efka : nickel merci
+[16:28:47] Athena-skull a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:28:47] Athen-sang a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:29:22] Vous avez perdu 180 kamas.
+[16:29:33] Vous avez perdu 20 kamas.
+[16:30:10] à Neo-X-Efka : tu es pas là ?
+[16:30:18] de Neo-X-Efka : ba si
+[16:30:27] à Neo-X-Efka : x) je suis a bonta hhaa
+[16:30:32] de Neo-X-Efka : ah xD ^^^'
+[16:30:34] à Neo-X-Efka : j'arrive
+[16:30:36] de Neo-X-Efka : dac
+[16:30:37] Vous avez perdu 930 kamas.
+[16:30:49] Vous avez perdu 20 kamas.
+[16:31:12] Vous avez créé 4 × [Sangle Aise] pour Neo-X-Efka !
+[16:31:15] de Neo-X-Efka : try
+[16:31:17] de Neo-X-Efka : ty*
+[16:31:51] à Neo-X-Efka : merci à toi
+[16:31:54] Vous avez obtenu 50 '[Bois de Noyer]'.
+[16:31:56] Vous avez obtenu 50 '[Bois de Frêne]'.
+[16:31:56] de Neo-X-Efka : merci
+[16:31:56] Vous avez obtenu 50 '[Bois d'If]'.
+[16:32:02] Vous avez obtenu 50 '[Sauge]'.
+[16:32:03] Vous avez obtenu 50 '[Sauge]'.
+[16:32:12] Vous avez perdu 550 kamas.
+[16:32:48] Fekin souhaite téléporter tout le groupe devant : Château du Wa Wabbit.
+[16:33:17] Vous avez obtenu 10 '[Aubergine]'.
+[16:33:36] Vous avez perdu 220 kamas.
+[16:34:41] Impossible d'empiler d'autres actions.
+[16:34:43] Impossible d'empiler d'autres actions.
+[16:34:49] Athen-roxx a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:34:49] Athena-heaal a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:36:34] Des monstres attaquent Miowi-Magus (Château Ensablé - Première salle).
+[16:37:44] Miowi-Magus a déverrouillé le succès [En fermant les yeux].
+[16:37:55] Des monstres attaquent Miowi-Magus (Château Ensablé - Deuxième salle).
+[16:38:17] Athena-cheat a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:38:17] Athen-pilou a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:40:41] Des monstres attaquent Miowi-Magus (Château Ensablé - Troisième salle).
+[16:41:43] Athen-dwop a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:41:43] Athena-palm a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[16:42:17] Des monstres attaquent Miowi-Magus (Château Ensablé - Quatrième salle).
+[16:44:11] (Alliance) Baphot : hey qqun a une tp tal kasha svp?
+[16:44:23] Des monstres attaquent Miowi-Magus (Château Ensablé - Cinquième salle).
+[16:44:39] (Alliance) Everdale : Qui dans l'alliance aurait cet item ? [Epée Maudite du Saigneur Guerrier] ca serait pour me le preter le temps d'un ou deux try solar
+[16:45:25] (Alliance) Baphot : qqun a une tp tal kasha?
+[16:45:29] (Alliance) Baphot : oups
+[16:47:13] Miowi-Magus a déverrouillé le succès [Pichons].
+[16:47:13] Miowi-Magus a déverrouillé le succès [Château Ensablé].
+[16:47:13] Miowi-Magus a déverrouillé le succès [Mob l'Eponge (Versatile)].
+[16:47:13] Miowi-Magus a déverrouillé le succès [Mob l'Eponge (Duo)].
+[16:48:08] Miowi-Magus a déverrouillé le succès [Poussin].
+[16:50:21] tonton-du-bahu(Heiiden-I) est en ligne.
+[16:52:13] Terminez votre tour avec le bouton [Fin de tour].
+[16:52:15] (Alliance) Jay-K-O : combien coute un passage bethel ?
+[16:52:45] Kinex a fait échouer le challenge Nomade.
+[16:53:05] (Alliance) Everdale : aucune idée, mais je dois le faire dans pas longtemps peut etre dans la soirée pour tenter en succes
+[16:53:25] (Alliance) Jay-K-O : Je need 3 persos pour ebene, mais j'ai pas necronyx donc c'est chiant x)
+[16:53:49] (Alliance) Everdale : ah oui !
+[17:00:01] Vous avez gagné 295 points d'expérience.
+[17:00:23] Des monstres attaquent Miowi-Magus ([1,-19]).
+[17:03:01] Des monstres attaquent Miowi-Magus ([2,-19]).
+[17:04:50] Des monstres attaquent Miowi-Magus ([1,-18]).
+[17:07:25] (Alliance) Baphot : une personne pour proto? on est cra feca iop
+[17:08:13] Des monstres attaquent Miowi-Magus ([1,-18]).
+[17:09:37] (Alliance) Wildfire : Un Esprit Glorieux et Oeil Glorieux parmis vous ? :)
+[17:09:48] Des monstres attaquent Miowi-Magus ([2,-19]).
+[17:10:04] (Alliance) To-ri-ko : Oeil putride sa marche pas ?
+[17:10:22] (Alliance) Wildfire : non ^^ Mais merci quand meme !
+[17:10:32] Un membre de votre guilde, Oracledb, est en ligne.
+[17:11:25] (Alliance) To-ri-ko : Non mais c'est tout j'ai compris tu veut pas d'moi :(
+[17:11:42] (Guilde) Oracledb : Hello
+[17:11:49] (Guilde) Kinex : Hello
+[17:12:07] Des monstres attaquent Miowi-Magus ([2,-21]).
+[17:13:05] (Guilde) Oracledb : T'es nouveau ?
+[17:13:15] (Guilde) Kinex : Ui :3
+[17:13:20] (Guilde) Kinex : enfin
+[17:13:22] (Guilde) Kinex : nouvelle
+[17:13:23] ghduejfkd(Nexuzya) est en ligne.
+[17:13:42] (Alliance) Wildfire : Mdr mais non faut pas le prendre comme ça :p
+[17:13:48] Miowi-Magus a déverrouillé le succès [Pious].
+[17:13:48] (Guilde) Oracledb : Je suis seduis, rdv zaap astrub je te donne tous mes kamas
+[17:14:00] (Guilde) Kinex : wwwwiiiiii :3 &lt;3
+[17:14:11] (Guilde) Athena-palm : ptdrrr
+[17:14:40] Des monstres attaquent Miowi-Magus ([3,-21]).
+[17:15:53] Pazzoo : vend croquette enrichie mp moi
+[17:16:02] (Alliance) Jay-K-O : fifa 21 à vendre mp moi
+[17:16:12] (Alliance) Piopopipo : 20Mk
+[17:16:21] (Alliance) Jay-K-O : avec plaisir
+[17:16:35] (Alliance) Piopopipo : ptn dommage que j'aime pas fifa :/
+[17:16:40] (Alliance) Piopopipo : ç'aurait été une offre en or
+[17:16:44] (Alliance) Jay-K-O : même 200.000k j'aurais dis oui
+[17:16:47] (Alliance) Piopopipo : mdrr
+[17:16:59] Des monstres attaquent Miowi-Magus ([3,-20]).
+[17:18:26] à Pazzoo : Hello
+[17:18:40] de Pazzoo : slt
+[17:18:41] à Pazzoo : tu les vend combien/u ?
+[17:18:53] de Pazzoo : 20 000K
+[17:19:39] Des monstres attaquent Miowi-Magus ([4,-20]).
+[17:20:05] Khalil-mke : je suis sans equiepement
+[17:21:09] 1 x [Dragodinde Ivoire et Orchidée] (222 222 kamas)
+[17:21:40] Impossible de monter sur votre monture, elle est épuisée... Nourrissez-la, ou laissez-la se reposer dans un enclos.
+[17:22:28] Des monstres attaquent Miowi-Magus ([4,-19]).
+[17:22:57] Votre monture apprécie le repas.
+[17:23:11] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[17:23:31] Votre monture vient de passer au niveau 33.
+[17:23:31] Vous avez gagné 1 263 486 points d'expérience.
+[17:23:31] Votre monture a gagné 138 983 points d'expérience.
+[17:23:35] Objet reçu : 1 x [Aile Atrophiée de Tofu Dodu]
+[17:23:35] Objet reçu : 1 x [Œuf de Tofubine]
+[17:23:35] Objet reçu : 1 x [Braise de Tofutoflamme]
+[17:23:35] Objet reçu : 1 x [Croupion de Tofuzmo]
+[17:23:35] Objet reçu : 1 x [Houpette de Vilain Petit Tofu]
+[17:23:35] Votre monture vient de passer au niveau 35.
+[17:23:35] Vous avez gagné 161 821 points d'expérience.
+[17:23:35] Votre monture a gagné 17 800 points d'expérience.
+[17:23:35] Vous avez gagné 16 780 kamas.
+[17:23:36] Objet reçu : 1 x [Couronne Brisée du Tofu Royal]
+[17:23:36] Objets reçus : 10 x [Plume de Tofu Royal]
+[17:23:36] Objet reçu : 1 x [Plume Vibrante du Tofu Royal]
+[17:23:36] Votre monture vient de passer au niveau 37.
+[17:23:36] Vous avez gagné 161 821 points d'expérience.
+[17:23:36] Votre monture a gagné 17 800 points d'expérience.
+[17:23:36] Vous avez gagné 16 780 kamas.
+[17:23:37] Vous avez gagné 22 380 kamas.
+[17:23:37] Votre monture vient de passer au niveau 40.
+[17:23:37] Vous avez gagné 215 590 points d'expérience.
+[17:23:37] Votre monture a gagné 23 714 points d'expérience.
+[17:23:37] Objets reçus : 10 x [Peau de Crachefoux]
+[17:23:37] Objets reçus : 10 x [Peau de Rouquette]
+[17:23:37] Objets reçus : 10 x [Poils de Boumbardier]
+[17:23:37] Objets reçus : 10 x [Poils de Pétartifoux]
+[17:23:37] Objets reçus : 10 x [Poils de Founamboul]
+[17:23:37] Objet reçu : 1 x [Étoffe de Firefoux]
+[17:23:38] Objets reçus : 10 x [Dent de Rat Blanc]
+[17:23:38] Objets reçus : 10 x [Peau de Rat Blanc]
+[17:23:38] Objets reçus : 10 x [Étoffe de Rat Blanc]
+[17:23:38] Votre monture vient de passer au niveau 41.
+[17:23:38] Vous avez gagné 129 858 points d'expérience.
+[17:23:38] Votre monture a gagné 14 284 points d'expérience.
+[17:23:38] Vous avez gagné 14 280 kamas.
+[17:23:41] Objets reçus : 10 x [Dent de Rat Blanc]
+[17:23:41] Objets reçus : 10 x [Peau de Rat Blanc]
+[17:23:41] Objets reçus : 10 x [Étoffe de Rat Blanc]
+[17:23:41] Votre monture vient de passer au niveau 42.
+[17:23:41] Vous avez gagné 129 858 points d'expérience.
+[17:23:41] Votre monture a gagné 14 284 points d'expérience.
+[17:23:41] Vous avez gagné 14 280 kamas.
+[17:23:42] Objets reçus : 10 x [Dent de Rat Blanc]
+[17:23:42] Objets reçus : 10 x [Peau de Rat Blanc]
+[17:23:42] Objets reçus : 10 x [Étoffe de Rat Blanc]
+[17:23:42] Votre monture vient de passer au niveau 44.
+[17:23:42] Vous avez gagné 129 858 points d'expérience.
+[17:23:42] Votre monture a gagné 14 284 points d'expérience.
+[17:23:42] Vous avez gagné 14 280 kamas.
+[17:23:43] Objets reçus : 10 x [Scalp du Meulou]
+[17:23:43] Objet reçu : 1 x [Dents du Meulou]
+[17:23:43] Objet reçu : 1 x [Testicules du Meulou]
+[17:23:43] Objet reçu : 1 x [Mojo du Meulou]
+[17:23:43] Objet reçu : 1 x [Testicules Magiques du Meulou]
+[17:23:43] Objet reçu : 1 x [Œil du Meulou]
+[17:23:43] Votre monture vient de passer au niveau 45.
+[17:23:43] Vous avez gagné 102 374 points d'expérience.
+[17:23:43] Votre monture a gagné 11 261 points d'expérience.
+[17:23:43] Vous avez gagné 11 980 kamas.
+[17:23:45] Objet reçu : 1 x [Couronne Brisée du Tofu Royal]
+[17:23:45] Objets reçus : 10 x [Plume de Tofu Royal]
+[17:23:45] Objet reçu : 1 x [Plume Vibrante du Tofu Royal]
+[17:23:45] Votre monture vient de passer au niveau 48.
+[17:23:45] Vous avez gagné 323 643 points d'expérience.
+[17:23:45] Votre monture a gagné 35 600 points d'expérience.
+[17:23:45] Vous avez gagné 16 780 kamas.
+[17:23:47] Votre monture vient de passer au niveau 50.
+[17:23:47] Vous avez gagné 221 549 points d'expérience.
+[17:23:47] Votre monture a gagné 24 370 points d'expérience.
+[17:23:47] Vous avez gagné 25 480 kamas.
+[17:23:48] Votre monture vient de passer au niveau 52.
+[17:23:48] Vous avez gagné 221 549 points d'expérience.
+[17:23:48] Votre monture a gagné 24 370 points d'expérience.
+[17:23:48] Vous avez gagné 25 480 kamas.
+[17:23:50] Objets reçus : 10 x [Scalp du Meulou]
+[17:23:50] Objet reçu : 1 x [Dents du Meulou]
+[17:23:50] Objet reçu : 1 x [Testicules du Meulou]
+[17:23:50] Objet reçu : 1 x [Mojo du Meulou]
+[17:23:50] Objet reçu : 1 x [Testicules Magiques du Meulou]
+[17:23:50] Objet reçu : 1 x [Œil du Meulou]
+[17:23:50] Vous avez gagné 102 374 points d'expérience.
+[17:23:50] Votre monture a gagné 11 261 points d'expérience.
+[17:23:50] Vous avez gagné 11 980 kamas.
+[17:23:53] Objet reçu : 1 x [Couronne Brisée du Tofu Royal]
+[17:23:53] Objets reçus : 10 x [Plume de Tofu Royal]
+[17:23:53] Objet reçu : 1 x [Plume Vibrante du Tofu Royal]
+[17:23:53] Votre monture vient de passer au niveau 54.
+[17:23:53] Vous avez gagné 161 821 points d'expérience.
+[17:23:53] Votre monture a gagné 17 800 points d'expérience.
+[17:23:53] Vous avez gagné 16 780 kamas.
+[17:23:54] Objet reçu : 1 x [Pierre du Koulosse]
+[17:23:54] Objets reçus : 10 x [Tresse du Koulosse]
+[17:23:54] Votre monture vient de passer au niveau 55.
+[17:23:54] Vous avez gagné 102 374 points d'expérience.
+[17:23:54] Votre monture a gagné 11 261 points d'expérience.
+[17:23:54] Vous avez gagné 11 980 kamas.
+[17:23:55] Objets reçus : 10 x [Poils de Kanigroula]
+[17:23:55] Objet reçu : 1 x [Queue de Kanigroula]
+[17:23:55] Votre monture vient de passer au niveau 56.
+[17:23:55] Vous avez gagné 228 202 points d'expérience.
+[17:23:55] Votre monture a gagné 25 102 points d'expérience.
+[17:23:55] Vous avez gagné 28 780 kamas.
+[17:23:56] Votre monture vient de passer au niveau 57.
+[17:23:56] Vous avez gagné 118 994 points d'expérience.
+[17:23:56] Votre monture a gagné 13 089 points d'expérience.
+[17:23:56] Vous avez gagné 15 960 kamas.
+[17:23:58] Objets reçus : 10 x [Poil de Skeunk]
+[17:23:58] Objet reçu : 1 x [Peau de Skeunk]
+[17:23:58] Votre monture vient de passer au niveau 58.
+[17:23:58] Vous avez gagné 161 821 points d'expérience.
+[17:23:58] Votre monture a gagné 17 800 points d'expérience.
+[17:23:58] Vous avez gagné 16 780 kamas.
+[17:23:59] Objet reçu : 1 x [Poils de Black Tiwabbit]
+[17:23:59] Objet reçu : 1 x [Queue de Black Wabbit]
+[17:23:59] Objet reçu : 1 x [Oreilles du Tiwabbit]
+[17:23:59] Objet reçu : 1 x [Langue de Tiwabbit Kiafin]
+[17:23:59] Objet reçu : 1 x [Étoffe du Wabbit]
+[17:23:59] Objet reçu : 1 x [Estomac de Wo Wabbit]
+[17:23:59] Votre monture vient de passer au niveau 59.
+[17:23:59] Vous avez gagné 30 504 points d'expérience.
+[17:23:59] Votre monture a gagné 3 355 points d'expérience.
+[17:23:59] Vous avez gagné 4 780 kamas.
+[17:24:02] Votre monture vient de passer au niveau 60.
+[17:24:02] Vous avez gagné 161 821 points d'expérience.
+[17:24:02] Votre monture a gagné 17 800 points d'expérience.
+[17:24:02] Vous avez gagné 16 780 kamas.
+[17:24:04] Votre monture vient de passer au niveau 61.
+[17:24:04] Vous avez gagné 161 821 points d'expérience.
+[17:24:04] Votre monture a gagné 17 800 points d'expérience.
+[17:24:04] Vous avez gagné 16 780 kamas.
+[17:24:05] Objet reçu : 1 x [Couronne Brisée du Tofu Royal]
+[17:24:05] Objets reçus : 10 x [Plume de Tofu Royal]
+[17:24:05] Objet reçu : 1 x [Plume Vibrante du Tofu Royal]
+[17:24:05] Votre monture vient de passer au niveau 63.
+[17:24:05] Vous avez gagné 323 643 points d'expérience.
+[17:24:05] Votre monture a gagné 35 600 points d'expérience.
+[17:24:05] Vous avez gagné 16 780 kamas.
+[17:24:07] Vous avez gagné 12 985 points d'expérience.
+[17:24:07] Votre monture a gagné 1 428 points d'expérience.
+[17:24:08] Objet reçu : 1 x [Couronne Brisée du Tofu Royal]
+[17:24:08] Objets reçus : 10 x [Plume de Tofu Royal]
+[17:24:08] Objet reçu : 1 x [Plume Vibrante du Tofu Royal]
+[17:24:08] Votre monture vient de passer au niveau 64.
+[17:24:08] Vous avez gagné 161 821 points d'expérience.
+[17:24:08] Votre monture a gagné 17 800 points d'expérience.
+[17:24:08] Vous avez gagné 16 780 kamas.
+[17:24:13] Objets reçus : 10 x [Plume du Maître Corbac]
+[17:24:13] Objets reçus : 10 x [Duvet du Maître Corbac]
+[17:24:13] Objet reçu : 1 x [Clakoss]
+[17:24:13] Votre monture vient de passer au niveau 65.
+[17:24:13] Vous avez gagné 129 858 points d'expérience.
+[17:24:13] Votre monture a gagné 14 284 points d'expérience.
+[17:24:13] Vous avez gagné 14 280 kamas.
+[17:24:14] Vous avez gagné 23 557 points d'expérience.
+[17:24:14] Votre monture a gagné 2 591 points d'expérience.
+[17:24:14] Objet reçu : 1 x [Osselet de Black Wabbit Squelette]
+[17:24:14] Objet reçu : 1 x [Crâne de Wabbit Squelette]
+[17:24:14] Objet reçu : 1 x [Étoffe du Wabbit]
+[17:24:14] Objet reçu : 1 x [Poils de Barbe du Grand Pa Wabbit]
+[17:24:14] Objet reçu : 1 x [Estomac de Wo Wabbit]
+[17:24:15] Objet reçu : 1 x [Cawotte]
+[17:24:15] Votre monture vient de passer au niveau 66.
+[17:24:15] Vous avez gagné 15 252 points d'expérience.
+[17:24:15] Votre monture a gagné 1 677 points d'expérience.
+[17:24:15] Vous avez gagné 2 390 kamas.
+[17:24:15] Objet reçu : 1 x [Crâne de Chafer]
+[17:24:15] Objet reçu : 1 x [Os Surprise du Chafer Fantassin]
+[17:24:15] Objet reçu : 1 x [Touffe de Cheveux Blancs]
+[17:24:15] Objet reçu : 1 x [Fémur du Chafer Archer]
+[17:24:15] Objet reçu : 1 x [Dentier du Chafer d'Élite]
+[17:24:15] Objet reçu : 1 x [Fragment d'Os]
+[17:24:15] Vous avez gagné 20 376 points d'expérience.
+[17:24:15] Votre monture a gagné 2 241 points d'expérience.
+[17:24:15] Vous avez gagné 3 480 kamas.
+[17:24:16] Vous avez gagné 30 504 points d'expérience.
+[17:24:16] Votre monture a gagné 3 355 points d'expérience.
+[17:24:17] Objets reçus : 10 x [Aliton]
+[17:24:17] Vous avez gagné 25 426 points d'expérience.
+[17:24:17] Votre monture a gagné 2 796 points d'expérience.
+[17:24:17] Vous avez gagné 13 090 kamas.
+[17:24:18] Vous avez gagné 59 497 points d'expérience.
+[17:24:18] Votre monture a gagné 6 544 points d'expérience.
+[17:24:18] Vous avez gagné 7 980 kamas.
+[17:24:19] Votre monture vient de passer au niveau 67.
+[17:24:19] Vous avez gagné 22 819 points d'expérience.
+[17:24:19] Votre monture a gagné 2 510 points d'expérience.
+[17:24:19] Vous avez gagné 3 050 points d'expérience.
+[17:24:19] Votre monture a gagné 335 points d'expérience.
+[17:24:20] Vous avez gagné 59 497 points d'expérience.
+[17:24:20] Votre monture a gagné 6 544 points d'expérience.
+[17:24:20] Vous avez gagné 7 980 kamas.
+[17:24:20] Vous avez gagné 21 558 points d'expérience.
+[17:24:20] Votre monture a gagné 2 371 points d'expérience.
+[17:24:21] Vous avez gagné 19 859 points d'expérience.
+[17:24:21] Votre monture a gagné 2 184 points d'expérience.
+[17:24:22] Vous avez gagné 16 181 points d'expérience.
+[17:24:22] Votre monture a gagné 1 780 points d'expérience.
+[17:24:32] Athena-skull a déverrouillé le succès [Koumiho (Duo)].
+[17:24:32] Athen-sang a déverrouillé le succès [Koumiho (Duo)].
+[17:24:32] Athena-skull a déverrouillé le succès [Esprit es-tu toujours là ?].
+[17:24:32] Athen-sang a déverrouillé le succès [Esprit es-tu toujours là ?].
+[17:24:40] Des monstres attaquent Miowi-Magus ([4,-18]).
+[17:24:58] (Alliance) Orimage : Salut les PTZ
+[17:25:22] (Alliance) To-ri-ko : Salut ori
+[17:25:53] tonton-du-bahu(Heiiden-I) est en ligne.
+[17:26:12] Échange effectué
+[17:26:14] Des monstres attaquent Miowi-Magus ([3,-18]).
+[17:29:26] Des monstres attaquent Miowi-Magus ([2,-20]).
+[17:29:35] Échange effectué
+[17:29:46] Vous avez perdu 20 kamas.
+[17:29:52] Vous avez payé 742 kamas pour accéder à ce coffre.
+[17:30:07] Guy-nes : :b VEND DOLMANAX
+[17:31:36] Des monstres attaquent Miowi-Magus ([2,-21]).
+[17:32:14] Elfrin : Achete Tout Vos Banque (Ressources) 30% Estimé Et Vos Rune 50% Estimé!!!!
+[17:32:47] Des monstres attaquent Miowi-Magus ([3,-21]).
+[17:34:18] Des monstres attaquent Miowi-Magus ([4,-21]).
+[17:34:45] Un membre de votre guilde, Suaht, est en ligne.
+[17:35:16] (Guilde) Suaht : hello tt le monde
+[17:35:47] Amarilyss : j'achète vos banque de la valeur de 40% estimé
+[17:36:10] Des monstres attaquent Miowi-Magus ([4,-20]).
+[17:36:16] Elfrin : Achete Tout Vos Banque (Ressources) 30% Estimé Et Vos Rune 50% Estimé!!!!
+[17:37:39] Des monstres attaquent Miowi-Magus ([5,-19]).
+[17:39:03] Des monstres attaquent Miowi-Magus ([6,-18]).
+[17:41:02] Styley-Kings : je vend ressource
+[17:41:23] Elfrin : Achete Tout Vos Banque (Ressources) 30% Estimé Et Vos Rune 50% Estimé!!!!
+[17:41:31] Des monstres attaquent Miowi-Magus ([3,-18]).
+[17:42:37] Un membre de votre guilde, Shaktyy, est en ligne.
+[17:43:41] Des monstres attaquent Miowi-Magus ([1,-19]).
+[17:44:20] Elfrin : Achete Tout Vos Banque (Ressources) 30% Estimé Et Vos Rune 50% Estimé!!!!
+[17:45:10] Des monstres attaquent Miowi-Magus ([1,-21]).
+[17:45:42] Elfrin : Achete Tout Vos Banque (Ressources) 30% Estimé Et Vos Rune 50% Estimé!!!!
+[17:47:40] à Fekin : [Justobottes] [Caracoiffe] [Geloture] [Gelano] [Tongues Wabbits] [Ceinture Tortue Rouge] rois[Carabottes] [Caracape]
+[17:47:50] Elfrin : Achete Tout Vos Banque (Ressources) 30% Estimé Et Vos Rune 50% Estimé!!!!
+[17:51:59] Vous avez perdu 20 kamas.
+[17:52:39] Un percepteur de la guilde Hostility est attaqué dans Roc des Salbatroces en [-84,-59].
+[17:53:07] 10 x [Petite Perle Dorée] (1 998 kamas)
+[17:53:34] (Alliance) Kisa-X-Dixie : Personne ?
+[17:53:39] (Alliance) Kisa-X-Dixie : Ils sont 4
+[17:53:40] (Alliance) Mamie-chance : bonsoir !
+[17:53:41] (Alliance) Kisa-X-Dixie : Ca se fait
+[17:53:43] (Alliance) Kisa-X-Dixie : Go
+[17:53:51] (Alliance) Kisa-X-Dixie : allez 2last
+[17:54:48] 1 x [Lait de Tortue] (879 kamas)
+[17:54:51] 1 x [Lait de Tortue] (880 kamas)
+[17:54:52] 1 x [Lait de Tortue] (880 kamas)
+[17:55:20] 1 x [Carapace Rouge] (1 498 kamas)
+[17:55:31] 1 x [Carapace Verte] (500 kamas)
+[17:55:32] 1 x [Carapace Verte] (500 kamas)
+[17:55:33] 1 x [Carapace Verte] (500 kamas)
+[17:55:34] 1 x [Carapace Verte] (500 kamas)
+[17:55:40] 1 x [Carapace Jaune] (1 112 kamas)
+[17:55:43] 1 x [Carapace Jaune] (1 113 kamas)
+[17:55:43] 1 x [Carapace Jaune] (1 113 kamas)
+[17:55:45] 1 x [Carapace Jaune] (1 114 kamas)
+[17:57:47] Des monstres attaquent Miowi-Magus ([10,-19]).
+[17:58:56] 100 x [Gelée à la Fraise] (17 472 kamas)

@@ -1,0 +1,161 @@
+[12:14:01] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[12:14:01] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[12:14:03] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[12:14:03] Précédente connexion sur ce compte : 04/10/2020 à 10:55
+[12:14:03] Annonce de guilde : MAJ 2.57: Extention Pandala : [https://www.dofus.com/fr/forum/1081-dofus/2340664-devblog-reveil-pandala-2] ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[12:14:03] Vous avez 5 contact(s) réciproque(s) connecté(s).
+[12:14:35] Un membre de votre guilde, Shaktyy, est en ligne.
+[12:23:20] Un membre de votre guilde, Nk-Sandara, est en ligne.
+[12:24:37] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[12:29:25] Vous avez obtenu 50 '[Chanvre]'.
+[12:29:26] Vous avez obtenu 50 '[Chanvre]'.
+[12:29:27] Vous avez obtenu 50 '[Malt]'.
+[12:29:28] Vous avez obtenu 50 '[Houblon]'.
+[12:29:29] Vous avez obtenu 10 '[Mesure de sel]'.
+[12:29:35] Vous avez obtenu 40 '[Haricot]'.
+[12:29:37] Vous avez obtenu 10 '[Résine]'.
+[12:29:39] Vous avez obtenu 10 '[Poudre de Perlinpainpain]'.
+[12:29:41] Vous avez obtenu 70 '[Poudre de Perlinpainpain]'.
+[12:31:29] frxzombie(Zombiff) est en ligne.
+[12:32:00] Vous avez obtenu 80 '[Eau Potable]'.
+[12:56:12] Lotussia a déverrouillé le succès [Shogun Tofugawa (Duo)].
+[12:56:12] Lotussia a déverrouillé le succès [Le Chevaucheur de brume].
+[13:08:18] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[13:13:55] tonton-du-bahu(Heiiden-I) est en ligne.
+[13:21:09] Handa-cbf(Vrelitao) est en ligne.
+[13:52:02] Statut Absent activé.
+[14:04:41] Range-ta-chambre(Mariadb) est en ligne.
+[14:16:35] Un membre de votre guilde, Lotussia, est en ligne.
+[14:20:14] Statut Disponible activé.
+[14:25:06] Échange annulé
+[14:25:56] Vous avez désappris une attitude : Dofus Turquoise
+[14:25:56] Vous avez désappris une attitude : Dofus Pourpre
+[14:25:57] Ensemble POD plus plus activé.
+[14:26:39] Échange effectué
+[14:26:55] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[14:38:39] Vous avez perdu 190 kamas.
+[14:42:00] 1 x [Pierre d'âme d'Archi-monstre] (13 998 kamas)
+[14:42:27] 1 x [Pierre d'âme d'Archi-monstre] (14 999 kamas)
+[14:43:46] 1 x [Pierre d'âme d'Archi-monstre] (17 997 kamas)
+[14:44:16] à Fekin : [Pierre d'âme d'Archi-monstre]
+[14:44:33] 1 x [Pierre d'âme d'Archi-monstre] (19 297 kamas)
+[14:44:40] Un membre de votre guilde, Nk-Artifice, est en ligne.
+[14:44:40] Un membre de votre guilde, Nk-Atastrophe, est en ligne.
+[14:44:41] Un membre de votre guilde, Nk-Artichaud, est en ligne.
+[14:44:41] Un membre de votre guilde, Nk-Aramel, est en ligne.
+[14:47:21] 1 x [Pierre d'âme d'Archi-monstre] (19 999 kamas)
+[14:50:15] 1 x [Pierre d'âme d'Archi-monstre] (24 998 kamas)
+[14:51:16] Lotussia a déverrouillé le succès [Yokai des Tombeaux].
+[14:51:39] 1 x [Pierre d'âme d'Archi-monstre] (26 999 kamas)
+[14:51:51] Un membre de votre guilde, Nk-Sandara, est en ligne.
+[14:51:54] Un membre de votre guilde, Nk-Onellhy, est en ligne.
+[14:52:04] Un membre de votre guilde, Nk-Ahyra, est en ligne.
+[14:53:17] Un membre de votre guilde, Oracledb, est en ligne.
+[15:02:21] 1 x [Pierre d'âme d'Archi-monstre] (29 999 kamas)
+[15:02:50] 1 x [Pierre d'âme d'Archi-monstre] (59 995 kamas)
+[15:15:41] Cet objet n'est plus disponible à ce prix. Quelqu'un a été plus rapide...
+[15:15:50] 1 x [Pierre d'âme d'Archi-monstre] (72 999 kamas)
+[15:19:32] Cet objet n'est plus disponible à ce prix. Quelqu'un a été plus rapide...
+[15:19:40] 1 x [Pierre d'âme d'Archi-monstre] (45 000 kamas)
+[15:20:23] Vous avez perdu 20 kamas.
+[15:20:29] Vous avez payé 593 kamas pour accéder à ce coffre.
+[15:21:23] Vous avez perdu 20 kamas.
+[15:22:53] 1 x [Pierre d'âme d'Archi-monstre] (120 000 kamas)
+[15:25:21] 1 x [Pierre d'âme d'Archi-monstre] (115 000 kamas)
+[15:25:37] 1 x [Pierre d'âme d'Archi-monstre] (120 000 kamas)
+[15:25:53] 1 x [Pierre d'âme d'Archi-monstre] (120 000 kamas)
+[15:26:07] 1 x [Pierre d'âme d'Archi-monstre] (98 099 kamas)
+[15:26:50] 1 x [Pierre d'âme d'Archi-monstre] (99 777 kamas)
+[15:27:13] 1 x [Pierre d'âme d'Archi-monstre] (110 000 kamas)
+[15:27:29] 1 x [Pierre d'âme d'Archi-monstre] (96 999 kamas)
+[15:27:51] 1 x [Pierre d'âme d'Archi-monstre] (59 000 kamas)
+[15:28:07] 1 x [Pierre d'âme d'Archi-monstre] (128 999 kamas)
+[15:30:02] 1 x [Pierre d'âme d'Archi-monstre] (96 999 kamas)
+[15:31:46] 1 x [Pierre d'âme d'Archi-monstre] (90 000 kamas)
+[15:31:57] 1 x [Pierre d'âme d'Archi-monstre] (92 000 kamas)
+[15:32:09] 1 x [Pierre d'âme d'Archi-monstre] (109 999 kamas)
+[15:32:52] 1 x [Pierre d'âme d'Archi-monstre] (79 000 kamas)
+[15:33:07] 1 x [Pierre d'âme d'Archi-monstre] (89 999 kamas)
+[15:35:05] 1 x [Pierre d'âme d'Archi-monstre] (126 000 kamas)
+[15:35:29] 1 x [Pierre d'âme d'Archi-monstre] (98 800 kamas)
+[15:35:39] 1 x [Pierre d'âme d'Archi-monstre] (109 999 kamas)
+[15:35:56] 1 x [Pierre d'âme d'Archi-monstre] (70 000 kamas)
+[15:36:37] 1 x [Pierre d'âme d'Archi-monstre] (79 000 kamas)
+[15:37:24] 1 x [Pierre d'âme d'Archi-monstre] (119 999 kamas)
+[15:38:59] 1 x [Pierre d'âme d'Archi-monstre] (98 000 kamas)
+[15:40:25] 1 x [Pierre d'âme d'Archi-monstre] (48 999 kamas)
+[15:40:50] 1 x [Pierre d'âme d'Archi-monstre] (83 998 kamas)
+[15:41:15] 1 x [Pierre d'âme d'Archi-monstre] (59 000 kamas)
+[15:44:40] 1 x [Pierre d'âme d'Archi-monstre] (34 000 kamas)
+[15:45:05] Lotussia a déverrouillé le succès [Koumiho (Premier)].
+[15:45:05] Lotussia a déverrouillé le succès [Demeure des esprits].
+[15:45:05] Lotussia a déverrouillé le succès [Koumiho (Focus)].
+[15:45:05] Lotussia a déverrouillé le succès [Koumiho (Score 128)].
+[15:45:05] Lotussia a déverrouillé le succès [Koumiho (Score 200)].
+[15:45:16] 1 x [Pierre d'âme d'Archi-monstre] (59 998 kamas)
+[15:48:00] Vous ne disposez pas d'assez de kamas pour acheter cet objet.
+[15:52:11] Ka-Miikaze : Donne-moi à manger rapidement, sinon je dévore tes kamas.
+[15:53:46] « Savez-vous planter les choux ... »
+[15:56:46] Échange effectué
+[15:57:15] 1 x [Pierre d'âme d'Archi-monstre] (99 996 kamas)
+[15:59:57] Un membre de votre guilde, Sawalou, est en ligne.
+[16:01:15] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[16:02:00] Vous avez perdu 20 kamas.
+[16:02:07] Vous avez payé 593 kamas pour accéder à ce coffre.
+[16:06:07] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[16:07:02] Mea-lem : vous avez besoin des kamas?liquidez vos banque ! J achete vos runes a 50%!
+[16:09:53] Kuror : qlq reprend ressource ?
+[16:10:47] Vous avez perdu 320 kamas.
+[16:14:50] Échange effectué
+[16:18:47] Vous avez perdu 20 kamas.
+[16:20:30] Vous avez perdu 20 kamas.
+[16:30:40] Yousdem : L'intendant Danathor sent le roquefort. C'est sûrement pour ça qu'il n'a pas d'ami.
+[16:32:05] Arcalphine a déverrouillé le succès [Sanctuaire des Dragoeufs].
+[16:32:44] (Guilde) Oracledb : [16:32] (/b) Tw-neji-Nrv : Achète Pano complete level 200 ELEMENT FEU mp prix et achète aussi DOFUS VULBIS, mp moi!
+[16:39:37] Arcalphine a déverrouillé le succès [Dragoeufs Protecteurs].
+[16:44:13] tonton-du-bahu(Heiiden-I) est en ligne.
+[16:45:13] Oracledb a déverrouillé le succès [Crocabulia (Duo)].
+[16:45:13] Oracledb a déverrouillé le succès [Dragon rouge].
+[16:45:34] Arcalphine a déverrouillé le succès [Crocabulia (Duo)].
+[16:45:34] Arcalphine a déverrouillé le succès [Crocabulia (Versatile)].
+[16:45:34] Arcalphine a déverrouillé le succès [Antre de Crocabulia].
+[16:50:31] Arcalphine a déverrouillé le succès [Hauts des Hurlements].
+[16:54:01] Un membre de votre guilde, Fatou-Matou, est en ligne.
+[16:59:41] Arcalphine a déverrouillé le succès [Mulous].
+[17:03:11] Oracledb a déverrouillé le succès [Meulou (Duo)].
+[17:03:11] Oracledb a déverrouillé le succès [Bovidé enragé].
+[17:04:46] (Guilde) Oracledb : [17:04] (/b) Tw-neji-Nrv : A vendre [Crocobur] [Blérodoudou] 37
+[17:04:51] (Guilde) Oracledb : [Crocobur]
+[17:04:54] Arcalphine a déverrouillé le succès [Tanière du Meulou].
+[17:04:54] Arcalphine a déverrouillé le succès [Meulou (Duo)].
+[17:08:10] Arcalphine a déverrouillé le succès [Aerdala].
+[17:09:03] 1 x [Pierre d'âme d'Archi-monstre] (125 000 kamas)
+[17:17:47] Un membre de votre guilde, Athena-skull, est en ligne.
+[17:17:54] Un membre de votre guilde, Athena-heaal, est en ligne.
+[17:17:58] Un membre de votre guilde, Athen-roxx, est en ligne.
+[17:18:01] Un membre de votre guilde, Athen-sang, est en ligne.
+[17:18:07] Un membre de votre guilde, Athena-cheat, est en ligne.
+[17:18:10] Un membre de votre guilde, Athen-dwop, est en ligne.
+[17:18:14] Un membre de votre guilde, Athena-palm, est en ligne.
+[17:18:19] Un membre de votre guilde, Athen-pilou, est en ligne.
+[17:20:26] Oracledb a déverrouillé le succès [Hanshi et Shihan (Duo)].
+[17:20:26] Oracledb a déverrouillé le succès [Sous le vent].
+[17:25:33] Un membre de votre guilde, Nk-Lymphe, est en ligne.
+[17:25:48] Un membre de votre guilde, Nk-Tyrosine, est en ligne.
+[17:26:07] Un membre de votre guilde, Nk-Thymus, est en ligne.
+[17:26:46] Nk-Lymphe a déverrouillé le succès [Routes Rocailleuses].
+[17:26:47] Nk-Thymus a déverrouillé le succès [Routes Rocailleuses].
+[17:26:52] Nk-Tyrosine a déverrouillé le succès [Routes Rocailleuses].
+[17:27:29] Arcalphine a déverrouillé le succès [Hanshi et Shihan (Pusillanime)].
+[17:27:29] Arcalphine a déverrouillé le succès [Hanshi et Shihan (Duo)].
+[17:27:29] Arcalphine a déverrouillé le succès [Dojo du Vent].
+[17:28:45] Un membre de votre guilde, Nk-Alzerya, est en ligne.
+[17:30:46] Vous avez créé 2 × [Baleinabottes] pour Nk-Alzerya !
+[17:30:53] Vous avez créé 2 × [Menoture] pour Nk-Alzerya !
+[17:30:58] Vous avez créé 1 × [Solerets de Guerre] pour Nk-Alzerya !
+[17:31:24] Vous avez créé 2 × [Collier du Valet Veinard] pour Nk-Alzerya !
+[17:31:29] Vous avez créé 2 × [Gant du Valet Veinard] pour Nk-Alzerya !
+[17:31:34] Vous avez créé 2 × [Alliance Gloursonne] pour Nk-Alzerya !
+[17:31:38] Vous avez créé 1 × [Ceste de Guerre] pour Nk-Alzerya !
+[17:31:42] Vous avez créé 1 × [Amulette Volkorne] pour Nk-Alzerya !
+[17:33:12] Vous avez créé 2 × [Karnak] pour Nk-Alzerya !

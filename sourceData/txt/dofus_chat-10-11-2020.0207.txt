@@ -1,0 +1,3003 @@
+[08:51:58] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[08:51:59] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[08:51:59] Précédente connexion sur ce compte : 08/11/2020 à 13:38
+[08:51:59] Vous avez récupéré 300 points d'énergie.
+[08:51:59] Annonce de guilde : Code abo 3 jours : 3DABONOV2020 ALMANAX: 3 novembre: 15% d'economie sur les crafts dans la zone du Village d'Amakna ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[08:51:59] Annonce d'alliance : DISCORD D'ALLI [https://discord.gg/7Gq4QrC] Point de rencontre Zaap Pandala [20,-29] ! Dernier Taupe Rush de ce soir décalé à jeudi prochain ! Have fun les amis ;)
+[08:51:59] Titre obtenu : [Poursuivante de Mythes]
+[08:51:59] Succès déverrouillé : [Major de promotion canapé]
+[09:11:12] Un percepteur de la guilde The Destiny est attaqué dans Jungle Interdite en [29,7].
+[09:11:20] (Alliance) Bad-Cynthia : go go
+[09:11:24] (Alliance) Bad-Cynthia : go sont 2
+[09:11:40] (Alliance) Bad-Cynthia : encore 2 lasty
+[09:11:45] (Alliance) Bad-Cynthia : go def
+[09:11:51] (Alliance) Loris-Sanguinaire : Je laisserais ma place a un 200 si besoin
+[09:11:54] (Alliance) Bad-Cynthia : allo
+[09:13:03] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[09:13:03] Vous avez désappris une attitude : Dofus Pourpre
+[09:13:03] Vous avez désappris une attitude : Dofus Turquoise
+[09:13:03] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[09:13:03] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[09:13:04] Ensemble Terre PVMM activé.
+[09:14:15] Vous avez perdu 450 kamas.
+[09:20:08] Le percepteur de la guilde The Destiny attaqué en [29,7] a survécu !
+[09:20:14] (Alliance) Bad-Cynthia : gg
+[09:20:21] (Alliance) Tya-la-feca : gg
+[09:20:24] (Alliance) Everdale : ez clap
+[09:20:24] (Alliance) Loris-Sanguinaire : Vous pouvez l'dire, j'ai carry le cbt
+[09:20:26] (Alliance) Loris-Sanguinaire : c:
+[09:20:37] (Alliance) Bad-Cynthia : yes xd
+[09:21:20] (Alliance) Bad-Cynthia : j‘ai une question enfaite
+[09:22:00] (Alliance) Bad-Cynthia : comment on charger dofus ebene en 3 charge sur le 1er tour ?
+[09:22:09] (Alliance) Tya-la-feca : 1 charge tour
+[09:22:14] (Alliance) Tya-la-feca : 1 charge distance 1 charge mêlée
+[09:22:22] (Alliance) Everdale : dommage cac et dommage distance puis 1 charge a chaque debut de tour
+[09:22:26] (Alliance) Everdale : t2 t'es charge 4
+[09:22:30] (Alliance) Tya-la-feca : yep
+[09:22:34] (Alliance) Bad-Cynthia : ah ok merci
+[09:22:35] (Alliance) Tya-la-feca : T2 tu pose un ébène
+[09:22:55] (Alliance) Everdale : Quel dofus
+[09:23:03] (Alliance) Everdale : une revolution
+[09:33:09] Vous avez perdu 410 kamas.
+[09:33:49] Vous avez perdu 20 kamas.
+[09:34:08] (Alliance) Papi-Pota : Bonjour o:
+[09:34:17] (Alliance) Bad-Cynthia : coucou
+[09:34:52] Un percepteur de la guilde Paradigme est attaqué dans Chemin du Crâne en [34,4].
+[09:35:02] (Alliance) Bad-Cynthia : go go
+[09:35:05] (Alliance) Loris-Sanguinaire : Ils le veulent vraiment ce perco mdr
+[09:35:14] (Alliance) Loris-Sanguinaire : 3e attaque en 1h
+[09:35:21] (Alliance) Bad-Cynthia : gooo def
+[09:35:24] (Alliance) Bad-Cynthia : aller
+[09:35:31] (Alliance) Loris-Sanguinaire : J'y vais pas solo x)
+[09:37:45] Le percepteur de la guilde Paradigme attaqué en [34,4] n'a pas survécu !
+[09:38:03] (Alliance) Bad-Cynthia : stop souler, et go def la prochaine fois les gars
+[09:38:18] (Alliance) Tya-la-feca : stop souler ?
+[09:38:26] (Alliance) Tya-la-feca : Au pire défend si t'es pas content
+[09:38:43] (Alliance) Tya-la-feca : on a le droit de pas avoir envie ou d'avoir autre chose à faire sans prendre des remarques de débile comme ça
+[09:38:54] (Alliance) Tya-la-feca : Au moins autant que tu as le droit de défendre autant que tu veux en tout cas
+[09:39:02] (Alliance) Tya-la-feca : donc tes réflexions de con tu te les garde ok ?
+[09:40:55] (Alliance) Bad-Cynthia : Tya en force
+[09:41:52] (Alliance) Slayerz : Faut partir du principe que si tu poses un perco, tu sait qu'il y a des risque d'aggro et de perte du perco. C'est pas legit de raler que y'a pas assez de def...
+[09:44:06] Range-ta-chambre(Mariadb) est en ligne.
+[09:44:09] (Alliance) Bad-Cynthia : le message que j‘ai voulais vous faire passez, c‘est que contre 3 et parfois on def meme pas alors que il y‘a tlm ici ce qui courage de contunie nous farm OKLM
+[09:44:34] (Alliance) Tya-la-feca : Ui mais pour la enième fois, PTZ n'est pas une alliance compétitive pvp
+[09:44:41] (Alliance) Tya-la-feca : On s'en branle a 500% du pvp
+[09:44:48] (Alliance) Tya-la-feca : Un perco meurt c'est le cadet de nos soucis
+[09:45:00] (Alliance) Bad-Cynthia : J‘ai pas dit que PTZ est une alliance pvp mdr
+[09:45:10] (Alliance) Tya-la-feca : Si tu veux de la compétition pvp va chez Over ou chez EZPK
+[09:45:14] (Alliance) Tya-la-feca : t'aura du monde pour def avec toi tkt
+[09:45:23] (Alliance) Bad-Cynthia : non mais MDR Jamais
+[09:45:39] (Alliance) Tya-la-feca : Bah arrête d'etre surpris que personne def chez ptz
+[09:45:51] (Alliance) Tya-la-feca : On def quand on a envie, par parce qu'on est obligé
+[09:45:57] (Alliance) Tya-la-feca : pas*
+[09:46:18] (Alliance) Bad-Cynthia : Tya wallah que sa sera rien de se nerve xd je suis la depuis 1mois et quelque semaine donc je sais tous xd
+[09:46:56] (Alliance) Papi-Pota : je suis la depuis un bon moment je découvre encore des trucs :o
+[09:47:07] (Alliance) Papi-Pota : c'est quoi PTZ ?
+[09:47:17] (Alliance) Tya-la-feca : Paye ton Zdeh
+[09:47:25] (Alliance) Bad-Cynthia : mdr
+[09:47:26] (Alliance) Papi-Pota : je fume pas :x
+[09:47:28] Un membre de votre guilde, Sawalou, est en ligne.
+[09:47:29] (Alliance) Tya-la-feca : :x
+[09:48:37] (Alliance) Papi-Pota : mais jte fume toi!
+[09:49:00] (Alliance) Papi-Pota : j'ai gagné :D
+[09:49:53] (Alliance) Tya-la-feca : mdr
+[09:50:26] (Alliance) Rs-Ocean : Fojumo [-13,-44]
+[09:50:45] (Alliance) Ulnaire : Quelqu'un va le faire ?
+[09:51:01] (Alliance) Rs-Ocean : (pas moi ^^)
+[09:52:03] (Alliance) Jay-K-Y : Nike Vaporwaffle x Sacai Royal Fuschia en 42 à vendre les gars
+[09:55:00] Un membre de votre guilde, Vheas, est en ligne.
+[09:55:02] Un membre de votre guilde, Vhigoureux, est en ligne.
+[09:55:05] Un membre de votre guilde, Vhirtuose, est en ligne.
+[09:55:36] Un membre de votre guilde, Vhirulent, est en ligne.
+[09:55:49] (Alliance) Tya-la-feca : j'ai rien compris
+[09:55:54] (Alliance) Tya-la-feca : mdr
+[09:56:17] (Alliance) Bad-Cynthia : Vasy A+
+[09:56:26] (Alliance) Tya-la-feca : a+
+[09:57:10] (Alliance) Papi-Pota : j'ai controle :o
+[09:57:12] (Alliance) Papi-Pota : bisos
+[10:03:38] (Alliance) Petitechiieuse : hello un coordomage de dispo ?
+[10:07:00] (Alliance) Mamie-chance : bonjouuuur :)
+[10:07:27] (Alliance) Tya-la-feca : hello :)
+[10:07:51] (Alliance) Petitechiieuse : hello un coordomage de dispo ?
+[10:08:00] (Alliance) Loris-Sanguinaire : need help dj chouque
+[10:08:01] (Alliance) Mamie-chance : cmt ca va tya ?
+[10:08:29] (Alliance) Loris-Sanguinaire : Esse vé pé édé in povr upérre léveuleu 18x c:
+[10:14:01] (Alliance) Tya-la-feca : ca va et toi mamie ?
+[10:14:22] (Alliance) Mamie-chance : j'ai envie de défoncer les chats mdrrr
+[10:15:52] (Alliance) Mamie-chance : 2h qu'elles se ralent dessus --'
+[10:16:55] (Alliance) Nunu-Vuyton : Bonjour :)
+[10:16:55] (Alliance) Tya-la-feca : xD
+[10:17:00] (Alliance) Tya-la-feca : slt
+[10:17:14] Un percepteur de la guilde Pelush est attaqué dans Galère de Servitude en [2,0].
+[10:20:27] Le percepteur de la guilde Pelush attaqué en [2,0] n'a pas survécu !
+[10:24:39] Un percepteur de la guilde Colossus est attaqué dans Désert de Misère en [2,1].
+[10:27:48] Le percepteur de la guilde Colossus attaqué en [2,1] n'a pas survécu !
+[10:34:17] (Alliance) Avada-Kedavraa : Bonjour
+[10:34:24] (Alliance) Avada-Kedavraa : Dispo songe si jamais :)
+[10:34:27] (Alliance) Kiwi-Sword : Salut
+[10:36:14] Un membre de votre guilde, Oracledb, est en ligne.
+[10:46:33] (Alliance) Tenshinhaan : Personne a une place songe 250+ ?
+[10:49:58] Un percepteur de la guilde Constellation est attaqué dans Pyramide Maudite en [13,-76].
+[10:50:14] (Alliance) Avada-Kedavraa : En koli
+[10:52:34] Le percepteur de la guilde Constellation attaqué en [13,-76] n'a pas survécu !
+[10:54:06] KEKElecHO(Arcalphine) est en ligne.
+[10:54:07] Grougalorafaust(Pandubin) est en ligne.
+[10:54:14] Vous avez perdu 20 kamas.
+[10:56:15] (Alliance) Avada-Kedavraa : 1 last pour koli ?
+[10:56:53] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[10:56:53] Vous avez 5 contact(s) réciproque(s) connecté(s).
+[10:56:53] Le point de repère [-1,-4] a été ajouté sur la carte Incarnam.
+[10:56:53] Le point de repère [0,-1] a été ajouté sur la carte Incarnam.
+[10:56:53] Le point de repère [-2,-2] a été ajouté sur la carte Incarnam.
+[10:56:53] Le point de repère [2,-5] a été ajouté sur la carte Incarnam.
+[10:56:53] Le point de repère [0,-3] a été ajouté sur la carte Incarnam.
+[10:56:53] Le point de repère [0,-4] a été ajouté sur la carte Incarnam.
+[10:57:41] Grougalorafaust(Scramubine) est en ligne.
+[10:57:54] KEKElecHO(Sangubin) est en ligne.
+[10:58:08] (Groupe) Mariadb : Je suis dim obscur
+[10:58:13] (Groupe) Mariadb : Sur la map d'accès a l'orme
+[10:58:32] (Groupe) Kann-Ybale : je connais pas
+[10:58:40] (Groupe) Eis : va dim obscur
+[10:58:41] (Groupe) Kann-Ybale : l'orme en srambad ?
+[10:58:46] (Groupe) Kann-Ybale : ok ok
+[10:58:58] Caractéristiques de base réinitialisées.
+[10:59:19] (Groupe) Eis : zaap coin des bouf
+[10:59:27] (Groupe) Eis : [6,13]
+[10:59:31] (Groupe) Eis : Je te guide après
+[10:59:52] (Groupe) Eis : tu voulais pas un 2e perso ?
+[11:00:39] Eis suit votre déplacement.
+[11:00:51] (Groupe) Kann-Ybale : j'arrive je file un stuf
+[11:00:54] Échange annulé
+[11:01:51] Échange effectué
+[11:01:56] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[11:02:35] de Naoho : salut
+[11:02:58] (Groupe) Sangubin : prend pas la tp hein
+[11:03:31] de Naoho : Un échange d'archi ?
+[11:03:39] à Naoho : Hello
+[11:03:46] (Groupe) Eis : jvais faire un sieste en attendant que tu vienne sur la map
+[11:04:19] (Groupe) Sangubin : je speed
+[11:04:40] Sangubin a déverrouillé le succès [Millifutaie].
+[11:04:55] Sangubin a déverrouillé le succès [Champ des Ingalsse].
+[11:05:05] Sangubin a déverrouillé le succès [Coin des Bouftous].
+[11:05:15] (Groupe) Sangubin : ton volkorn il est 100 avant cette aprem
+[11:05:24] (Groupe) Eis : il est 44 en 2 cbt
+[11:05:32] Sangubin souhaite téléporter tout le groupe devant : Donjon des Tofus.
+[11:05:33] Succès déverrouillé : [Champ des Ingalsse]
+[11:05:43] Vous venez de mémoriser un nouveau zaap.
+[11:05:43] Succès déverrouillé : [Coin des Bouftous]
+[11:05:54] (Groupe) Sangubin : [6,13]
+[11:06:12] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[11:06:16] Le point de repère [6,13] a été ajouté sur la carte Monde principal.
+[11:06:29] Sangubin a déverrouillé le succès [Forêt d'Amakna].
+[11:06:30] Succès déverrouillé : [Forêt d'Amakna]
+[11:07:10] Sangubin a déverrouillé le succès [Dimension Obscure].
+[11:07:11] Vous venez de mémoriser un nouveau zaap.
+[11:07:11] Succès déverrouillé : [Dimension Obscure]
+[11:07:57] à Naoho : je pars en dim obscur :s
+[11:08:02] Des monstres attaquent Eis ([6,13]).
+[11:08:10] de Naoho : Ok pas grave
+[11:08:32] à Naoho : on voit ça après tu proposais quel echange ?
+[11:09:17] 14 secondes ajoutées au prochain tour de jeu.
+[11:09:59] Reactjs a fait échouer le challenge Mains propres.
+[11:10:20] 20 secondes ajoutées au prochain tour de jeu.
+[11:11:08] (Groupe) Kann-Ybale : ça tape que au cac ?
+[11:11:21] 23 secondes ajoutées au prochain tour de jeu.
+[11:11:25] (Groupe) Oracledb : non mais a courte po
+[11:11:53] Vous avez gagné 89 302 848 points d'expérience.
+[11:12:21] (Groupe) Eis : C'est simple et ca xp pas mal
+[11:12:30] (Groupe) Sangubin : yep ^^"
+[11:12:35] (Groupe) Sangubin : c'est meme rapide
+[11:12:35] (Groupe) Oracledb : On attend le repop de cette map
+[11:13:01] (Groupe) Sangubin : elle te permet de controler facilement av"ec repousse du cra et rall pm du sadi
+[11:13:13] (Groupe) Eis : faut juste avoir un start loin
+[11:13:28] (Groupe) Eis : Si y'a un obstacle je met idole 400*
+[11:13:31] (Groupe) Eis : Sinon 260
+[11:13:45] (Groupe) Sangubin : bihélète majistrale ?
+[11:13:50] (Groupe) Sangubin : que tu enlève?
+[11:13:57] (Groupe) Eis : bihi peho leukide
+[11:14:01] (Groupe) Eis : Euh non
+[11:14:05] (Groupe) Eis : Je mets une compo rien a voir
+[11:14:09] (Groupe) Eis : Qui attire pas
+[11:14:10] (Groupe) Sangubin : ok ok
+[11:14:12] (Groupe) Eis : les mob OS toujours
+[11:14:15] (Groupe) Eis : Mais on est pas attiré
+[11:14:24] (Groupe) Eis : repop nul
+[11:14:26] Des monstres attaquent Reactjs ([6,13]).
+[11:15:23] (Groupe) Sangubin : je fais rioen pour te boost ?
+[11:15:27] (Groupe) Reactjs : non
+[11:15:40] 25 secondes ajoutées au prochain tour de jeu.
+[11:16:01] Oracledb a fait échouer le challenge Cruel.
+[11:16:38] 25 secondes ajoutées au prochain tour de jeu.
+[11:17:17] 26 secondes ajoutées au prochain tour de jeu.
+[11:17:40] 27 secondes ajoutées au prochain tour de jeu.
+[11:17:47] Vous avez gagné 55 892 752 points d'expérience.
+[11:18:26] (Groupe) Reactjs : map tjr bien :)
+[11:18:31] (Groupe) Reactjs : On campe jusqu'a ce qu'elle soit nul
+[11:18:34] (Groupe) Kann-Ybale : ^^"
+[11:18:41] Des monstres attaquent Reactjs ([6,13]).
+[11:18:44] (Groupe) Kann-Ybale : tu pense qu'a deux ça xp ?
+[11:19:40] 26 secondes ajoutées au prochain tour de jeu.
+[11:20:36] (Groupe) Reactjs : fuck
+[11:20:39] Oracledb a fait échouer le challenge Mains propres.
+[11:21:00] (Groupe) Kann-Ybale : un moove pour les block ?
+[11:21:04] (Groupe) Mariadb : passe
+[11:21:05] 21 secondes ajoutées au prochain tour de jeu.
+[11:21:48] 23 secondes ajoutées au prochain tour de jeu.
+[11:21:48] (Équipe) Oracledb : Cellule 241
+[11:21:53] (Groupe) Kann-Ybale : ah
+[11:22:04] (Groupe) Mariadb : bon c'est mort mnt
+[11:22:56] Vous avez gagné 751 594 points d'expérience.
+[11:22:56] Vous avez perdu 1990 points d'énergie.
+[11:23:08] (Groupe) Oracledb : tu lui donnais pas la zone c'était bon
+[11:23:09] (Groupe) Oracledb : rip
+[11:23:10] (Groupe) Oracledb : Jvais tp
+[11:24:04] (Groupe) Kann-Ybale : :/
+[11:24:57] Oracledb souhaite téléporter tout le groupe devant : Pyramide d'Ombre.
+[11:26:08] Des monstres attaquent Reactjs ([6,13]).
+[11:26:11] Vous avez récupéré 387 PV.
+[11:26:21] (Équipe) Eis : Cellule 255
+[11:26:21] (Équipe) Eis : Cellule 269
+[11:28:15] Reactjs a fait échouer le challenge Mains propres.
+[11:30:37] Vous avez gagné 76 082 712 points d'expérience.
+[11:30:56] Des monstres attaquent Mariadb ([6,13]).
+[11:31:07] (Équipe) Eis : Cellule 424
+[11:31:07] (Équipe) Eis : Cellule 316
+[11:31:44] Reactjs a fait échouer le challenge Nomade.
+[11:31:51] Banque : + 1 000 Kamas (vente : 1 [Cawotte Transgénique]).
+[11:31:52] Banque : + 1 000 Kamas (vente : 1 [Cawotte Transgénique]).
+[11:31:53] Banque : + 1 000 Kamas (vente : 1 [Cawotte Transgénique]).
+[11:32:03] 24 secondes ajoutées au prochain tour de jeu.
+[11:32:55] 24 secondes ajoutées au prochain tour de jeu.
+[11:33:42] 25 secondes ajoutées au prochain tour de jeu.
+[11:34:32] 25 secondes ajoutées au prochain tour de jeu.
+[11:35:03] Vous avez gagné 75 599 976 points d'expérience.
+[11:36:24] (Groupe) Mariadb : revanche
+[11:36:27] Des monstres attaquent Mariadb ([6,13]).
+[11:36:42] (Groupe) Kann-Ybale : x)
+[11:36:51] (Groupe) Oracledb : avec un chall
+[11:37:00] (Groupe) Sangubin : x)
+[11:37:08] (Groupe) Sangubin : on crois en toi
+[11:37:14] (Groupe) Sangubin : je reste là ?
+[11:37:17] Mariadb a fait échouer le challenge Intouchable.
+[11:37:25] (Groupe) Mariadb : ah x)
+[11:37:40] (Groupe) Sangubin : [11:36] (Groupe) Mariadb : revanche
+[11:37:45] (Groupe) Sangubin : [11:36] (Groupe) Oracledb : avec un chall
+[11:37:49] 24 secondes ajoutées au prochain tour de jeu.
+[11:37:57] (Groupe) Sangubin : [11:37] Mariadb a fait échouer le challenge Intouchable.
+[11:38:03] (Groupe) Sangubin : x)
+[11:38:10] (Groupe) Eis : Le panterrreur renvoi des degats
+[11:38:15] (Groupe) Eis : Jpeux faire le chall mais on meurt
+[11:38:17] (Groupe) Eis : si tu veux
+[11:38:21] (Groupe) Sangubin : x)
+[11:38:36] (Groupe) Sangubin : il renvoit forcerment ?
+[11:38:44] (Groupe) Sangubin : forcément*
+[11:38:55] 23 secondes ajoutées au prochain tour de jeu.
+[11:39:19] (Groupe) Sangubin : ouille
+[11:39:57] Handa-cbf(Vrelitao) est en ligne.
+[11:40:38] à Vrelitao : Hey :)
+[11:40:43] Handa-cbf (Vrelitao) se trouve en Baie de Sufokia sur le serveur Ush. Guilde Pelush, alliance [PTZ]
+[11:40:43] 9 Novamaire 650 - 11:40
+[11:41:11] Vous avez gagné 87 367 816 points d'expérience.
+[11:41:59] Des monstres attaquent Reactjs ([6,13]).
+[11:42:52] Des monstres attaquent Reactjs ([6,13]).
+[11:43:12] (Groupe) Sangubin : je cours à la mort ?
+[11:43:18] (Groupe) Oracledb : oui
+[11:43:35] Oracledb a fait échouer le challenge Intouchable.
+[11:44:11] (Groupe) Mariadb : casse les couilles
+[11:44:42] Oracledb a fait échouer le challenge Intouchable.
+[11:44:42] Vous avez perdu 1990 points d'énergie.
+[11:45:02] (Groupe) Mariadb : C'es(t chiant d'avoir plein de sasa mon sadi a jamais l'ini
+[11:45:20] (Groupe) Mariadb : jvais re tp
+[11:45:22] (Groupe) Mariadb : Me manque 2 lvl
+[11:45:29] (Groupe) Kann-Ybale : ok ook
+[11:46:34] Mariadb souhaite téléporter tout le groupe devant : Pyramide d'Ombre.
+[11:47:40] (Groupe) Oracledb : a droite là
+[11:48:04] Des monstres attaquent Reactjs ([6,13]).
+[11:48:07] Vous avez récupéré 408 PV.
+[11:49:19] 23 secondes ajoutées au prochain tour de jeu.
+[11:49:19] (Groupe) Oracledb : cache toi
+[11:49:22] (Groupe) Oracledb : -_-
+[11:49:24] (Groupe) Oracledb : on va crever
+[11:49:28] (Groupe) Sangubin : j'ai pas eu le tach
+[11:49:35] (Groupe) Oracledb : tue le sadi
+[11:49:38] (Groupe) Oracledb : tape le distance
+[11:49:42] (Groupe) Oracledb : Ah bah nan
+[11:49:45] (Groupe) Oracledb : Juste cache toi
+[11:49:49] (Équipe) Oracledb : Cellule 178
+[11:51:06] (Équipe) Mariadb : Cellule 382
+[11:51:17] (Groupe) Kann-Ybale : je rall fait un truc ?
+[11:51:19] (Groupe) Mariadb : non
+[11:51:20] 17 secondes ajoutées au prochain tour de jeu.
+[11:51:20] (Groupe) Mariadb : passe
+[11:51:31] (Équipe) Mariadb : Cellule 161
+[11:52:17] (Groupe) Sangubin : je me sacrifice ?
+[11:52:20] (Groupe) Mariadb : passe
+[11:53:15] Vous avez gagné 65 491 116 points d'expérience.
+[11:53:28] (Groupe) Oracledb : [11:53] Votre monture vient de passer au niveau 100.
+[11:53:29] (Groupe) Oracledb : youpi
+[11:53:37] (Groupe) Sangubin : nice
+[11:53:40] (Groupe) Sangubin : :)
+[11:53:43] (Groupe) Sangubin : je re
+[11:54:05] Un membre de votre guilde, Expressjs, est en ligne.
+[11:54:42] (Groupe) Sangubin : je suis re
+[11:54:52] (Groupe) Sangubin : c'est quoi comme DD ?
+[11:54:56] (Groupe) Oracledb : [Volkorne Pourpre et Orchidée]
+[11:55:10] (Groupe) Sangubin : le fameux
+[11:55:13] (Groupe) Sangubin : terre feu porteuse
+[11:55:16] (Groupe) Sangubin : x)
+[11:55:25] (Groupe) Oracledb : 80.000k
+[11:55:31] (Groupe) Sangubin : pas mal
+[11:55:45] (Groupe) Oracledb : Le fami PA 50 pui coute 10m
+[11:55:48] (Groupe) Oracledb : Donc bon
+[11:55:51] (Groupe) Oracledb : 80.000 vs 10m
+[11:56:05] (Groupe) Sangubin : x)
+[11:56:35] (Groupe) Sangubin : je vais monter un puissance / agi pour l'ougi
+[11:56:57] (Groupe) Sangubin : après faut des pepite pour nourir ces salles bète
+[11:57:02] (Groupe) Oracledb : Mais nan x)
+[11:57:09] (Groupe) Oracledb : Tu le mets en enclos avec une mangeoire
+[11:57:31] (Groupe) Sangubin : à l'enclos publique ?
+[11:57:36] (Groupe) Oracledb : Bah oui
+[11:57:41] (Groupe) Sangubin : ok
+[11:57:44] (Groupe) Oracledb : jvais faire ca tien
+[11:57:47] (Groupe) Sangubin : et ça prend pas la nuit aussi ?
+[11:57:47] (Groupe) Oracledb : bonne idée
+[11:57:52] (Groupe) Oracledb : Si ca prend lgt
+[12:10:52] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[12:10:52] Précédente connexion sur ce compte : 09/11/2020 à 10:56
+[12:10:52] Vous avez récupéré 50 points d'énergie.
+[12:10:52] Annonce de guilde : Code abo 3 jours : 3DABONOV2020 ALMANAX: 3 novembre: 15% d'economie sur les crafts dans la zone du Village d'Amakna ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[12:10:52] Annonce d'alliance : DISCORD D'ALLI [https://discord.gg/7Gq4QrC] Point de rencontre Zaap Pandala [20,-29] ! Dernier Taupe Rush de ce soir décalé à jeudi prochain ! Have fun les amis ;)
+[12:10:52] Vous avez 5 contact(s) réciproque(s) connecté(s).
+[12:11:12] Vous avez perdu 20 kamas.
+[12:12:03] 10 x [Broderie de la Prêtresse de Kao] (9 999 kamas)
+[12:12:05] 10 x [Broderie de la Prêtresse de Kao] (9 999 kamas)
+[12:12:07] 10 x [Broderie de la Prêtresse de Kao] (10 000 kamas)
+[12:12:53] Échange effectué
+[12:19:17] (Alliance) Swarps : du monde pour [Shogun Tofugawa (Hardi)]
+[12:19:26] (Alliance) Micro-Ondes : ouaip
+[12:19:27] (Alliance) Swarps : je suis pas un expert des invi du dj x)
+[12:20:01] (Alliance) Solstore : j'achete un dofusemeaude si qualaun en vend 1 ^^
+[12:26:32] (Alliance) Nunu-Vuyton : Hello/Re :)
+[12:41:10] (Alliance) ---Hysoka--- : Hello
+[12:42:23] Un membre de votre guilde, Lotussia, est en ligne.
+[13:05:31] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[13:05:31] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[13:05:32] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[13:05:33] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[13:05:33] 1 x [Poudre explosive de Gourlo] (10 000 kamas)
+[13:08:02] KEKElecHO(Arcalphine) est en ligne.
+[13:09:14] Grougalorafaust(Pandubin) est en ligne.
+[13:11:33] (Groupe) Reactjs : Flasho [-69,-66]
+[13:13:02] Pandubin a déverrouillé le succès [Village enseveli].
+[13:13:24] (Groupe) Fekin : je corus
+[13:14:31] (Groupe) Kinex : il se passe rien y a un prérequis ?
+[13:14:52] (Groupe) Expressjs : [-76,-74]
+[13:14:54] (Groupe) Expressjs : le mec est la
+[13:14:57] (Groupe) Expressjs : parle lui avant
+[13:15:02] (Groupe) Expressjs : Ou parle au mec sur la map de la milice
+[13:15:23] (Groupe) Expressjs : ca fait 20min que j'attend jsuis en train de tilt
+[13:15:53] (Alliance) Man-Yo : des gens pour un cb de quete où faut juste taper ?
+[13:16:40] (Groupe) Fekin : j"'arrive
+[13:16:43] (Groupe) Fekin : j'ai sur tout les perso
+[13:17:03] Vous avez perdu 470 kamas.
+[13:17:53] Arcalphine a déverrouillé le succès [Grottes gelées].
+[13:17:53] Arcalphine a déverrouillé le succès [Sang-froid].
+[13:18:52] (Groupe) Arcalphine : je suis là :)
+[13:18:56] Des monstres attaquent Expressjs ([-69,-66]).
+[13:19:47] Oracledb a fait échouer le challenge Versatile.
+[13:20:13] (Groupe) Pandubin : j'embarque un perso ?
+[13:20:17] (Groupe) Oracledb : vulne
+[13:20:17] (Groupe) Oracledb : non
+[13:20:32] (Groupe) Oracledb : et libere la ligne apres
+[13:23:17] (Groupe) Pandubin : soin le cra ?
+[13:23:23] (Groupe) Oracledb : osfffff
+[13:23:23] (Groupe) Oracledb : jouie
+[13:24:53] Vous avez gagné 552 549 points d'expérience.
+[13:24:59] (Groupe) Fekin : gg
+[13:25:09] (Groupe) Fekin : [Objet bizarre]
+[13:25:15] (Groupe) Fekin : c'est quoi ça ?
+[13:25:39] (Groupe) Oracledb : un objet de quete
+[13:25:51] Oracledb a déverrouillé le succès [Perdu de recherche].
+[13:25:51] Oracledb a déverrouillé le succès [Commission impossible].
+[13:25:58] (Groupe) Fekin : je go biab
+[13:26:01] (Groupe) Fekin : je rend ça apres
+[13:26:04] (Groupe) Fekin : berci :)
+[13:32:38] (Alliance) Ex-acerbation : Hello, y'a une team pour me filer un coup de main pour le cbt a 3 vagues sur Crocuzko ?
+[13:39:24] Des monstres attaquent Expressjs (Tour de la Milice).
+[13:41:02] Des monstres attaquent Expressjs (Tour de la Milice).
+[13:42:27] Des monstres attaquent Expressjs (Tour de la Milice).
+[13:48:22] (Alliance) Tenshinhaan : Personne a une place songe 250+ ?
+[13:49:00] (Alliance) Saysk : en parlant de songe je cherche des gens pour m'aider a monter les miens
+[14:03:17] (Alliance) Ryuiz : Muldo Orchidée Sauvage [22,31]
+[14:06:23] Un membre de votre guilde, Oo-plionor, est en ligne.
+[14:12:18] Banque : + 6 440 Kamas (vente : 10 [Cawotte Transgénique]).
+[14:12:19] Banque : + 6 440 Kamas (vente : 10 [Cawotte Transgénique]).
+[14:12:41] tonton-du-bahu(Heiiden-I) est en ligne.
+[14:20:27] Un membre de votre guilde, Gunk, est en ligne.
+[14:21:03] (Alliance) Majestueur : c'est combien de croquettes qu'il faut deja pour up un familier/montilier... level 100 svp ?
+[14:21:10] Quête mise à jour : [Les indésirables.]
+[14:21:10] Quête terminée : [On recherche Flasho.]
+[14:21:10] Objets reçus : 4 x [Kama de glace]
+[14:21:10] Objets reçus : 1860 x [Doplon]
+[14:21:10] Vous avez perdu 1 '[Flasho]'.
+[14:21:13] (Alliance) Kathryn : 350/400
+[14:21:16] (Alliance) Micaeli : 36x
+[14:21:22] (Alliance) Majestueur : exactement si possible
+[14:21:43] (Alliance) Micaeli : 394
+[14:21:44] (Alliance) Kathryn : Achète 350 croquettes et tu fais au fur et a mesure
+[14:21:55] (Alliance) Micaeli : c'est 394 je viens de vérifier
+[14:22:05] (Alliance) Majestueur : ça marche merci, j'hésitez entre 390 et 400 le nombre exact ^^
+[14:22:43] (Alliance) Solstore : [Croquette] cest cest croquette la ?
+[14:22:52] (Alliance) Majestueur : [Croquette enrichie]
+[14:23:06] (Alliance) Solstore : ah oui parce que jallais dir autant les drop ^^
+[14:23:19] (Alliance) Frey-Zup : achete des pépites que tu echanges contres des croquettes enrichie au temple alliance
+[14:23:34] (Alliance) Majestueur : j'ai eu ça via les kolis, j'finis avec les pépites yep ^^
+[14:23:41] (Alliance) Lylis-Charmant : avec des kolizetons aussi ( 100 par croquettes )
+[14:28:29] (Alliance) Rokhen : [https://www.twitch.tv/ankamalive]
+[14:28:31] (Alliance) Rokhen : FYI
+[14:30:58] (Alliance) Ipaa : qui voulais songe toute a l'heure ?
+[14:31:10] (Alliance) Tenshinhaan : Moi mais du coup j'ai trouvé merci
+[14:31:29] (Alliance) Ipaa : D'acc Np
+[14:36:32] (Alliance) Ipaa : 1 place songe
+[14:36:34] (Alliance) Stannis : Hey tout le monde ^^
+[14:36:48] (Alliance) Nunu-Vuyton : Salut :)
+[14:36:48] (Alliance) Ipaa : coucou :D
+[14:37:12] (Alliance) Stannis : Comment allez-vous ?
+[14:37:20] (Alliance) ---Hysoka--- : Salut Stannis :)
+[14:37:23] (Alliance) Orimage : Hello :)
+[14:37:40] (Alliance) Stannis : Hyso, Ori que des magnifiques dans ce canal
+[14:37:55] (Alliance) ---Hysoka--- : ^^
+[14:38:07] (Alliance) ---Hysoka--- : Et toi, la cerise sur le gateau :p
+[14:38:09] Vous avez perdu 20 kamas.
+[14:38:19] (Alliance) Stannis : Ahahahah je suis le gateau moi
+[14:39:03] (Alliance) Stannis : Quelqu'un a besoin du succès mobs roissingue ?
+[14:39:07] (Alliance) Stannis : Je vais faire la PDA
+[14:39:26] (Alliance) ---Hysoka--- : C'est bon pour moi, merci ^^
+[14:39:35] (Alliance) Stannis : Je t'en prie amigo^^
+[14:41:17] 100 x [Rune So] (49 998 kamas)
+[14:41:20] 100 x [Rune So] (49 999 kamas)
+[14:43:53] (Alliance) Stannis : Toujours personne ayant besoin du succès Roissingue ? je le fais dans 5 minutes^^
+[14:45:38] 10 x [Rune Ré Cri] (6 291 kamas)
+[14:45:39] 10 x [Rune Ré Cri] (6 291 kamas)
+[14:45:39] 10 x [Rune Ré Cri] (6 291 kamas)
+[14:45:40] 10 x [Rune Ré Cri] (6 291 kamas)
+[14:45:41] 10 x [Rune Ré Cri] (6 291 kamas)
+[14:45:41] 10 x [Rune Ré Cri] (6 291 kamas)
+[14:45:41] 10 x [Rune Ré Cri] (6 292 kamas)
+[14:45:42] 10 x [Rune Ré Cri] (6 292 kamas)
+[14:45:43] 10 x [Rune Ré Cri] (6 292 kamas)
+[14:45:43] 10 x [Rune Ré Cri] (6 292 kamas)
+[14:45:44] 10 x [Rune Ré Cri] (6 292 kamas)
+[14:45:44] 10 x [Rune Ré Cri] (6 292 kamas)
+[14:45:45] 10 x [Rune Ré Cri] (6 293 kamas)
+[14:45:45] 10 x [Rune Ré Cri] (6 293 kamas)
+[14:45:46] 10 x [Rune Ré Cri] (6 293 kamas)
+[14:45:46] 10 x [Rune Ré Cri] (6 293 kamas)
+[14:45:46] 10 x [Rune Ré Cri] (6 293 kamas)
+[14:45:47] 10 x [Rune Ré Cri] (6 293 kamas)
+[14:45:47] 10 x [Rune Ré Cri] (6 293 kamas)
+[14:45:48] 10 x [Rune Ré Cri] (6 294 kamas)
+[14:45:48] 10 x [Rune Ré Cri] (6 294 kamas)
+[14:48:30] (Alliance) Devlamenace : Hello ! Des gens ont une tp boss Meno et veulent le faire? :)
+[14:48:40] Vous avez créé 40 × [Rune Pa Ré Cri] !
+[14:50:35] 100 x [Rune Fui] (54 999 kamas)
+[14:50:41] 100 x [Rune Fui] (54 999 kamas)
+[14:56:09] 10 x [Rune Ga Pa] (396 984 kamas)
+[14:57:36] Vous avez perdu 20 kamas.
+[14:57:42] Vous avez perdu 20 kamas.
+[14:58:26] tonton-du-bahu(Heiiden-I) est en ligne.
+[14:59:47] (Guilde) Oracledb : go diffusion conju
+[14:59:59] (Guilde) Oracledb : oups
+[15:04:45] (Alliance) Kathryn : Tu joue trop en gros
+[15:04:51] (Alliance) Kathryn : merde
+[15:05:53] (Alliance) Kathryn : Quelqu'un peut me débloquer mon songes svp?
+[15:07:29] Cette caractéristique ne peut pas être davantage améliorée sur cet objet actuellement.
+[15:07:29] Cette recette ne donne rien !
+[15:07:35] (Alliance) Tya-la-feca : quel étage et quel boss ?
+[15:09:00] Vous avez créé 20 × [Rune Pa Prospe] !
+[15:14:10] Vous avez créé 5 × [Rune Pa Do Eau] !
+[15:15:14] Banque : + 1 000 Kamas (vente : 1 [Cawotte Transgénique]).
+[15:15:15] Banque : + 1 000 Kamas (vente : 1 [Cawotte Transgénique]).
+[15:15:15] Banque : + 1 000 Kamas (vente : 1 [Cawotte Transgénique]).
+[15:15:38] Cette caractéristique ne peut pas être davantage améliorée sur cet objet actuellement.
+[15:15:38] Cette recette ne donne rien !
+[15:15:42] (Alliance) Bad-Cynthia : RE
+[15:15:43] Cette caractéristique ne peut pas être davantage améliorée sur cet objet actuellement.
+[15:15:43] Cette recette ne donne rien !
+[15:15:46] (Alliance) Bad-Cynthia : deso maj
+[15:16:13] (Alliance) Majestueur : AH QUE RECOUCOU
+[15:16:35] (Alliance) Saysk : il est la johnny
+[15:16:39] (Alliance) Bad-Cynthia : Majestueur malheuresement tu es pas un Iop sinon je mariee ma eni avec toi
+[15:17:12] Un membre de votre guilde, Steki-runng, est en ligne.
+[15:17:43] (Alliance) Ex-acerbation : Quelqu'un saurait ou ce trouve l'anomalie temporelles ?
+[15:18:42] (Alliance) Kisa-X-Dixie : Ca intéresse quelqu'un ? [Ceinture Volkorne]
+[15:23:58] Range-ta-chambre(Mariadb) est en ligne.
+[15:24:02] Un membre de votre guilde, Oracledb, est en ligne.
+[15:24:08] ghduejfkd(Nexuzya) est en ligne.
+[15:26:18] (Alliance) Kisa-X-Dixie : Est-ce que des forgemages avec de la chatte sont dispo pour tenter des %do sur des items 2%
+[15:26:30] (Alliance) Kisa-X-Dixie : ducoup un forgemage*
+[15:26:36] (Alliance) Majestueur : brak
+[15:27:17] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[15:27:21] (Alliance) Majestueur : je t'y attends, my luck is ready
+[15:28:43] (Alliance) Cramy : Hello, j'aurais besoin d'aide pour un atcham vous pouvez m'aider svp ?
+[15:30:47] (Alliance) Mure-Winz : yo tout l'monde
+[15:32:12] Vous avez désappris une attitude : Dofus Turquoise
+[15:32:13] Vous avez désappris une attitude : Dofus Pourpre
+[15:32:13] Quatre-feuilles équipé.
+[15:32:13] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[15:32:13] Ensemble Ensemble 5 activé.
+[15:33:36] (Alliance) Yaozai : Bonjour l'alli
+[15:34:32] (Alliance) Tya-la-feca : yo
+[15:35:40] (Alliance) Mure-Winz : je dois faire la quete "chaque chose en son temps" pré requis vulbis, mais il faut combattre une anomalie, mais il y en a pas la u_u, comment faire ?
+[15:36:03] (Alliance) Mure-Winz : c'est en fonctions des zones farm apparement ?
+[15:36:18] (Alliance) Tya-la-feca : y'a moyen de les forcer à apparaitre de ce que j'ai compris
+[15:36:30] (Alliance) Tya-la-feca : Mais j'suis pas assez renseigné sur le sujet pour t'aiguiller
+[15:36:34] Vous avez perdu 20 kamas.
+[15:36:53] (Alliance) Mure-Winz : yes une histoire de farm a ce que j'ai lu mais c'est assez vague :/
+[15:36:55] (Alliance) Lyzaelle : faut farmer en boucle des zones d'un certain niveau
+[15:37:06] (Alliance) Cramy : Des personnes pour atcham chasse légendaire on est deux (si vous voulez bien)
+[15:37:30] '[Chanceux majeur]' est de nouveau lié à votre ensemble Stuff eau.
+[15:37:30] 1 x [Chanceux majeur] (675 000 kamas)
+[15:37:52] (Alliance) Mure-Winz : ouai bon bas ca attendra qu'une anomalie apparaisse x)
+[15:42:08] (Alliance) Bad-Cynthia : Cramy je suis la
+[15:43:08] (Alliance) Darkheaven : Ambi Guman [9,9]
+[15:44:05] (Alliance) Deportation : [15:42] (Alliance) Vl-Azo : Oui, nerf ebene ivoire pesti prytek arc corrompu rture arc chaloeil
+[15:44:12] (Alliance) Deportation : C'est vrai ça a été annoncé ?
+[15:44:19] (Alliance) Deportation : Avec la cape corruption aussi
+[15:44:20] (Alliance) Kisa-X-Dixie : Check le /b
+[15:44:27] (Alliance) Lyzaelle : oui. j'suis dans le live et ils le disent
+[15:44:36] (Alliance) Yaozai : enfin !
+[15:44:41] (Alliance) Majestueur : au moins ceux la
+[15:44:42] (Alliance) Deportation : Ouais mais j'étais pas sur du coup mdrr
+[15:44:48] (Alliance) Deportation : Go vendre tout ça alors
+[15:44:56] (Alliance) Tya-la-feca : mdrrrrrrrr
+[15:44:58] (Alliance) Kathryn : Quelqu'un pourrait me débloquer un songes svp?
+[15:45:03] (Alliance) Trainwrice : mdrr y'a quoi qu'ils nerf pas en fait?
+[15:45:04] (Alliance) Deportation : Mdrr ils vendent tous les pryteks et tou
+[15:45:05] (Alliance) Deportation : Mdrr ils vendent tous les pryteks et tout
+[15:45:12] (Alliance) Kisa-X-Dixie : sacri$
+[15:45:14] (Alliance) Trainwrice : j'vois pas l'interet de nerf arc chaloeil ni corrompu
+[15:45:14] (Alliance) Tya-la-feca : j'ai badé quand j'ai ouvert le /b
+[15:45:15] (Alliance) Kisa-X-Dixie : je crois
+[15:45:20] (Alliance) Tya-la-feca : Soon des prytek a 2M en hdv
+[15:45:25] (Alliance) Bad-Cynthia : LOL donc Ebene ne servi a rien ?
+[15:45:36] (Alliance) Trainwrice : et ebene ils nerf quoi dessus au juste?
+[15:45:37] XxX-NeOVodka-XxX(Neo-furiious) est en ligne.
+[15:45:37] (Alliance) Lyzaelle : j'adore le /B en ce moment
+[15:45:37] (Alliance) Bad-Cynthia : et le pvp vas retourne comme a l‘epoque
+[15:45:38] (Alliance) Majestueur : des mini nerfs
+[15:45:42] (Alliance) Deportation : La méta de dofus va changé entiérement c'est cool en vrai
+[15:45:50] (Alliance) Lyzaelle : plus qu'a up les Eca et j'suis refait
+[15:46:01] (Alliance) Bad-Cynthia : No prytek/no ivoire
+[15:46:03] (Alliance) Deportation : Je coupe le /b c'est n'importe quoi le spam mdrr
+[15:46:08] (Alliance) Tya-la-feca : [15:45] (Commerce) Clheure-dududu-duel : vend [Pestilence de Corruption] [Arc corrompu] [Arc du Chalœil]
+[15:46:09] (Alliance) Yaozai : mdr le /b c'est un plaisir Mdrrrrrrrr
+[15:46:14] (Alliance) Tya-la-feca : ptdrrrrr
+[15:46:15] (Alliance) Kisa-X-Dixie : bahahah
+[15:46:19] (Alliance) Tya-la-feca : les joueurs pvp en sueur
+[15:46:29] (Alliance) And-U-Try : j'vois pas ce que y'a de drole en fait, puis le nerf chaloeil incompréhensible
+[15:46:35] (Alliance) And-U-Try : genre l'arc chaloeil c'est un cac ultra busay?
+[15:46:36] (Alliance) And-U-Try : euké
+[15:46:36] (Alliance) Deportation : Mdrr Clheure je le connais mdrr il a full mode chimique le con il est foutu tous ses famis leg servent plus a rien
+[15:46:43] (Alliance) Lyzaelle : ils vont up tous les autres items légendaires, ça j'suis content
+[15:46:45] (Alliance) Deportation : En pvp ouais il roxx énormément
+[15:46:48] (Alliance) Bad-Cynthia : donc la je suis Obliger de regarde une autre stuff pour ma eni
+[15:47:01] (Alliance) And-U-Try : dans 3 mois vous ralerez sur d'autre méta
+[15:47:09] (Alliance) And-U-Try : honnetement ça fait que broken l'economie chaque fois
+[15:47:13] (Alliance) And-U-Try : :x
+[15:47:24] (Alliance) Lyzaelle : avec le stuff pandala3 y'aura beaucoup a rechanger. c'est du 200 endgame s'après eux
+[15:47:27] (Alliance) Deportation : Beh la clairement la méta était foutu c'était la même chose tous le temps donc autant faire ce qu'il font
+[15:47:41] (Alliance) Deportation : Ouais panda3 c'est demain du coup ?
+[15:47:47] (Alliance) Lyzaelle : non, a noel
+[15:47:53] (Alliance) Deportation : D'acc merci
+[15:48:04] (Alliance) Bad-Cynthia : c‘est combien le prix de dofus ebene ?
+[15:48:09] (Alliance) Deportation : 19/20m
+[15:48:14] (Alliance) And-U-Try : ils nerf quoi sur l'ebène du coup?
+[15:48:14] (Alliance) Solstore : (Commerce) Skipio : vend [Prytek Brillante] 24m
+[15:48:20] (Alliance) Lyzaelle : ils viennent de dire qu'ils changent la cape pesti
+[15:48:21] (Alliance) Solstore : genre ca baisse bien les prix la ^^
+[15:48:32] (Alliance) Deportation : [15:48] de Sponx : je te vend un prytyq
+[15:48:35] (Alliance) Deportation : [15:48] de Sponx : rdv ou
+[15:48:37] (Alliance) Deportation : Il es préssé
+[15:48:40] (Alliance) Deportation : [15:48] de Sponx : 27M ?
+[15:48:41] (Alliance) Kisa-X-Dixie : xd
+[15:48:53] (Alliance) Deportation : [15:48] de Sponx : ca te va ??[15:48] à Sponx : Mdrr t'es fou pas plus de 10m
+[15:48:58] (Alliance) Kisa-X-Dixie : déjà 26M hdv
+[15:49:26] (Alliance) Mure-Winz : vive le pvm
+[15:49:29] (Alliance) Deportation : 23m la
+[15:49:30] Moulin-Dame-Blanche agresse Jeannotzer
+[15:49:31] (Alliance) Deportation : Mdrrr
+[15:49:39] (Alliance) Mure-Winz : toujours les joueur pvp qui chiale
+[15:49:41] (Alliance) Mure-Winz : x)
+[15:49:42] (Alliance) Deportation : C'est le chaos sur dofus
+[15:49:45] (Alliance) Tya-la-feca : il est l'heure de commencer à spéculer
+[15:49:47] (Alliance) Tya-la-feca : [15:49] (Commerce) Tya-la-feca : Achète prytek en masse 2M/u mp moi
+[15:49:51] (Alliance) Encre-du-kralamoure : Ils ont dit quels seront les nerfs exactement sur l'ivoire?
+[15:49:56] (Alliance) Mure-Winz : ptdrrr
+[15:49:59] (Alliance) And-U-Try : bah non j'suis pvm et ça me clc de voir " nerf corrompu chaloeil ebene prytek corrup"
+[15:50:01] (Alliance) And-U-Try : genre tout ces item
+[15:50:03] (Alliance) And-U-Try : sont au meme rangt
+[15:50:08] (Alliance) And-U-Try : on met au meme rang un chaloeil et un item leg
+[15:50:21] (Alliance) Deportation : La cape corruption est cheat en pvp et j'vous explique même pas en pvm
+[15:50:28] (Alliance) Deportation : Bah ouais
+[15:50:30] (Alliance) Mure-Winz : clairement d'accord avec toi
+[15:50:32] (Alliance) And-U-Try : oé ok et le chaloeil?
+[15:50:34] (Alliance) Lyzaelle : J'avais préparé un stuff pesti... snif
+[15:50:41] (Alliance) And-U-Try : jvois pas le coté busay du chaloeil
+[15:50:45] (Alliance) Deportation : Tous les stuffs ne donnent pas bcp de res neutre et le chaloeil met des dégats abusés en neutre c'est normal
+[15:50:49] (Alliance) And-U-Try : ils ont qu'a sortir d'autre cac distance si ils le trouvent abusé
+[15:50:54] (Alliance) Tya-la-feca : pour le chaloeil je suis d'accord que c'est pas vraiment la priorité
+[15:50:55] (Alliance) Lyzaelle : c'est le seul cac distance terre en fait
+[15:50:55] (Alliance) Mure-Winz : tant qu'ils nerfs pas sacri mdrr
+[15:50:57] (Alliance) And-U-Try : les perso terre dist vont jouer avec moi?
+[15:50:58] (Alliance) Encre-du-kralamoure : clairement le corrumpu était bien en pvm la ma nini va galérer a faire des degats en pvm mdr
+[15:51:01] (Alliance) Deportation : + regen + le fait que toutes personnes jouant un mode terre rox de fou en neutre avec ce cac
+[15:51:06] (Alliance) And-U-Try : feu dist va jouer quoi?
+[15:51:07] (Alliance) And-U-Try : comme cac
+[15:51:09] (Alliance) And-U-Try : expliquez moi
+[15:51:18] (Alliance) Tya-la-feca : Euh feu y'a bcp de cac péter hein
+[15:51:20] (Alliance) Bad-Cynthia : dans se cas, il faut cherche une autre methode pour jouer eni
+[15:51:25] (Alliance) Tya-la-feca : y'a pas que le corrumpu
+[15:51:28] (Alliance) And-U-Try : ha bon? pq seulement corrompu est joué alors
+[15:51:33] (Alliance) Deportation : L'arc corrompu va pas etre delete du jeu arretez vous
+[15:51:33] (Alliance) And-U-Try : frere 98% des gens ont ça en dist
+[15:51:34] (Alliance) And-U-Try : xD
+[15:51:42] (Alliance) And-U-Try : pvm ou pvp ça change rien
+[15:51:42] (Alliance) Deportation : Il aura juste +5/10do en crit au lieu de 15
+[15:51:54] (Alliance) And-U-Try : oé une modif useless quoi
+[15:51:55] (Alliance) Blanc-trois : Moi je joue pas les arc
+[15:51:58] (Alliance) Blanc-trois : c pour les noob
+[15:52:03] (Alliance) And-U-Try : une modif pour dire on a modifier ça
+[15:52:04] (Alliance) And-U-Try : xD
+[15:52:09] (Alliance) Lyzaelle : je jouerai Buhorado uesh
+[15:52:16] (Alliance) Lyzaelle : j'espère qu'ils le up
+[15:52:16] (Alliance) Deportation : C'est pas useless une modif comme ça un sacri etat 10 te OS normal avec le corrumpu en crit
+[15:52:26] (Alliance) And-U-Try : oé si t'a -4% feu
+[15:52:28] (Alliance) Deportation : Donc normal qu'il nerf le cac
+[15:52:30] (Alliance) And-U-Try : stop forcer xd
+[15:52:59] (Alliance) And-U-Try : et déjà a quel h tu laisse un sacri joué en souffrance 10, c'est ce que j'dis , y'a 10 ouinouin qui vont chialer, ça pose des nerf a tout bout de champ vis a vis d'une classe
+[15:53:07] (Alliance) And-U-Try : go supprimer les sacri au lieu de tout changer et basta
+[15:53:15] (Alliance) And-U-Try : au lieu de se referer au roxx d'un sacri pour nerf des item xd
+[15:53:24] (Alliance) Deportation : Mdrr clairement pas , le mode terre c'est pareil on a pas kill un sacri en def prisme 28 pv il avait il a mis un coup de rture a Gouu je crois il lui a mis un -3k et une autre attaque il était mort
+[15:53:43] (Alliance) Encre-du-kralamoure : mais la c'est la classe le pb mdr
+[15:53:47] (Alliance) And-U-Try : encore une fois
+[15:53:50] (Alliance) And-U-Try : ^^'
+[15:54:00] Vous ne remplissez pas les critères pour équiper cet objet.
+[15:54:05] (Alliance) And-U-Try : t'façon ankama écoute que leur commu qui chiale, qui stream et qui font des tuto stuff busay sur youtube
+[15:54:12] (Alliance) And-U-Try : le reste ils s'en blc
+[15:54:23] (Alliance) Mure-Winz : nouveau stuff 200 arrive aussi
+[15:54:26] (Alliance) Deportation : Pas forcément la oui c'est la classe qui fait tapper extremement fort mais dans tous les cas ces items roxx bcp trop et des classes ne peuvent pas rivaliser face à ça
+[15:54:26] (Alliance) Mure-Winz : bien ca
+[15:54:33] (Alliance) Blanc-trois : de quoi blc ? j'ai rien dit moi
+[15:54:37] (Alliance) Ninisoignante : venez jouer aux jeux de rôle papier, c'est plus fun en attendant le nerf sacri :D
+[15:54:42] (Alliance) And-U-Try : xD
+[15:55:02] (Alliance) Mure-Winz : laissez les sacris ^________^
+[15:55:17] (Alliance) Ninisoignante : et nerfez les éni
+[15:55:23] (Alliance) Ipaa : :((
+[15:55:24] (Alliance) Mure-Winz : et les zobal
+[15:55:43] (Alliance) Mure-Winz : et remettez les echec critique
+[15:55:45] (Alliance) Solstore : tout le monde achete prytek et ivoir a bas prix mais si cest pouris apres la maj sa va pas se revendre XD
+[15:55:55] (Alliance) And-U-Try : ivoire?
+[15:56:01] (Alliance) And-U-Try : pq , l'ivoire va être nerf aussi? mdr
+[15:56:03] (Alliance) Solstore : oui
+[15:56:17] (Alliance) And-U-Try : lol
+[15:56:21] (Alliance) And-U-Try : nerf comment?
+[15:56:27] (Alliance) Lexae : On sait pas encore
+[15:56:31] (Alliance) And-U-Try : ils vont enlever 3 ré fixe par ligne?
+[15:56:31] (Alliance) Solstore : on sait pas encore mais sa pue
+[15:56:34] (Alliance) And-U-Try : quel bande de gros mongol sérieux
+[15:56:35] (Alliance) Mure-Winz : l'ivoire il vont peut etre mettre 30 res fix
+[15:56:49] (Alliance) Mure-Winz : ca change rien
+[15:57:02] (Alliance) And-U-Try : ils seraient capable d'enlever le premier coup qui reduit 50%
+[15:57:08] (Alliance) And-U-Try : tellement c'est des guignol
+[15:57:09] (Alliance) Mure-Winz : impossible
+[15:57:16] (Alliance) Mure-Winz : la base de l'ivoire ca
+[15:57:21] (Alliance) Ninisoignante : ils ont dit que les dofus allaient être plus spécifiques à l'utilisation de certaines classes... Je les vois bien optimiser ivoire pour les féca, et ébne pour un sram
+[15:57:25] (Alliance) And-U-Try : bah quand j'lis nerf arc chaloeil franchement j'me dis ils peuvent nerf tout le jeu en fait
+[15:57:31] (Alliance) And-U-Try : nerf baguette dragoeuf etc avant de nerf chaloeil
+[15:57:37] (Alliance) Mure-Winz : j'ai finis la quete hier ptn j'ai 2 ivoire pour rien mdr
+[15:57:39] (Alliance) And-U-Try : des cac 120 qui tape 2X plus
+[15:57:39] (Alliance) And-U-Try : xd
+[15:57:40] (Alliance) Tya-la-feca : :v
+[15:58:16] (Alliance) Tya-la-feca : j'avoue que le nerf du chaloeil est pas vraiment legit
+[15:58:31] (Alliance) And-U-Try : c'est inutile
+[15:58:31] (Alliance) Bad-Cynthia : je pense ils vont met 10 resi fix ou 20
+[15:58:32] (Alliance) Tya-la-feca : Mais qu'ils nerf la prytek et compagnie c'est bien plus que légitime
+[15:58:33] (Alliance) Majestueur : corrompu egalement de ouf
+[15:58:35] (Alliance) Majestueur : la po est abusé
+[15:58:45] Échange effectué
+[15:58:49] (Alliance) And-U-Try : normal, un arc irl tu tire plus loin qu'avec des dagues
+[15:58:50] (Alliance) Ninisoignante : Bienvenue dans Dofus... qui s'est transformé en Trophus, puis en Pryfus :D
+[15:59:24] (Alliance) Mure-Winz : sacrifus
+[15:59:27] (Alliance) Mure-Winz : &lt;3
+[15:59:41] (Alliance) Yaozai : Moi ça me va qu'ils changent des trucs, comme ça on aura de la nouveauté
+[15:59:50] (Alliance) And-U-Try : bof
+[15:59:55] (Alliance) And-U-Try : la nouveauté =&gt; tu sors des item en masses
+[16:00:07] (Alliance) And-U-Try : pour moi c'est juste des nerfs useless sauf pour la prytek limite
+[16:00:23] (Alliance) Yaozai : la cape coru c'est nimp en vrai
+[16:00:30] (Alliance) Lyzaelle : la Prytek est tellement craquée que c'est la seule prysma jouée...
+[16:00:36] (Alliance) Bad-Cynthia : sa c‘est le plus fort [Aprybou] pvm/pvp
+[16:00:39] (Alliance) And-U-Try : certes mais y'a pas 90% de joueur sur le serv qui joue corrup ou qui ont les moyens de jouer çàa
+[16:01:04] (Alliance) Ipaa : Re all
+[16:01:12] (Alliance) Lyzaelle : 80M la corrup. c'est grave cher
+[16:01:20] (Alliance) And-U-Try : oé fin l'erosion quand t'as une prytek c'est bien aussi
+[16:01:27] (Alliance) And-U-Try : le mec est quand meme a 2K pv t2 quoi
+[16:01:34] (Alliance) And-U-Try : donc sa prytek a servi a pas grd chose
+[16:01:41] (Alliance) Mure-Winz : aller hop ivoire vendu c'est bon mdr
+[16:01:57] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[16:01:57] (Alliance) Ipaa : vendu cb ?
+[16:02:19] (Alliance) Sadof : Achete sintillant 12m xdd
+[16:02:23] (Alliance) Mure-Winz : 38
+[16:02:35] (Alliance) Mure-Winz : avant la dégringolade x)
+[16:02:43] (Alliance) And-U-Try : mais pq y'aurait degringolade? mdr
+[16:02:51] (Alliance) And-U-Try : pcq ça perd potentiellement 10 ré fixe? :x
+[16:03:01] (Alliance) Yaozai : parce que les gens sont cons ^^
+[16:03:16] (Alliance) And-U-Try : mdrr bah normal si les gens vendent volontairement moins cher en sachant pas encore quel modif va y'avoir
+[16:03:21] (Alliance) Mure-Winz : tt les cons qui pleurent car futur nerf tt le monde vends et le prix va chutter
+[16:03:28] (Alliance) Yaozai : moi ça me fait juste marrer, je verrais bien x)
+[16:03:36] (Alliance) And-U-Try : bah oé autant garder mdr
+[16:03:43] (Alliance) And-U-Try : 38M un ivoire mon pote tu t'es fais fist sale
+[16:03:48] (Alliance) And-U-Try : donne le direct limite xd
+[16:03:49] (Alliance) Mure-Winz : bas non j'en ai deja 1 je joue monocompte :)
+[16:03:55] (Alliance) And-U-Try : ha ça va xD
+[16:04:06] (Alliance) Mure-Winz : j'ai finis la quete hier
+[16:04:16] (Alliance) Mure-Winz : l'ivoire est a 39m place marchande gros
+[16:04:27] (Alliance) Ipaa : en vrais il vaplus etre up que nerf nah ?
+[16:04:37] (Alliance) Ipaa : Il donne 4%
+[16:04:41] (Alliance) Mure-Winz : non vas sur twitter de dofus
+[16:04:44] (Alliance) Ipaa : mieux que 40 fice
+[16:04:58] (Alliance) Tya-la-feca : quoi ?
+[16:04:58] (Alliance) And-U-Try : xd
+[16:05:00] (Alliance) And-U-Try : jpp
+[16:05:01] (Alliance) Tya-la-feca : XD
+[16:05:09] (Alliance) And-U-Try : la commu dofus franchement changez rien
+[16:05:29] (Alliance) Majestueur : les gens sont si betes
+[16:06:05] (Alliance) Mure-Winz : moi je vends pas parce que il nerf mdr je m'en contre branle, juste qu'il est dans mon inventaire pour rien x)
+[16:06:13] (Alliance) And-U-Try : [16:05] (Commerce) Deii-Raykura : achete prytek 7M5 /U ; ebene 10M/U; ivoire 19M/U ; scinti 15M
+[16:06:22] (Alliance) And-U-Try : mdrrr
+[16:06:27] (Alliance) Ninisoignante : ça bégaye
+[16:06:31] (Alliance) Mure-Winz : il a raison mdr
+[16:06:39] (Alliance) Majestueur : Tellement pas mdr
+[16:06:43] (Alliance) And-U-Try : raison de quoi?
+[16:06:47] (Alliance) And-U-Try : tu crois vraiment que qlq va vendre a ce prix?
+[16:06:49] (Alliance) Majestueur : y'a une différence entre nerf et tuer un item
+[16:06:51] (Alliance) And-U-Try : xD
+[16:06:56] (Alliance) Blanc-trois : (Commerce) Stannis : Achète Prytek ou échange contre Dokoko, mp moi vite
+[16:07:01] (Alliance) Blanc-trois : stannis change rien je t'aime
+[16:07:27] (Alliance) Mure-Winz : ptdrrr
+[16:07:36] (Alliance) Stannis : Ahahahaha x')
+[16:07:48] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[16:07:57] (Alliance) Stannis : J'ai reçu des mp pour me vendre le prytek ils savent pas c'est du sarcasm
+[16:08:32] (Alliance) Blanc-trois : le /c en panique là
+[16:08:42] (Alliance) Stannis : Carrément
+[16:09:24] (Alliance) Oracledb : Perso jsuis deg j'ai 3 prytek a vendre :(
+[16:10:03] (Alliance) Trainwrhum : remercie les ouinouin et les devs pour te faire perdre 60M+ Oracle :)
+[16:10:20] (Alliance) Stannis : Moi je suis content, je viens d'offrir le miens y'a quelques jours en pensant que j'allais arreter le jeu, mais je suis rassuré là
+[16:10:20] (Alliance) Blanc-trois : vendez rien mdddr
+[16:10:32] (Alliance) Mure-Winz : gardez les si vous vous en servez mdr
+[16:10:48] (Alliance) Oracledb : Les gens sont en full panique a penser que l'item va devenir useless
+[16:10:58] (Alliance) Mure-Winz : le nerf sera minim et tout le monde va chialer car ils ont tout vendu
+[16:10:59] (Alliance) And-U-Try : c'est la commu dofus ça
+[16:11:03] (Alliance) And-U-Try : c'est tous des voyant
+[16:11:13] (Alliance) Mure-Winz : bas oui
+[16:11:28] (Alliance) And-U-Try : par contre pour nerf les team de 7 panda ou de 8 cra la y'a personne
+[16:11:29] (Alliance) Mure-Winz : a la limite c'est le moment d'acheter x)
+[16:11:38] (Alliance) Oracledb : Meme si ca descend a 35% de la vita en shield qui est un fat nerf, l'item reste fort donc bon
+[16:11:56] (Alliance) Mure-Winz : bas non les youtuber use ca h24 mdr
+[16:11:57] (Alliance) Majestueur : et les ressources coutent également cher
+[16:12:36] (Alliance) Mure-Winz : 28m9 prytk hdv
+[16:13:02] (Alliance) Blanc-trois : bientot double xp nice
+[16:13:17] (Alliance) Pistaachee : xp métier ?
+[16:13:23] (Alliance) Blanc-trois : metier
+[16:13:28] (Alliance) Blanc-trois : puis le week apres xp combat
+[16:13:31] (Alliance) Oracledb : [https://cdn.discordapp.com/attachments/690294309643092002/775352855832952872/unknown.png]
+[16:13:32] (Alliance) Blanc-trois : puis apres dj illimité
+[16:13:38] (Alliance) Oracledb : Pour la timeline ceux qui ont raté
+[16:13:50] (Alliance) And-U-Try : timeline de?
+[16:13:56] (Alliance) Oracledb : des trucs prevu
+[16:14:06] (Alliance) And-U-Try : nice
+[16:15:19] (Alliance) Shimuri : Bouss Baybe [-3,-33]
+[16:17:00] (Alliance) Shimuri : [Espryt]
+[16:17:08] (Alliance) Shimuri : @lulox
+[16:18:35] '[Chanceux majeur]' est retiré de votre ensemble Stuff eau.
+[16:18:35] Échange effectué
+[16:20:10] (Alliance) Ipaa : (Commerce) Eqohh : Vend Ebenes x8 12M/u //// Ivoire x8 25M/u
+[16:20:29] (Alliance) Mure-Winz : il va pleurer d'ici peu
+[16:20:40] (Alliance) Mure-Winz : meme si je pense troll
+[16:20:45] (Alliance) Pistaachee : acheté tout
+[16:21:05] (Alliance) Pistaachee : achete tout vos ivoire 10M k/u
+[16:21:39] (Alliance) Mure-Winz : peut etre l'ebene il faudra le charger 2 fois de plus
+[16:21:54] (Alliance) Mure-Winz : fin je voiss pas trop ce qu'ils peuvent faire
+[16:22:00] (Alliance) Kisa-X-Dixie : Dans tout les cas ils vont être jouer je pense
+[16:22:10] (Alliance) Mure-Winz : evidement
+[16:22:34] (Alliance) Mure-Winz : ils devrait nerf la quete ocre x)
+[16:22:54] (Alliance) And-U-Lie : ils devraient chercher des truc qui équilibre les item déjà sortie au lieu de tout nerf
+[16:23:09] (Alliance) Mure-Winz : faut pas trop en demander x')
+[16:23:32] (Alliance) And-U-Lie : ha ça c'est sur, en 13 ans j'ai bien compris qu'ils ont un cerveau pour 5 chez ankama
+[16:23:39] (Alliance) And-U-Lie : y'a qu'a voir le live, 0 energie
+[16:23:45] (Alliance) And-U-Lie : les mecs donnent pas du tout envie quoi
+[16:23:50] (Alliance) Mure-Winz : et encore t'es gentil x)
+[16:24:14] (Alliance) Tya-la-feca : changez de jeu les gars
+[16:24:16] (Alliance) Tya-la-feca : au pire
+[16:24:22] (Alliance) Mure-Winz : ??
+[16:24:26] (Alliance) And-U-Lie : mdr réponse facile ça
+[16:24:33] (Alliance) Mure-Winz : aucun rapport x)
+[16:24:37] (Alliance) Tya-la-feca : Les dofusiens ça fait que se plaindre, vous etes JAMAIS content
+[16:24:38] (Alliance) And-U-Lie : normalement un jeu est a l'écoute de sa commu, c'est pas a la commu de se barrer
+[16:24:41] (Alliance) And-U-Lie : et heureusement que les raleurs jouent encore
+[16:24:44] (Alliance) And-U-Lie : sinon vous seriez 20
+[16:24:45] (Alliance) And-U-Lie : apr serveur
+[16:24:46] (Alliance) And-U-Lie : par *
+[16:24:52] (Alliance) Tya-la-feca : Ankama à beau faire tous les efforts du monde, vous trouvez toujours matière à vous plaindre
+[16:24:59] (Alliance) And-U-Lie : mais quels effort ptdr
+[16:25:07] (Alliance) And-U-Lie : on a pas la meme definition d'un effort xd
+[16:25:11] (Alliance) Tya-la-feca : Moi je joue depuis 15 ans et j'suis content de jouer encore aujourd'hui
+[16:25:18] (Alliance) Tya-la-feca : crois moi que si ankama faisait vraiment rien comme tu dis
+[16:25:19] (Alliance) Mure-Winz : moi aussi x)
+[16:25:23] (Alliance) Tya-la-feca : y'a longtemps qu'on serait pu ici
+[16:25:25] (Alliance) And-U-Lie : moi aussi hein
+[16:25:41] (Alliance) And-U-Lie : bah si pcq j'aime l'univers du jeu dans l'fond, mais c'est toujours les ouinouin qui sont écoutés par ankama comme j'disais
+[16:25:57] (Alliance) And-U-Lie : et des truc qu'on s'en blc ou qui touche juste l'univers PVP
+[16:26:07] (Alliance) And-U-Lie : càd l'univers que ankama veut le moins conserveur sur dofus de base ;)
+[16:26:25] (Alliance) Blanc-trois : Vive dofus le jeu est tres bien
+[16:26:41] (Alliance) Mure-Winz : jamais dis le contraire mdr
+[16:26:44] (Alliance) And-U-Lie : xd
+[16:26:50] (Alliance) And-U-Lie : ils ont du mal a nuancé des propos
+[16:26:50] (Alliance) Mure-Winz : je serais pas la sinon x')
+[16:27:08] (Alliance) Mure-Winz : tu peux te plaindre de quelques chose et l'aimer quand meme :)
+[16:27:17] (Alliance) Mure-Winz : rien que ma meuf
+[16:27:35] (Alliance) Mure-Winz : elle me casse les couilles je me plains la
+[16:27:51] (Alliance) Blanc-un : Ouaaah vous avez vu gros nerf sur le dofus ocre
+[16:27:53] (Alliance) Mure-Winz : et pourtant je suis avec x)
+[16:28:00] (Alliance) Blanc-un : je vous les achete 10M mp moi
+[16:28:02] (Alliance) Mure-Winz : il retire le pa
+[16:28:05] (Alliance) Trainwrhum : il donne -1pa l'ocre après la MAJ
+[16:28:08] (Alliance) Trainwrhum : mdrrrrr
+[16:28:13] (Alliance) Trainwrhum : un abracaska
+[16:28:14] (Alliance) Trainwrhum : oklm
+[16:28:54] (Alliance) Mure-Winz : qui vends un ocre vraiment la ?
+[16:28:55] (Alliance) Trainwrhum : ils vont nerf la pano AA aussi, askip Sapeuh a fait une vidéo mode toxic pano AA du coup ça va nerf :'(
+[16:29:09] (Alliance) Mure-Winz : source ?
+[16:29:18] (Alliance) Trainwrhum : source : tkt
+[16:29:29] (Alliance) Mure-Winz : ptdrrr j'allais le dire x')
+[16:29:32] (Alliance) Bad-Cynthia : mdrrr
+[16:29:40] (Alliance) Mure-Winz : source fiable
+[16:29:44] (Alliance) Trainwrhum : mon pere est modo il m'la dit
+[16:29:45] (Alliance) Mure-Winz : no noob no arnaque
+[16:30:03] (Alliance) Mure-Winz : achete code odio test avant
+[16:30:13] (Alliance) Trainwrhum : code audio + cher qu'un ebene bientot
+[16:30:37] (Alliance) Tya-la-feca : vous avez tester le theme pandala pour le jeu ?
+[16:30:49] (Alliance) Mure-Winz : nop
+[16:31:05] (Alliance) Tya-la-feca : Faut double clic sur le petit dofus emeraude en haut à gauche de la fenetre de jeu pour le dl
+[16:31:14] Vous avez désappris une attitude : Dofus Pourpre
+[16:31:14] Bouclier Volant équipé.
+[16:31:14] Ensemble POD plus plus activé.
+[16:31:28] (Alliance) Mure-Winz : ah oui merci c'est bon ca dl la
+[16:31:30] (Alliance) Ecologyque : Du monde de dispo pour un Missiz ?
+[16:31:34] '[Anneau Nobstant]' est de nouveau lié à votre ensemble Drop light.
+[16:31:34] '[Amulette Volkorne]' est de nouveau lié à votre ensemble Stuff eau.
+[16:31:40] (Alliance) Bad-Cynthia : et c‘est quand la nouvelle maj deja ?
+[16:31:44] (Alliance) Nunu-Vuyton : Hello/Re :)
+[16:31:57] (Alliance) Bad-Cynthia : et la maj des alliances cava donne quoi
+[16:32:00] (Alliance) Mure-Winz : 7 jours d'abo offert pour un abo de 1 semaine
+[16:32:19] (Alliance) And-U-Lie : pas plus de 6 / alliance
+[16:32:22] (Alliance) And-U-Lie : geste barrière oblige
+[16:32:25] (Alliance) And-U-Lie : port du masque obligatoire
+[16:32:27] (Alliance) And-U-Lie : en ava
+[16:32:27] (Alliance) Mure-Winz : x)
+[16:32:31] (Alliance) Bad-Cynthia : MDRR
+[16:32:33] (Alliance) Mure-Winz : kilékon
+[16:34:42] Bartholomew-Kumaa agresse Mtitz
+[16:35:49] Vous avez perdu 20 kamas.
+[16:36:09] (Alliance) Tenshinhaan : [Narkofret Brumeux] [Narkasseth Brumeuse] Ca part en hdv ça ou pas du tout ?
+[16:36:21] (Alliance) Swarps : non
+[16:38:20] (Alliance) Loris-Sanguinaire : Ouvre les si tu chope une légende tu va bander
+[16:38:35] (Alliance) Tenshinhaan : c'se
+[16:38:40] (Alliance) Tenshinhaan : c'est ce que j'ai fais
+[16:39:02] (Alliance) Mure-Winz : bander ? ou les ouvrir ?
+[16:39:07] (Alliance) Tenshinhaan : Les 2
+[16:39:20] (Alliance) Mure-Winz : ^_____^
+[16:39:23] 1 x [Dragodinde Ebène et Ivoire] (199 999 kamas)
+[16:39:25] (Alliance) Tenshinhaan : [Légende de Fallanster]
+[16:39:30] (Alliance) Tenshinhaan : ca se revends bien ??
+[16:39:34] (Alliance) Loris-Sanguinaire : Si il ouvre une boite et chope une legende il va bande ^________________^''
+[16:39:35] (Alliance) Shimuri : je pense oui
+[16:39:40] Votre harnachement est déposé dans votre inventaire.
+[16:39:41] (Alliance) Mure-Winz : muthooooooooo
+[16:39:46] (Alliance) And-U-Try : jte lachete 2M
+[16:39:49] (Alliance) And-U-Try : ça va etre nerf a la maj
+[16:40:07] (Alliance) Mure-Winz : il a eu full reflet
+[16:40:31] (Alliance) Tenshinhaan : Bien vu Mure
+[16:40:40] (Alliance) Loris-Sanguinaire : Il a pas pu la choper ^_______________^
+[16:40:46] (Alliance) Mure-Winz : classique
+[16:40:47] (Alliance) Tenshinhaan : [Prysmaradite Parme] x2 et 100 reflets je suis bien
+[16:40:53] Votre monture apprécie le repas.
+[16:40:57] (Alliance) Mure-Winz : oui pas les bon coffre pour fallanster mdr
+[16:40:58] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[16:41:08] (Alliance) Loris-Sanguinaire : Vu que les box qu'il a montré y'avais pas de legende fallen ^_^
+[16:41:10] (Alliance) Mure-Winz : nice GG !
+[16:41:12] Votre monture vient de passer au niveau 40.
+[16:41:12] Vous avez gagné 1 837 499 points d'expérience.
+[16:41:12] Votre monture a gagné 202 125 points d'expérience.
+[16:41:12] Vous avez gagné 307 860 kamas.
+[16:41:19] Objets reçus : 10 x [Scalp du Meulou]
+[16:41:19] Objet reçu : 1 x [Dents du Meulou]
+[16:41:19] Objet reçu : 1 x [Testicules du Meulou]
+[16:41:19] Objet reçu : 1 x [Mojo du Meulou]
+[16:41:19] Objet reçu : 1 x [Testicules Magiques du Meulou]
+[16:41:19] Objet reçu : 1 x [Œil du Meulou]
+[16:41:19] Votre monture vient de passer au niveau 41.
+[16:41:19] Vous avez gagné 102 374 points d'expérience.
+[16:41:19] Votre monture a gagné 11 261 points d'expérience.
+[16:41:19] Vous avez gagné 11 980 kamas.
+[16:41:22] Objet reçu : 1 x [Queue du Royalmouth]
+[16:41:22] Objets reçus : 10 x [Laine du Royalmouth]
+[16:41:23] Votre monture vient de passer au niveau 44.
+[16:41:23] Vous avez gagné 323 643 points d'expérience.
+[16:41:23] Votre monture a gagné 35 600 points d'expérience.
+[16:41:23] Vous avez gagné 16 780 kamas.
+[16:41:24] Objet reçu : 1 x [Pierre du Koulosse]
+[16:41:24] Objets reçus : 10 x [Tresse du Koulosse]
+[16:41:24] Votre monture vient de passer au niveau 45.
+[16:41:24] Vous avez gagné 102 374 points d'expérience.
+[16:41:24] Votre monture a gagné 11 261 points d'expérience.
+[16:41:24] Vous avez gagné 11 980 kamas.
+[16:41:26] Objets reçus : 10 x [Plume du Maître Corbac]
+[16:41:26] Objets reçus : 10 x [Duvet du Maître Corbac]
+[16:41:26] Objet reçu : 1 x [Clakoss]
+[16:41:26] Votre monture vient de passer au niveau 47.
+[16:41:26] Vous avez gagné 259 718 points d'expérience.
+[16:41:26] Votre monture a gagné 28 569 points d'expérience.
+[16:41:26] Vous avez gagné 14 280 kamas.
+[16:41:30] Objet reçu : 1 x [Slip de Troollaraj]
+[16:41:30] Objet reçu : 1 x [Épaulette de Troolligark]
+[16:41:30] Objet reçu : 1 x [Laine du Trooll Furieux]
+[16:41:30] Objet reçu : 1 x [Bracelet de Force de Trooll]
+[16:41:30] Votre monture vient de passer au niveau 49.
+[16:41:30] Vous avez gagné 161 821 points d'expérience.
+[16:41:30] Votre monture a gagné 17 800 points d'expérience.
+[16:41:30] Vous avez gagné 16 780 kamas.
+[16:41:32] Objets reçus : 10 x [Aliton]
+[16:41:32] Votre monture vient de passer au niveau 51.
+[16:41:32] Vous avez gagné 204 749 points d'expérience.
+[16:41:32] Votre monture a gagné 22 522 points d'expérience.
+[16:41:32] Vous avez gagné 83 860 kamas.
+[16:41:34] Objets reçus : 10 x [Aliton]
+[16:41:34] Votre monture vient de passer au niveau 52.
+[16:41:34] Vous avez gagné 118 994 points d'expérience.
+[16:41:34] Votre monture a gagné 13 089 points d'expérience.
+[16:41:34] Vous avez gagné 51 870 kamas.
+[16:41:37] Objets reçus : 10 x [Racine d'Abraknyde Sombre]
+[16:41:37] Objets reçus : 10 x [Racine d'Abraknyde Vénérable]
+[16:41:37] Objets reçus : 10 x [Écorce d'Abrakne Sombre]
+[16:41:37] Objets reçus : 10 x [Masque Brisé d'Araknotron]
+[16:41:37] Objet reçu : 1 x [Bois Envoûté]
+[16:41:37] Vous avez gagné 79 032 points d'expérience.
+[16:41:37] Votre monture a gagné 8 693 points d'expérience.
+[16:41:37] Vous avez gagné 9 880 kamas.
+[16:41:39] Objets reçus : 3 x [Tranche de Nodkoko]
+[16:41:39] Objets reçus : 3 x [Feuille de Tikoko]
+[16:41:39] Objets reçus : 3 x [Noix de Grokoko Traumatisée]
+[16:41:39] Objets reçus : 3 x [Plume de Dostrogo]
+[16:41:39] Objets reçus : 3 x [Bananagrume]
+[16:41:39] Votre monture vient de passer au niveau 53.
+[16:41:39] Vous avez gagné 102 374 points d'expérience.
+[16:41:39] Votre monture a gagné 11 261 points d'expérience.
+[16:41:39] Vous avez gagné 11 980 kamas.
+[16:41:42] Votre monture vient de passer au niveau 54.
+[16:41:42] Vous avez gagné 102 374 points d'expérience.
+[16:41:42] Votre monture a gagné 11 261 points d'expérience.
+[16:41:42] Vous avez gagné 11 980 kamas.
+[16:41:43] Votre monture vient de passer au niveau 55.
+[16:41:43] Vous avez gagné 102 374 points d'expérience.
+[16:41:43] Votre monture a gagné 11 261 points d'expérience.
+[16:41:43] Vous avez gagné 11 980 kamas.
+[16:41:44] Votre monture vient de passer au niveau 56.
+[16:41:44] Vous avez gagné 102 374 points d'expérience.
+[16:41:44] Votre monture a gagné 11 261 points d'expérience.
+[16:41:44] Vous avez gagné 11 980 kamas.
+[16:41:47] Vous avez gagné 79 032 points d'expérience.
+[16:41:47] Votre monture a gagné 8 693 points d'expérience.
+[16:41:47] Vous avez gagné 9 880 kamas.
+[16:41:47] Votre monture vient de passer au niveau 57.
+[16:41:48] Vous avez gagné 79 032 points d'expérience.
+[16:41:48] Votre monture a gagné 8 693 points d'expérience.
+[16:41:48] Vous avez gagné 9 880 kamas.
+[16:41:48] Objet reçu : 1 x [Fragment d'Ougalurette]
+[16:41:48] Objets reçus : 10 x [Épine d'Ougah]
+[16:41:48] Objets reçus : 10 x [Œil d'Ougah]
+[16:41:49] Votre monture vient de passer au niveau 60.
+[16:41:49] Vous avez gagné 487 477 points d'expérience.
+[16:41:49] Votre monture a gagné 53 622 points d'expérience.
+[16:41:49] Vous avez gagné 35 980 kamas.
+[16:41:50] Objets reçus : 5 x [Graines de Citwouille Maudites]
+[16:41:50] Votre monture vient de passer au niveau 61.
+[16:41:50] Vous avez gagné 51 187 points d'expérience.
+[16:41:50] Votre monture a gagné 5 630 points d'expérience.
+[16:41:50] Vous avez gagné 21 990 kamas.
+[16:41:51] Objets reçus : 5 x [Sukette à la Fraise]
+[16:41:51] Objets reçus : 5 x [Sukette à la Pomme]
+[16:41:51] Objets reçus : 5 x [Sukette au Citron]
+[16:41:51] Objets reçus : 5 x [Sukette à la Prune]
+[16:41:51] Vous avez gagné 102 374 points d'expérience.
+[16:41:51] Votre monture a gagné 11 261 points d'expérience.
+[16:41:51] Vous avez gagné 11 980 kamas.
+[16:41:52] Objet reçu : 1 x [Chicots d'Halouine]
+[16:41:52] Objets reçus : 5 x [Gumizes]
+[16:41:52] Objets reçus : 10 x [Rouflaquettes d'Halouine]
+[16:41:52] Votre monture vient de passer au niveau 63.
+[16:41:52] Vous avez gagné 204 749 points d'expérience.
+[16:41:52] Votre monture a gagné 22 522 points d'expérience.
+[16:41:52] Vous avez gagné 11 980 kamas.
+[16:41:53] Objet reçu : 1 x [Chicots d'Halouine]
+[16:41:53] Objets reçus : 5 x [Gumizes]
+[16:41:53] Objets reçus : 10 x [Rouflaquettes d'Halouine]
+[16:41:53] Votre monture vient de passer au niveau 65.
+[16:41:53] Vous avez gagné 307 125 points d'expérience.
+[16:41:53] Votre monture a gagné 33 783 points d'expérience.
+[16:41:53] Vous avez gagné 11 980 kamas.
+[16:41:53] Objet reçu : 1 x [Œuf du Mansot Royal]
+[16:41:53] Objets reçus : 10 x [Plume du Mansot Royal]
+[16:41:53] Votre monture vient de passer au niveau 68.
+[16:41:53] Vous avez gagné 431 180 points d'expérience.
+[16:41:53] Votre monture a gagné 47 429 points d'expérience.
+[16:41:53] Vous avez gagné 22 380 kamas.
+[16:41:54] Objet reçu : 1 x [Chicots d'Halouine]
+[16:41:54] Objets reçus : 5 x [Gumizes]
+[16:41:54] Objets reçus : 10 x [Rouflaquettes d'Halouine]
+[16:41:55] Votre monture vient de passer au niveau 69.
+[16:41:55] Vous avez gagné 204 749 points d'expérience.
+[16:41:55] Votre monture a gagné 22 522 points d'expérience.
+[16:41:55] Vous avez gagné 11 980 kamas.
+[16:41:55] Un membre de votre guilde, Oo-plionor, est en ligne.
+[16:41:55] Objet reçu : 1 x [Chicots d'Halouine]
+[16:41:55] Objets reçus : 5 x [Gumizes]
+[16:41:55] Objets reçus : 10 x [Rouflaquettes d'Halouine]
+[16:41:56] Votre monture vient de passer au niveau 70.
+[16:41:56] Vous avez gagné 153 562 points d'expérience.
+[16:41:56] Votre monture a gagné 16 891 points d'expérience.
+[16:41:56] Vous avez gagné 11 980 kamas.
+[16:41:59] Objet reçu : 1 x [Chicots d'Halouine]
+[16:41:59] Objets reçus : 5 x [Gumizes]
+[16:41:59] Objets reçus : 10 x [Rouflaquettes d'Halouine]
+[16:41:59] Votre monture vient de passer au niveau 71.
+[16:41:59] Vous avez gagné 102 374 points d'expérience.
+[16:41:59] Votre monture a gagné 11 261 points d'expérience.
+[16:41:59] Vous avez gagné 11 980 kamas.
+[16:41:59] Vous avez gagné 102 374 points d'expérience.
+[16:41:59] Votre monture a gagné 11 261 points d'expérience.
+[16:41:59] Vous avez gagné 11 980 kamas.
+[16:42:00] Votre monture vient de passer au niveau 72.
+[16:42:00] Vous avez gagné 102 374 points d'expérience.
+[16:42:00] Votre monture a gagné 11 261 points d'expérience.
+[16:42:00] Vous avez gagné 11 980 kamas.
+[16:42:01] Objet reçu : 1 x [Queue du Royalmouth]
+[16:42:01] Objets reçus : 10 x [Laine du Royalmouth]
+[16:42:01] Votre monture vient de passer au niveau 74.
+[16:42:01] Vous avez gagné 323 643 points d'expérience.
+[16:42:01] Votre monture a gagné 35 600 points d'expérience.
+[16:42:01] Vous avez gagné 16 780 kamas.
+[16:42:02] (Alliance) And-U-Try : 1point pour l'observation
+[16:42:05] Votre monture vient de passer au niveau 78.
+[16:42:05] Vous avez gagné 787 499 points d'expérience.
+[16:42:05] Votre monture a gagné 86 625 points d'expérience.
+[16:42:05] Vous avez gagné 43 980 kamas.
+[16:42:08] Objet reçu : 1 x [Bwak Squelettique]
+[16:42:08] Objets reçus : 10 x [Barbe du Chouque]
+[16:42:08] Votre monture vient de passer au niveau 79.
+[16:42:08] Vous avez gagné 158 064 points d'expérience.
+[16:42:08] Votre monture a gagné 17 387 points d'expérience.
+[16:42:08] Vous avez gagné 9 880 kamas.
+[16:42:09] Vous avez gagné 11 980 kamas.
+[16:42:09] Votre monture vient de passer au niveau 80.
+[16:42:09] Vous avez gagné 204 749 points d'expérience.
+[16:42:09] Votre monture a gagné 22 522 points d'expérience.
+[16:42:09] Objets reçus : 10 x [Bonbon Zaï Hallucinogène]
+[16:42:09] Objets reçus : 10 x [Bonbon Zaï Planant]
+[16:42:17] Objet reçu : 1 x [Cœur de Buveur]
+[16:42:17] Objet reçu : 1 x [Cœur de Brandon]
+[16:42:17] Objet reçu : 1 x [Corbac Mort]
+[16:42:17] Objet reçu : 1 x [Plume Pointue de Renarbo]
+[16:42:18] Objet reçu : 1 x [Cuir de Capsaaloocke]
+[16:42:18] Votre monture vient de passer au niveau 81.
+[16:42:18] Vous avez gagné 129 858 points d'expérience.
+[16:42:18] Votre monture a gagné 14 284 points d'expérience.
+[16:42:18] Vous avez gagné 14 280 kamas.
+[16:42:19] Objet reçu : 1 x [Poils de Koalak Griotte]
+[16:42:19] Objet reçu : 1 x [Poils de Koalak Reinette]
+[16:42:19] Objet reçu : 1 x [Poils de Koalak Coco]
+[16:42:19] Objet reçu : 1 x [Poils de Koalak Indigo]
+[16:42:19] Vous avez gagné 34 122 points d'expérience.
+[16:42:19] Votre monture a gagné 3 753 points d'expérience.
+[16:42:19] Vous avez gagné 4 452 kamas.
+[16:42:19] Vous avez gagné 21 558 points d'expérience.
+[16:42:19] Votre monture a gagné 2 371 points d'expérience.
+[16:42:21] Objet reçu : 1 x [Globule de Nyée]
+[16:42:21] Objets reçus : 10 x [Soie Baveuse]
+[16:42:21] Votre monture vient de passer au niveau 82.
+[16:42:21] Vous avez gagné 79 032 points d'expérience.
+[16:42:21] Votre monture a gagné 8 693 points d'expérience.
+[16:42:21] Vous avez gagné 9 880 kamas.
+[16:42:21] Vous avez gagné 6 280 kamas.
+[16:42:21] Vous avez gagné 43 432 points d'expérience.
+[16:42:21] Votre monture a gagné 4 777 points d'expérience.
+[16:42:22] Vous avez gagné 6 280 kamas.
+[16:42:22] Vous avez gagné 43 432 points d'expérience.
+[16:42:22] Votre monture a gagné 4 777 points d'expérience.
+[16:42:22] Votre monture vient de passer au niveau 83.
+[16:42:23] Vous avez gagné 235 586 points d'expérience.
+[16:42:23] Votre monture a gagné 25 914 points d'expérience.
+[16:42:23] Votre monture vient de passer au niveau 84.
+[16:42:23] Vous avez gagné 26 249 points d'expérience.
+[16:42:23] Votre monture a gagné 2 887 points d'expérience.
+[16:42:24] Vous avez gagné 6 280 kamas.
+[16:42:24] Vous avez gagné 43 432 points d'expérience.
+[16:42:24] Votre monture a gagné 4 777 points d'expérience.
+[16:42:24] Objets reçus : 10 x [Étoffe de Draegnerys]
+[16:42:24] Objet reçu : 1 x [Cheveux de Draegnerys]
+[16:42:24] Vous avez gagné 6 280 kamas.
+[16:42:24] Vous avez gagné 43 432 points d'expérience.
+[16:42:24] Votre monture a gagné 4 777 points d'expérience.
+[16:42:24] Objets reçus : 10 x [Étoffe de Draegnerys]
+[16:42:24] Objet reçu : 1 x [Cheveux de Draegnerys]
+[16:42:25] Objet reçu : 1 x [Bwak Squelettique]
+[16:42:25] Objets reçus : 10 x [Barbe du Chouque]
+[16:42:25] Vous avez gagné 79 032 points d'expérience.
+[16:42:25] Votre monture a gagné 8 693 points d'expérience.
+[16:42:25] Vous avez gagné 9 880 kamas.
+[16:42:27] Votre monture vient de passer au niveau 86.
+[16:42:27] Vous avez gagné 262 500 points d'expérience.
+[16:42:27] Votre monture a gagné 28 874 points d'expérience.
+[16:42:29] Objets reçus : 10 x [Plume du Maître Corbac]
+[16:42:29] Objets reçus : 10 x [Duvet du Maître Corbac]
+[16:42:29] Objet reçu : 1 x [Clakoss]
+[16:42:30] Votre monture vient de passer au niveau 87.
+[16:42:30] Vous avez gagné 259 718 points d'expérience.
+[16:42:30] Votre monture a gagné 28 569 points d'expérience.
+[16:42:30] Vous avez gagné 14 280 kamas.
+[16:42:31] Votre monture vient de passer au niveau 88.
+[16:42:31] Vous avez gagné 262 500 points d'expérience.
+[16:42:31] Votre monture a gagné 28 874 points d'expérience.
+[16:42:33] Objet reçu : 1 x [Citrouille]
+[16:42:33] Objet reçu : 1 x [Noeul Mort]
+[16:42:33] Objet reçu : 1 x [Dent de Kwoan]
+[16:42:33] Objet reçu : 1 x [Chauve-souris]
+[16:42:33] Vous avez gagné 12 713 points d'expérience.
+[16:42:33] Votre monture a gagné 1 398 points d'expérience.
+[16:42:33] Vous avez gagné 2 380 kamas.
+[16:42:34] Votre monture vient de passer au niveau 89.
+[16:42:34] Vous avez gagné 26 249 points d'expérience.
+[16:42:34] Votre monture a gagné 2 887 points d'expérience.
+[16:42:34] Vous avez gagné 26 249 points d'expérience.
+[16:42:34] Votre monture a gagné 2 887 points d'expérience.
+[16:42:35] Vous avez gagné 4 342 points d'expérience.
+[16:42:35] Votre monture a gagné 477 points d'expérience.
+[16:42:35] Objets reçus : 10 x [Ambre Ancestral]
+[16:42:35] Objet reçu : 1 x [Bois Envoûté]
+[16:42:35] Objets reçus : 10 x [Écorce d'Abraknyde Ancestral]
+[16:42:35] Objet reçu : 1 x [Bourgeon d'Abraknyde Ancestral]
+[16:42:35] Objets reçus : 10 x [Racine d'Abraknyde Ancestral]
+[16:42:35] Vous avez gagné 79 032 points d'expérience.
+[16:42:35] Votre monture a gagné 8 693 points d'expérience.
+[16:42:35] Vous avez gagné 9 880 kamas.
+[16:42:36] Objets reçus : 10 x [Coquille de Dragoeuf Calcaire]
+[16:42:36] Objets reçus : 10 x [Coquille de Dragoeuf Argile]
+[16:42:36] Objets reçus : 10 x [Coquille de Dragoeuf Charbon]
+[16:42:36] Objets reçus : 10 x [Coquille de Dragoeuf Ardoise]
+[16:42:36] Objets reçus : 10 x [Peau de Dragoeuf Albâtre]
+[16:42:36] Vous avez gagné 43 432 points d'expérience.
+[16:42:36] Votre monture a gagné 4 777 points d'expérience.
+[16:42:36] Vous avez gagné 6 280 kamas.
+[16:42:36] Objets reçus : 10 x [Ambre Ancestral]
+[16:42:36] Objet reçu : 1 x [Bois Envoûté]
+[16:42:36] Objets reçus : 10 x [Écorce d'Abraknyde Ancestral]
+[16:42:36] Objet reçu : 1 x [Bourgeon d'Abraknyde Ancestral]
+[16:42:36] Objets reçus : 10 x [Racine d'Abraknyde Ancestral]
+[16:42:37] Votre monture vient de passer au niveau 90.
+[16:42:37] Vous avez gagné 79 032 points d'expérience.
+[16:42:37] Votre monture a gagné 8 693 points d'expérience.
+[16:42:37] Vous avez gagné 9 880 kamas.
+[16:42:37] Vous avez gagné 26 249 points d'expérience.
+[16:42:37] Votre monture a gagné 2 887 points d'expérience.
+[16:42:38] Vous avez gagné 22 154 points d'expérience.
+[16:42:38] Votre monture a gagné 2 437 points d'expérience.
+[16:42:39] Objet reçu : 1 x [Moustache de Boostache]
+[16:42:39] Objet reçu : 1 x [Bec du Kwakwa]
+[16:42:39] Objet reçu : 1 x [Cagoule du Kanniboul Ebil]
+[16:42:39] Vous avez gagné 24 821 points d'expérience.
+[16:42:39] Votre monture a gagné 2 730 points d'expérience.
+[16:42:39] Vous avez gagné 4 105 kamas.
+[16:43:35] (Alliance) Everdale : [16:42] (Commerce) Tanne-Itagila-opla : achete prytek 7M5 /U ; ebene 10M/U; ivoire 19M/U ; scinti 15M bwahaha jui mort
+[16:43:42] (Alliance) And-U-Try : lui faut l'insulter
+[16:43:45] Échange annulé
+[16:43:48] (Alliance) Tenshinhaan : Je l'ai MP justement ahahah
+[16:43:57] (Alliance) Tenshinhaan : Je lui ai dis demande à ce qu'on te les donne, ca ira plus vite
+[16:44:08] (Alliance) Tenshinhaan : de Tanne-Itagila-opla : bg gros nerf incoming faut vendre
+[16:44:16] (Alliance) Everdale : oé oé
+[16:44:23] (Alliance) Everdale : a ce prix la autant donné
+[16:44:30] (Alliance) Tenshinhaan : Déjà quand le mec t'appelle bg y'a une couille
+[16:44:43] (Alliance) And-U-Try : il veut peut etre ta teub :/
+[16:44:55] (Alliance) Mure-Winz : mdrrr
+[16:45:01] (Alliance) Pistaachee : achete ebene 10M/u ivoire/scinti 15M/u
+[16:45:06] (Alliance) Tenshinhaan : x)
+[16:45:10] (Alliance) Saysk : ptddrr
+[16:45:15] à Portail-plio : [16:43] (Alliance) Everdale : [16:42] (Commerce) Tanne-Itagila-opla : achete prytek 7M5 /U ; ebene 10M/U; ivoire 19M/U ; scinti 15M
+[16:45:18] (Alliance) Saysk : si tu trouve un vendeur a ce prix je veux bien
+[16:45:32] (Alliance) Pistaachee : Ah fréro mec je surf sur la vague
+[16:45:44] (Alliance) And-U-Try : tas oublié "bg"
+[16:45:50] (Alliance) Pistaachee : xD
+[16:46:09] (Alliance) Pistaachee : la prytek 23M xD
+[16:46:18] (Alliance) Pistaachee : se soir c'est en dessous de 15M j'achete
+[16:46:19] Échange effectué
+[16:46:23] (Alliance) Yaozai : idem mdr
+[16:46:25] (Alliance) Mure-Winz : meme moi mdr
+[16:46:45] (Alliance) Mure-Winz : quel bande de pitre
+[16:47:12] (Alliance) Pistaachee : faut aller [Bottes du Cul Botté] 10M j'achete avant que ça s'envole ? xD
+[16:47:49] (Alliance) And-U-Try : ça voulait le coup de sortir des item leg pour tous les modifier meme pas 1 an après
+[16:47:54] (Alliance) And-U-Try : DU GRAND GENIEEEEEEEEEEE
+[16:48:04] (Alliance) And-U-Try : opti perte de temps
+[16:48:17] (Alliance) Mure-Winz : c'etais a prevoir
+[16:48:37] (Alliance) And-U-Try : la cape corrup ils vont la rendre + rincé que la rykke erel
+[16:48:44] (Alliance) And-U-Try : tu pourra la drop sur des pichons bientot
+[16:48:55] (Alliance) Mure-Winz : le combo pesti fami leg croco est vraiment trop abusé
+[16:48:57] (Alliance) Yaozai : Mdrrrrrrrrrr
+[16:48:58] (Alliance) Pistaachee : c'est certain j'ai vendu la mienne il y a 1 mois après les premiers echo a 80M pluto benef
+[16:49:03] (Alliance) Mure-Winz : ptdrrr
+[16:49:05] (Alliance) And-U-Try : oui certes mais ces 3 item ça coute 200M +
+[16:49:08] (Alliance) And-U-Try : y'a pas tlm encore une fois
+[16:49:11] (Alliance) And-U-Try : qui peut se stuff comme ça :)
+[16:49:15] (Alliance) Yaozai : et alors ?
+[16:49:21] (Alliance) Mure-Winz : totalement d'accord
+[16:49:22] Dofus : ~
+[16:49:25] Pour des raisons de maintenances, le serveur va être redémarré dans 15 heures, 10 minutes, 35 secondes.
+[16:49:32] (Alliance) And-U-Try : ben quoi, ton voisin qui touche 5K par mois il a une bentley, toi t'es au smic, est ce que les salaires moyen changent?
+[16:49:33] (Alliance) Mure-Winz : et encore une fois je critique pas mdr
+[16:49:40] (Alliance) Pistaachee : oh putin les familiers legendaires vol de vie sont entrain de ce vendre aussi xD
+[16:49:42] (Alliance) Mure-Winz : j'ai dis c'etais a prevoir
+[16:49:51] (Alliance) And-U-Try : encore une fois ça change des truc pour une infime partie des joueurs
+[16:49:56] (Alliance) Yaozai : si 3 items suffisent à casser le jeu, meme si y'a que 20 pelos qui les ont c'est pas normal
+[16:50:03] (Alliance) And-U-Try : les fami legendaire c'est un bordel sans nom a les rendre legendaire
+[16:50:08] (Alliance) And-U-Try : et ça aussi ça va etre revu
+[16:50:08] (Alliance) Yaozai : Oui
+[16:50:10] (Alliance) And-U-Try : faut arrêter quoui
+[16:50:22] (Alliance) Yaozai : C'est pas simple oui
+[16:50:28] (Alliance) Pistaachee : enfin ils attaquent les items mais les classes xelor/sacri/feca/elio/eni quedal donc bon ... dans le fond c'est qu'un nerf a la con
+[16:50:29] Un membre de votre guilde, Athena-skull, est en ligne.
+[16:50:53] (Alliance) Yaozai : D'un coté des items leg (donc très puissants) et rares, et de l'autre coté ça nique l'equilibrage vs les plus "pauvres"
+[16:51:00] (Alliance) Everdale : ca serait quoi pour toi le nerf ideal pistache ?
+[16:51:15] (Alliance) And-U-Try : tu supprime all classes et on joue tous en chacha de MJ sans stuff
+[16:51:25] (Alliance) Mure-Winz : une fois qu'ils auront nerfs ces classes que tu cite, ensuite c'est eux qui se plaindront que les autres doivent etre nerf et ainsi de suite
+[16:51:33] (Alliance) Pistaachee : que ça retourne a 2 voir 3 classes pillier, la ça tourne a presque 6 c'est beaucoup de trop
+[16:51:33] (Alliance) And-U-Try : bah oé mais ça = commu dofus
+[16:51:34] (Alliance) Mure-Winz : le chien qui se mord la queue
+[16:51:54] Échange effectué
+[16:52:38] (Alliance) Everdale : je comprends pas pourquoi ils nerf ivoire
+[16:52:42] (Alliance) Pistaachee : après les les items leg oui genre la pesti qui est utilisé sur des mecs qui joue air non ça c'est a nerf direct, après les dofus ivoire il faut faire beaucoup de quete et le scinti si ta pas les 6 sofus tu peut pas en avoir donc c'est un dofus méritant
+[16:52:54] (Alliance) And-U-Try : pour faire chier le monde et kill l'economie et faire perdre enormement d'argent a pas mal de monde qui galère déjà
+[16:53:02] (Alliance) And-U-Try : et encore une fois les riches sont les plus bien lotis car osef des nerf
+[16:53:07] (Alliance) And-U-Try : ils sont blindés ils trouveront aut' chose
+[16:53:12] (Alliance) And-U-Try : capitalisme dofus xd
+[16:53:18] (Alliance) Mure-Winz : mdrrr
+[16:53:32] (Alliance) Tya-la-feca : nan mais le level de se débat
+[16:53:34] (Alliance) Everdale : apres dofus les methodes kamas facile sont donné hein faut juste se motiver a s'en faire
+[16:53:40] (Alliance) Tya-la-feca : vous devriez faire de la politique en france les gars
+[16:53:41] (Alliance) Pistaachee : je susi d'accord sur les dofus, 130 quetes pour un ivoire tout le monde les faits pas, et ils vont te peter le truc en 2.
+[16:53:52] (Alliance) And-U-Try : politique et france déjà ça va pas ensemble
+[16:53:57] (Alliance) And-U-Try : donc n'en parlons pas :x
+[16:54:01] (Alliance) Tya-la-feca : :')
+[16:54:19] Vous avez perdu 20 kamas.
+[16:54:25] (Alliance) Pistaachee : après dofus et nerf ça moyennement ensemble donc bon
+[16:54:26] (Alliance) Popiopipo : on sait la gueule du nerf ou c'est vrmt juste l'image sur twitter
+[16:54:33] (Alliance) And-U-Try : méthode kamas facile? lesquelles? si tu parle de jouer 8 cra feu et d'exploser le prix de toutes zones oé super
+[16:54:48] (Alliance) And-U-Try : pcq faire des exo de ouf, kamater grace a ses talents de mage etc y'a rien de facile hein
+[16:55:03] (Alliance) Everdale : popi on sait pas grand chose, mais les screens twi donne une idée de ce qui va arriver
+[16:56:07] (Alliance) Popiopipo : c'est n'imp
+[16:56:16] (Alliance) Everdale : y'a deja des cape corrup a 69M alors qu'elles valaient 100M y'a 1h jpp
+[16:56:24] (Alliance) Popiopipo : mais oui c'est tb
+[16:56:33] (Alliance) Popiopipo : le /b est full prytek ivoires ebenes pesti
+[16:56:59] (Alliance) Everdale : ouais t'as jamais vu ca
+[16:57:38] (Alliance) Popiopipo : après is ça se trouve le nerf il va e^tre ridicule on en sait rien
+[16:58:03] XxX-NeOVodka-XxX(Neo-furiious) est en ligne.
+[16:58:05] (Alliance) Trainwrice : Pas aussi ridicule que tout ceux qui post en /b actuellement ça c'est clair
+[16:58:20] (Alliance) Everdale : oui justement
+[16:58:38] (Alliance) Trainwrice : lol j'me suis abo 1 semaine et ça m'a abo juste 1 semaine
+[16:58:47] (Alliance) Trainwrice : y'a pas censé avoir l'offre 7+7?
+[16:58:48] (Alliance) Everdale : faut les comprendre ils preferent vendre maintenant pck le prix vaut encore quelque chose
+[16:59:00] (Alliance) Popiopipo : ouais mais personne va acheter mtn c'est bête
+[16:59:01] (Alliance) Shimuri : Bon je vous laisse, rdv ce soir :D Achetez moi une prytek si y'en a à 15Mu
+[16:59:22] Pour des raisons de maintenances, le serveur va être redémarré dans environ 15 heures.
+[16:59:59] (Alliance) Everdale : oé tqt bg je penserai a toi tu m'en donnera 25
+[17:00:05] (Alliance) Popiopipo : les zinzolin vont plus rien valoir du tout du coup
+[17:00:17] (Alliance) Popiopipo : parfait moi qui les gardais justement pour me craft des prytek :)
+[17:02:12] (Alliance) Mure-Winz : (Commerce) Mitthrandir : Vends prytek 22m
+[17:05:20] (Alliance) Everdale : AV [Dofus Ivoire] [Dofus Ébène] [Dofus Argenté Scintillant] [Prytek Brillante] 20M le tout
+[17:05:29] (Alliance) Everdale : oups trompé de /
+[17:05:35] (Alliance) Mure-Winz : je prends 30m
+[17:05:44] (Alliance) Micaeli : 10M pas plus
+[17:06:00] (Alliance) Mure-Winz : 35 meme je prends tes ou
+[17:06:12] (Alliance) Everdale : BWAHAHA jui mort j'ai jamais eu autant de /w et d'inv groupe d'un coup
+[17:06:14] (Alliance) Everdale : aled
+[17:06:21] (Alliance) Micaeli : c'est le feu t'as vu ever x)
+[17:06:22] (Alliance) Mure-Winz : ptdrrr
+[17:06:36] (Alliance) Everdale : 30message " t ou"
+[17:07:57] (Alliance) Bad-Cynthia : a se soir les gars
+[17:08:16] (Alliance) Mure-Winz : stuff panda tank classique 6k vita 50% res 220 tacle a 40m ca vaut le coup non ?
+[17:08:21] (Alliance) Mure-Winz : avec exo PA et PM
+[17:08:31] (Alliance) Kisa-X-Dixie : Oui je pense
+[17:08:50] (Alliance) Micaeli : oui
+[17:08:52] (Alliance) Mure-Winz : ca me parrait carrément raisonnable
+[17:09:03] (Alliance) Kisa-X-Dixie : A voir si les exos sont bien ou non
+[17:09:09] (Alliance) Kisa-X-Dixie : Si ya only vita / tacle xd
+[17:09:28] (Alliance) Mure-Winz : anneau tique et glours 12do 249 vita full tacle
+[17:09:47] (Alliance) Kisa-X-Dixie : les stats de la glours ? et sasa sont propre ?
+[17:10:25] ghduejfkd(Nexuzya) est en ligne.
+[17:11:24] (Alliance) Mure-Winz : 57 55 37
+[17:11:36] (Alliance) Kisa-X-Dixie : ca passe crème
+[17:11:42] (Alliance) Kisa-X-Dixie : très crème même
+[17:11:54] (Alliance) Mure-Winz : je vais prendre je pense
+[17:12:06] (Alliance) Kisa-X-Dixie : Si tu prends pas je prend xd
+[17:12:24] (Alliance) Mure-Winz : au pire je ferais un benef dessus si j'ai la flemme de ressortir le pandaa mdr
+[17:12:41] (Alliance) Mure-Winz : si je prends pas je te dirais
+[17:12:46] (Alliance) Kisa-X-Dixie : merci :p
+[17:12:49] (Alliance) Mure-Winz : j'attends qu"ils se co ^^
+[17:13:02] (Alliance) Mure-Winz : essayé de negocier a l'amiable mdrr
+[17:25:23] Échange effectué
+[17:27:11] (Alliance) El-Caata : Yo les gars qui pour donjon 200? (paragon)
+[17:29:17] (Alliance) Bad-Cynthia : merci anakma
+[17:29:38] Handa-cbf(Vrelitao) est en ligne.
+[17:29:51] (Alliance) Bad-Cynthia : j‘ai changer ma mode a une eni air
+[17:30:18] (Alliance) Mure-Winz : et ca te plait ?
+[17:30:41] Impossible d'échanger avec ce joueur.
+[17:30:54] (Alliance) Bad-Cynthia : c‘est la 2eme fois sur ma vie depuis 10ans et je jouer eni je test une eni air
+[17:31:32] Un membre de votre guilde, Suaht, est en ligne.
+[17:31:49] 1 x [Rune Prospe] (74 kamas)
+[17:31:50] 1 x [Rune Prospe] (75 kamas)
+[17:31:50] 1 x [Rune Prospe] (75 kamas)
+[17:31:51] 1 x [Rune Prospe] (75 kamas)
+[17:31:51] 1 x [Rune Prospe] (75 kamas)
+[17:31:51] 1 x [Rune Prospe] (75 kamas)
+[17:31:52] 1 x [Rune Prospe] (75 kamas)
+[17:31:52] 1 x [Rune Prospe] (78 kamas)
+[17:31:53] 1 x [Rune Prospe] (80 kamas)
+[17:31:53] 1 x [Rune Prospe] (90 kamas)
+[17:31:54] 1 x [Rune Prospe] (90 kamas)
+[17:31:54] 1 x [Rune Prospe] (91 kamas)
+[17:31:54] 1 x [Rune Prospe] (91 kamas)
+[17:31:55] 1 x [Rune Prospe] (92 kamas)
+[17:31:55] 1 x [Rune Prospe] (92 kamas)
+[17:31:56] 1 x [Rune Prospe] (98 kamas)
+[17:31:56] 1 x [Rune Prospe] (98 kamas)
+[17:31:56] 1 x [Rune Prospe] (98 kamas)
+[17:31:56] 1 x [Rune Prospe] (98 kamas)
+[17:31:57] 1 x [Rune Prospe] (98 kamas)
+[17:31:57] 1 x [Rune Prospe] (99 kamas)
+[17:31:57] 1 x [Rune Prospe] (99 kamas)
+[17:31:58] 1 x [Rune Prospe] (100 kamas)
+[17:31:59] 1 x [Rune Prospe] (100 kamas)
+[17:32:00] 1 x [Rune Prospe] (108 kamas)
+[17:32:00] 1 x [Rune Prospe] (108 kamas)
+[17:32:00] 1 x [Rune Prospe] (108 kamas)
+[17:32:02] 1 x [Rune Prospe] (108 kamas)
+[17:32:02] 1 x [Rune Prospe] (108 kamas)
+[17:32:02] 1 x [Rune Prospe] (108 kamas)
+[17:32:03] 1 x [Rune Prospe] (108 kamas)
+[17:32:03] 1 x [Rune Prospe] (108 kamas)
+[17:32:03] 1 x [Rune Prospe] (108 kamas)
+[17:32:04] 1 x [Rune Prospe] (108 kamas)
+[17:32:04] 1 x [Rune Prospe] (110 kamas)
+[17:32:09] 10 x [Rune Prospe] (1 094 kamas)
+[17:32:10] 10 x [Rune Prospe] (1 094 kamas)
+[17:32:10] 10 x [Rune Prospe] (1 094 kamas)
+[17:32:11] 10 x [Rune Prospe] (1 095 kamas)
+[17:32:11] 10 x [Rune Prospe] (1 095 kamas)
+[17:32:11] 10 x [Rune Prospe] (1 095 kamas)
+[17:32:12] 10 x [Rune Prospe] (1 096 kamas)
+[17:32:12] 10 x [Rune Prospe] (1 096 kamas)
+[17:32:14] 10 x [Rune Prospe] (1 096 kamas)
+[17:32:15] 10 x [Rune Prospe] (1 096 kamas)
+[17:32:15] 10 x [Rune Prospe] (1 096 kamas)
+[17:32:16] 10 x [Rune Prospe] (1 096 kamas)
+[17:32:16] 10 x [Rune Prospe] (1 097 kamas)
+[17:32:17] 10 x [Rune Prospe] (1 097 kamas)
+[17:32:17] 10 x [Rune Prospe] (1 097 kamas)
+[17:32:18] 10 x [Rune Prospe] (1 097 kamas)
+[17:32:18] 10 x [Rune Prospe] (1 097 kamas)
+[17:32:19] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:19] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:20] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:20] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:20] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:20] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:21] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:23] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:24] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:24] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:25] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:25] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:25] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:26] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:27] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:27] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:28] 10 x [Rune Prospe] (1 098 kamas)
+[17:32:49] Vous avez créé 50 × [Rune Pa Prospe] !
+[17:33:12] (Guilde) Suaht : yooo
+[17:34:50] (Guilde) Oracledb : Salut
+[17:39:45] Handa-cbf(Vrelitao) est en ligne.
+[17:40:34] (Alliance) Lovely-nini : 128 uti Portail vers la dimension Enutrosor [-4,9]
+[17:42:31] tonton-du-bahu(Heiiden-I) est en ligne.
+[17:43:17] (Alliance) Psycopat : je recherche cela si jamais [Légende de Corruption] [Légende de Jahash Jurgen] [Légende du Cul Botté] [Légende de Servitude] merci et bon jeu
+[17:43:45] (Alliance) Kisa-X-Dixie : J'ai une ceinture servi à vendre, mais pas la légende (si jamais)
+[17:43:48] (Alliance) White-Rina : j'ai que celle de guerre xD
+[17:44:00] (Alliance) Psycopat : nop je need que les leg bg sorry :3
+[17:44:21] (Alliance) Vaal-Hazak : yo, prix nebu svp les gens?
+[17:44:26] (Alliance) White-Rina : tu need pas la legende guerre psyco ?
+[17:44:36] (Alliance) Psycopat : j'ai deja :3
+[17:44:45] (Alliance) Mure-Winz : 11-12m si ca a pas bougé
+[17:44:53] (Alliance) Vaal-Hazak : merci :)
+[17:45:06] (Alliance) Mure-Winz : sinon tu vas voir place marchande
+[17:46:52] Un percepteur de la guilde Yume No Hana est attaqué dans Tanière du Meulou en [-23,0].
+[17:47:20] (Alliance) Psycopat : je prie pour un réup de la rykke perso xD
+[17:47:25] (Alliance) Bad-Cynthia : 1 last MDR
+[17:47:32] (Alliance) Majestueur : un last svp :)
+[17:47:43] (Alliance) Psycopat : j'ai cassé mon ivoire sorry :3
+[17:47:45] (Alliance) Bad-Cynthia : plizz 1 last
+[17:48:17] (Alliance) Bad-Cynthia : rempart
+[17:48:34] (Alliance) Psycopat : je lol suis pas stuff suis entrain d'fm les items de l'alma suis encore dessus xD
+[17:48:48] (Alliance) Psycopat : et les items finit pas sur moi trié en HS
+[17:48:50] Un membre de votre guilde, Shaktyy, est en ligne.
+[17:56:26] (Alliance) Gouu : re Bonjour :)
+[17:56:41] (Alliance) Nunu-Vuyton : Salut :)
+[17:57:02] (Alliance) Yaozai : Re
+[17:57:57] (Alliance) Psycopat : 9 rune en succes crit d'affilé c'est quoi se jeu quand tu prie pour ça marche jamais xD
+[17:59:25] Pour des raisons de maintenances, le serveur va être redémarré dans environ 14 heures.
+[17:59:58] Grougalora-Luna(Miowi-Magus) est en ligne.
+[18:00:07] (Alliance) Lunaaly : bonsoir
+[18:00:25] (Alliance) Stannis : Hey Luna^^
+[18:03:12] Cette recette ne donne rien !
+[18:05:00] Le message n'a pas pu être envoyé : le destinataire est introuvable.
+[18:10:33] (Alliance) Bad-Cynthia : vasy A plus tard
+[18:10:42] (Alliance) Gounaff : Salut l'alliance
+[18:10:45] (Alliance) Lulox : hello
+[18:10:50] (Alliance) Thaegis : Salut
+[18:11:14] Le percepteur de la guilde Yume No Hana attaqué en [-23,0] n'a pas survécu !
+[18:25:02] ghduejfkd(Nexuzya) est en ligne.
+[18:29:52] XxX-NeOVodka-XxX(Neo-furiious) est en ligne.
+[18:30:14] Miowi-Magus a déverrouillé le succès [Elle a peut-être trop mangé ?].
+[18:30:22] (Alliance) Ipaa : Mais on sais les Notif sur les Dofus?
+[18:31:31] (Alliance) Micaeli : pas encore ipaa
+[18:31:57] (Alliance) Shimuri : non mais les gens sont hystériques quand même XD
+[18:32:23] (Alliance) Teyso-oniryell : c'est incroyable le drop de prix
+[18:32:44] (Alliance) Teyso-oniryell : mais j'ai peut que ça fasse monter le prix des items "classiques" en retour
+[18:32:46] (Alliance) Yaozai : IL EST DE RETOUR
+[18:32:48] (Alliance) Nusani : genre, un drop de combien? j'dois buy un arc corrompu *
+[18:32:54] (Alliance) Lgp-mihawk : bjr
+[18:33:00] (Alliance) Lunaaly : coucou
+[18:33:03] (Alliance) Gouu : LGP
+[18:33:06] (Alliance) Deportation : Salut
+[18:33:07] (Alliance) Gouu : :o
+[18:33:09] (Alliance) Yaozai : Yo ;)
+[18:33:11] (Alliance) Lgp-mihawk : commetn allez vous mes amis
+[18:33:11] (Alliance) Gouu : *-*
+[18:33:16] (Alliance) Gouu : mieux maintenant
+[18:33:38] (Alliance) Gounaff : LGP !!!!
+[18:33:48] (Alliance) Lunaaly : mieux avec ta douce présence
+[18:34:00] (Alliance) Lgp-mihawk : vous m'aviez manquer
+[18:34:05] (Alliance) Yaozai : Toi aussi
+[18:34:32] (Alliance) Lgp-mihawk : bon j'y vais mdr
+[18:34:47] (Alliance) Gouu : salo
+[18:34:49] Échange annulé
+[18:35:45] (Alliance) ---Hysoka--- : (re)Bonsoir :)
+[18:35:53] (Alliance) Mure-Winz : Ree
+[18:36:17] frxzombie(Zombiere) est en ligne.
+[18:38:02] Handa-cbf(Vrelitao) est en ligne.
+[18:39:31] à Punk-hasard : [Baleinabottes]
+[18:39:53] de Punk-hasard : [Baleinabottes]
+[18:40:43] (Alliance) White-Rina : [Légende animale de Poukachi]
+[18:43:52] (Alliance) Cotisation : Un sculteur 173 serai dispo svp ?
+[18:43:57] (Alliance) Cotisation : sculpteur *
+[18:44:04] (Alliance) Mattyeux : ca coute cb un prytek ?
+[18:44:11] (Alliance) Mure-Winz : 10m
+[18:44:15] (Alliance) Mure-Winz : oups
+[18:44:16] (Alliance) Shimuri : j'achète 8M
+[18:44:17] (Alliance) Cotisation : Trop chére pour le nerf qu'il va subir
+[18:44:22] (Alliance) Mure-Winz : 27m
+[18:44:32] (Alliance) Lunaaly : 24m là
+[18:44:33] (Alliance) Mure-Winz : tu sais quel va etre le nerf ?
+[18:44:35] (Alliance) Yaozai : j'en ai vu en vente en /b à 21 ^^
+[18:44:38] (Alliance) Mure-Winz : non :)
+[18:44:38] (Alliance) Lunaaly : il va baissé fort ce week end
+[18:44:43] (Alliance) Mattyeux : wtfff vraiment
+[18:44:45] (Alliance) Micaeli : achete prytek 2 kamas me mp
+[18:44:46] (Alliance) Cotisation : Nerf surement une reduction du shield et temps de jeu
+[18:44:53] (Alliance) Lunaaly : tant mieu
+[18:44:55] (Alliance) Cotisation : Donc ça va valoir bien moins chére
+[18:44:59] (Alliance) Lunaaly : item de merde qui a détruit le pvp
+[18:45:09] (Alliance) Mure-Winz : ca va etre du shield par tour je pense
+[18:45:09] (Alliance) Deportation : [Ratrapry Iridescente] le prix d'un truc comme ça surement
+[18:45:10] (Alliance) Mattyeux : ptn merde faut que je vende le miens
+[18:45:17] (Alliance) Mure-Winz : genre 600 t1
+[18:45:23] (Alliance) Mure-Winz : 800 t2
+[18:45:27] (Alliance) Shimuri : bah c'est bien pour éviter les OS t1 en vrai (ccomme c'était prévu)
+[18:45:29] (Alliance) Mure-Winz : et 1200 t3
+[18:45:29] (Alliance) Deportation : Moi j'pense un 25% de shield pendant 2 tours juste
+[18:45:39] (Alliance) Man-Yo : impossible winz
+[18:45:45] (Alliance) Deportation : Ouais Shimuri mais t'as pas besoin de 2500 de shield pour eviter un os t1
+[18:45:53] (Alliance) Shimuri : au départ ^^
+[18:45:54] (Alliance) Deportation : Et t2 aussi
+[18:45:56] (Alliance) Man-Yo : 1200 t3
+[18:46:01] ghduejfkd(Nexuzya) est en ligne.
+[18:46:01] (Alliance) Man-Yo : bcp trop
+[18:46:02] (Alliance) Mure-Winz : rien est impossible mdr
+[18:46:13] (Alliance) Man-Yo : pas de nerf sacri en tout cas
+[18:46:17] (Alliance) Mure-Winz : d'ici le t3 ta le temps de te faire souiller
+[18:46:19] (Alliance) Shimuri : après c'est vite apparu que 2000 hp gratos c'était bie nfumé XD
+[18:46:23] (Alliance) Mure-Winz : laissez mon sacri mdrr
+[18:46:33] (Alliance) Man-Yo : sacrifice 1200PV 2PA tout va bien
+[18:46:35] (Alliance) Deportation : Mdrr ouais faudrait interdire le prytek en 1v1 à la limite
+[18:46:43] (Alliance) Deportation : Et limité à 1 prytek par equipe en 3v3
+[18:46:43] (Alliance) Frah-Snow : une nerf cra jespere
+[18:46:45] (Alliance) Frah-Snow : !!!!!
+[18:46:48] (Alliance) Man-Yo : en vrai en 1v1 prytek c'est pas ouf
+[18:46:49] (Alliance) Yaozai : non !
+[18:46:51] (Alliance) Frah-Snow : dite moi quil ya une nerf cra
+[18:46:56] (Alliance) Man-Yo : mais ca détruit les attaques perco
+[18:46:57] (Alliance) Deportation : On se fait chier clairement vs un prytek en 1v1
+[18:47:12] (Alliance) Man-Yo : oui mais c'est pas si fort
+[18:47:25] (Alliance) Mure-Winz : que l'osa qui va etre nerf
+[18:47:25] (Alliance) Man-Yo : juste t'attends 2 tours
+[18:47:29] (Alliance) Yaozai : mdr
+[18:47:30] (Alliance) Mure-Winz : et ougi zozo up
+[18:47:38] (Alliance) Frah-Snow : ougi va up?
+[18:47:42] (Alliance) Mure-Winz : oui
+[18:47:43] (Alliance) Micaeli : oe
+[18:47:45] (Alliance) Mure-Winz : et zozo
+[18:47:50] (Alliance) Frah-Snow : putin..
+[18:47:51] (Alliance) Rasta-Fairy : NIIICE
+[18:47:59] (Alliance) Yaozai : comme si toutes les classes pouvaient temporiser deux tours comme ça
+[18:48:02] (Alliance) Frah-Snow : si ils font des vrais nerf jai le seum je viens de reroll car ougi me soulais
+[18:48:02] (Alliance) Man-Yo : ougi va devenir le new sacri
+[18:48:16] (Alliance) Supa-Huppa : (Commerce) Distillateur : Team dispo songe, Delock ou run , étage 325 mini ( vos songe) Service gratuit !
+[18:48:17] (Alliance) Micaeli : mdr
+[18:48:25] (Alliance) Micaeli : abuses pas man
+[18:48:41] (Alliance) Man-Yo : c'est mon prono
+[18:48:46] (Alliance) Mure-Winz : moi perso je joue sacri mais full pvm
+[18:48:53] (Alliance) Micaeli : ougi atm, les seules voies fortent/broken c'est a cause des items
+[18:49:06] (Alliance) Micaeli : si tu prends ougi en team c'est pas ouf parce que c'est une classe full solitaire
+[18:49:06] (Alliance) Mure-Winz : donc osa des meta pesti tt ca tfacon jsuis pauvre x)
+[18:49:25] (Alliance) Man-Yo : en pvp mica ?
+[18:49:28] (Alliance) Micaeli : oui
+[18:49:29] (Alliance) Cotisation : Tu prends ougi en team panda feca doubli ougi c'est loin d'être uselement
+[18:49:35] (Alliance) Lunaaly : je voudrais bien savoir osa ils auront quel nerf
+[18:49:39] (Alliance) Cotisation : Useless*
+[18:49:48] (Alliance) Man-Yo : ca c'est le pvm cotisatuion
+[18:49:51] (Alliance) Man-Yo : cotisation*
+[18:49:54] (Alliance) Xapa : Bonjour ! Un bijoutier 85 mini dispo pour craft un petit anneau ?
+[18:50:02] (Alliance) Micaeli : oui cotis c'est sur, mais je fait principalement du pvp moi ^^
+[18:50:02] (Alliance) Cotisation : J'ai vu aprés on t'a posé la question :)
+[18:50:04] (Alliance) Frah-Snow : hate de voir le nerf sur cra !!
+[18:50:07] (Alliance) Cotisation : J'avais pas vu la rep
+[18:50:10] (Alliance) Frah-Snow : jattend que ca
+[18:50:13] (Alliance) Yaozai : non pas de nerf cra ^^
+[18:50:15] (Alliance) Frah-Snow : me fou la haine cette classe
+[18:50:18] (Alliance) Yaozai : pourquoi ? :D
+[18:50:33] (Alliance) Micaeli : ya pas de nerf cra d'anoncé frah x)
+[18:50:38] (Alliance) Yaozai : moi j'attends surtout la refonte cra
+[18:50:47] (Alliance) Frah-Snow : manque plus que bombe sur cra et vous avez tout les sort de tout les classe mdrr
+[18:50:55] (Alliance) Micaeli : ???
+[18:51:00] (Alliance) Frah-Snow : ret Pm PA PO degats de masse incroyable
+[18:51:15] (Alliance) Frah-Snow : tire a travers les mur et tout pouah ca me rend ouf en pvp mdrr
+[18:51:25] (Alliance) Micaeli : oui c'est le principe, et nn pas si ouf les dmg d'un cra comparé a d'autre
+[18:51:44] (Alliance) Yaozai : on parle des dégats du cra ou su sacri là ? ^^
+[18:51:49] (Alliance) Yaozai : parce que bon
+[18:51:55] (Alliance) Yaozai : oui sacri c'est mono
+[18:51:57] (Alliance) Mure-Winz : laissez les sacri x)
+[18:52:01] (Alliance) Yaozai : mais ses dégats ...
+[18:52:13] (Alliance) Micaeli : ouais mais meme sans aller jusqu'a sacri yao, compare rien que cra et n'importe quelle classe
+[18:52:17] (Alliance) Micaeli : cra tape pas de ouf
+[18:52:25] (Alliance) Mure-Winz : euhhh
+[18:52:26] (Alliance) Cotisation : Les gens vendent des dofus ivoire 35M ptn c'est chaud
+[18:52:33] (Alliance) Yaozai : ah mais complètement ^^
+[18:52:42] (Alliance) Yaozai : mais cra a un problème d'identité
+[18:52:45] (Alliance) Cotisation : l'économie est fou ça y est
+[18:52:49] (Alliance) Yaozai : pour ça que j'attends une refonte
+[18:53:05] (Alliance) Frah-Snow : faut enlever represaille a cra mdrr
+[18:53:13] (Alliance) Deportation : Un sculpteur 173 est dispo svp ?
+[18:53:20] (Alliance) Frah-Snow : t'enleve repressaille a cra et ya plus de cra en pvp mdrr
+[18:53:29] (Alliance) Micaeli : non faut juste pas qu'il puisse repré t1
+[18:53:33] (Alliance) Micaeli : et c'est clean
+[18:53:36] (Alliance) Yaozai : le tu te rends compte de ce que tu dis alors ? ^^
+[18:53:47] (Alliance) Yaozai : j'suis d'accord pour la repré T1
+[18:53:51] (Alliance) Frah-Snow : en jouant ougi ca ma rendu ouf le cra mdrr
+[18:53:58] (Alliance) Yaozai : allo ?
+[18:54:09] (Alliance) Yaozai : t'as flair
+[18:54:17] (Alliance) Yaozai : tu poses proie et c'est gagné
+[18:54:25] (Alliance) Frah-Snow : flair ca marche que sur les cra qui savent vraiment pas jouer mdrr
+[18:54:32] (Alliance) Micaeli : non?
+[18:54:35] (Alliance) Yaozai : euh xD
+[18:54:45] (Alliance) Micaeli : t'as juste 2 tours off avec écra + repré
+[18:54:50] (Alliance) Micaeli : mais c'tout
+[18:55:04] (Alliance) Yaozai : Portail vers la dimension Enutrosor [10,1]
+[18:55:08] (Alliance) Frah-Snow : ouais fin vu les tailles des map en pvp aussi ..
+[18:55:11] (Alliance) Micaeli : mais bon flair + poursuite + aboiment + pistage, si t'arrives pas a chopper le cra ya un souci
+[18:55:19] (Alliance) Frah-Snow : faut 15pm
+[18:55:25] (Alliance) Frah-Snow : bah sur certaine map cest chaud
+[18:55:29] (Alliance) Frah-Snow : meme avec un abyssale
+[18:55:32] (Alliance) Yaozai : mdr
+[18:55:34] (Alliance) Micaeli : bof jtrouve pas
+[18:55:58] (Alliance) Psycopat : je sais pas calculer le pui je sais j'fm a l'arrache si j'mp le truc avec les - quelqu'un peut me dire (que du ra vi j'ai passé)
+[18:55:59] (Alliance) Gouu : le nerf osa on en parle ou pas ?
+[18:56:05] (Alliance) Yaozai : ah ah ^^
+[18:56:09] (Alliance) Yaozai : Rip toi oui
+[18:56:14] (Alliance) Yaozai : je vois pas trop ce que ce sera
+[18:56:15] (Alliance) Lulox : gouu en sang
+[18:56:20] (Alliance) Frah-Snow : Gou tu vas devoir reroll tqt
+[18:56:21] (Alliance) Frah-Snow : mdr
+[18:56:22] (Alliance) Lulox : le seul osamodas du serveur qui se fait bolosser comme jamais
+[18:56:28] (Alliance) Yaozai : XD
+[18:56:31] (Alliance) Gouu : ouai rip moi tout seul parce que bon je suis le seul osa de ma guilde ...
+[18:56:50] (Alliance) Gouu : j'suis même pas si bon '-'
+[18:57:13] (Alliance) Gouu : ça va faire trois nerf a la suite :(
+[18:57:23] (Alliance) Yaozai : tu mérites en vrai
+[18:57:28] (Alliance) Gouu : :'(
+[18:57:34] (Alliance) Yaozai : &lt;3
+[18:57:38] (Alliance) Sombrage : Achete Dofus Ebene / Scinti / Ivoire 15M le lot
+[18:57:53] (Alliance) Sombrage : ptdrr
+[18:57:58] (Alliance) Micaeli : le nerf osa c'est a cause de loreillo kappa
+[18:58:11] (Alliance) Ipaa : hhhhhh
+[18:58:11] (Alliance) Yaozai : achete tous vos dofus ocre 20M (prochaine maj c'est 1/2 PA !)
+[18:58:16] (Alliance) Sombrage : mdrr faut qu'il stop de gérer misère duo
+[18:58:39] (Alliance) Micaeli : mais sinon sur le nerf osa, ya un nerf qui est nécessaire mais a voir ce qu'ils font, et puis ils ont raison de delete la laisse spirituel, ce sort était impossible a équilibré
+[18:58:53] (Alliance) Pistaachee : Achete ebene 8M/u , Ivoire/scinti 10M/u prytek 8M/u
+[18:59:11] (Alliance) Gozilla : on peut trouver les infos sur la maj? je trouve pas
+[18:59:13] (Alliance) Pistaachee : AHHH FRERROO prix alliance xD
+[18:59:13] (Alliance) Micaeli : (osa est la seule classe qui peut DOUBLE debuff aussi bien les allié que les enemis, et ça c'est broken par exemple)
+[18:59:15] (Alliance) Yaozai : bon app, à toute
+[18:59:19] (Alliance) Pyhx : Cape corrup ça t'interesse pas xd ?
+[18:59:20] (Alliance) Gozilla : *ou
+[18:59:24] Pour des raisons de maintenances, le serveur va être redémarré dans environ 13 heures.
+[18:59:27] (Alliance) Micaeli : ya rien d'écris encore gozilla ya juste eu un live ankama
+[18:59:28] (Alliance) Lunaaly : ceux qui revendent ivoire et ebene sont cons de ouf ça se trouve ça sera juste mineur ou juste affecter pvp ou pvm
+[18:59:28] (Alliance) Frah-Snow : gozi
+[18:59:32] (Alliance) Frah-Snow : si ta twiiter
+[18:59:36] (Alliance) Pistaachee : la corrup je la brise direct xD
+[18:59:39] (Alliance) Frah-Snow : je crois les info sont dessus
+[18:59:39] (Alliance) Mure-Winz : achete vulbis ocre 60m les 2
+[18:59:44] (Alliance) Mure-Winz : on tente on sait jamais
+[18:59:48] (Alliance) Gozilla : ah pk merci frah
+[18:59:56] (Alliance) Gozilla : *ok
+[19:00:06] (Alliance) Gouu : la laisse j'suis ok je l'utilise plus anyway mais bon j'aime bien mettre des claque moi :(
+[19:00:07] (Alliance) Micaeli : achete prytek + ebene 20M le tt me mp
+[19:00:23] (Alliance) Micaeli : je pense pas qu'ils nerf les dmg gouu
+[19:00:23] (Alliance) Jacque-sonne : prytek pas nerf
+[19:00:29] (Alliance) Micaeli : si
+[19:00:32] (Alliance) Micaeli : enfin annoncé
+[19:00:40] (Alliance) Gozilla : la laisse est useless mais le soin sacrificiel pareil
+[19:00:40] (Alliance) Micaeli : jvais manger a tte
+[19:00:44] (Alliance) Jacque-sonne : sur le site?
+[19:00:46] (Alliance) Mure-Winz : mais c'est pas demain le nerf
+[19:00:54] (Alliance) Mure-Winz : c'est dans 1mois
+[19:01:35] (Alliance) Mure-Winz : jacque sur twitter de dofus
+[19:01:43] (Alliance) Jacque-sonne : thx
+[19:02:38] tonton-du-bahu(Heiiden-I) est en ligne.
+[19:06:54] Un membre de votre guilde, Steki-runng, est en ligne.
+[19:09:10] (Alliance) Man-Yo : un mec alchi et forgeron 200 de dispo ?
+[19:09:26] (Alliance) Mure-Winz : 2 brak dispo pour se mettre sur dalle 30 seconde svp ?
+[19:09:29] (Alliance) Nunu-Vuyton : Moi stu veux
+[19:09:34] (Alliance) Nunu-Vuyton : pour metier ^^
+[19:09:43] (Alliance) Man-Yo : je t'aide après mure stv
+[19:09:51] (Alliance) Man-Yo : merci nunu
+[19:10:11] (Alliance) Mure-Winz : c'est pour un pote a moi il est bloqué il attends depuis 1h x)
+[19:11:18] Un membre de votre guilde, Oracledb, est en ligne.
+[19:11:25] (Alliance) Lylis-Charmant : Qu'est ce qui est nerf ou up en faite ?
+[19:11:31] Range-ta-chambre(Mariadb) est en ligne.
+[19:12:26] (Alliance) Psycopat : ougi up xD
+[19:12:28] (Alliance) Mure-Winz : go sur le twitter de dofus ^^
+[19:12:36] (Alliance) Mure-Winz : tout est mis
+[19:13:08] Cette recette ne donne rien !
+[19:13:15] (Alliance) Lylis-Charmant : oki
+[19:14:09] (Alliance) Tenshinhaan : zobal up
+[19:14:12] (Alliance) Tenshinhaan : et osa nerf
+[19:14:27] (Alliance) Frodonsaquay : vous connaisser up zozo ?
+[19:14:32] (Alliance) Markerad : on sait déjà ce qui va être up sur le zob ?
+[19:14:48] (Alliance) Psycopat : ils ont aussi fait une omelette avec des oeufs
+[19:14:59] (Alliance) Psycopat : ivoire ébène scinti et peut etre forgelave
+[19:15:01] Échange effectué
+[19:15:45] (Alliance) Psycopat : moi j'ai look pour voir pandala 3 mais enfaite ils ont rien dit dessus ou j'ai pas bien regardé j'ai zaapé un peu
+[19:16:18] Échange effectué
+[19:16:18] (Alliance) Mure-Winz : nouvelle dimension aussi non ?
+[19:16:29] (Alliance) Mure-Winz : et nouveaux stuff 200
+[19:19:47] (Alliance) Vrelitao : quelqu'un a pos enu
+[19:20:05] (Alliance) Mure-Winz : quelquu'un vends un pack ocre juste les archis ?
+[19:20:30] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[19:20:30] Précédente connexion sur ce compte : 09/11/2020 à 12:10
+[19:20:30] Annonce de guilde : Discord: [https://discord.gg/bSySprn]
+[19:20:30] Pour des raisons de maintenances, le serveur va être redémarré dans 12 heures, 39 minutes.
+[19:20:30] Succès déverrouillé : [Dernière ligne droite]
+[19:20:30] Vous avez 10 contact(s) réciproque(s) connecté(s).
+[19:30:38] Neo-furiious a déverrouillé le succès [Chambre de Tal Kasha].
+[19:33:06] Un membre de votre guilde, Eis, est en ligne.
+[19:34:56] Eis a déverrouillé le succès [Jungle Interdite].
+[19:36:02] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[19:36:02] Précédente connexion sur ce compte : 09/11/2020 à 19:20
+[19:36:02] Annonce de guilde : Code abo 3 jours : 3DABONOV2020 ALMANAX: 3 novembre: 15% d'economie sur les crafts dans la zone du Village d'Amakna ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[19:36:02] Annonce d'alliance : DISCORD D'ALLI [https://discord.gg/7Gq4QrC] Point de rencontre Zaap Pandala [20,-29] ! Dernier Taupe Rush de ce soir décalé à jeudi prochain ! Have fun les amis ;)
+[19:36:02] Pour des raisons de maintenances, le serveur va être redémarré dans 12 heures, 23 minutes.
+[19:36:03] Vous avez 9 contact(s) réciproque(s) connecté(s).
+[19:36:50] (Alliance) Blood-Skyline : Hello des gens dispo pour un ougah ?
+[19:37:47] Vous avez perdu 410 kamas.
+[19:38:20] Échange annulé
+[19:38:48] Échange effectué
+[19:39:09] Vous avez perdu 20 kamas.
+[19:39:30] Vous avez perdu 20 kamas.
+[19:39:48] Vous avez perdu 20 kamas.
+[19:41:22] (Alliance) Ipaa : (Commerce) Orimage : Achète Dofus Ivoire 20M
+[19:41:25] (Alliance) Ipaa : hhhhhhhhhhh
+[19:41:38] (Alliance) Orimage : Je troll depuis une heure, je me MARRE XD
+[19:41:38] (Alliance) Deportation : C'est le prix ça va
+[19:41:48] (Alliance) Orimage : C'est la foire aux cons le /b ce soir XD
+[19:41:52] (Alliance) Deportation : Mdrr oui
+[19:42:17] (Alliance) Ipaa : en genre ta des personne qui vend vraiment a 20M ?
+[19:42:27] (Alliance) Cotisation : Ipaa c'est le prix de l'ébéne 20m
+[19:42:33] (Alliance) Cotisation : Il a beaucoup descendu ces derniers temps
+[19:42:40] (Alliance) Orimage : Non, et franchement si un mec me mp pour vendre un ivoire 20M je refuse pasque j'vais pas l'arnaquer XD
+[19:42:51] (Alliance) Ipaa : On parle des l'ivoire ;)
+[19:42:53] (Alliance) Orimage : C'est vraiment juste pour le fun je me marre trop là ^^
+[19:43:07] (Alliance) Orimage : Limite j'vais sortir les popcorn
+[19:43:08] (Alliance) Jacque-sonne : en mode temps ankama nous baise bien la gueule
+[19:43:16] (Alliance) Jacque-sonne : les gens sont énerver
+[19:43:18] (Alliance) Cotisation : Mdrr j'suis fatigué je lis ébéne depuis tout a l'heure
+[19:43:19] (Alliance) Jacque-sonne : ses compréhenssible
+[19:43:52] (Alliance) Jacque-sonne : cotisation coupe ton canal surtout pour proposer au gens 10m leur ébéne
+[19:43:55] (Alliance) Ipaa : ca tombé ca va etre usseles les nerf x)
+[19:44:14] (Alliance) Cotisation : Mdrr a mais c'est toi qui m'a mp
+[19:44:19] (Alliance) Cotisation : Mdr
+[19:44:27] (Alliance) Jacque-sonne : frére tu trool sa fait tiép
+[19:44:34] (Alliance) Jacque-sonne : j'ai pas ton time
+[19:44:41] (Alliance) Cotisation : J'troll pas tu me la vend 12m je te l'achéte
+[19:45:23] (Alliance) Portalisation : Sinon tu fais comme tous le monde tu prie pour qu'elle se vende 26M avant la maj et je te la racheterai 4m aprés la maj dans le cas contraire
+[19:45:52] (Alliance) Jacque-sonne : j'ai rien capté xd
+[19:47:12] Un membre de votre guilde, Athena-skull, est en ligne.
+[19:48:52] Handa-cbf(Vrelitoa) est en ligne.
+[19:50:19] (Alliance) Orimage : MDRRR +1 Lulox ce génie
+[19:50:24] (Alliance) Orimage : Go 69k c'est plus sexy ;)
+[19:50:29] (Alliance) Lulox : hahaha
+[19:50:39] (Alliance) --sram-sympa-- : lulox et génie ça colle pas ensemble
+[19:50:41] (Alliance) --sram-sympa-- : ............
+[19:50:50] (Alliance) Lunaaly : +1 sram
+[19:53:23] Handa-cbf(Vrelitao) est en ligne.
+[19:55:16] (Alliance) Yaozai : Portail vers la dimension Enutrosor [10,1]
+[19:56:23] (Alliance) Orimage : [19:55] (Commerce) Orimage : Bonsoir ! J'ai pas de skill en pvp, j'en ai marre de me faire victimiser, alors j'achète un Ivoire à 69 kamas sivouplé :(
+[19:56:31] (Alliance) Orimage : J'me marre tellement y'a des mecs qui me MP pour m'insulter x)
+[19:56:38] (Alliance) Orimage : Rahalala dofus... x)
+[19:56:44] (Alliance) Avatare-Korra : xD
+[19:57:14] (Alliance) Yaozai : XD
+[19:59:25] Pour des raisons de maintenances, le serveur va être redémarré dans environ 12 heures.
+[20:00:26] (Alliance) Deportation : Un alchi 174 serait dispo svp ?
+[20:00:40] (Alliance) Nunu-Vuyton : 200 dispo si personne vien ^^
+[20:00:54] (Alliance) Cotisation : C'est pour un craft de quete alli
+[20:01:05] (Alliance) Nunu-Vuyton : rdv ou?
+[20:01:13] (Alliance) Portalisation : A brak si tu peux sinon je viens ou tu veux
+[20:01:20] (Alliance) Nunu-Vuyton : j'arrive brak
+[20:01:22] (Alliance) Deportation : &lt;3
+[20:06:11] (Alliance) Portalisation : Un chasseur d'ame ou plus dispo svp ? brak Oeil putride niveau 60 ou +
+[20:06:37] (Alliance) Lulox : oui
+[20:06:59] (Alliance) Cotisation : Yes tu peux venir a la tours de brak stp ?
+[20:07:01] (Alliance) Cotisation : [-26,35]
+[20:07:18] (Alliance) Cotisation : Un sadi a afk sur la dalle des adeptes de douleurs j'espére qu'il va pas partir
+[20:08:06] (Alliance) Lulox : c'est bon ?
+[20:08:13] (Alliance) Deportation : Ouais normalement merci
+[20:08:16] (Alliance) Lulox : :)
+[20:11:16] (Alliance) Larnaqueur : [Dofus Argenté Scintillant] Je me demande s'il sera toujours aussi beau une fois nerfé
+[20:11:49] (Alliance) --sram-sympa-- : ;(
+[20:11:51] (Alliance) --sram-sympa-- : oups
+[20:12:24] (Alliance) El-Caata : Des personnes songes?
+[20:13:03] (Alliance) Larnaqueur : Profitez les teams ougi, dépouille est sur le grill aussi xD
+[20:13:26] (Alliance) Mure-Winz : up ougi
+[20:13:36] (Alliance) Larnaqueur : Up ougi mais nerf des abus
+[20:13:52] (Alliance) Mure-Winz : ta vue ca ou ?
+[20:14:02] (Alliance) Mure-Winz : source : tkt
+[20:14:05] (Alliance) Mure-Winz : x)
+[20:14:09] (Alliance) Larnaqueur : Un commentaire sur le tweet de dofus, visiblement un gars qui a regardé le live ?
+[20:14:42] (Alliance) ---Hysoka--- : Bonne nuit Wil
+[20:14:50] (Alliance) --sram-sympa-- : Bisous wil
+[20:14:54] (Alliance) Larnaqueur : ^^ Bonne nuit tout le monde
+[20:17:08] (Alliance) Dc-Redbull : y a des personnes qui peuvent m'aider à faire le capitaine Meno? j'en ai besoin pour le dofus Ivoire et Abysal
+[20:18:07] (Alliance) Lgp-mihawk : re coucou
+[20:18:14] (Alliance) Beau-ioop : quel quête ivoire je la fais aussi peut etre je pourrais taider
+[20:18:36] (Alliance) Yaozai : re :)
+[20:18:53] (Alliance) --sram-sympa-- : Re :)
+[20:23:33] XxX-NeOVodka-XxX(Neo-furiious) est en ligne.
+[20:24:44] (Alliance) Kamishogun : bonsoir
+[20:25:16] (Alliance) Gozilla : salut
+[20:25:56] (Alliance) Nunu-Vuyton : Bonsoir :)
+[20:32:54] (Alliance) Ygg-Drasil : va y'avoir le dofus tacheté a la futur maj ?
+[20:33:07] (Alliance) Ygg-Drasil : [https://twitter.com/DOFUSfr/status/1325803095348154374/photo/1] (twitter dofus)
+[20:33:33] (Alliance) Teyso-oniryell : ouais on suppose qu'à terme des quêtes tu "fusionnes" les deux
+[20:33:46] (Alliance) Teyso-oniryell : vu que déjà les dragons sont sensés ne faire qu'un
+[20:34:17] (Alliance) Ygg-Drasil : par contre une question , j'ai raté le live
+[20:34:29] (Alliance) Ygg-Drasil : dans leurs planning de fin d'années y'a pas l'apparition de l'ile de nowel , c'normal?
+[20:34:56] (Alliance) Yaozai : c'est automatique donc ils l'ont pas mis
+[20:34:58] (Alliance) Yaozai : je suppose
+[20:34:59] (Alliance) Ygg-Drasil : okok x)
+[20:35:49] Vrelitao a déverrouillé le succès [Test d'étanchéité].
+[20:36:09] (Alliance) Stannis : Re/Bonsoir
+[20:36:20] (Alliance) Gounaff : Salut salut
+[20:36:23] (Alliance) Lupusanghren : Hello
+[20:36:36] (Alliance) Lgp-mihawk : bstr
+[20:36:38] (Alliance) Lgp-mihawk : bsr
+[20:36:41] (Alliance) Yaozai : re Stann
+[20:37:02] (Alliance) Stannis : Hey Lgp, comment vas-tu amigo ?
+[20:37:32] (Alliance) Lgp-mihawk : super la forme juste une cheville ne moins pcq je suis tomber en allant courirµ
+[20:37:35] (Alliance) Lgp-mihawk : et toi ?
+[20:37:53] (Alliance) Stannis : Ahahah il t'aura fallu une cheville de cassée pour te co ?
+[20:37:59] (Alliance) Stannis : Parfait moi merci
+[20:38:14] (Alliance) Lgp-mihawk : je me suis abo pour donner mes archis a gounaff
+[20:38:21] (Alliance) Lgp-mihawk : je suis re venu faire coucou en meme temps
+[20:38:30] (Alliance) Tazkka : on a les futurs jets des dofus ? apres ce nerf la
+[20:38:31] (Alliance) Stannis : Ca fait plaisir^^
+[20:38:34] (Alliance) Stannis : Bon rétablissement
+[20:39:21] (Alliance) Stannis : Aucune idée Taz, excuse
+[20:39:38] (Alliance) Ygg-Drasil : on lance les paris qu'avec tout ces ajours ca encore y'avoir jsp combien de faille kamas/dupli etc ? xd
+[20:39:53] (Alliance) Lgp-mihawk : merci amigoo de la noche
+[20:40:07] (Alliance) Stannis : Ca c'est sur Ygg ahah
+[20:40:46] Un membre de votre guilde, Lotussia, est en ligne.
+[20:41:14] (Alliance) Ygg-Drasil : genre en réunion chez ankama ça doit etre +- ça "hey , notre jeu il marche a moitié depuis des annés"
+[20:41:34] (Alliance) Ygg-Drasil : "ouais ta raison , mais vien on modifie tout les item qu'on a sortie recement , c'moins chiant que de tout corriger" x)
+[20:42:03] (Alliance) Stannis : Ahahah x)
+[20:42:17] (Alliance) Lunaaly : bah ils modifient surtout avec les retours forum et réseaux des joueurs
+[20:42:41] (Alliance) Ygg-Drasil : Yep mais genre modifier l'ebene /ivoire / quelque item leg , ça fait un bail qu'ils auraient pu le faire x')
+[20:42:43] (Alliance) Mure-Winz : surtout des ytbeur/streamer
+[20:42:45] (Alliance) Lunaaly : et heureusement que prytek nooby va subir un nerf
+[20:42:55] (Alliance) Ygg-Drasil : la ils vont faire les modif en meme temps que les ajout de zone etc cava etre un bordel monstre , la prytek par contre yep sa j'suis ok
+[20:43:08] (Alliance) Mure-Winz : tjr en fonction du pvp t'facon
+[20:43:11] (Alliance) Lunaaly : yep les youtubeurs font remonté les problemes aussi que les joueurs et eux constate
+[20:43:14] (Alliance) Ygg-Drasil : Puis bon , le up de l'ougi / zobal on en disvute ? xd
+[20:43:24] (Alliance) Lunaaly : zozo n'a pas besoin de up pr moi
+[20:43:31] (Alliance) Lunaaly : c'est déja assez un pilier comme ça
+[20:43:33] (Alliance) Ygg-Drasil : Ougi non plus sauf peut etre a distance
+[20:43:49] (Alliance) Ygg-Drasil : mais zozo/ougi en pvm c'des classes insane , pvp aussi si tu joues en team , j'vois pas comment ils peuvent up ça
+[20:43:57] (Alliance) Mure-Winz : bas apres le but de l'ougi c'est etre au cac
+[20:44:09] (Alliance) Ygg-Drasil : genre l'ougi que se soit pvp ou pvm tu peux tourshot avec depouille x)
+[20:44:42] (Alliance) Lunaaly : ougi en pvm pas trop utile autant prendre un sacrie mdr
+[20:44:54] (Alliance) Orimage : Je pense que sur Ougi ils vont nerf Dépouille et up un peu le reste, mais en soit en est d'accord Ygg, je pense que c'est aussi pasque ces classes sont globalement moins jouées dans cette méta
+[20:44:57] (Alliance) Ygg-Drasil : bah en songe ça depend
+[20:45:00] Vous avez perdu 20 kamas.
+[20:45:06] (Alliance) Ygg-Drasil : tu prend double ougi c'finis ta gg tes songe 99% sur chaque etage x)
+[20:45:09] (Alliance) Man-Yo : qq de chaud pour comte razof ?
+[20:45:40] (Alliance) Gozilla : en tant qu'osa vous pensez que je vais me prendre quel genre de nerf ?
+[20:45:50] (Alliance) Ygg-Drasil : Yep c'possible , en soit le nouvel osa je connais pas trop donc je sais pas s'il merite son nerf , mais l'ougi/zobal j'ai un peut du mal a comprendre , on verra bien les changement^^
+[20:45:56] (Alliance) Lunaaly : laisse spirituel je penser
+[20:45:59] (Alliance) Lunaaly : pense*
+[20:46:05] (Alliance) Ygg-Drasil : osa meme quand ils les nerf en general sa reste peté car osa-sadida &gt; all x)
+[20:46:08] (Alliance) Jurzah : Ui Man je peut te le passer
+[20:46:10] (Alliance) Orimage : Aucune idée :x Apparemment ils veulent augmenter la survie des invocs en PvM et virer définitivement Laisse Spirituelle, apr_s à part ça je sais pas
+[20:46:15] (Alliance) Teyso-oniryell : dans le live ils ont dit petit nerf pvp et ajustements pour un pvm plus agr"able
+[20:46:39] (Alliance) Blood-Skyline : D'ailleurs j'ai pas du tout suivi, c'est quoi les nouveautés qu'il va y avoir ?
+[20:46:49] (Alliance) Ygg-Drasil : A quand la maj ou les sadida pourront controler leurs invo comme les osa é_è
+[20:47:01] (Alliance) Gozilla : s'ils augmentent la survie des invocs pvm et qu'ils degagent la laisse spirituelle je prends ca pour un up perso^^
+[20:47:34] (Alliance) Lyzaelle : "petits ajustements" xD chez Ankama ça donne le nerf de la Rykke qui a rendu la cape de "Trop puissante" a "poubelle devant la banque d'Astrub"
+[20:47:54] (Alliance) Popiopipo : c'est quoi la rykke mdr
+[20:48:04] (Alliance) Lunaaly : un item de faible
+[20:48:05] (Alliance) Gozilla : d'ac teyso, merci
+[20:48:24] à Roxeur-plio : [Alliance Gloursonne]
+[20:48:33] (Alliance) Psycopat : [Bravoure de Rykke Errel]
+[20:48:41] (Alliance) Psycopat : a l'epoque elle etait bien xD sur dada
+[20:52:24] (Alliance) ---Hysoka--- : Bonne nuit tout le monde
+[20:52:27] Lotussia a déverrouillé le succès [Dragodinde : Dixième génération].
+[20:52:27] Lotussia a déverrouillé le succès [De génération en génération].
+[20:52:34] (Alliance) Man-Yo : bonne nuit
+[20:52:35] (Alliance) Orimage : Bisous Hyso :)
+[20:52:35] (Alliance) Stannis : Bonne nuit Hyso^^
+[20:53:27] (Alliance) Kamishogun : nenuit Hyso
+[20:56:26] '[Casque Harnage]' est retiré de vos ensembles Ensemble 5, Drop light.
+[20:56:26] Échange effectué
+[20:57:14] (Alliance) Ygg-Drasil : y'aune date pour le nerf ivpoire ebene aufait ?
+[20:57:27] (Alliance) Mure-Winz : 2 mois prochaine maj
+[20:57:32] (Alliance) Orimage : A la MaJ de décembre donc en fin d'année
+[20:57:37] (Alliance) Popiopipo : mdrr ptn les gens paniquent pour rien
+[20:57:42] (Alliance) Ygg-Drasil : Okep merci
+[20:57:48] (Alliance) Wyw : genial pile au moment ou le mien est délié !
+[20:57:51] (Alliance) Ygg-Drasil : dutout c'pour revendre avant la maj
+[20:57:55] (Alliance) Ygg-Drasil : comme ça tu rachetes - cher après maj ^^
+[20:58:00] (Alliance) Ygg-Drasil : y'a pas de petit benefice mdr
+[20:58:03] (Alliance) Popiopipo : ouais mais bon personne va acheter là
+[20:58:05] (Alliance) Mure-Winz : pas besoin de revendre mdr
+[20:58:06] (Alliance) Popiopipo : vu que tout le monde vend
+[20:58:16] (Alliance) Popiopipo : perso jgarde les miens tant pis nsm
+[20:58:17] (Alliance) Ygg-Drasil : dessuite non , mais genre d'ici 1p"tit mois
+[20:58:23] (Alliance) Ygg-Drasil : tu trouves un mec qu'est pas au courant et bim xD
+[20:58:32] (Alliance) Cotisation : Quelqu'un a la pos xel svp ?
+[20:58:39] (Alliance) Mure-Winz : autant garder
+[20:58:45] (Alliance) Mure-Winz : ils seront pas useless mdr
+[20:58:57] (Alliance) Ygg-Drasil : Non mais je sais , mais vu que tout l'monde va se dire que cava etre nef
+[20:58:58] (Alliance) Lyzaelle : au pire ça fera des skin xDDD
+[20:59:03] (Alliance) Ygg-Drasil : le prix va surement baisser x'à
+[20:59:12] (Alliance) Ygg-Drasil : donc si tu vends avant maj / rachete après maj dans la logique tu benef un peut
+[20:59:13] (Alliance) Mure-Winz : ca va etre un tout ptit nerf pour les dofus
+[20:59:17] (Alliance) Popiopipo : en vrai l'ivoire jcomprend pas pk ça doit e^tre nerf
+[20:59:24] Pour des raisons de maintenances, le serveur va être redémarré dans environ 11 heures.
+[20:59:27] (Alliance) Ygg-Drasil : moi tant qu'ils touchnt pas au passif j'osef x)
+[20:59:30] (Alliance) Lyzaelle : trop fumé.
+[20:59:45] (Alliance) Lyzaelle : 40 resi elementaire déjà, ça rend le DDG useless.
+[20:59:58] (Alliance) Lyzaelle : et ça te force a cramer 2PA pour pouvoir infliger des dégats
+[21:00:04] (Alliance) Popiopipo : bah oui
+[21:00:06] (Alliance) Popiopipo : mais tout le monde l'a
+[21:00:08] (Alliance) Cotisation : Ouais faudrait l'un ou l'autre
+[21:00:14] (Alliance) Popiopipo : du coup ça met tlm sur un pied d'égalité
+[21:00:21] (Alliance) Lyzaelle : perso, j'préfererai surtout un up du DDG
+[21:00:24] (Alliance) Cotisation : Justement Popi tous le monde l'a et ils roulent sur les nouveaux joueurs qui ne l'ont pas
+[21:00:30] (Alliance) Orimage : En PvM aussi, tu portes un ivoire dans une team où des persos ne l'ont pas, les mobs t'ignorent complètement, c'est comme une invu
+[21:00:40] (Alliance) Lyzaelle : (j'ai pas l'Ivoire parce que je bloque a la quête 43 xD)
+[21:00:41] (Alliance) Popiopipo : ouais ça c'est chiant d'ailleurs mdr
+[21:00:43] (Alliance) Blood-Skyline : les gars quelqu'un peut me délivrer de la prison de Brakmar svp :)
+[21:00:58] (Alliance) Lexae : j'arrive xd
+[21:01:02] (Alliance) Blood-Skyline : merci bg x)
+[21:01:16] (Alliance) Popiopipo : [21:01] (/b) Umako : Vend Prytek brillante x6 ivoire x4 ebene x3 mp prix no offre en or
+[21:01:21] (Alliance) Popiopipo : c'est trop...
+[21:01:23] (Alliance) Cotisation : Le pb c'est qu'il y a beaucoup trop d'ecart entre un mec normal et un gars full opti fami leg prytek corruption par exemple
+[21:01:31] (Alliance) Popiopipo : bah oui mais ça c'est un peu le principe mdr
+[21:01:35] (Alliance) Cotisation : Le mec normal ne gagnera jamais
+[21:01:36] (Alliance) Ygg-Drasil : Tu voies quand j'te l'dis xD
+[21:01:52] (Alliance) Lyzaelle : par contre, ils vont up les autres items
+[21:02:01] (Alliance) Popiopipo : ils vont up la jhess j'ai vu non?
+[21:02:01] (Alliance) Ygg-Drasil : Autant un mec en ebene ivoire peut battre un mec qui en a pas , difficilement mais sa se fait
+[21:02:05] (Alliance) Lyzaelle : j'ai bie nenvie de voir les up de la baguette Misère, la Plume... par exemple
+[21:02:06] (Alliance) Cotisation : Ouais mais du coup les nouveaux joueurs ont la flemme sans acheter de kamas ou quoi faut try hard pendant des années en mono compte pour avoir tout ça
+[21:02:07] (Alliance) Ygg-Drasil : mais la prytek carry trop les koli
+[21:02:15] (Alliance) Ygg-Drasil : les perco pareil
+[21:02:22] '[Hache à Lamelles]' est retiré de vos ensembles Ensemble 5, Drop light.
+[21:02:22] Échange effectué
+[21:02:26] (Alliance) Ygg-Drasil : t'arrivent en perco map cac , prytek x5 ta gagné y'a meme pu de suspens x)
+[21:02:40] (Alliance) Blood-Skyline : perco quand les 5 sont prytek... bon
+[21:02:43] (Alliance) Blood-Skyline : j'ai ni ivoir ni ebene
+[21:03:04] (Alliance) Popiopipo : en vrai la prytek ils vont la nerf ça fera genre 40% des hp au lieu de 50 et puis voilà
+[21:03:06] (Alliance) Popiopipo : ça restera op
+[21:03:12] Échange effectué
+[21:03:16] (Alliance) Ygg-Drasil : bof j'pense pas , ils vont surement /2 le bonu
+[21:03:32] (Alliance) Cotisation : Ouais c'est limite des meta de milliardaires faut avoir tous les items les plus chére du jeu pour gagner
+[21:03:41] (Alliance) Popiopipo : ah bah ça c'est évident
+[21:03:47] (Alliance) Cotisation : Sans tout ça tu fais pas de pvp ça veut dire que si t'as pas 500M tu pvp pas
+[21:03:49] (Alliance) Popiopipo : mais bon quand on les a pas on peut qd même s'amuser sur le jeu
+[21:03:55] (Alliance) Ygg-Drasil : Après clairmenent en sadida/sram/classe dans l'genre la tu peux faire sans la prytek donc sa changera r pour moi sauf contre les iop rush a la con mdr
+[21:04:11] (Alliance) Popiopipo : perso jmamuse bien sans prytek
+[21:04:33] (Alliance) Cotisation : Popi j'te file mon elio va koli avec tu verra qu'on se fait chier vs les crâ prytek ret pa
+[21:04:43] (Alliance) Popiopipo : mdrr jmen fous je joue iop en koli
+[21:05:01] (Alliance) Cotisation : Mdrr noob
+[21:05:08] (Alliance) Popiopipo : mais c'est vrai que certaines classes sont dures à battre, après jpense pas que ça soit la faute de la prytek ou de l'ivoire quoi
+[21:05:16] (Alliance) Popiopipo : genre mdr feca ret pa c'est n'importe quoi
+[21:05:20] (Alliance) Popiopipo : et c'est pas de la faute de ces items
+[21:05:29] (Alliance) Cotisation : feca ret pa tu l'eclate avec des poisons
+[21:05:33] (Alliance) Grey-Rina : on trouve ou la plume d'aziz ?
+[21:05:36] (Alliance) Lyzaelle : l'ivoire c'est un gros doigt contre les joueurs multielements
+[21:05:43] (Alliance) Grey-Rina : on m'as dit avec des aliton mais le vendeur n'en a pas
+[21:05:44] (Alliance) Yaozai : Oui ^^
+[21:05:46] (Alliance) Popiopipo : ouais après qui joue encore multi en pvp ?
+[21:05:51] (Alliance) Lyzaelle : moi xD
+[21:05:54] (Alliance) Popiopipo : ah merde mdrr
+[21:06:29] (Alliance) Lyzaelle : j'sens venir les nerf Fallanster/jahash et allez, soyons fou, Dofusteuse
+[21:06:41] (Alliance) Ygg-Drasil : ça existe encore la dofusteuse :o
+[21:06:42] (Alliance) Cotisation : Jahash c'est trop
+[21:06:45] (Alliance) Ygg-Drasil : des années que j'en ai pas croisé x)
+[21:06:49] (Alliance) Popiopipo : la dofusteuse c'est déjà nerf non?
+[21:06:53] (Alliance) Cotisation : Regarde les crâ en rdv qui envoie des expi à 5k
+[21:06:57] (Alliance) Lyzaelle : Oui, ça existe encore xD[Dofusteuse]
+[21:07:00] (Alliance) Cotisation : Si ils calent ça en pvp c'est fini
+[21:07:08] (Alliance) Kikboxing : [Dofusteuse]
+[21:07:15] (Alliance) Popiopipo : ouais mais les cras en rdv c'est des chips
+[21:07:26] (Alliance) Cotisation : Pas faux
+[21:07:31] (Alliance) Ygg-Drasil : j'me rappelle de cette cape a l'epoque quand fallait fusionner des dofus pour la craft xd
+[21:07:33] (Alliance) Lyzaelle : la Dofusteuse c'est THE cape multi xD
+[21:07:35] (Alliance) Popiopipo : mdrrr
+[21:07:38] (Alliance) Cotisation : Mais un petit trophée ret pa et un prytek en koli et le tour est joué
+[21:07:39] (Alliance) Lyzaelle : ouais xD
+[21:07:46] (Alliance) Ecologyque : Yo du monde de dispo pour un Missiz Friz Rapidos SVp ? :)
+[21:07:47] (Alliance) Popiopipo : et mtn ça vaut 5M
+[21:07:49] (Alliance) Popiopipo : triste
+[21:08:05] '[Chanceux majeur]' est de nouveau lié à votre ensemble Stuff eau.
+[21:08:06] Échange effectué
+[21:08:20] (Alliance) Ygg-Drasil : Dommage que la force pop pas au t3 mais au t2
+[21:08:26] (Alliance) Ygg-Drasil : ça serais une dinguerie sur les sram os cac t3 x)
+[21:08:55] (Alliance) Ulnaire : quelqu'un interessé pour un rasboul score 200 + temps qui court + premier ?
+[21:09:13] (Alliance) Kikboxing : Arc Koutoulou, nébu + dofusteuse ;)
+[21:09:23] (Alliance) Ecologyque : ouai pourquoi pas pour le rasboul
+[21:10:39] ghduejfkd(Nexuzya) est en ligne.
+[21:11:41] Échange effectué
+[21:11:55] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[21:11:55] Ensemble Ensemble 5 activé.
+[21:11:55] Objet Hache à Lamelles introuvable ou critères invalides.
+[21:11:55] Objet Casque Harnage introuvable ou critères invalides.
+[21:12:06] Vous avez désappris une attitude : Dofus Pourpre
+[21:12:07] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[21:12:07] Ensemble Drop light activé.
+[21:12:07] Objet Casque Harnage introuvable ou critères invalides.
+[21:12:07] Objet Hache à Lamelles introuvable ou critères invalides.
+[21:12:07] Objet Chanceux mineur introuvable ou critères invalides.
+[21:12:18] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[21:12:20] Vous avez désappris une attitude : Dofus Pourpre
+[21:12:20] Ensemble POD plus plus activé.
+[21:16:18] (Alliance) Solstore : quelqun a la pos portailenu ?
+[21:16:18] Cette recette ne donne rien !
+[21:16:52] Un membre de votre guilde, Vheas, est en ligne.
+[21:16:54] Un membre de votre guilde, Vhigoureux, est en ligne.
+[21:16:55] Un membre de votre guilde, Vhirulent, est en ligne.
+[21:16:58] Un membre de votre guilde, Vhirtuose, est en ligne.
+[21:17:03] (Alliance) Ygg-Drasil : ow par contre je viens de voir ils vont refaire le systeme des bandit de cania via chasse legendaire
+[21:17:09] (Alliance) Ygg-Drasil : cava tellement facilité l'emeraude ça *-*
+[21:17:09] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[21:17:10] Quatre-feuilles équipé.
+[21:17:10] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[21:17:10] Ensemble Ensemble 5 activé.
+[21:17:10] Objet Hache à Lamelles introuvable ou critères invalides.
+[21:17:10] Objet Casque Harnage introuvable ou critères invalides.
+[21:17:15] (Alliance) Lyzaelle : ouais, ça c'est bien
+[21:17:16] Casque Harnage équipé.
+[21:17:51] (Alliance) Tenshinhaan : 1 place songe 260
+[21:18:16] Héqache équipé.
+[21:18:23] Caractéristiques de base réinitialisées.
+[21:20:20] Amulette Cætera équipé.
+[21:20:25] Anneau Tique équipé.
+[21:20:29] Ceinture de Danathor équipé.
+[21:20:37] Chanceux majeur équipé.
+[21:20:53] Vous avez désappris une attitude : Dofus Pourpre
+[21:20:53] Joueur majeur équipé.
+[21:24:12] (Alliance) Deportation : Quelqu'un a la pos xel svp ?
+[21:24:17] (Alliance) Lyzaelle : Portail vers la dimension Xélorium [-10,-55] 15 passages
+[21:24:22] (Alliance) Deportation : Merci
+[21:24:26] (Alliance) Deportation : Il reste 15 passage ?
+[21:24:35] (Alliance) Lyzaelle : ouais, j'viens de prendre le 16e
+[21:30:37] Échange effectué
+[21:34:00] (Alliance) Dr-Slowly : quelqu'un peut me mp pour voir svp
+[21:34:13] (Alliance) Lulox : its a trap
+[21:34:16] (Alliance) Lulox : n'y allez pas
+[21:34:23] (Alliance) Dr-Slowly : hahaha c'est un prank
+[21:34:26] (Alliance) Lulox : vous ne récolterez que tristesse et désespoir
+[21:34:29] (Alliance) Yaozai : mdr
+[21:37:11] Vous descendez de votre monture.
+[21:38:13] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[21:38:14] Ensemble Ensemble 5 activé.
+[21:38:22] Vous descendez de votre monture.
+[21:38:43] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[21:51:59] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[21:52:01] Échange annulé
+[21:52:03] Bouclier Volant équipé.
+[21:52:03] Ensemble POD plus plus activé.
+[21:54:21] Banque : + 1 000 Kamas (vente : 1 [Cawotte Transgénique]).
+[21:54:42] Échange effectué
+[21:55:18] Échange effectué
+[21:56:27] (Alliance) Gouu : deux personnes veulent faire anérice ?
+[21:57:00] (Alliance) Kikboxing : Quete krobes mais ça aurait été avec plaisir
+[21:57:45] (Alliance) Jilus : je peux t aider avec Annerice mais apres manger
+[21:58:44] Vhirulent a déverrouillé le succès [La guerre des profondeurs].
+[21:59:26] Pour des raisons de maintenances, le serveur va être redémarré dans environ 10 heures.
+[21:59:26] Vhigoureux a déverrouillé le succès [La guerre des profondeurs].
+[21:59:44] Vhirtuose a déverrouillé le succès [La guerre des profondeurs].
+[22:02:59] Vhirulent a déverrouillé le succès [Plouf !].
+[22:03:22] Vhigoureux a déverrouillé le succès [Plouf !].
+[22:03:30] Vhirtuose a déverrouillé le succès [Plouf !].
+[22:08:56] (Alliance) Cotisation : Un forgemage 200 dispo svp ?
+[22:09:04] (Alliance) Avada-Kedavraa : ouai
+[22:09:29] (Alliance) Cotisation : T'as 2 minutes pour venir te placer sur une dalle a brak stp c'est pour une quete alli
+[22:10:33] (Alliance) Rokhen : [20:59] Banque : + 25 899 999 Kamas (vente : 1 [Prytek Brillante]).
+[22:10:37] (Alliance) Rokhen : soyez pas degs xD
+[22:10:39] (Alliance) --sram-sympa-- : habile
+[22:10:39] (Alliance) Yaozai : mdr
+[22:10:40] (Alliance) Bad-Cynthia : mdr
+[22:10:41] (Alliance) Ehnulox : mdr
+[22:10:43] (Alliance) --sram-sympa-- : mdr
+[22:10:44] (Alliance) Ehnulox : opportuniste
+[22:10:54] (Alliance) --sram-sympa-- : t'as cassé la chaine de mdr
+[22:10:56] (Alliance) Rokhen : je viens de voir xD
+[22:11:46] (Alliance) Blood-Skyline : Quelqu'un est a une save à la du boss Ombre ?
+[22:12:52] (Alliance) Jte-Soulage : Ouai jsuis dispo forgemage
+[22:12:55] (Alliance) Jte-Soulage : Deso ma co a crahs
+[22:12:58] (Alliance) Jte-Soulage : crash
+[22:13:21] (Alliance) Cotisation : Tqt c'est juste pour se placer sur une dalle que je puisse craft une item des quetes alli
+[22:13:28] (Alliance) Cotisation : Si t'as quelques secondes
+[22:13:31] (Alliance) Jte-Soulage : Erf moi qui voulais FM
+[22:13:34] (Alliance) Jte-Soulage : Ta une pos ?
+[22:13:43] (Alliance) Cotisation : Ahah j'ai aussi un truc a fm
+[22:13:44] (Alliance) Cotisation : [-23,33]
+[22:13:50] (Alliance) Cotisation : Mais j'sais pas si je le fais ce soir ou pas
+[22:13:51] (Alliance) Jte-Soulage : Jsuis forgemage pas pour craft j'ai pas le métier
+[22:14:20] (Alliance) Rokhen : Je déco, bises !
+[22:14:25] (Alliance) --sram-sympa-- : bises roro
+[22:14:27] (Alliance) Stymlox : a+
+[22:14:28] (Alliance) Yaozai : salut !
+[22:15:47] (Alliance) Kamishogun : bye Rokhen
+[22:22:07] (Alliance) Dc-Redbull : Psikopompe [-61,-84]
+[22:27:13] (Alliance) Bad-Cynthia : wesh les gars
+[22:27:15] (Alliance) Bad-Cynthia : [22:26] Rilur lance Charge Frontale.[22:26] Bad-Cynthia : -430 PB.
+[22:27:22] (Alliance) Bad-Cynthia : il os ce mob ou quoi ?
+[22:27:25] (Alliance) Avada-Kedavraa : Ouai
+[22:27:30] (Alliance) Bad-Cynthia : c un bug ?
+[22:27:31] (Alliance) Ygg-Drasil : Rilur os cac jcrois
+[22:27:38] (Alliance) Ygg-Drasil : tu l'as rall PA?
+[22:27:41] (Alliance) Avada-Kedavraa : OS que en songe et que t1
+[22:27:46] (Alliance) Ygg-Drasil : Okok x)
+[22:27:59] (Alliance) Bad-Cynthia : mais la
+[22:28:00] (Alliance) Zero-De-Qi : c'est pour quand la MAJ les gars savoir si je revendu tout , je stop koli et je me concentre sur mon dofus vulbis?
+[22:28:05] (Alliance) Bad-Cynthia : il a nous os
+[22:29:03] (Alliance) Deportation : Dans 2 mois la maj il me semble
+[22:29:10] (Alliance) Lulox : entre le 8 et 15 décembre zero
+[22:29:25] (Alliance) Dix-papy : la maj va changer quoi ?
+[22:29:30] (Alliance) Lulox : pas mal de nerf
+[22:29:31] (Alliance) Zero-De-Qi : oki, ah oui c'est dans assez longtemps ...
+[22:29:33] (Alliance) Lulox : je déco à demain
+[22:29:46] (Alliance) Ygg-Drasil : Quelqu'un fait du pl xlII dans l'alliance ?
+[22:29:51] (Alliance) Dix-papy : il vont nerf quoi ? a dmn bg
+[22:29:53] (Alliance) Deportation : Oui Popi
+[22:29:55] (Alliance) Bad-Cynthia : mais les gars
+[22:29:55] (Alliance) Yaozai : Salut
+[22:30:00] (Alliance) Bad-Cynthia : y ‘a un nerf ?
+[22:30:01] (Alliance) Deportation : Mais il a deco la il sera la que demain
+[22:30:17] (Alliance) Ygg-Drasil : Tu peux lui demander de me mp si tu le croises a l'occase et que j'suis pas co stp x)?
+[22:30:22] (Alliance) Ygg-Drasil : j'vais voir 2perso a up en x4
+[22:30:35] (Alliance) Deportation : Ouais tqt je te tagg sur discord ou quoi , il a pas discord lui
+[22:30:39] (Alliance) Zero-De-Qi : osa nerf,zobal et ougi up, Prytek/ivoire/ebene nerf les prix aussi, Rture corrompus chaloeil nerf, et des items légendaire up
+[22:30:47] (Alliance) Ygg-Drasil : ty
+[22:30:49] (Alliance) Deportation : Zobal est up pas nerf je crois
+[22:30:58] (Alliance) Deportation : Mb virgule
+[22:31:08] (Alliance) Zero-De-Qi : oui c'est ce que jai dis
+[22:31:10] (Alliance) Zero-De-Qi : ^^
+[22:31:14] (Alliance) Deportation : J'avais pas vu la virgule
+[22:31:18] (Alliance) Majestueur : j'ai une pos perco phantaisiae si 4 mecs sont chauds
+[22:31:49] (Alliance) Dix-papy : ok thx pour les info zero
+[22:32:35] (Alliance) Zero-De-Qi : pas de soucis si tu veut en savoir plus ya une vidéo sur Youtube de Azsune
+[22:32:46] (Alliance) Yaozai : oui majest
+[22:32:52] (Alliance) Dix-papy : je vais allez look
+[22:32:53] (Alliance) Yaozai : je viens avec le sram
+[22:33:10] (Alliance) Majestueur : j'suis sur mon sram la j'pourrais jouer en brume oklm
+[22:33:15] (Alliance) Deportation : Un alchi lvl 100 qui veut xp ?
+[22:33:22] (Alliance) Majestueur : 3 mecs pour un perco svp ?
+[22:33:42] (Alliance) Dix-papy : je suis sram donc 3 sram c pas opti
+[22:33:47] (Alliance) Majestueur : clairement ^^
+[22:33:53] (Alliance) Majestueur : un minimum d'opti
+[22:34:17] (Alliance) Majestueur : pardon
+[22:34:21] (Alliance) Dix-papy : je suis opti c juste 3 sram ensemble c nul
+[22:34:24] (Alliance) Majestueur : 3 pos percos phantaisie
+[22:34:27] (Alliance) Majestueur : pour bien se venger la
+[22:34:32] (Alliance) Majestueur : allez on se motive !
+[22:34:32] (Alliance) Ygg-Drasil : go 1/perco
+[22:34:36] (Alliance) Ygg-Drasil : multi agro mdr
+[22:34:40] (Alliance) Shimuri : Lul
+[22:34:42] (Alliance) Majestueur : non
+[22:34:46] (Alliance) Majestueur : allez Ptz on se motive la
+[22:34:50] (Alliance) Shimuri : allez les gens
+[22:34:56] (Alliance) Stannis : Hm hm
+[22:34:57] (Alliance) Shimuri : eje dec odans 20 min
+[22:35:02] Échange effectué
+[22:35:03] (Alliance) Shimuri : tu prendras ma place
+[22:35:04] (Alliance) Stannis : Quelque chose qui sauve ma soirée
+[22:35:09] (Alliance) Majestueur : ça a full farm vos percos, go rendre les coups
+[22:36:23] (Alliance) Majestueur : 2 personnes !
+[22:36:34] (Alliance) Diav-Iop : cbt bain de sang
+[22:36:39] (Alliance) Tenshinhaan : (Commerce) Assker : vend ivoire contre pano bouftou
+[22:37:06] (Alliance) Dc-Redbull : il est généreux quand même !
+[22:37:25] (Alliance) Shimuri : deux places pour perco !
+[22:39:30] (Alliance) Majestueur : Allez Ptz !
+[22:39:40] (Alliance) Majestueur : deux places percos Phantasiae !
+[22:39:54] (Alliance) Majestueur : J'ai 4 pos
+[22:39:56] (Alliance) Majestueur : on rend les coups
+[22:40:01] (Alliance) Ipaa : Tu need quoi ?
+[22:40:01] (Alliance) Majestueur : On se motive hop hop hop
+[22:40:10] (Alliance) Majestueur : On a double sram Iop la
+[22:40:14] (Alliance) Majestueur : juste des gens motivés
+[22:40:15] (Alliance) Majestueur : et opti
+[22:40:22] (Alliance) Majestueur : pour rendre les coups
+[22:40:38] (Alliance) Ipaa : tout vendu mes dofus xD
+[22:40:45] (Alliance) Majestueur : huhuhu
+[22:40:49] (Alliance) Shimuri : t'abuses ipaa
+[22:41:04] (Alliance) Majestueur : les économistes ahah
+[22:41:06] (Alliance) Nunu-Vuyton : Bonne soirée a tous :)
+[22:41:19] (Alliance) Stannis : Bonne soirée Nunu^^
+[22:41:22] (Alliance) Dc-Redbull : je peux venir mais je suis stuff pvm
+[22:41:25] (Alliance) Ipaa : vendu ivoire 39 / ebene 23m
+[22:41:29] (Alliance) Majestueur : faut un minimum d'opti
+[22:41:40] (Alliance) Ipaa : free benef meme si je rachete ^^'
+[22:41:44] (Alliance) Tenshinhaan : Nenuit akk
+[22:41:46] (Alliance) Majestueur : une place !
+[22:41:49] (Alliance) Tenshinhaan : Nenuit all*
+[22:41:49] (Alliance) Majestueur : Eni si possible
+[22:41:52] (Alliance) Majestueur : Ou osa
+[22:43:11] (Alliance) Majestueur : une place perco Phantasiae allez allez on defonces les 4 pos :D
+[22:44:23] (Alliance) Majestueur : une personnnnnnnnnne
+[22:46:22] Handa-cbf(Vrelitao) est en ligne.
+[22:46:34] (Alliance) Bad-Cynthia : regarde discord majestueur
+[22:49:48] (Alliance) Majestueur : jte soulage depecheeeeeeeee
+[22:51:58] (Alliance) Avada-Kedavraa : LAAAAAAAAAAAAAAAAAAAAA
+[22:52:09] (Alliance) Shimuri : let's gooooooooooo
+[22:52:47] (Alliance) Shimuri : et l'autre sram qui pouvait venir je te laisse ma place juste après !
+[22:59:04] (Alliance) Shimuri : une place qui se libère pour perco (sram)
+[22:59:15] (Alliance) Klayste : cra stv
+[22:59:16] Un membre de votre guilde, Athena-skull, est en ligne.
+[22:59:20] (Alliance) Majestueur : plus que deux percos phantaisiae a tomber
+[22:59:24] Pour des raisons de maintenances, le serveur va être redémarré dans environ 9 heures.
+[22:59:29] (Alliance) Deportation : Il y a de la def ?
+[22:59:36] (Alliance) Majestueur : a 5 non, autant safe
+[22:59:37] (Alliance) Shimuri : nope
+[23:00:23] Échange effectué
+[23:00:49] Vous avez perdu 20 kamas.
+[23:01:43] Vous avez créé 1 × [Anneau du Katcheur] pour Mariadb !
+[23:01:52] (Alliance) Shimuri : Bonne nuit les gentils
+[23:02:02] (Alliance) Shimuri : Bonne fin de soirée
+[23:02:11] Vous avez perdu 20 kamas.
+[23:04:39] (Alliance) Maitredesplows : bonsoir si jamais je met un [Recycleur équitable] [-13,-51] si des gens need
+[23:04:45] Vous avez perdu 20 kamas.
+[23:05:08] Vous avez créé 1 × [Anneau du Katcheur] pour Mariadb !
+[23:05:10] (Alliance) Gozilla : merci !¨
+[23:05:30] Vous avez perdu 20 kamas.
+[23:05:40] Vous avez payé 829 kamas pour accéder à ce coffre.
+[23:09:55] Vhirulent a déverrouillé le succès [Silence on coule].
+[23:10:07] Vhigoureux a déverrouillé le succès [Silence on coule].
+[23:10:17] Vhirtuose a déverrouillé le succès [Silence on coule].
+[23:10:33] (Alliance) Deportation : Un sram ou un espion sombre ou + (brak oeil malsain ordre 3+) dispo pour une dalle svp ?
+[23:11:01] (Alliance) Diav-Cra : Moi après Sylargh
+[23:11:05] (Alliance) Ygg-Drasil : Pos?
+[23:11:08] (Alliance) Diav-Cra : Sachant que jsuis S1 xED
+[23:11:11] (Alliance) Cotisation : [-21,39]
+[23:11:14] (Alliance) Cotisation : Ah x)
+[23:11:34] (Alliance) Ygg-Drasil : sram + odre malsain stv ^^ jarrive
+[23:11:46] (Alliance) Cotisation : Je veux bien :)
+[23:11:46] (Alliance) Jilus : oeil?
+[23:12:03] (Alliance) Ygg-Drasil : esprit*
+[23:12:05] (Alliance) Jilus : malsain c est esprit pas oeil
+[23:12:16] (Alliance) Cotisation : J'ai ecrit nimp mdrr
+[23:12:26] (Alliance) Cotisation : Ordre de l'Oeil Putride , espion sombre grade 2 ou +
+[23:12:37] (Alliance) Jilus : j suis oeil Brak, c est quelle pos?
+[23:12:42] (Alliance) Cotisation : Tqt Ygg est là
+[23:12:51] (Alliance) Jilus : mais il est esprit non?
+[23:13:18] (Alliance) Cotisation : C'est un sram
+[23:13:24] (Alliance) Cotisation : Donc ça fonctionne aussi
+[23:13:29] (Alliance) Jilus : d acc
+[23:14:43] (Alliance) Ygg-Drasil : c'bon?
+[23:14:49] (Alliance) Deportation : Non mdrr
+[23:14:57] (Alliance) Ygg-Drasil : ta fail sur les 3perso genre ?
+[23:14:58] (Alliance) Ygg-Drasil : idiot mdr
+[23:15:06] (Alliance) Ygg-Drasil : meme au bout faut faire gaffe au trou x)
+[23:18:24] Vous avez perdu 20 kamas.
+[23:18:24] En passant près de l’atelier des tailleurs, vous essayez de vous imaginer ce que donnerait l’expression « motus et bouche cousue » au sens propre. Après réflexion, vous décidez de ne pas rester là.
+[23:19:17] Vous avez créé 1 × [Casque de Kardorim] !
+[23:19:23] En passant près de l’atelier des tailleurs, vous essayez de vous imaginer ce que donnerait l’expression « motus et bouche cousue » au sens propre. Après réflexion, vous décidez de ne pas rester là.
+[23:19:31] Vous avez perdu 20 kamas.
+[23:22:23] Vous avez créé 1 × [Bracelet de Kardorim] !
+[23:22:27] (Alliance) Deportation : Jte-Soulage t'es là ?
+[23:25:01] '[Brighellanière]' est retiré de votre ensemble Drop light.
+[23:25:01] Échange effectué
+[23:26:32] (Alliance) Bad-Cynthia : bon
+[23:26:46] (Alliance) Bad-Cynthia : si vous avez rien a faire on vas faire une ava entre nous
+[23:26:59] (Alliance) Deportation : Personne vient attaquer ?
+[23:28:01] (Alliance) Bad-Cynthia : c une free ava en plus
+[23:28:32] Vous avez perdu 20 kamas.
+[23:28:51] Vous avez créé 11 × [Bracelet de Kardorim] !
+[23:28:54] (Alliance) Caajoou : une Ava pour se faire lessiver encore ? pas trop envie
+[23:29:19] (Alliance) Bad-Cynthia : lessiver ? mdrr
+[23:29:30] Échange effectué
+[23:29:42] Arcalphine a déverrouillé le succès ["Je m'appelle casse partout"].
+[23:29:54] (Alliance) Bad-Cynthia : AvA [Tronc de l'arbre Hakam] tp dispo mp moi
+[23:30:24] (Alliance) Diav-Cra : Le vrai tronc ici, c'est Kurogane
+[23:31:32] (Alliance) Bad-Cynthia : AvA [Tronc de l'arbre Hakam] tp dispo mp moi
+[23:32:40] Vous avez perdu 20 kamas.
+[23:32:48] Vous avez payé 828 kamas pour accéder à ce coffre.
+[23:33:54] Vous avez perdu 20 kamas.
+[23:34:21] (Alliance) Bad-Cynthia : oh tien les shines sont la xd
+[23:34:28] 10 x [Coquille de Fantimonier] (8 800 kamas)
+[23:34:30] 10 x [Coquille de Fantimonier] (8 800 kamas)
+[23:35:02] Vous avez perdu 390 kamas.
+[23:36:04] Échange effectué
+[23:36:08] (Alliance) Pistaachee : Achete Starter pack PVP ( ivoire/ebene/scinti/prytek/pestillence ) 20M
+[23:36:20] Échange effectué
+[23:36:20] (Alliance) Bad-Cynthia : mdrr
+[23:36:39] Échange effectué
+[23:37:02] (Alliance) Bad-Cynthia : wallah j‘ai voulais prend un prytek mais plus maintenant x)
+[23:37:05] Nouvelle quête : [Offrande à Tilapiatsu]
+[23:37:14] (Alliance) Dc-Redbull : quelqu'un à la pos srambad?
+[23:37:14] Vous avez perdu 2 '[Coquille de Fantimonier]'.
+[23:37:14] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:37:23] Grougalora-Luna(Miowi-Magus) est en ligne.
+[23:37:38] (Alliance) Bad-Cynthia : AvA [Tronc de l'arbre Hakam] mp moi je tp
+[23:37:50] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:37:57] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:38:40] Quête terminée : [Offrande à Tilapiatsu]
+[23:38:40] Vous avez gagné 26 475 kamas.
+[23:38:40] Vous avez gagné 2 887 499 points d'expérience.
+[23:38:40] Objets reçus : 17 x [Almaton]
+[23:39:03] (Alliance) Dc-Redbull : Srambad, position connu du portail?
+[23:39:24] KEKElecHO(Osambin) est en ligne.
+[23:39:29] Grougalorafaust(Annubin) est en ligne.
+[23:40:27] Échange effectué
+[23:40:41] Échange effectué
+[23:41:11] Échange effectué
+[23:41:28] Échange effectué
+[23:41:55] Échange effectué
+[23:42:20] (Alliance) Deportation : Il va y avoir un almanax de craft ou quoi dans pas longtemps ?
+[23:42:26] (Alliance) Psycopat : question quand c'est marqué comme ceci on part sur une base de cb ? svp -5 Sagesse, -6 Dommages Critiques, -1 PA, 1 Portée, +reliquat
+[23:42:43] (Alliance) Deportation : Tu l'a pété avec quoi comme rune ?
+[23:42:49] (Alliance) Psycopat : la po
+[23:42:50] (Alliance) Deportation : Une po?
+[23:42:53] (Alliance) Deportation : Att
+[23:43:00] Vrelitao a déverrouillé le succès [Vous ne descendrez pas plus bas].
+[23:43:00] Vrelitao a déverrouillé le succès [Abysses].
+[23:43:08] (Alliance) Psycopat : [Amulette de Gein]
+[23:43:16] (Alliance) Psycopat : c'pour savoir si j'ai des tenta
+[23:43:27] (Alliance) Deportation : 51 de poids la rune po
+[23:43:39] (Alliance) Psycopat : donc je fais mes 100 - 51 - ce que j'ai passé la ?
+[23:43:53] (Alliance) Deportation : Donc en gros j'pense que t'as 49 + les do crits mais j'suis pas sur pour les do crit et la sagesse
+[23:43:56] KEKElecHO(Seralphin) est en ligne.
+[23:43:59] Grougalora-Luna(Assassaluna) est en ligne.
+[23:44:04] Grougalorafaust(Zonnubin) est en ligne.
+[23:44:15] (Alliance) Psycopat : -6 Vitalité, +reliquat la je regagne 1 donc ?
+[23:45:15] (Alliance) Deportation : Oui
+[23:45:18] (Alliance) Deportation : 50
+[23:45:21] Échange effectué
+[23:45:30] (Alliance) Psycopat : d'accord bah je suis pile a 0 alors
+[23:45:34] Échange effectué
+[23:45:50] (Alliance) Psycopat : bon bah go pa
+[23:45:51] Échange effectué
+[23:45:54] (Alliance) Deportation : Si le pa passe la par contre t'aura plus jamais de soucis de kamas j'pense
+[23:45:56] (Alliance) Deportation : Mdrr
+[23:45:59] (Alliance) Deportation : Vu le jet de l'amu
+[23:46:12] (Alliance) Psycopat : -16 Sagesse, -1 Dommages Feu, -3 Prospection, 1 PA, -reliquat
+[23:46:14] (Alliance) Psycopat : snif
+[23:46:18] (Alliance) Psycopat : on recommence
+[23:46:18] (Alliance) Deportation : Dmg
+[23:46:20] Échange effectué
+[23:46:24] frxzombie(Zombiere) est en ligne.
+[23:46:36] (Alliance) Psycopat : yep
+[23:47:50] (Alliance) Darkheaven : Portail vers la dimension Xélorium [2,2]
+[23:48:06] KEKElecHO(Ouganbin-le-barbare) est en ligne.
+[23:48:08] Grougalorafaust(Chachaluna) est en ligne.
+[23:49:37] Échange effectué
+[23:49:49] Échange effectué
+[23:50:05] Échange effectué
+[23:51:50] (Alliance) Dc-Redbull : Larvonika l'Instrument [13,0]
+[23:51:51] KEKElecHO(Sangubin) est en ligne.
+[23:51:56] Grougalorafaust(Scramubine) est en ligne.
+[23:52:51] Échange effectué
+[23:53:02] Échange effectué
+[23:53:17] Échange effectué
+[23:54:47] KEKElecHO(Arcalphine) est en ligne.
+[23:54:55] Grougalorafaust(Pandubin) est en ligne.
+[23:55:13] Échange effectué
+[23:55:29] Échange effectué
+[23:55:47] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:55:47] Précédente connexion sur ce compte : 09/11/2020 à 19:36
+[23:55:47] Pour des raisons de maintenances, le serveur va être redémarré dans 8 heures, 4 minutes.
+[23:55:47] Vous avez 8 contact(s) réciproque(s) connecté(s).
+[23:55:47] Le point de repère [2,-2] a été ajouté sur la carte Incarnam.
+[23:55:47] Le point de repère [2,-4] a été ajouté sur la carte Incarnam.
+[23:56:14] Échange effectué
+[23:56:17] Nouvelle quête : [Offrande à Tilapiatsu]
+[23:56:19] Vous avez perdu 2 '[Coquille de Fantimonier]'.
+[23:56:19] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:56:27] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:56:30] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:56:38] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:56:38] Quête terminée : [Offrande à Tilapiatsu]
+[23:56:38] Vous avez gagné 26 475 kamas.
+[23:56:38] Vous avez gagné 11 549 999 points d'expérience.
+[23:56:38] Objets reçus : 17 x [Almaton]
+[23:56:50] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:56:50] Pour des raisons de maintenances, le serveur va être redémarré dans 8 heures, 3 minutes.
+[23:56:50] Vous avez 8 contact(s) réciproque(s) connecté(s).
+[23:57:01] Nouvelle quête : [Offrande à Tilapiatsu]
+[23:57:12] Échange effectué
+[23:57:14] Vous avez perdu 2 '[Coquille de Fantimonier]'.
+[23:57:14] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:57:21] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:57:26] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:57:34] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:57:34] Quête terminée : [Offrande à Tilapiatsu]
+[23:57:34] Vous avez gagné 26 475 kamas.
+[23:57:34] Vous avez gagné 11 549 999 points d'expérience.
+[23:57:34] Objets reçus : 17 x [Almaton]
+[23:57:46] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:57:46] Précédente connexion sur ce compte : 09/11/2020 à 23:56
+[23:57:46] Annonce de guilde : Discord de guilde disponible dans le bulletin
+[23:57:46] Annonce d'alliance : Discord d'alliance [https://discord.gg/vcpGYqX] / Code abo 3j : 3DABONOV2020 ( merci à Ra-Sal-Ghul)
+[23:57:46] Pour des raisons de maintenances, le serveur va être redémarré dans 8 heures, 2 minutes.
+[23:57:46] Vous avez 8 contact(s) réciproque(s) connecté(s).
+[23:57:57] Nouvelle quête : [Offrande à Tilapiatsu]
+[23:58:22] Échange effectué
+[23:58:26] Vous avez perdu 2 '[Coquille de Fantimonier]'.
+[23:58:26] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:58:32] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:58:35] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:58:42] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:58:42] Quête terminée : [Offrande à Tilapiatsu]
+[23:58:42] Vous avez gagné 26 475 kamas.
+[23:58:42] Vous avez gagné 5 774 999 points d'expérience.
+[23:58:42] Objets reçus : 17 x [Almaton]
+[23:58:53] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:58:53] Pour des raisons de maintenances, le serveur va être redémarré dans 8 heures, 1 minute.
+[23:58:53] Vous avez 8 contact(s) réciproque(s) connecté(s).
+[23:59:21] Échange effectué
+[23:59:24] Pour des raisons de maintenances, le serveur va être redémarré dans environ 8 heures.
+[23:59:24] Nouvelle quête : [Offrande à Tilapiatsu]
+[23:59:26] Vous avez perdu 2 '[Coquille de Fantimonier]'.
+[23:59:26] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:59:33] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:59:36] Quête mise à jour : [Offrande à Tilapiatsu]
+[23:59:43] Vous avez obtenu 1 '[Page de Calendrier]'.
+[23:59:43] Quête terminée : [Offrande à Tilapiatsu]
+[23:59:43] Vous avez gagné 26 475 kamas.
+[23:59:43] Vous avez gagné 6 316 195 points d'expérience.
+[23:59:43] Objets reçus : 12 x [Almaton]
+[23:59:57] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[23:59:57] Précédente connexion sur ce compte : 09/11/2020 à 23:58
+[23:59:57] Annonce de guilde : Discord: [https://discord.gg/bSySprn]
+[23:59:57] Pour des raisons de maintenances, le serveur va être redémarré dans 8 heures.
+[23:59:58] Vous avez 8 contact(s) réciproque(s) connecté(s).
+[00:00:24] (Guilde) Marthi-MakFlaye : lol
+[00:00:43] Bienvenue dans DOFUS ! ,Pour ne pas te faire voler ton compte, n'entre jamais tes identifiants ailleurs que sur le Launcher Ankama, la page de connexion du jeu DOFUS ou le site https://www.dofus.com.,En savoir plus.
+[00:00:43] Précédente connexion sur ce compte : 09/11/2020 à 23:59
+[00:00:43] Annonce de guilde : Code abo 3 jours : 3DABONOV2020 ALMANAX: 3 novembre: 15% d'economie sur les crafts dans la zone du Village d'Amakna ~~~ Rejoignez donc les Discords -> infos dans le bulletin guilde
+[00:00:43] Annonce d'alliance : DISCORD D'ALLI [https://discord.gg/7Gq4QrC] Point de rencontre Zaap Pandala [20,-29] ! Dernier Taupe Rush de ce soir décalé à jeudi prochain ! Have fun les amis ;)
+[00:00:43] Pour des raisons de maintenances, le serveur va être redémarré dans 7 heures, 59 minutes.
+[00:00:43] Vous avez 7 contact(s) réciproque(s) connecté(s).
+[00:00:57] Nouvelle quête : [Offrande à Otoul]
+[00:01:01] Une sauvegarde du serveur est en cours... Vous pouvez continuer de jouer, mais l'accès au serveur est temporairement bloqué. La connexion sera de nouveau possible d'ici quelques instants. Merci de votre patience.
+[00:01:46] de Ditlehardie : Salut Kinex , besoin de Kamas? Découvrez nos meilleures offres sur [ GoKamas.Com ] ۞ Meilleurs prix ۞ Livraison rapide ۞ 100% fiable et sécurisée ۞ 24h/24h en ligne .
+[00:02:18] à Mariadb : [00:01] de Ditlehardie : Salut Kinex , besoin de Kamas? Découvrez nos meilleures offres sur [ GoKamas.Com ] ۞ Meilleurs prix ۞ Livraison rapide ۞ 100% fiable et sécurisée ۞ 24h/24h en ligne .
+[00:02:32] Vous avez perdu 20 kamas.
+[00:05:59] La sauvegarde du serveur est terminée. L'accès au serveur est de nouveau possible. Merci de votre compréhension.
+[00:07:36] Vous avez payé 827 kamas pour accéder à ce coffre.
+[00:13:34] (Alliance) Exterminatorofdeath : qqn a un lien pour le contenu de la maj svp ?
+[00:15:32] de Mariadb : Salut Kinex , besoin d'une teub RAIDE et nervuré ? Découvrez nos meilleures offres sur [ GoViagra.Com ] ۞ Meilleurs prix ۞ Livraison rapide ۞ Teub giga dur garantie ۞ 100% fiable et sécurisée ۞ 24h/24h en ligne
+[00:18:23] Vhirulent a déverrouillé le succès [Vous ne descendrez pas plus bas].
+[00:18:23] Vhirulent a déverrouillé le succès [Abysses].
+[00:18:26] Vhigoureux a déverrouillé le succès [Vous ne descendrez pas plus bas].
+[00:18:26] Vhigoureux a déverrouillé le succès [Abysses].
+[00:18:30] Vhirtuose a déverrouillé le succès [Vous ne descendrez pas plus bas].
+[00:18:30] Vhirtuose a déverrouillé le succès [Abysses].
+[00:24:59] Un percepteur de la guilde Paradigme est attaqué dans Bambusaie de Damadrya en [26,-30].
+[00:26:27] (Alliance) Kamishogun : qqun de Paradigme est co ?
+[00:26:32] (Alliance) Portalisation : J'suis solo
+[00:26:44] (Alliance) Portalisation : J'peux pas recolte
+[00:26:48] (Alliance) Portalisation : Fin je crois
+[00:27:04] (Alliance) Kamishogun : tant pis. Parait qu'il est plein le perco
+[00:27:22] (Alliance) Portalisation : 3k pods 500kk kamas
+[00:27:26] (Alliance) Kamishogun : du coup il va se faire reagro. look si tu as le droit de récolter
+[00:27:39] (Alliance) Bad-Cynthia : sur le livre y‘a un bug de perco
+[00:27:59] (Alliance) Nephaba : go aggro avec une mule, porta ^^
+[00:28:06] (Alliance) Bad-Cynthia : Voila
+[00:28:16] (Alliance) Cotisation : C'est ce que j'vais faire j'vais y aller avec le iop
+[00:28:26] Le percepteur de la guilde Paradigme attaqué en [26,-30] a survécu !
+[00:28:45] (Alliance) Bad-Cynthia : sur le livre est full 1M
+[00:28:55] (Alliance) Cotisation : Il est dans le dj ?
+[00:29:02] (Alliance) Bad-Cynthia : non je pense pas
+[00:29:05] (Alliance) Nephaba : à priori
+[00:29:12] (Alliance) Cotisation : J'ai pas fais attention a la map dans la def
+[00:29:21] Vous avez perdu 20 kamas.
+[00:29:46] (Alliance) Bad-Cynthia : Bonne nuit alliance
+[00:29:54] (Alliance) Kamishogun : nn il est hors dj
+[00:29:59] (Alliance) Gozilla : bonne nuit bad
+[00:30:22] (Alliance) Cotisation : J'suis aller a la pos devant le dj il y est pas
+[00:31:10] (Alliance) Nephaba : " [00:24] Un percepteur de la guilde Paradigme est attaqué dans Bambusaie de Damadrya en [26,-30]."
+[00:31:17] (Alliance) Nephaba : c'est dans le dj
+[00:31:38] (Alliance) Kamishogun : dac alors
+[00:31:57] 10 x [Trame Dimensionnelle] (130 729 kamas)
+[00:32:01] Echange impossible car la cible est occupée.
+[00:32:24] Échange effectué
+[00:32:37] 10 x [Trame Dimensionnelle] (130 729 kamas)
+[00:32:59] Un percepteur de la guilde Paradigme est attaqué dans Bambusaie de Damadrya en [26,-30].
+[00:33:05] (Alliance) Cotisation : C'est moi
+[00:33:20] Vous avez perdu 20 kamas.
+[00:33:22] (Alliance) Kamishogun : dac
+[00:33:54] (Alliance) Tya-la-feca : on def ?
+[00:34:06] (Alliance) Dix-papy : oui je pense
+[00:34:06] (Alliance) Kamishogun : c'est 1 mule d'1 mec de Para qui agro
+[00:34:12] (Alliance) Kamishogun : pour sauver le perco
+[00:34:13] (Alliance) Cotisation : C'est mon iop
+[00:34:14] (Alliance) Nephaba : nope, c'est une mule
+[00:34:16] Vous avez créé 1 × [Bottes de la Reine des Voleurs] !
+[00:34:22] (Alliance) --sram-sympa-- : "c'est MON iop"
+[00:34:44] Vous avez perdu 20 kamas.
+[00:35:15] Le percepteur de la guilde Paradigme attaqué en [26,-30] n'a pas survécu !
+[00:36:01] Grougalora-Luna(Miowi-Magus) est en ligne.
+[00:37:55] (Alliance) Gozilla : yes
+[00:37:55] Échange effectué
+[00:39:06] (Alliance) Portalisation : Eheh , il y a pas moyen de regarder a qui est le perco une fois qu'on a aggro ?
+[00:39:18] (Alliance) Portalisation : Parce que la je me retrouve avec un perco mais je sais pas a qui il est
+[00:40:22] Vous avez perdu 20 kamas.
+[00:40:40] (Alliance) Kamishogun : arf il aurait fallu regarder avant
+[00:40:52] (Alliance) Kamishogun : laisse un message en annonce guilde
+[00:41:00] (Alliance) Deportation : Ouais j'ai pas eu le refléxe je fais pas ça d'habitude
+[00:41:07] (Alliance) Deportation : J'ai fais un post sur discord
+[00:41:25] (Alliance) Deportation : J'espére que c'est le vrai proprio qui se manifestera
+[00:41:33] (Alliance) Kamishogun : merci à toi, ça évite ton pote de guilde de perdre 1 perco
+[00:42:00] Échange effectué
+[00:42:16] (Alliance) Kamishogun : au sein d'1 guilde (surtout Para) y aura 0 pb tkt
+[00:42:37] Vous avez perdu 20 kamas.
+[00:43:04] Vous avez créé 1 × [Bottes de Grüt] !
+[00:43:59] (Alliance) Supa-Kura : besoin de conseil je viens de reroll iop j'aimerais savoir un très bon element pvm ?
+[00:44:00] Échange effectué
+[00:44:06] (Alliance) Deportation : Terre
+[00:44:18] (Alliance) Supa-Kura : Terre do crit ?
+[00:44:24] (Alliance) Supa-Kura : full terre tout court x)
+[00:44:24] (Alliance) Deportation : Ouais ou terre normal
+[00:44:42] (Alliance) Deportation : Le mien est full terre et a travers les portails d'un elio il fait clairement le taff
+[00:44:42] (Alliance) Nephaba : eau pas mal aussi pour certains dj, je crois? mais jamais joué iop n_n
+[00:44:56] (Alliance) Deportation : Eau pour pvp il me semble
+[00:45:05] (Alliance) Supa-Kura : ok je connais pas les stuffs 200 terre je pense demain le up 100. j'ai un enu air 200
+[00:45:18] (Alliance) Supa-Kura : up 200*
+[00:45:37] (Alliance) Stannis : Iop terre ou terre do crit si tu commences en iop
+[00:45:41] (Alliance) Deportation : C'est trés basique pour environ 20 m en iop terre tu peux avoir un stuff qui est aussi bon que des stuffs à 40/50m pour le pvp
+[00:45:49] (Alliance) Deportation : Les res en moins biensur
+[00:46:05] (Alliance) Supa-Kura : j'suis en cours pour faire l'ivoire de toute façon donc c'est pepere
+[00:46:17] Miowi-Magus a déverrouillé le succès [Et si je cassais ces trucs ?].
+[00:46:17] Miowi-Magus a déverrouillé le succès [Concastagne].
+[00:46:27] (Alliance) Supa-Kura : je pensais à un air / terre do crit torkelonia
+[00:47:03] (Alliance) Kamishogun : iop Terre c'est une valeur sure
+[00:47:36] (Alliance) Supa-Kura : yep je vais faire terre alors merci beaucoup l'equipe ^^
+[00:47:37] (Alliance) Portalisation : Si t'as un élio le truc bien a faire c'est un iop multi do crit
+[00:47:44] Banque : + 15 491 Kamas (vente : 1 [Trame Dimensionnelle]).
+[00:47:44] Banque : + 15 491 Kamas (vente : 1 [Trame Dimensionnelle]).
+[00:47:45] Banque : + 15 491 Kamas (vente : 1 [Trame Dimensionnelle]).
+[00:47:45] (Alliance) Portalisation : Sinon oublie cette idée
+[00:47:45] Banque : + 15 491 Kamas (vente : 1 [Trame Dimensionnelle]).
+[00:47:46] Banque : + 15 491 Kamas (vente : 1 [Trame Dimensionnelle]).
+[00:48:21] (Alliance) Supa-Kura : enu je pense lui acheter une pano ret pm quand je vais faire des duo
+[00:48:46] (Alliance) Portalisation : Ah bien gl a toi alors pour faire des duo iop enu j'sais pas ce que ça donne
+[00:48:56] (Alliance) Nephaba : tiens, tant qu'on est sur le sujet, quelqu'un pour me donner un avis sur un stuff sur db?
+[00:49:22] (Alliance) Portalisation : Je peux regarder si tu veux mais j'suis pas un expert
+[00:49:26] (Alliance) Supa-Kura : bah soit enu cra soit enu iop ces plutot pas mal pour des songes, des donjons , des quetes etc.. en general ces bien situé.
+[00:50:06] (Alliance) Portalisation : Ah ouais j'savais pas tout mes duos je les fais base panda et aprés crâ iop elio feca
+[00:50:25] (Alliance) Supa-Kura : tchek youtube mage noir il duote avec enu iop
+[00:50:37] (Alliance) Deportation : Azy j'irai check ça quand je stoperai
+[00:50:38] (Alliance) Supa-Kura : nileza , tal kasha , servitude
+[00:50:54] (Alliance) Deportation : ça doit être sympas un autre type de gameplay que panda + mule
+[00:51:09] Vous avez obtenu 10 '[Eau Potable]'.
+[00:51:10] Vous avez obtenu 10 '[Poudre Temporelle]'.
+[00:51:11] Vous avez obtenu 10 '[Poudre de Perlinpainpain]'.
+[00:51:12] Vous avez obtenu 10 '[Poudre de Perlinpainpain]'.
+[00:51:13] Vous avez obtenu 10 '[Haricot]'.
+[00:51:14] Vous avez obtenu 10 '[Aubergine]'.
+[00:51:14] Vous avez obtenu 10 '[Aubergine]'.
+[00:51:15] Vous avez obtenu 10 '[Aubergine]'.
+[00:51:16] Vous avez obtenu 10 '[Aubergine]'.
+[00:51:16] (Alliance) Supa-Kura : en faite ces que je recherche ^^ voir panda roub etc..
+[00:51:23] (Alliance) Supa-Kura : j'ai pas encore vu elio roub c'est space
+[00:51:25] Vous avez perdu 520 kamas.
+[00:51:58] (Alliance) Nephaba : tiens, c'est celui là [https://www.dofusbook.net/fr/equipements/9100636-aaaa/objets]
+[00:52:41] (Alliance) Portalisation : Elio roub ça doit pas être hyper efficace
+[00:52:55] (Alliance) Nephaba : j'ai mis panda mais c'est pas forcément pour panda x)
+[00:53:06] (Alliance) Portalisation : Nephaba t'as cherché a faire un truc speciale avec ton stuff ou juste tapper air ?
+[00:53:19] (Alliance) Nephaba : juste air
+[00:53:24] (Alliance) Supa-Kura : je te link mon stuff air sur l'enu ?
+[00:53:40] (Alliance) Nephaba : sans exo
+[00:53:45] (Alliance) Nephaba : vas y ^^
+[00:53:50] (Alliance) Nephaba : please :p
+[00:53:54] (Alliance) Portalisation : C'est pour pvm ? t'es en 5pm jsp si t'as vu
+[00:54:10] (Alliance) Supa-Kura : moi y a des exo francheemnt j'arrache en pvm pvp
+[00:54:10] (Alliance) Nephaba : (c'est sans exo)
+[00:54:20] (Alliance) Stannis : Bonne nuit à tous
+[00:54:25] (Alliance) Portalisation : Bonne nuit Stannis
+[00:54:26] (Alliance) Supa-Kura : bonne nuti stannis ;)
+[00:54:35] (Alliance) Nephaba : c'est pour voir ce que je dois craft après
+[00:54:39] (Alliance) Portalisation : D'acc tu comptes jouer en 12/6 du coup ?
+[00:54:42] Grougalora-Luna(Miowi-Magus) est en ligne.
+[00:54:50] Nouvelle quête : [Un bon gros par dix-huit]
+[00:54:51] Nouvelle quête : [Chasse au dopeul Xélor.]
+[00:54:55] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[00:54:55] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[00:54:55] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[00:54:55] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[00:54:56] Ensemble Terre PVMM activé.
+[00:54:56] (Alliance) Nephaba : pas forcément ^^
+[00:54:57] (Alliance) Supa-Kura : moi oui ocre ivoire ebene pourpre ddg voir là j'suis avec trophée agi
+[00:55:10] Ensemble d'idoles n°5 activé.
+[00:55:26] (Alliance) Nephaba : j'y connais que dalle en mode air n_n
+[00:55:34] (Alliance) Supa-Ojichan : [Cascadeur majeur] [Dofus Ocre] [Dofus Ivoire] [Nomade] [Dofus Ébène] [Dofus Pourpre]
+[00:55:51] (Alliance) Supa-Ojichan : [Couronne d'Allister] [Cape Indescriptible] [Menoture] [Palmes Trithons] [Blérodoudou] [Cadran d'Air] [Manthache] [Alliance Gloursonne] [Gant du Valet Veinard] [Collier du Valet Veinard]
+[00:55:56] Kinex a fait échouer le challenge Le temps qui court.
+[00:56:03] (Alliance) Cotisation : Beh j'te conseil d'y mettre 2 exo de privilégier le 11/6 et de virer ces baleinabottes et les remplacer par
+[00:56:11] (Alliance) Portalisation : [Palmes Trithons]
+[00:56:12] (Alliance) Portalisation : ça
+[00:56:25] Vous avez gagné 263 811 points d'expérience.
+[00:56:25] Quête terminée : [Chasse au dopeul Xélor.]
+[00:56:25] Vous avez gagné 328 125 points d'expérience.
+[00:56:25] Quête mise à jour : [Un bon gros par dix-huit]
+[00:56:50] (Alliance) Supa-Ojichan : Vitalité 103 (+3006), Sagesse 100 (+291), Force 100 (+0), Intelligence 100 (+0), Chance 100 (+54), Agilité 498 (+898) - Initiative 1750 (+350), PA 7 (+4), PM 3 (+3)
+[00:56:54] (Alliance) Cotisation : Celle là sont deg mais c'est parce qu'il faut que je les fm depuis 2 moi
+[00:57:21] (Alliance) Nephaba : x)
+[00:57:27] (Alliance) Nephaba : merci ^^
+[00:57:31] (Alliance) Deportation : Donc faut retenir que l'idée x)
+[00:57:32] (Alliance) Supa-Ojichan : 1396 agi + puissance + dommage air voila t'es bien
+[00:57:54] (Alliance) Deportation : Aprés tu peux opter pour un dorado aussi en coiffe
+[00:57:58] Vous avez perdu 50 kamas.
+[00:58:08] Vous avez désappris une attitude : Dofus Turquoise
+[00:58:08] Vous avez désappris une attitude : Dofus Pourpre
+[00:58:08] Ensemble POD plus plus activé.
+[00:58:10] (Alliance) Supa-Ojichan : yep , moi je met le ddg j'ai 198 dommage air sinon 173.
+[00:58:32] (Alliance) Supa-Ojichan : bouclier amakna aussi moi cadran air pour avoir des res en air + ivoire ça fait du bien
+[00:58:47] (Alliance) Supa-Ojichan : t'es ou nephaba ?
+[00:58:50] Nouvelle quête : [Chasse au dopeul Sram.]
+[00:58:54] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[00:58:54] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[00:58:54] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[00:58:54] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[00:58:55] Ensemble Terre PVMM activé.
+[00:58:57] (Alliance) Supa-Ojichan : go village amakna je te montre ce que ça donne
+[00:59:24] 2 secondes ajoutées au prochain tour de jeu.
+[00:59:24] Pour des raisons de maintenances, le serveur va être redémarré dans environ 7 heures.
+[00:59:48] Vous avez gagné 284 917 points d'expérience.
+[00:59:48] Quête terminée : [Chasse au dopeul Sram.]
+[00:59:49] Vous avez gagné 328 125 points d'expérience.
+[00:59:49] Quête mise à jour : [Un bon gros par dix-huit]
+[00:59:57] (Alliance) Nephaba : c'est bon, tkt, je voulais juste avoir une idée de stuff ^^^
+[01:00:37] (Alliance) Supa-Ojichan : ok ^^ tu te regenes au max enu air donc après je pensais faire un enu feu et la en pvp c'est le REGALE
+[01:00:45] Vous avez désappris une attitude : Dofus Turquoise
+[01:00:45] Vous avez désappris une attitude : Dofus Pourpre
+[01:00:45] Ensemble POD plus plus activé.
+[01:02:26] Nouvelle quête : [Chasse au Dopeul Huppermage]
+[01:02:29] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:02:29] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:02:29] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:02:29] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:02:29] Ensemble Terre PVMM activé.
+[01:03:04] 2 secondes ajoutées au prochain tour de jeu.
+[01:03:17] Vous avez gagné 316 573 points d'expérience.
+[01:03:17] Quête terminée : [Chasse au Dopeul Huppermage]
+[01:03:17] Vous avez gagné 328 125 points d'expérience.
+[01:03:17] Quête mise à jour : [Un bon gros par dix-huit]
+[01:03:33] Vous avez perdu 460 kamas.
+[01:04:00] (Alliance) Portalisation : Un tailleur 180 dispo svp ? ou +
+[01:04:11] (Alliance) Kinex : oui
+[01:04:16] (Alliance) Kinex : rdv bonta ?
+[01:04:22] (Alliance) Portalisation : Yes vas-y j'arrive
+[01:04:38] Vous avez perdu 20 kamas.
+[01:04:39] En passant près de l’atelier des tailleurs, vous essayez de vous imaginer ce que donnerait l’expression « motus et bouche cousue » au sens propre. Après réflexion, vous décidez de ne pas rester là.
+[01:04:47] Vous avez désappris une attitude : Dofus Turquoise
+[01:04:47] Vous avez désappris une attitude : Dofus Pourpre
+[01:04:47] Ensemble POD plus plus activé.
+[01:05:08] Vous avez créé 1 × [Masque à Zag] pour Deportation !
+[01:05:18] Vous avez créé 1 × [Masque à Zag] pour Cotisation !
+[01:05:27] Vous avez créé 1 × [Masque à Zag] pour Tumultation !
+[01:05:31] (Alliance) Nephaba : à la base, je pensais eau/air mais vaut mieux avor ocre dans ce cas, je crois...
+[01:05:41] Vous avez créé 1 × [Masque à Zag] pour Portalisation !
+[01:05:43] (Alliance) Nephaba : (pour panda pvm)
+[01:05:45] de Portalisation : Merci
+[01:05:46] (Alliance) Kinex : merci :)
+[01:06:03] Vous avez perdu 620 kamas.
+[01:06:04] (Alliance) Portalisation : Ouais panda pvm j'pense que air tu vas te faire chier
+[01:06:15] (Alliance) Portalisation : Fin aprés c'est un point de vu perso
+[01:06:31] Nouvelle quête : [Chasse au dopeul Sacrieur.]
+[01:06:37] (Alliance) Portalisation : Mais la liqueur c'est de la merde et le seul gros sort tappe qu'en diagonal
+[01:06:43] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:06:43] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:06:43] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:06:43] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:06:44] Ensemble Terre PVMM activé.
+[01:07:02] Vous avez gagné 337 678 points d'expérience.
+[01:07:02] Quête terminée : [Chasse au dopeul Sacrieur.]
+[01:07:02] Vous avez gagné 328 125 points d'expérience.
+[01:07:02] Quête mise à jour : [Un bon gros par dix-huit]
+[01:07:21] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:07:24] Vous avez désappris une attitude : Dofus Turquoise
+[01:07:24] Vous avez désappris une attitude : Dofus Pourpre
+[01:07:24] Ensemble POD plus plus activé.
+[01:07:28] (Alliance) Nephaba : j'ai été déco encore x)
+[01:07:35] Nouvelle quête : [Chasse au dopeul Enutrof.]
+[01:07:38] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:07:38] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:07:38] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:07:38] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:07:38] Ensemble Terre PVMM activé.
+[01:07:46] (Alliance) Portalisation : Mdrr t'as déjà joué panda air ?
+[01:08:33] Kinex a fait échouer le challenge Pétulant.
+[01:08:38] (Alliance) Nephaba : nope, mais bon, je voulais tenter
+[01:09:01] 7 secondes ajoutées au prochain tour de jeu.
+[01:09:42] 2 secondes ajoutées au prochain tour de jeu.
+[01:09:44] (Alliance) Nephaba : enfin, veux tenter, plutôt*
+[01:09:50] (Alliance) Portalisation : Umh regarde bien les sorts avant d'acheter le stuffs les lignes degats et tout ce que ça donne
+[01:09:50] Vous avez gagné 263 811 points d'expérience.
+[01:09:50] Quête terminée : [Chasse au dopeul Enutrof.]
+[01:09:50] Vous avez gagné 328 125 points d'expérience.
+[01:09:50] Quête mise à jour : [Un bon gros par dix-huit]
+[01:10:12] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:10:14] Vous avez désappris une attitude : Dofus Turquoise
+[01:10:14] Vous avez désappris une attitude : Dofus Pourpre
+[01:10:14] Ensemble POD plus plus activé.
+[01:10:32] (Alliance) Nephaba : au pire, j'utiliserai le stuff pour éca ou enu x)
+[01:10:48] (Alliance) Nephaba : (enu j'ai sur ce compte mais que 9X)
+[01:10:51] Nouvelle quête : [Chasse au dopeul Zobal.]
+[01:10:55] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:10:55] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:10:55] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:10:55] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:10:55] Ensemble Terre PVMM activé.
+[01:10:57] (Alliance) Cotisation : Ahah faut pl x)
+[01:11:16] 10 secondes ajoutées au prochain tour de jeu.
+[01:11:21] (Alliance) Nephaba : j'ai zozo et panda mais la flemme pour le moment lol
+[01:11:41] Vous avez gagné 284 917 points d'expérience.
+[01:11:41] Quête mise à jour : [Un bon gros par dix-huit]
+[01:11:41] Quête terminée : [Chasse au dopeul Zobal.]
+[01:11:41] Vous avez gagné 328 125 points d'expérience.
+[01:12:20] Vous avez désappris une attitude : Dofus Turquoise
+[01:12:20] Vous avez désappris une attitude : Dofus Pourpre
+[01:12:20] Ensemble POD plus plus activé.
+[01:12:42] (Alliance) Nephaba : tiens, question bête: si panda porte un perso qui a émeraude, c'est le perso porté ou panda qui a boubou?
+[01:13:02] Moyenne pierre d'âme parfaite équipé.
+[01:13:02] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:13:12] (Alliance) Portalisation : Le perso porté
+[01:13:12] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:13:12] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:13:12] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:13:13] Ensemble Terre PVMM activé.
+[01:13:17] (Alliance) Portalisation : C'est pas un sort que tu lance là
+[01:13:29] (Alliance) Nephaba : oki, j'avais pas tenté, c'est pour ça x)
+[01:13:40] L'équipe n'accepte plus de personnages supplémentaires.
+[01:14:17] 5 secondes ajoutées au prochain tour de jeu.
+[01:14:17] Kinex a fait échouer le challenge Barbare.
+[01:15:03] 2 secondes ajoutées au prochain tour de jeu.
+[01:15:16] Vous avez gagné 254 613 points d'expérience.
+[01:17:18] Vous avez désappris une attitude : Dofus Turquoise
+[01:17:18] Vous avez désappris une attitude : Dofus Pourpre
+[01:17:18] Bouclier Volant équipé.
+[01:17:18] Ensemble POD plus plus activé.
+[01:17:53] Nouvelle quête : [Chasse au dopeul Ecaflip.]
+[01:17:54] L'équipe n'accepte plus de personnages supplémentaires.
+[01:18:01] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:18:01] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:18:01] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:18:01] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:18:01] Ensemble Terre PVMM activé.
+[01:18:19] Vous avez récupéré 110 points de vie.
+[01:18:55] 1 seconde ajoutée au prochain tour de jeu.
+[01:19:21] Vous avez gagné 348 231 points d'expérience.
+[01:19:21] Quête mise à jour : [Un bon gros par dix-huit]
+[01:19:21] Quête terminée : [Chasse au dopeul Ecaflip.]
+[01:19:21] Vous avez gagné 328 125 points d'expérience.
+[01:19:30] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:19:32] Vous avez désappris une attitude : Dofus Turquoise
+[01:19:32] Vous avez désappris une attitude : Dofus Pourpre
+[01:19:32] Ensemble POD plus plus activé.
+[01:20:00] Nouvelle quête : [Chasse au dopeul Crâ.]
+[01:20:00] Vous avez récupéré 77 PV.
+[01:20:01] L'équipe n'accepte plus de personnages supplémentaires.
+[01:20:05] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:20:05] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:20:05] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:20:05] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:20:05] Ensemble Terre PVMM activé.
+[01:21:10] 2 secondes ajoutées au prochain tour de jeu.
+[01:21:18] Kinex a fait échouer le challenge Nomade.
+[01:21:18] Vous avez gagné 315 000 points d'expérience.
+[01:21:18] Quête mise à jour : [Un bon gros par dix-huit]
+[01:21:18] Quête terminée : [Chasse au dopeul Crâ.]
+[01:21:18] Vous avez gagné 328 125 points d'expérience.
+[01:21:33] Vous avez désappris une attitude : Dofus Turquoise
+[01:21:33] Vous avez désappris une attitude : Dofus Pourpre
+[01:21:33] Bouclier Volant équipé.
+[01:21:33] Ensemble POD plus plus activé.
+[01:22:09] Nouvelle quête : [Chasse au dopeul Iop.]
+[01:22:10] L'équipe n'accepte plus de personnages supplémentaires.
+[01:22:12] Ensemble POD plus plus activé.
+[01:22:48] Kinex a fait échouer le challenge Zombie.
+[01:23:15] Kinex a fait échouer le challenge Pétulant.
+[01:23:17] Kinex a fait échouer le challenge Pétulant.
+[01:23:17] Kinex a fait échouer le challenge Zombie.
+[01:23:18] Vous avez perdu 2000 points d'énergie.
+[01:23:32] Ensemble POD plus plus activé.
+[01:24:01] Ensemble POD plus plus activé.
+[01:24:08] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:24:08] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:24:08] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:24:08] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:24:08] Ensemble Terre PVMM activé.
+[01:24:46] L'équipe n'accepte plus de personnages supplémentaires.
+[01:25:01] Vous avez récupéré 170 points de vie.
+[01:25:03] Vous avez récupéré 170 points de vie.
+[01:25:05] Vous avez récupéré 170 points de vie.
+[01:25:39] Vous avez gagné 369 336 points d'expérience.
+[01:25:39] Quête mise à jour : [Un bon gros par dix-huit]
+[01:25:39] Quête terminée : [Chasse au dopeul Iop.]
+[01:25:39] Vous avez gagné 328 125 points d'expérience.
+[01:25:51] Vous avez désappris une attitude : Dofus Turquoise
+[01:25:51] Vous avez désappris une attitude : Dofus Pourpre
+[01:25:51] Ensemble POD plus plus activé.
+[01:26:19] [Mystère des tavernes hantées] Un couteau lévite et vient se placer contre votre gorge. Bien qu’il n’y ait personne, une voix se fait entendre. « Qu’est-ce que tu fais là, toi ? T’es un pas un Roublard ! Si t’es là pour ce papier, prends-le et tire-toi ! »
+[01:26:27] Nouvelle quête : [Chasse au dopeul Roublard.]
+[01:26:28] Vous avez récupéré 96 PV.
+[01:26:28] L'équipe n'accepte plus de personnages supplémentaires.
+[01:26:30] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:26:30] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:26:30] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:26:30] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:26:30] Ensemble Terre PVMM activé.
+[01:27:07] Kinex a fait échouer le challenge Pétulant.
+[01:27:23] 9 secondes ajoutées au prochain tour de jeu.
+[01:27:31] Vous avez gagné 263 811 points d'expérience.
+[01:27:31] Quête terminée : [Chasse au dopeul Roublard.]
+[01:27:31] Vous avez gagné 328 125 points d'expérience.
+[01:27:31] Quête mise à jour : [Un bon gros par dix-huit]
+[01:27:39] [Mystère des tavernes hantées] Un couteau lévite et vient se placer contre votre gorge. Bien qu’il n’y ait personne, une voix se fait entendre. « Qu’est-ce que tu fais là, toi ? T’es un pas un Roublard ! Si t’es là pour ce papier, prends-le et tire-toi ! »
+[01:27:50] [Mystère des tavernes hantées] Un couteau lévite et vient se placer contre votre gorge. Bien qu’il n’y ait personne, une voix se fait entendre. « Qu’est-ce que tu fais là, toi ? T’es un pas un Roublard ! Si t’es là pour ce papier, prends-le et tire-toi ! »
+[01:27:54] Vous avez désappris une attitude : Dofus Turquoise
+[01:27:54] Vous avez désappris une attitude : Dofus Pourpre
+[01:27:54] Ensemble POD plus plus activé.
+[01:29:19] Nouvelle quête : [Chasse au Dopeul Eliotrope]
+[01:29:20] L'équipe n'accepte plus de personnages supplémentaires.
+[01:29:45] 7 secondes ajoutées au prochain tour de jeu.
+[01:30:14] 3 secondes ajoutées au prochain tour de jeu.
+[01:30:16] Vous avez perdu 2000 points d'énergie.
+[01:30:35] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:30:35] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:30:35] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:30:35] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:30:35] Ensemble Terre PVMM activé.
+[01:30:39] Vous avez désappris une attitude : Dofus Turquoise
+[01:30:39] Vous avez désappris une attitude : Dofus Pourpre
+[01:30:39] Ensemble POD plus plus activé.
+[01:31:01] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:31:01] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:31:01] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:31:01] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:31:01] Ensemble Terre PVMM activé.
+[01:31:07] L'équipe n'accepte plus de personnages supplémentaires.
+[01:31:37] Vous avez gagné 433 124 points d'expérience.
+[01:31:37] Quête mise à jour : [Un bon gros par dix-huit]
+[01:31:37] Quête terminée : [Chasse au Dopeul Eliotrope]
+[01:31:38] Vous avez gagné 328 125 points d'expérience.
+[01:31:51] Vous avez désappris une attitude : Dofus Turquoise
+[01:31:51] Vous avez désappris une attitude : Dofus Pourpre
+[01:31:51] Bouclier Volant équipé.
+[01:31:52] Ensemble POD plus plus activé.
+[01:32:28] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:32:28] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:32:28] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:32:28] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:32:28] Ensemble Terre PVMM activé.
+[01:32:31] L'équipe n'accepte plus de personnages supplémentaires.
+[01:32:46] 12 secondes ajoutées au prochain tour de jeu.
+[01:33:06] 12 secondes ajoutées au prochain tour de jeu.
+[01:33:26] Vous avez gagné 303 points d'expérience.
+[01:33:41] Nouvelle quête : [Chasse au dopeul Pandawa.]
+[01:33:42] L'équipe n'accepte plus de personnages supplémentaires.
+[01:34:16] 7 secondes ajoutées au prochain tour de jeu.
+[01:34:33] Vous avez gagné 422 098 points d'expérience.
+[01:34:33] Quête terminée : [Chasse au dopeul Pandawa.]
+[01:34:33] Vous avez gagné 328 125 points d'expérience.
+[01:34:33] Quête mise à jour : [Un bon gros par dix-huit]
+[01:37:06] Nouvelle quête : [Chasse au dopeul Féca.]
+[01:37:07] L'équipe n'accepte plus de personnages supplémentaires.
+[01:37:34] 7 secondes ajoutées au prochain tour de jeu.
+[01:38:23] Vous avez gagné 461 671 points d'expérience.
+[01:38:23] Quête terminée : [Chasse au dopeul Féca.]
+[01:38:23] Vous avez gagné 328 125 points d'expérience.
+[01:38:23] Quête mise à jour : [Un bon gros par dix-huit]
+[01:39:07] Nouvelle quête : [Chasse au Dopeul Ouginak]
+[01:39:08] L'équipe n'accepte plus de personnages supplémentaires.
+[01:39:43] Vous avez gagné 369 336 points d'expérience.
+[01:39:43] Quête terminée : [Chasse au Dopeul Ouginak]
+[01:39:43] Vous avez gagné 328 125 points d'expérience.
+[01:39:43] Quête mise à jour : [Un bon gros par dix-huit]
+[01:40:36] Nouvelle quête : [Chasse au Dopeul Steamer]
+[01:40:37] L'équipe n'accepte plus de personnages supplémentaires.
+[01:41:30] Terminez votre tour avec le bouton [Fin de tour].
+[01:42:04] Un percepteur de la guilde Histoire est attaqué dans Désolation de Sidimote en [-20,26].
+[01:42:19] 2 secondes ajoutées au prochain tour de jeu.
+[01:42:26] (Alliance) Briox : personne ?^^
+[01:42:46] 4 secondes ajoutées au prochain tour de jeu.
+[01:43:07] Vous avez gagné 461 671 points d'expérience.
+[01:43:07] Quête mise à jour : [Un bon gros par dix-huit]
+[01:43:07] Quête terminée : [Chasse au Dopeul Steamer]
+[01:43:07] Vous avez gagné 328 125 points d'expérience.
+[01:43:18] (Alliance) Micaeli : dsl en koli
+[01:43:28] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:43:35] Vous avez désappris une attitude : Dofus Turquoise
+[01:43:35] Vous avez désappris une attitude : Dofus Pourpre
+[01:43:35] Ensemble POD plus plus activé.
+[01:43:44] (Alliance) Briox : ca ira je pense ducoup x)
+[01:43:59] Votre familier ne peut vous suivre tant que vous êtes sur votre monture...
+[01:45:19] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:45:19] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:45:19] Inventaire plein. Vous ne pourrez plus courir ou obtenir de nouveaux objets, à moins de faire de la place.
+[01:45:19] Ensemble Terre PVMM activé.
+[01:45:57] Échange effectué
+[01:46:06] Vous avez désappris une attitude : Dofus Turquoise
+[01:46:06] Vous avez désappris une attitude : Dofus Pourpre
+[01:46:07] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[01:46:07] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[01:46:07] Ensemble Terre PVMM activé.
+[01:46:37] Le percepteur de la guilde Histoire attaqué en [-20,26] a survécu !
+[01:47:32] Nouvelle quête : [Chasse au dopeul Sadida.]
+[01:47:32] L'équipe n'accepte plus de personnages supplémentaires.
+[01:47:52] Kinex a fait échouer le challenge Versatile.
+[01:47:53] Vous avez gagné 316 573 points d'expérience.
+[01:47:53] Quête terminée : [Chasse au dopeul Sadida.]
+[01:47:53] Vous avez gagné 328 125 points d'expérience.
+[01:47:53] Quête mise à jour : [Un bon gros par dix-huit]
+[01:48:17] Nouvelle quête : [Chasse au dopeul Eniripsa.]
+[01:48:18] L'équipe n'accepte plus de personnages supplémentaires.
+[01:49:18] Kinex a fait échouer le challenge Versatile.
+[01:49:25] (Alliance) Briox : les gars ? c'est quoi l'meilleur element pour sadi pvm ?^^
+[01:49:39] Vous avez gagné 316 573 points d'expérience.
+[01:49:39] Quête mise à jour : [Un bon gros par dix-huit]
+[01:49:39] Quête terminée : [Chasse au dopeul Eniripsa.]
+[01:49:39] Vous avez gagné 328 125 points d'expérience.
+[01:50:36] (Alliance) --sram-sympa-- : oulah
+[01:50:37] Nouvelle quête : [Chasse au dopeul Osamodas.]
+[01:50:38] L'équipe n'accepte plus de personnages supplémentaires.
+[01:50:45] (Alliance) --sram-sympa-- : je la jouais full terre ma sadi
+[01:51:03] 6 secondes ajoutées au prochain tour de jeu.
+[01:51:05] (Alliance) Briox : c'est full bourrin full terre nn ?
+[01:51:16] Vous avez gagné 369 336 points d'expérience.
+[01:51:16] Quête terminée : [Un bon gros par dix-huit]
+[01:51:16] Vous avez gagné 1 312 500 points d'expérience.
+[01:51:16] Quête terminée : [Chasse au dopeul Osamodas.]
+[01:51:16] Vous avez gagné 328 125 points d'expérience.
+[01:52:23] Vous avez perdu 230 kamas.
+[01:59:26] Pour des raisons de maintenances, le serveur va être redémarré dans environ 6 heures.
+[01:59:28] Un percepteur de la guilde Yume No Hana est attaqué dans Cimetière des Mastodontes en [19,-61].
+[02:00:29] (Alliance) Kinex : hh/invite *KaBroK
+[02:00:41] Kinex souhaite téléporter tout le groupe devant : Épreuve de Draegnerys.
+[02:00:46] Vous avez désappris une attitude : Dofus Turquoise
+[02:00:46] Vous avez désappris une attitude : Dofus Pourpre
+[02:00:46] Vous connaissez une nouvelle attitude : Dofus Pourpre
+[02:00:46] Vous connaissez une nouvelle attitude : Dofus Turquoise
+[02:00:46] Ensemble Terre PVMM activé.
+[02:00:47] Arc du Chalœil équipé.
+[02:00:50] Impossible d'utiliser un point de rencontre pendant 5 minute(s).
+[02:01:28] Vous avez perdu 220 kamas.
+[02:01:35] Vous avez perdu 20 kamas.
+[02:01:59] Vous avez perdu 20 kamas.
+[02:02:04] Le percepteur de la guilde Yume No Hana attaqué en [19,-61] n'a pas survécu !
+[02:02:19] Vous avez payé 827 kamas pour accéder à ce coffre.
+[02:04:45] Vous avez perdu 20 kamas.
+[02:05:09] Vous avez créé 10 × [Clef de l'Épreuve de Draegnerys] !
+[02:05:19] Vous avez perdu 20 kamas.
+[02:05:31] 1 x [Poudre explosive de Gourlo] (7 792 kamas)
+[02:05:31] 1 x [Poudre explosive de Gourlo] (7 792 kamas)
+[02:05:32] 1 x [Poudre explosive de Gourlo] (7 792 kamas)
+[02:05:33] 1 x [Poudre explosive de Gourlo] (7 792 kamas)
+[02:05:33] 1 x [Poudre explosive de Gourlo] (7 792 kamas)
+[02:05:34] 1 x [Poudre explosive de Gourlo] (7 792 kamas)
+[02:05:36] 1 x [Poudre explosive de Gourlo] (7 795 kamas)
+[02:05:43] 1 x [Poudre explosive de Gourlo] (7 796 kamas)
+[02:05:44] 1 x [Poudre explosive de Gourlo] (7 797 kamas)
+[02:05:45] 1 x [Poudre explosive de Gourlo] (7 797 kamas)
+[02:05:45] 1 x [Poudre explosive de Gourlo] (7 797 kamas)
+[02:05:46] 1 x [Poudre explosive de Gourlo] (7 797 kamas)
+[02:05:47] 1 x [Poudre explosive de Gourlo] (7 797 kamas)
+[02:05:47] 1 x [Poudre explosive de Gourlo] (7 798 kamas)
+[02:05:48] 1 x [Poudre explosive de Gourlo] (7 798 kamas)
+[02:05:49] 1 x [Poudre explosive de Gourlo] (7 799 kamas)
+[02:05:50] 1 x [Poudre explosive de Gourlo] (7 799 kamas)
+[02:05:50] 1 x [Poudre explosive de Gourlo] (7 799 kamas)
+[02:05:50] 1 x [Poudre explosive de Gourlo] (7 799 kamas)
+[02:05:51] 1 x [Poudre explosive de Gourlo] (7 799 kamas)
+[02:05:55] 1 x [Poudre explosive de Gourlo] (7 800 kamas)
+[02:06:04] Vous avez perdu 20 kamas.
+[02:06:12] Vous avez payé 827 kamas pour accéder à ce coffre.
+[02:06:13] Miowi-Magus souhaite téléporter tout le groupe devant : Épreuve de Draegnerys.
+[02:06:34] Vous avez perdu 20 kamas.
+[02:06:49] 1 x [Poudre explosive de Gourlo] (7 800 kamas)
+[02:06:50] 1 x [Poudre explosive de Gourlo] (7 998 kamas)
+[02:06:51] 1 x [Poudre explosive de Gourlo] (7 998 kamas)
+[02:06:52] 1 x [Poudre explosive de Gourlo] (7 999 kamas)
+[02:06:52] 1 x [Poudre explosive de Gourlo] (7 999 kamas)
+[02:06:53] 1 x [Poudre explosive de Gourlo] (8 000 kamas)
+[02:06:53] 1 x [Poudre explosive de Gourlo] (8 000 kamas)
+[02:06:54] 1 x [Poudre explosive de Gourlo] (8 000 kamas)
+[02:06:54] 1 x [Poudre explosive de Gourlo] (8 000 kamas)
+[02:06:55] 1 x [Poudre explosive de Gourlo] (8 000 kamas)
+[02:06:55] 1 x [Poudre explosive de Gourlo] (9 995 kamas)
+[02:06:57] 1 x [Poudre explosive de Gourlo] (9 996 kamas)
+[02:06:58] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[02:06:59] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[02:06:59] 1 x [Poudre explosive de Gourlo] (9 997 kamas)
+[02:07:01] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:03] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:03] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:04] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:04] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:05] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:05] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:06] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:07] 1 x [Poudre explosive de Gourlo] (9 998 kamas)
+[02:07:09] 1 x [Poudre explosive de Gourlo] (9 999 kamas)
+[02:07:13] 10 x [Poudre explosive de Gourlo] (99 997 kamas)
+[02:07:15] 10 x [Poudre explosive de Gourlo] (99 998 kamas)
+[02:07:17] 10 x [Poudre explosive de Gourlo] (99 999 kamas)
+[02:07:20] 1 x [Poudre explosive de Gourlo] (9 999 kamas)
