@@ -8,6 +8,11 @@
 </head>
 
 <body>
+
+  <input id="Refresh" type="button" onclick="location.href='https://google.com';" value="Go to Google" />
+  
+  <input id="logBank" type="button" onclick="logBank()" value="Log Banque" />
+
   <form name="uploadForm">
     <div>
       <input id="chatFileUploadInput" type="file" name="myFiles" multiple>
@@ -22,6 +27,10 @@
 
   </form>
 
+  <script src="js/bank.model.js"></script>
+  <script src="js/parser.js"></script>
+  <script src="js/content.html.js"></script>
+  <script src="js/ressource.model.js"></script>
   <script src="js/fileReader.js"></script>
 </body>
 
