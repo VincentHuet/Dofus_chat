@@ -1,54 +1,59 @@
 function parseLine(lines, currentFile, bank) {
 
-    
-/* 
-    [19:09:21] 10 x [Soie Baveuse] (9 746 kamas)
-    [18:28:23] Banque : + 147 948 Kamas (vente : 10 [Laine de Tengu Givrefoux]).
-    [23:17:25] Vous avez obtenu 50 '[Bois de Bombu]'.
-*/
-    // TODO - const regex = /x \[/gi
-    const regex = /\[[0-9]{2}:[0-9]{2}:[0-9]{2}\]\s.*\[.*\]/gi
-    // Formatage : 
-    // Regexp : \[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sVous avez obtenu\s([0-9]{1,5})\s\'\[(.*)\]\'\.
-    // Replace Pattern : \tNom\t:\t$5\n\tTime \t:\t$1h$2m$3s\n\tQte\t:\t$4 
 
-    let filteredLines = lines.filter(l => l.match(regex));
+    let regexList = [
+                    /\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\s(.{1,3})x\s[(.*)]\s\((.*)\skamas\)/gi,
+                    /\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sBanque\s:\s\+\s(.*)\sKamas\s\(vente\s:\s(.{1,3})\s\[(.*)\]\)/gi
+                    ];
 
-    if (filteredLines && filteredLines.length > 0) {
-        let contentDiv = document.querySelector("#listFiles");
+    console.log(regexList);
 
-        if(contentDiv){
+    regexList.forEach((regex) => {
 
-            let fileElem = initFileKeptLineContainer(currentFile)
+        console.log('Regexp : ', regex);
 
-            filteredLines.forEach((line) => {
+        let filteredLines = lines.filter(l => l.match(regex));
 
-                console.log(line);
+        console.log('Regexp : ', regex);
 
-                let objectRessources = lineToItem(line);
+        if (filteredLines && filteredLines.length > 0) {
+            let contentDiv = document.querySelector("#listFiles");
 
-                addLineItemToContentHtml(fileElem, line, objectRessources);
+            if (contentDiv) {
 
-                addToDataBase(bank, objectRessources);
-            });
+                let fileElem = initFileKeptLineContainer(currentFile)
 
-            contentDiv.appendChild(fileElem);
+                filteredLines.forEach((line) => {
+
+                    console.log(line);
+
+                    let regexp = /\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sVous avez obtenu\s([0-9]{1,5})\s\'\[(.*)\]\'\./;
+
+                    let objectRessources = lineToItem(line, regexp);
+
+                    addLineItemToContentHtml(fileElem, line, objectRessources);
+
+                    addToDataBase(bank, objectRessources);
+                });
+
+                contentDiv.appendChild(fileElem);
+            }
         }
-    }
+    });
 }
 
-function lineToItem(line) {
+function lineToItem(line, regexp) {
 
     let item = {};
 
-    var test = line.match(/\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sVous avez obtenu\s([0-9]{1,5})\s\'\[(.*)\]\'\./);
+    var test = line.match(regexp);
 
     // Check conteneur
-    if(test != undefined && test ) {
+    if (test != undefined && test) {
         console.log(test);
 
         item = createRessourceObject(test[4], test[5], test[1], test[2], test[3], 0);
     }
-    
+
     return item;
 }
