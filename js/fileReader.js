@@ -1,5 +1,5 @@
 // var bank = new Map();
-var bank = {};
+var bank = [];
 
 document.addEventListener("DOMContentLoaded", () => {
 
