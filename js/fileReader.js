@@ -1,13 +1,7 @@
-
+// var bank = new Map();
 var bank = {};
 
-function logBank(){
-    console.log(bank);
-}
-
 document.addEventListener("DOMContentLoaded", () => {
-
-
 
     function fileReader(oFiles, nFiles, nBytes) {
         for (let nFileId = 0; nFileId < nFiles; nFileId++) {
@@ -24,6 +18,8 @@ document.addEventListener("DOMContentLoaded", () => {
                     let lines = ct.split('\n');
 
                     parseLine(lines, currentFile, bank);
+
+                    updateBankValues();
                 };
                 reader.readAsText(currentFile);
             } else {
