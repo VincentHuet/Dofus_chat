@@ -12,7 +12,6 @@
   <input id="Refresh" type="button" onclick="location.href='./index.html';" value="Acceuil" />
   
   <input id="logBank" type="button" onclick="logBank()" value="Log Banque" />
-  <input id="logBank" type="button" onclick="logConsumables()" value="Log Consumables" />
 
   <form name="uploadForm">
     <div>
@@ -20,23 +19,22 @@
       selected files: <span id="fileNum">0</span>;
       total size: <span id="fileSize">0</span>
     </div>
-    
-    <div id="curve_chart" ></div>
 
-    <div id="chart_div" ></div>
+    <div id="listFiles">
 
-    <div id="listFiles"></div>
+    </div>
+
+
   </form>
 
-  <script src="js/loader.js"></script>
+  <script src="js/model/recipe.js"></script>
+  <script src="js/model/item.js"></script>
   <script src="js/bank.model.js"></script>
   <script src="js/parser.js"></script>
   <script src="js/content.html.js"></script>
   <script src="js/ressource.model.js"></script>
   <script src="js/fileReader.js"></script>
-  <script src="js/chartManager.js"></script>
-  <script src="js/utils.js"></script>
-  <!--<script src="js/fileManager.js"></script>-->
+  <script src="js/fileManager.js"></script>
 </body>
 
 </html>

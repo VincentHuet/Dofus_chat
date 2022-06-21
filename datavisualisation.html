@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>File(s) size</title>
+  <link href="styles/styles.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <input id="Refresh" type="button" onclick="location.href='./index.html';" value="Acceuil" />
+  
+  <input id="logBank" type="button" onclick="loadTestData()" value="Charger les données de test" />
+  <input id="logBank" type="button" onclick="drawChatStatsVisualization()" value="Dessiner les Visualizations" />
+
+  <div id="data_test_div" ></div>
+  <div id="chart_div" ></div>
+  <div id="curve_chart" ></div>
+
+  <script src="js/loader.js"></script>
+  <script src="js/chartManager.js"></script>
+  <script src="js/utils.js"></script>
+  <script src="js/converters.js"></script>
+  <!--<script src="js/fileManager.js"></script>-->
+</body>
+
+</html>
