@@ -1,13 +1,7 @@
-
-var bank = {};
-
-function logBank(){
-    console.log(bank);
-}
+// var bank = new Map();
+var bank = [];
 
 document.addEventListener("DOMContentLoaded", () => {
-
-
 
     function fileReader(oFiles, nFiles, nBytes) {
         for (let nFileId = 0; nFileId < nFiles; nFileId++) {
@@ -24,12 +18,15 @@ document.addEventListener("DOMContentLoaded", () => {
                     let lines = ct.split('\n');
 
                     parseLine(lines, currentFile, bank);
+
+                    updateBankValues();
                 };
                 reader.readAsText(currentFile);
             } else {
                 alert("Failed to load file");
             }
         }
+
     }
 
     // code
@@ -50,6 +47,7 @@ document.addEventListener("DOMContentLoaded", () => {
         document.querySelector("#fileNum").innerHTML = nFiles;
         document.querySelector("#fileSize").innerHTML = sOutput;
     }
+    
     let uploadInput = document.querySelector("#chatFileUploadInput");
 
     if (uploadInput) {

@@ -1,54 +1,67 @@
 function parseLine(lines, currentFile, bank) {
 
+    let fileName = currentFile.name;
     
-/* 
-    [19:09:21] 10 x [Soie Baveuse] (9 746 kamas)
-    [18:28:23] Banque : + 147 948 Kamas (vente : 10 [Laine de Tengu Givrefoux]).
-    [23:17:25] Vous avez obtenu 50 '[Bois de Bombu]'.
-*/
-    // TODO - const regex = /x \[/gi
-    const regex = /\[[0-9]{2}:[0-9]{2}:[0-9]{2}\]\s.*\[.*\]/gi
-    // Formatage : 
-    // Regexp : \[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sVous avez obtenu\s([0-9]{1,5})\s\'\[(.*)\]\'\.
-    // Replace Pattern : \tNom\t:\t$5\n\tTime \t:\t$1h$2m$3s\n\tQte\t:\t$4 
+    let date = fileName.match(/dofus_chat-([0-9]{2})-([0-9]{2})-([0-9]{4}).*.txt/);
+    let dateFichier = new Date(date[3],date[2],date[1]);
+    let dateAsString = dateFichier.toJSON().substring(0, 10);
 
-    let filteredLines = lines.filter(l => l.match(regex));
+    console.log(    "Date du fichier : ", fileName); 
+    // console.log(    "Date du fichier toDateString : ", dateFichier.toJSON().substring(0, 10));
 
-    if (filteredLines && filteredLines.length > 0) {
-        let contentDiv = document.querySelector("#listFiles");
+    let regexList = [
+                        {
+                            "nom" : "achat",
+                            "filtre" : /\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\s(.{1,3})x\s[(.*)]\s\((.*)\skamas\)/gi,
+                            "capture" : /\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\s(.{1,3})x\s[(.*)]\s\((.*)\skamas\)/
+                        },
+                        {
+                            "nom" : "vente",
+                            "filtre" : /\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sBanque\s:\s\+\s(.*)\sKamas\s\(vente\s:\s(.{1,3})\s\[(.*)\]\).*/gi,
+                            "capture" : /\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sBanque\s:\s\+\s(.*)\s(.{1,3})\sKamas\s\(vente\s:\s(.{1,3})\s\[(.*)\]\).*/
+                            ///\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sBanque\s:\s\+\s(.*)\sKamas\s\(vente\s:\s(.{1,3})\s\[(.*)\]\).*/gi
+                        }
+                    ];
 
-        if(contentDiv){
+    console.log(regexList);
 
-            let fileElem = initFileKeptLineContainer(currentFile)
+    regexList.forEach((regex) => {
 
-            filteredLines.forEach((line) => {
+        let filteredLines = lines.filter(l => l.match(regex.filtre));
 
-                console.log(line);
+        if (filteredLines && filteredLines.length > 0) {
+            let contentDiv = document.querySelector("#listFiles");
 
-                let objectRessources = lineToItem(line);
+            if (contentDiv) {
 
-                addLineItemToContentHtml(fileElem, line, objectRessources);
+                let fileElem = initFileKeptLineContainer(fileName);
+                
+                filteredLines.forEach((line) => {
 
-                addToDataBase(bank, objectRessources);
-            });
+                    let objectRessources = lineToItem(line, regex.capture, dateFichier);
 
-            contentDiv.appendChild(fileElem);
+                    objectRessources.dateAsString = dateAsString;
+                    
+                    addLineItemToContentHtml(fileElem, line, objectRessources);
+
+                    addToDataBase(bank, objectRessources);
+                });
+
+                contentDiv.appendChild(fileElem);
+            }
         }
-    }
+    });
 }
 
-function lineToItem(line) {
+function lineToItem(line, regexp, date) {
 
     let item = {};
-
-    var test = line.match(/\[([0-9]{2}):([0-9]{2}):([0-9]{2})\]\sVous avez obtenu\s([0-9]{1,5})\s\'\[(.*)\]\'\./);
+    var test = line.match(regexp);
 
     // Check conteneur
-    if(test != undefined && test ) {
-        console.log(test);
-
-        item = createRessourceObject(test[4], test[5], test[1], test[2], test[3], 0);
+    if (test != undefined && test) {
+        item = createRessourceObject(test[6], test[7], test[1], test[2], test[3], test[4].concat(test[5]), date);
     }
-    
+
     return item;
 }
