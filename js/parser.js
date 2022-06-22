@@ -2,7 +2,7 @@ function parseLine(lines, currentFile, bank) {
 
     let fileName = currentFile.name;
     
-    let date = fileName.match(/dofus_chat-([0-9]{2})-([0-9]{2})-([0-9]{4}).*.txt/);
+    let date = fileName.match(/.*chat-([0-9]{2})-([0-9]{2})-([0-9]{4}).*\.txt/);
     let dateFichier = new Date(date[3],date[2],date[1]);
     let dateAsString = dateFichier.toJSON().substring(0, 10);
 
